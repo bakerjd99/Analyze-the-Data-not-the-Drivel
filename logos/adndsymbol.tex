@@ -1,0 +1,31 @@
+% process with LuaLaTeX file encoding is utf8
+
+\documentclass[12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+\setmonofont{Courier New Bold}
+
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+
+\begin{document}
+
+% unicode oriented ttf font 
+%\setmainfont{IranNastaliq}
+
+% ADND blog symbol - arabic/farsi text must end
+% the line or the editor will break your parentheses
+\Huge
+
+$$ \textrm{\textcolor{Red}{ن
+}}^2
+\textrm{\textcolor{Green}{د
+}}
+\textrm{\textcolor{Blue}{ا
+}}
+$$ 
+
+\normalsize
+
+\end{document}

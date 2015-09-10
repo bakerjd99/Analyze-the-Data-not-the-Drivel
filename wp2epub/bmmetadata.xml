@@ -1,0 +1,13 @@
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" /> 
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" /> 
+<meta name="DC.title" lang="EN" content="Analyze the Data not the Drivel." /> 
+<meta name="DC.creator" content="John D. Baker" /> 
+<meta name="DC.subject" lang="EN" content="blog" /> 
+<meta name="DC.description" lang="EN" content="personal blog" /> 
+<meta name="DC.date" content="2009,2010,2012,2013" /> 
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" /> 
+<meta name="DC.format" content="text/html; charset=UTF-8" /> 
+<meta name="DC.format" content="91147 bytes" /> 
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://bakerjd99.wordpress.com" /> 
+<meta name="DC.language" scheme="DCTERMS.RFC1766" content="EN" /> 
+<meta name="DC.rights" content="All rights reserved" /> 

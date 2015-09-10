@@ -1,0 +1,159 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2012/12/03/jhs-with-the-dhtmlx-grid/}{JHS with the DHTMLX Grid}}
+\addcontentsline{toc}{subsection}{JHS with the DHTMLX Grid}
+
+
+\noindent\emph{Posted: 04 Dec 2012 05:27:15}
+\vspace{6pt}
+
+Grids are the most important GUI user object. It's hard to think of a
+user-friendly data munching application that doesn't have a grid beating
+at its heart. Consequently, any serious \emph{GUI interface contender}
+must support grids. My
+\href{http://bakerjd99.wordpress.com/2012/11/25/jhs-meets-mathjax/}{previous
+post} showed how to use \href{http://www.mathjax.org/}{MathJax} with
+\href{http://www.jsoftware.com/jwiki/NYCJUG/2011-02-08/HelloWorldInJHS}{JHS}.
+MathJax is an impressive and important JavaScript library; it clearly
+demonstrates the potential of CHJ\footnote{
+ CSS, HTML and JavaScript.
+} GUI
+interfaces but let's face it, mathematical typesetting will not win many
+consulting contracts. Grids won't seal the deal either but their
+\emph{absence} is a huge ``next'' signal. To support serious business
+and technical applications JHS needs grids.
+
+Fortunately, the JavaScript world is
+\href{http://www.hotscripts.com/blog/15-javascript-data-grids-enhance-html-tables/}{grid
+saturated}. The difficulty is not finding a grid but choosing among
+dozens of candidates. For this demo I Googled around and found
+\href{http://dhtmlx.com/docs/products/dhtmlxGrid/}{DHTMLX}. According to
+this \href{http://www.dhtmlx.com/blog/?p=1525}{probably biased article}
+the DHTMLX grid performs well on large inputs and, more importantly,
+there is an
+\href{http://www.dhtmlx.com/docs/products/dhtmlxGrid/license.shtml?gpl}{open
+source} version.
+
+You have to start somewhere so I opted to use DHTMLX to build a simple
+CSV file editor. The CSV files I am going to edit are \texttt{TAB}
+delimited text files. Each file has a fixed number of columns with
+column names in the first row. Here is
+\href{https://www.box.com/s/0sm9bjgclnqu0czlpal6}{an example} \texttt{TAB}
+delimited file. The idea is to load the file data into the grid. Tweak a
+few rows and save the result. By increasing the size of the CSV file we
+can gauge the performance of the grid. Let's get started.
+
+Using the DHTMLX grid requires some preparation.
+
+\begin{enumerate}
+\item
+  Create a local directory and edit J's
+  \texttt{\textasciitilde{}config/folders.cfg} to reference the
+  directory with the name \texttt{GridDemo}.
+  \texttt{jpath '\textasciitilde{}GridDemo'} should return the full
+  directory path.
+\item
+  Download the files in the
+  \href{https://www.box.com/s/n7ty82nv6nslia4drphs}{GridDemo} folder and
+  copy them to \texttt{\textasciitilde{}GridDemo}.
+\item
+  Download the Standard Edition (Version 3.5) of
+  \href{http://dhtmlx.com/docs/products/dhtmlxGrid/index.shtml}{DHTMLX}.
+  The distribution file \texttt{dhtmlxGrid.zip} contains the grid source
+  and supporting files.
+\item
+  Extract the \texttt{/dhtmlxGrid/codebase/} directory from
+  \texttt{dhtmlxGrid.zip} and copy the entire directory tree to
+  \texttt{\textasciitilde{}GridDemo}.
+\item
+  Also extract \texttt{/dhtmlxGrid/samples/common} from
+  \texttt{dhtmlxGrid.zip} and copy the directory to
+  \texttt{\textasciitilde{}GridDemo}.
+\end{enumerate}
+
+When you're finished the top-level of \texttt{\textasciitilde{}GridDemo}
+will look like the following where names without extensions are
+directories.
+
+\begin{verbatim}
+calendar           dhtmlxgrid.js         GridDemo.ijs   t100rows.txt
+common             dhtmlxgrid_skins.css  imgs           t5000rows.txt
+dhtmlxcommon.js    excells               jodoval.png
+dhtmlxgridcell.js  ext                   skins
+dhtmlxgrid.css     favicon.ico           t1000rows.txt
+\end{verbatim}
+
+\noindent The main J script is
+\texttt{\textasciitilde{}GridDemo\textbackslash{}GridDemo.ijs}. Start
+JHS and load this file.
+
+\begin{verbatim}
+    load '~GridDemo/GridDemo.ijs'
+\end{verbatim}
+
+\noindent Then browse to this site.
+
+\begin{verbatim}
+    http://127.0.0.1:65001/GridDemo
+\end{verbatim}
+
+\noindent If all goes well you will see the following \texttt{GridDemo} page after
+pressing the \texttt{Edit Grid} button.
+
+
+%{[}caption id=``attachment\_3490'' align=``aligncenter''  width=``504''{]}
+%\href{http://bakerjd99.wordpress.com/2012/12/03/jhs-with-the-dhtmlx-grid/griddemoscreen/}{\includegraphics{griddemoscreen.png}}
+%Screenshot of GridDemo running on Chrome
+%{[}/caption{]}
+
+\captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+\href{http://bakerjd99.wordpress.com/2012/12/03/jhs-with-the-dhtmlx-grid/griddemoscreen/}{\includegraphics[width=0.45\textwidth]{griddemoscreen.png}}
+\caption{Screenshot of GridDemo running on Chrome}
+\label{fig:3467X0}
+\end{figure}
+
+
+To load and edit files enter their fully qualified names in the
+\texttt{Input} and \texttt{Output} boxes and press \texttt{Edit Grid}.
+To edit a cell double-click it. To save changes press
+\texttt{Save Grid.}\footnote{
+ The freebie version of DHTMLX does not support grid serialization.
+  \href{http://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/}{Here
+  is how to roll your own}.
+} There are more
+sophisticated ways to pick files on JavaScript pages. It's easy to pop
+up standard host OS file dialogs but it's not particularly easy to
+determine host directory paths.
+\href{http://robertnyman.com/2010/12/16/utilizing-the-html5-file-api-to-choose-upload-preview-and-see-progress-for-multiple-files/}{This
+post} outlines the demons web programmers must slay to select host
+files. JHS circumvents these difficulties by asking the J server, which
+is a typically a \emph{local console process}, to do the dirty work.
+JavaScript's access to local files is limited for security reasons but J
+has no such restrictions.
+\href{http://www.youtube.com/watch?v=-fSj6LxsZes}{Use the force Luke!}
+
+Three test files \texttt{t100rows.txt}, \texttt{t1000rows.txt}, and
+\texttt{t5000rows.txt} are included with the demo. On my test machines
+load times vary from fractions of a second for the smaller files to nine
+seconds for the largest. This is competitive with the basic \texttt{C\#}
+grid control and fast enough for serious work.
+
+In subsequent posts I will explore JavaScript/JHS graphics options and
+start the process of integrating, grids, graphs and MathJax with JHS.
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{griddemoscreen.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:3467X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

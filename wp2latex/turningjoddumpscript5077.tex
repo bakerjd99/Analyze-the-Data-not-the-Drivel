@@ -1,0 +1,264 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{https://bakerjd99.wordpress.com/2015/07/04/turning-jod-dump-script-tricks/}{Turning JOD Dump Script Tricks}}
+\addcontentsline{toc}{subsection}{Turning JOD Dump Script Tricks}
+
+
+\noindent\emph{Posted: 04 Jul 2015 20:32:40}
+\vspace{6pt}
+
+\emph{Have you ever wondered how extremely prolific bloggers do it? How
+is it possible to crank out thousands of blog entries per year without
+creating a giant stinking pile of mediocre doo-doo? Like most deep
+medium mysteries it's not very deep and there are no mysteries. The
+spewers, people who post like teenage girls tweet, use two basic
+strategies:}
+
+\begin{enumerate}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  \emph{\textbf{Multiple authors:} The heroic image of the lone blogger
+  waging holy war against a sea of Internet idiocy is largely a myth.
+  Many popular prolific blogs are the work of many hands. The editor at
+  \href{https://bakerjd99.wordpress.com/}{Analyze the Data not the
+  Drivel} eschews this tactic. Apparently he's an incontinent and
+  argumentative prima donna that sane people steer clear of.}
+\item
+  \emph{\textbf{Content recycling:} In elementary school this was called
+  copying. Now that we're all grown up we use terms like,
+  ``excerpting'', ``abstracting'', and my favorite ``re-purposing.'' The
+  basic idea is simple. Take something you've written elsewhere and
+  repackage it as something new. Hey, all the cool kids are doing it!}
+\end{enumerate}
+
+\emph{The following is a slightly edited new appendix I have just added
+to the JOD manual. I am working to properly publish the
+\href{https://app.box.com/shared/gajfu50gc0}{JOD manual} mostly so I can
+say that I've written a legitimate, albeit strange and queer, book.}
+
+\emph{I created this post by running the} $\LaTeX$ \emph{code of the
+manual appendix through the excellent utility
+\href{http://pandoc.org/}{pandoc}, tweaking the resulting
+\href{http://daringfireball.net/projects/markdown/syntax}{markdown}, and
+then using pandoc again to generate html for this blog. pandoc is a
+great ``re-purposing'' tool!}
+
+\emph{Finally, re-purposing is not entirely cynical. The act of moving
+material from one medium to another exposes problems. I found a few
+editing errors while creating this post that eluded my}~$\LaTeX$
+\emph{eyes. If you find more this is your chance to tell me what a moron
+I am.}
+
+%\subsection*{Turning JOD Dump Script Tricks}
+\begin{center}\rule{3in}{0.4pt}\end{center}
+
+Dump script generation is my favorite JOD feature. Dump scripts
+serialize JOD dictionaries; they are mainly used to back up dictionaries
+and interact with version control systems. However, dump scripts are
+general J scripts and can do much more! Maintaining a stable of healthy
+JOD dictionaries is easier if you can turn a few dump script
+tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
+  tricks'' may be construed as a
+  \href{http://thefederalist.com/2015/03/24/microaggressions-and-trigger-warnings-meet-real-trauma/}{\emph{microaggression}}.
+  The point of colored language is to memorably make a point. You are
+  unlikely to forget \emph{turning dump script tricks.}
+}
+%\hyperref[fn1]{\textsuperscript{1}}
+
+\begin{enumerate}
+\item
+  \textbf{Flattening reference paths:} Open JOD dictionaries define a
+  \emph{reference path.} For example, if you open the following
+  dictionaries:
+  
+% pipe characters | are a pain in lstlisting environments you must
+% carefully escape them with a character that does appear in the verbatim text
+% even when escaped with convolutions like:
+%
+% *\verb!!!*smugdev*\verb!!!*smug*\verb!!!*image*\verb!!!*utils*\verb!!!*
+%
+% The font selected by the interior \verb!!! does not match the outer font
+% in all cases and things don't line up. My solution is to replace | with !
+% until I can come up with a better way to display J boxes with general fonts
+%
+%\begin{lstlisting}[language=jdoc,escapechar=*,frame=single,framerule=0pt,label=lst:scr5077X1]
+
+\begin{lstlisting}[language=jdoc,escapechar=*,frame=single,framerule=0pt,label=lst:scr5077X1]
+   NB. open four dictionaries   
+   od ;:'smugdev smug image utils'
++-+-----------------------+-------+----+-----+-----+
+!1!opened (ro/ro/ro/ro) ->!smugdev!smug!image!utils!
++-+-----------------------+-------+----+-----+-----+
+\end{lstlisting}
+
+  the reference path is \texttt{/smugdev/smug/image/utils}.
+
+  When objects are retrieved each dictionary on the path is searched in
+  reference path order. If there are \emph{no compelling reasons} to
+  maintain separate dictionaries you can improve JOD retrieval
+  performance and simplify dictionary maintenance by flattening all or
+  part of the path.
+
+  To flatten the reference path do:
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X2]
+   NB. reopen the first three dictionaries on the path   
+   od ;:'smugdev smug image' [ 3 od ''
++-+--------------------+-------+----+-----+
+!1!opened (ro/ro/ro) ->!smugdev!smug!image!
++-+--------------------+-------+----+-----+
+
+
+
+   NB. dump to a temporary file (df)   
+   df=: {: showpass make jpath '~jodtemp/smugflat.ijs'
++-+---------------------------+-----------------------+
+!1!object(s) on path dumped ->!c:/jodtemp/smugflat.ijs!
++-+---------------------------+-----------------------+
+
+   NB. create a new flat dictionary   
+   newd 'smugflat';jpath '~jodtemp/smugflat' [ 3 od ''
++-+---------------------+--------+--------------------+
+!1!dictionary created ->!smugflat!c:/jodtemp/smugflat/!
++-+---------------------+--------+--------------------+
+
+   NB. open the flat dictionary and (utils)   
+   od ;:'smugflat utils'
++-+-----------------+--------+-----+
+!1!opened (rw/ro) ->!smugflat!utils!
++-+-----------------+--------+-----+
+
+   NB. reload dump script ... output not shown ...     
+   0!:0 df
+\end{lstlisting}
+
+  The collapsed path \texttt{/smugflat/utils} will return the same
+  objects as the longer path. It is important to understand that the
+  collapsed dictionary \texttt{smugflat} does not necessarily contain
+  the same objects found in the three original dictionaries
+  \texttt{smugdev}, \texttt{smug} and \texttt{image}. If objects with
+  the same name exist in the original dictionaries only the first one
+  found will be in the collapsed dictionary.
+\item
+  \textbf{Merging dictionaries:} If two dictionaries \emph{contain no
+  overlapping objects} it might make sense to merge them. This is easily
+  achieved with dump scripts. To merge two or more dictionaries do:
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X3]
+   NB. open and dump first dictionary   
+   od 'dict0' [ 3 od ''
++-+--------------+-----+
+!1!opened (rw) ->!dict0!
++-+--------------+-----+   
+   df0=: {: showpass make jpath '~jodtemp/dict0.ijs'
++-+---------------------------+--------------------+
+!1!object(s) on path dumped ->!c:/jodtemp/dict0.ijs!
++-+---------------------------+--------------------+
+
+   NB. open and dump second dictionary   
+   od 'dict1' [ 3 od ''
++-+--------------+-----+
+!1!opened (rw) ->!dict1!
++-+--------------+-----+   
+   df1=: {: showpass make jpath '~jodtemp/dict1.ijs'
++-+---------------------------+--------------------+
+!1!object(s) on path dumped ->!c:/jodtemp/dict1.ijs!
++-+---------------------------+--------------------+
+
+   NB. create new merge dictionary   
+   newd 'mergedict';jpath '~jodtemp/mergedict' [ 3 od ''
++-+---------------------+---------+---------------------+
+!1!dictionary created ->!mergedict!c:/jodtemp/mergedict/!
++-+---------------------+---------+---------------------+
+
+   NB. open merge dictionary and run dump scripts   
+   od 'mergedict'
++-+--------------+---------+
+!1!opened (rw) ->!mergedict!
++-+--------------+---------+
+
+   NB. reload dump scripts ... output not shown ...     
+   0!:0 df0     
+   0!:0 df1
+\end{lstlisting}
+
+  Be careful when merging dictionaries. If there are common objects the
+  last object loaded is the one retained in the merged dictionary.
+\item
+  \textbf{Updating master file parameters:} When a new parameter is
+  added to \texttt{jodparms.ijs} it will not be available in existing
+  dictionaries. With dump scripts you can rebuild existing dictionaries
+  and update parameters. To rebuild a dictionary with new or custom
+  parameters do:
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X4]
+   NB. save current dictionary registrations   
+   (toHOST ; 1 { 5 od '') write_ajod_ jpath '~temp/jodregister.ijs'
+
+   NB. open dictionary requiring parameter update    
+   od 'dict0' [ 3 od ''
++-+--------------+-----+
+!1!opened (rw) ->!dict0!
++-+--------------+-----+
+
+   NB. dump dictionary and close   
+   df=: {: showpass make jpath '~jodtemp/dict0.ijs'
++-+---------------------------+--------------------+
+!1!object(s) on path dumped ->!c:/jodtemp/dict0.ijs!
++-+---------------------------+--------------------+
+
+   3 od ''
++-+---------+-----+
+!1!closed ->!dict0!
++-+---------+-----+
+
+   NB. erase master file and JOD object id file   
+   ferase jpath '~addons/general/jod/jmaster.ijf'
+1   
+   ferase jpath '~addons/general/jod/jod.ijn'
+1
+
+   NB. recycle JOD - this recreates (jmaster.ijf) and (jod.ijn)    
+   NB. using the new dictionary parameters defined in (jodparms.ijs)      
+   (jodon , jodoff) 1
+1 1
+
+   NB. re-register dictionaries   
+   load jpath '~temp/jodregister.ijs'
+
+   NB. create a new dictionary - it will have the new parameters   
+   newd 'dict0new';jpath '~jodtemp/dict0new' [ 3 od ''
++-+---------------------+---------+-------------------+
+!1!dictionary created ->!dict0new!c:/jodtemp/dict0new/!
++-+---------------------+---------+-------------------+
+
+   od 'dict0new'
++-+--------------+--------+
+!1!opened (rw) ->!dict0new!
++-+--------------+--------+
+
+   NB. reload dump script ... output not shown ...   
+   0!:0 df  
+\end{lstlisting}
+
+  Before executing complex dump script procedures \emph{back up your JOD
+  dictionary folders} and play with dump scripts on test dictionaries.
+  Dump scripts are essential JOD dictionary maintenance tools but like
+  most powerful tools they must be used with care.
+  
+\end{enumerate}
+%
+%\begin{center}\rule{3in}{0.4pt}\end{center}
+%
+%\begin{enumerate}
+%\itemsep1pt\parskip0pt\parsep0pt
+%\item
+%  Spicing up one's rhetoric with a double entendre like ``turning
+%  tricks'' may be construed as a
+%  \href{http://thefederalist.com/2015/03/24/microaggressions-and-trigger-warnings-meet-real-trauma/}{\emph{microaggression}}.
+%  The point of colored language is to memorably make a point. You are
+%  unlikely to forget \emph{turning dump script
+%  tricks.}\hyperref[fnref1]{↩}
+
+
+%\end{document}

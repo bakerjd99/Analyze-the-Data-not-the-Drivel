@@ -1,0 +1,157 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/}{Semi-Literate JOD}}
+\addcontentsline{toc}{subsection}{Semi-Literate JOD}
+
+
+\noindent\emph{Posted: 02 Oct 2012 04:08:52}
+\vspace{6pt}
+
+
+%{[}caption id=``attachment\_3312'' align=``alignleft''  width=``101''{]}
+%\href{https://www.box.com/s/rhs9kfmim65vm6sv5p8y}{\includegraphics{jodlittlecube.png}}
+%Click to view jodliterate.pdf
+%{[}/caption{]}
+
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[r]{0.14\textwidth}
+\centering
+\href{http://www.box.com/s/rhs9kfmim65vm6sv5p8y}{\includegraphics[width=0.11\textwidth]{jodlittlecube.png}}
+%\caption{Click to view \texttt{jodliterate.pdf}}
+\label{fig:3303X0}
+\end{floatingfigure} Despite seven decades of programming experience documenting software
+remains a challenge. There are many reasons for this sorry state of
+affairs with the most important being that programmers simply do not
+agree on the \emph{need} for documentation. As pathetic as this sounds
+it's not without merit. It all depends on what you call
+``documentation.''
+
+Writing technical documents for management, marketing or users usually
+results in excruciating rounds of
+\href{http://search.dilbert.com/comic/Documentation}{Dilbertian}
+critiques. Everyone understands your code better than you do. If you
+provide too much detail, you get complaints. If you use unfamiliar
+words, you get complaints. If you point out limitations, assumptions or
+caveats, you get complaints. If you assume basic 8th grade reading
+levels, you get complaints. If you use nonstandard fonts or
+\emph{unauthorized style templates,} you get complaints. No wonder many
+programmers hate ``documentation'' and blow off the entire problem by
+making ludicrous claims about ``self documenting code.'' The self
+documenting cabal may have fooled management but they're not fooling the
+rest of us. The need for \emph{illuminating} program documentation is as
+pressing today as it was for
+\href{http://inventors.about.com/od/estartinventions/a/Eniac.htm}{ENIAC}
+coders in the 1940's and, when in it comes to illuminating documentation,
+the best overall approach was pioneered by
+\href{http://www-cs-faculty.stanford.edu/~uno/}{Donald Knuth} over
+twenty-five years ago and goes by the moniker
+\href{http://en.wikipedia.org/wiki/Literate\_programming}{\emph{literate
+programming.}}
+
+Providing basic literate programming support in JOD has been on my to-do
+list for ages. I've held off until recently because I have never been
+happy with my \href{http://en.wikipedia.org/wiki/Markup\_language}{mark
+up} options. JOD directly supports simple J
+\href{http://www.jsoftware.com/help/user/scriptdoc.htm}{scriptdoc}
+compatible leading comment block formatting. For example many of my J
+verbs start with a comment block like:
+
+\small
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{betweenstrs}\AlertTok{=:}\NormalTok{4 }\OtherTok{:} \NormalTok{0}
+
+\CommentTok{NB.*betweenstrs v-- select sublists between  nonnested delimiters}
+\CommentTok{NB. discarding delimiters.}
+\CommentTok{NB.}
+\CommentTok{NB. dyad:  blcl =. (clStart;clEnd) betweenstrs cl}
+\CommentTok{NB.        blnl =. (nlStart;nlEnd) betweenstrs nl}
+\CommentTok{NB.}
+\CommentTok{NB.   cstr=. ;20#<'start yada yada end boo hoo start ahh end '}
+\CommentTok{NB.   ('start';'end') betweenstrs cstr}
+\CommentTok{NB.}
+\CommentTok{NB.   NB. also applies to numeric delimiters}
+\CommentTok{NB.   (1 1;2 2) betweenstrs 1 1 66 666 2 2 7 87 1 1 0 2 2}
+
+\StringTok{'s e'}\CharTok{=.} \DataTypeTok{x}
+\NormalTok{llst}\CharTok{=.} \RegionMarkerTok{((}\FunctionTok{-#}\NormalTok{s}\RegionMarkerTok{)} \RegionMarkerTok{(}\FunctionTok{\textbar{}.}\OtherTok{!.}\NormalTok{0}\RegionMarkerTok{)} \NormalTok{s }\FunctionTok{E.} \DataTypeTok{y}\RegionMarkerTok{)} \FunctionTok{+.} \NormalTok{e }\FunctionTok{E.} \DataTypeTok{y}
+\NormalTok{mask}\CharTok{=.} \FunctionTok{~:}\OtherTok{/\textbackslash{}} \NormalTok{llst}
+\RegionMarkerTok{(}\NormalTok{mask}\FunctionTok{#}\NormalTok{llst}\RegionMarkerTok{)} \FunctionTok{<}\OtherTok{;.}\NormalTok{1 mask}\FunctionTok{#}\DataTypeTok{y}
+\RegionMarkerTok{)}
+\end{Highlighting}
+\end{Shaded}
+\normalsize
+
+Even if you can't spell J I bet you have a good idea about what this
+``program'' does and, if you doubt my claims, I've left you with some
+examples to try the next time you find yourself in J. Stupid comments
+may \href{http://php.dzone.com/news/comments-are-losers-2}{be for
+losers} but telling comments, especially example laden ones, really
+help! And, if you really find comments distracting, JOD has a deal for
+you!
+
+\small
+\begin{Shaded}
+\begin{Highlighting}[]
+   \FunctionTok{;}\NormalTok{1}\FunctionTok{\{}\NormalTok{compj }\StringTok{'betweenstrs'} 
+\NormalTok{betweenstrs}\AlertTok{=:}\NormalTok{4 }\OtherTok{:}\NormalTok{0}
+\StringTok{'s e'}\CharTok{=.}\DataTypeTok{x}
+\NormalTok{a}\CharTok{=.}\RegionMarkerTok{((}\FunctionTok{-#}\NormalTok{s }\RegionMarkerTok{)(}\FunctionTok{\textbar{}.}\OtherTok{!.}\NormalTok{0}\RegionMarkerTok{)}\NormalTok{s }\FunctionTok{E.}\DataTypeTok{y}\RegionMarkerTok{)}\FunctionTok{+.}\NormalTok{e }\FunctionTok{E.}\DataTypeTok{y}
+\NormalTok{b}\CharTok{=.}\FunctionTok{~:}\OtherTok{/\textbackslash{}}\NormalTok{a}
+\RegionMarkerTok{(}\NormalTok{b}\FunctionTok{#}\NormalTok{a}\RegionMarkerTok{)}\FunctionTok{<}\OtherTok{;.}\NormalTok{1 b}\FunctionTok{#}\DataTypeTok{y}
+\RegionMarkerTok{)}
+\end{Highlighting}
+\end{Shaded}
+\normalsize
+
+\texttt{compj} purges pesky comments and reduces tedious long
+identifiers like \texttt{mask} to pure compact J. Getting rid of
+comments is trivial, putting them back in: not so much! JOD's simple
+comment block formatting has been very effective but it's hardly
+literate programming.
+
+Literate programming requires more muscle. Knuth used his own \TeX. \TeX\
+and \LaTeX\ are certainly up to the job, as are many HTML and XML
+approaches. Unfortunately, all these mark up formats suffer from
+``distracting taggyness.'' I can tolerate \LaTeX\ but HTML and XML drives
+me nuts. Yes, there are perfectly fine editors for all these formats, but
+remember, we are inserting the resulting text into code that we will be
+looking at for the \emph{rest of our miserable coding lives!} We need a
+mark up format that's stable, readable, versatile, easy to use and,
+\emph{this is very important}, easy to ignore!
+\href{http://daringfireball.net/projects/markdown/}{Markdown} is such a
+format. It's almost ideal for program comments and is capable of much
+more. I've started using markdown in JOD and it's already paying its
+way.
+
+\href{https://www.box.com/s/1fcil5s5zhvlxzzwpjqn}{\texttt{jodliterate.ijs}}
+is a J utility script that can generate \emph{semi-literate} \LaTeX\
+documents directly from JOD groups. It uses a version of pandoc with J
+syntax highlighting, see
+\href{http://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/}{Pandoc
+based J Syntax Highlighting} for details. I consider
+\texttt{jodliterate} semi-literate because it's completely at the mercy
+of the programmer. If you don't store coherent markdown text fragments
+in JOD all you get is a nice syntax highlighted listing. But, if you
+actually \emph{write} about your group, \texttt{jodliterate} can produce
+essential documents.
+\href{https://www.box.com/s/rhs9kfmim65vm6sv5p8y}{\texttt{jodliterate.pdf}}
+is an example of this tool being used on itself. Self reference always
+makes an excellent test case. \texttt{jodliterate} will be included in
+the next JOD release. Until then you can download the J script from
+\href{https://www.box.com/s/eb537470b25ab230a0ab}{this directory}. As always
+referenced files are available in the files sidebar. Enjoy!
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{jodlittlecube.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:3303X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

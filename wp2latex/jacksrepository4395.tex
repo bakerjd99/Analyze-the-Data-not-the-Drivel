@@ -1,0 +1,73 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2013/12/21/jacks-repository/}{Jacks Repository}}
+\addcontentsline{toc}{subsection}{Jacks Repository}
+
+
+\noindent\emph{Posted: 21 Dec 2013 19:30:56}
+\vspace{6pt}
+
+%\href{http://www.jsoftware.com/}{\includegraphics{jblue.png}}
+
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[l]{0.15\textwidth}
+\centering
+\href{http://www.jsoftware.com/}{\includegraphics[width=0.13\textwidth]{jblue.png}}
+\label{fig:4395X0}
+\end{floatingfigure} The
+other day I attempted to browse a
+\href{https://github.com/bakerjd99/jacks/blob/master/geotagged/kml.ijs}{J
+script} described in an
+\href{http://bakerjd99.wordpress.com/2009/10/04/google-earth-image-touring/}{old
+blog post} only to find that my employer's network monkeys had blocked
+the \href{https://app.box.com/}{file sharing service}. I've railed about
+\href{http://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/}{IT
+control freaks} in the past. They will not rest until it's impossible to
+do useful work. I fumed and grumbled until I perceived a bigger problem.
+I have so many references to program code in this blog that it's getting
+tedious tracking them down. Wouldn't it be nice if my hacks were neatly
+organized in one coherent repository?
+
+Let me introduce
+\href{https://github.com/bakerjd99/jacks}{\texttt{jacks}}.
+\texttt{jacks}, or ``J-hacks'', organizes the
+\href{https://github.com/bakerjd99/jacks}{J related code referenced in
+this blog} into a single
+\href{https://github.com/bakerjd99/jacks}{GitHub} repository. Most of
+the scripts in \texttt{jacks} are one-offs but some have
+\href{http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/}{proven
+so useful} that it makes sense to store them in a repository and track
+changes. From now on \texttt{jacks} will be the first place to look for
+code from this blog. You pull the contents of \texttt{jacks} into a new
+Git repository with the commands:
+
+%{[}code light=``true'' language=``bash''{]}
+
+\begin{verbatim}
+git init
+git remote add jacks https://github.com/bakerjd99/jacks.git
+git pull jacks master
+\end{verbatim}
+
+%{[}/code{]}
+
+It took me a few moments to settle on the name ``jacks.'' I considered
+``jokes'' because programmers often take their code too seriously and
+``jocks'' because J programmers are wild out of control convention
+eschewing code jocks but \texttt{jacks} won out when I remembered the
+refrain ``jack be nimble, jack be quick, jack jump over'' \emph{whatever
+coding problem is pissing you off.}
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{jblue.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:4395X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

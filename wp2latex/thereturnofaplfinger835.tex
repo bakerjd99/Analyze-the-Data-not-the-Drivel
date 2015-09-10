@@ -1,0 +1,148 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/}{The Return of APL Fingers}}
+\addcontentsline{toc}{subsection}{The Return of APL Fingers}
+
+
+\noindent\emph{Posted: 12 Nov 2010 03:34:29}
+\vspace{6pt}
+
+
+%{[}caption id=``attachment\_858'' align=``alignleft'' width=``149''  caption=``APL typewriter ball  (1970s)''{]}
+%\href{http://blogs.mysql.com/kaj/2009/01/20/seven-useless-facts/}{\includegraphics{111210_0334_thereturnof1.png}}
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[r]{0.24\textwidth}
+\centering
+\href{http://blogs.mysql.com/kaj/2009/01/20/seven-useless-facts/}{\includegraphics[width=0.22\textwidth]{111210_0334_thereturnof1.png}}
+\caption{APL type ball (1970s)}
+\label{fig:835X0}
+\end{floatingfigure}I am programming in
+\href{http://en.wikipedia.org/wiki/APL\_(programming\_language)}{APL}
+again after a six-year hiatus. My APL fingers are rusty but it's amazing
+how deep muscle memory goes. I still know where all the beautiful APL
+glyphs' hide on standard keyboards. I've programmed in almost a dozen
+programming languages but I maintain warm feelings for APL because I
+lost my
+\href{http://www.codesqueeze.com/the-ultimate-top-25-chuck-norris-the-programmer-jokes/}{coding
+virginity} to her.
+
+APL was gentle: abstract, clean, austere and so intoxicatingly elegant.
+I loved \href{http://en.wikipedia.org/wiki/Kenneth\_E.\_Iverson}{Iverson
+notation} and how it manifested in what remains the most beautiful
+symbol set ever devised for a programming language. Blinded by passion I
+overlooked APL's faults but as my ardor cooled I took notice of one
+glaring APL problem that persists to this day. \emph{Displaying,
+printing, emailing and now blogging with APL is a pain!} Much has
+improved with the steady adoption of Unicode but even today handling APL
+imposes burdens. For example, without the
+\href{http://www.vector.org.uk/?area=fonts}{APL385 Unicode} font your
+browser will mangle the following APL characters.
+
+\begin{center}
+\setmonofont{APL385}
+\begin{verbatim}
+        !*+-/<=>?\^|~¨¯×÷←↑→↓∆∇∊∘∨∩∪∵∼≠≡≢≤≥⊂⊃⊖⊢⊣⊤⊥⋄⌈⌊ 
+        ⌶⌷⌹⌻⌽⌿⍀⍂⍇⍈⍉⍋⍎⍐⍒⍕⍗⍙⍝⍞⍟⍡⍢⍣⍤⍥⍨⍪⍫⍬⍱⍲⍳⍴⍵⍷⍸⍺⎕◊○
+\end{verbatim}
+%\setmonofont{FreeMono}
+%\setmonofont{Source Code Pro}
+\setmonofont[Scale=MatchLowercase]{Ubuntu Mono}
+\end{center}
+
+By the way, if you have not installed APL385 Unicode I highly recommend
+downloading and installing it. You can get APL385 at
+\href{http://www.vector.org.uk/?area=home}{Vector}. \emph{Regrettably
+installing a Unicode APL font will not fix all your APL character
+problems!} In particular you cannot \emph{reliably}:
+
+\begin{enumerate}
+\item
+  Copy and paste APL code between APL vendors or between APL and other
+  languages.
+\item
+  Typeset APL listings with ubiquitous \LaTeX\ packages like
+  \href{http://en.wikibooks.org/wiki/LaTeX/Packages/Listings}{lstlisting}.
+\item
+  Post APL idioms on \href{http://twitter.com/}{Twitter}. Twitter's 140
+  character limit is not such a big deal for APL.
+\item
+  Print on arbitrary network printers! It's the 21\textsuperscript{st}
+  century yet office printers are routinely limited by parochial IT
+  policies to a small set of standard fonts.
+\end{enumerate}
+APL'ers almost relish these irritants after all problem solving is what
+APL'ers do! We don't go crying to momma; we squash whatever is annoying
+us and get on with deeper problems.
+
+Currently I am dealing with how to display APL functions on WordPress.
+WordPress supports a source code highlighting plug-in based on Alex
+Gorbatchev's excellent Javascript
+\href{http://alexgorbatchev.com/SyntaxHighlighter/}{SyntaxHighlighter}.
+The WordPress plug-in produces wonderful results for
+\href{http://bakerjd99.wordpress.com/2010/05/28/a-c-net-class-for-calling-j/}{well
+known languages like C\#} and by defining language specific Javascript
+classes you can highlight languages like APL.
+\href{http://www.lescasse.com/UseAPLFromCSharpExample.aspx}{Eric
+Lescasse} has done this for \href{http://www.apl2000.com/}{APL+WIN} code
+so it is possible, (given Unicode APL fonts), to render highlighted web
+friendly APL code. Unfortunately WordPress does not support APL
+highlighting, (what a surprise), and has banned user Javascript classes
+on their freebie blogs. Apparently some programmers abuse JavaScript,
+(another surprise), and
+\href{http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/}{uncontrolled}
+Javascript'ing might endanger the WordPress business model.
+
+This leaves the users of peculiar programming languages with a problem.
+We can pester WordPress to support new languages or we can roll our own.
+I am starting a campaign to get APL and J on WordPress's list of
+highlighted languages and while I am waiting for official support I will
+roll my own. Fortunately, highlighting code for blogs is not difficult.
+The much maligned MS Word (2007 and beyond) can crank out blog happy APL
+provided you have \href{http://unicode.org/faq/utf\_bom.html}{UTF-8} APL
+Unicode text to format. Getting UTF-8'ed APL is the tricky bit. Some APL
+systems like \href{http://www.dyalog.com/}{Dyalog} directly support
+UTF-8 and others are planning to do so. APL+WIN cannot spit out UTF-8
+but it's not difficult to transform APL+WIN to UTF-8. The
+\href{http://aplwiki.com/AplToUnicodeII}{APL Wiki} contains some slick
+APL+WIN functions to convert internal APL text to and from UTF-8.
+
+To get a sense of why all this fuss is worthwhile consider the following
+APL function taken from
+\href{http://en.wikipedia.org/wiki/Eugene\_McDonnell}{Eugene
+McDonnell's} superb essay
+\href{http://www.jsoftware.com/papers/eem/life.htm}{Life: Nasty,
+Brutish, and Short}.
+
+\setmonofont{APL385}
+\begin{verbatim}
+     ∇ z ← LifeKnuth ⍵;v
+      v ← ⍵
+      ⍵ ← ⍵ + (1 ⌽ ⍵) + ¯1 ⌽ ⍵
+      ⍵ ← ⍵ + (1 ⊖ ⍵) + ¯1 ⊖ ⍵
+      ⍵ ← ⍵ + ⍵ – v
+      z ← ⍵ ∊ 5 6 7
+     ∇
+\end{verbatim}
+%\setmonofont{FreeMono}
+%\setmonofont{Source Code Pro}
+\setmonofont[Scale=MatchLowercase]{Ubuntu Mono}
+
+This little function is not the \emph{shortest} APL Life function but in
+my opinion it's the clearest and most concise description of Life's
+generation rules out there.
+\href{http://www.jsoftware.com/papers/tot.htm}{Tool of thought} is not
+an empty APL marketing slogan. It's the real deal!
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{111210_0334_thereturnof1.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:835X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

@@ -1,0 +1,257 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{https://bakerjd99.wordpress.com/2015/03/22/jod-update-version-0-9-97/}{JOD Update: Version 0.9.97*}}
+\addcontentsline{toc}{subsection}{JOD Update: Version 0.9.97*}
+
+
+\noindent\emph{Posted: 22 Mar 2015 22:53:00}
+\vspace{6pt}
+
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[r]{0.10\textwidth}
+\centering
+\href{http://www.jsoftware.com/jwiki/Addons/general/jod}{\includegraphics[width=0.09\textwidth]{jodlittlecube.png}}
+\label{fig:4946X0}
+\end{floatingfigure} In the last year much has changed in the J world.
+
+%\href{http://www.jsoftware.com/jwiki/Addons/general/jod}{\includegraphics{jodlittlecube.png}}
+
+\begin{enumerate}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  There are new \href{http://www.jsoftware.com/stable.htm}{official J
+  8.0x} builds for all supported platforms.
+\item
+  The \href{http://www.qt.io/download/}{QT} based IDE JDE has matured
+  and is in widespread use.
+\item
+  The column oriented J database JD is drawing new users to J and
+  enticing J veterans to reconsider how we use databases.
+\item
+  There is a small group of J system builders experimenting with
+  additions, extensions and revisions of core J source code.
+\end{enumerate}
+
+In short, there are have been enough changes to revisit and update JOD.
+
+JOD version
+\texttt{0.9.97*}\footnote{The version number is \texttt{*}'ed because
+you are always a point release from done!} is
+the first JOD update in many years that mocks the god of software
+compatibility. In particular:
+
+\begin{enumerate}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  The syntax of the \texttt{jodhelp} verb has changed.
+\item
+  The \texttt{jodsource} addon no longer uses a zip file to distribute
+  JOD dump files.
+\item
+  JOD online help will no longer be supported or updated.
+\item
+  Volume size is no longer checked before~creating new JOD dictionaries.
+\item
+  There is a new version of \texttt{jod.pdf.}
+\end{enumerate}
+
+\paragraph{\texorpdfstring{\texttt{jodhelp} changes (\#1, \#3 and
+\#5):}{jodhelp changes (\#1, \#3 and \#5):}}
+
+\texttt{jodhelp} has always been a \emph{kludge.} In programmer speak a
+kludge is some half-baked facility added to a system after more
+essential features have stabilized. The original versions of
+\texttt{jodhelp} pointed at my rough notes. It was all the
+``documentation'' I needed! Then others stared using JOD which resulted
+in an ``evolved'' online version of my notes. I originally thought that
+hosting my notes online would simultaneously serve user needs and cut
+the amount of time I spent maintaining documentation. In retrospect this
+\emph{wasn't even wrong!}
+
+I used Google Documents to host my notes. If you've ever wondered why
+completely free Google Documents hasn't obliterated expensive
+\emph{Microsoft Word} or hoary old excellent \LaTeX\ I invite you
+to maintain a set of \emph{long-duration-documents} with Google
+Documents. During \texttt{jodhelp}'s online lifetime the basic internal
+format of Google Documents changed in a \emph{screw-your-old-documents}
+upgrade which forced me to spend days repairing broken hyper-links and
+reformatting. I was not amused; you still get what you pay for!
+
+I originally choose Google Documents because of its alleged global
+accessibility. Sadly, Google Documents is now often blocked by corporate
+and national firewalls. Even when it isn't blocked it renders like a dog
+peeing on a fire hydrant. All these problems forced me to rewrite JOD
+documentation with a completely reliable tool: good old-fashioned
+\LaTeX. The result of my labors,
+\href{https://app.box.com/shared/gajfu50gc0}{\texttt{jod.pdf}}, is now
+distributed by the \texttt{joddocument} addon and is easily browsed with
+\texttt{jodhelp}.
+
+After \texttt{jod.pdf}'s appearance another irritant surfaced:
+synchronizing \texttt{jod.pdf} and the online version. I tried using
+\href{http://pandoc.org/}{pandoc} and
+\href{http://daringfireball.net/projects/markdown/}{markdown} to
+generate both the online and PDF versions from the same source files but
+\texttt{jod.pdf} is too complex for \emph{not-to-fancy} portable
+approaches. I was faced with a choice, lower my \texttt{jod.pdf}
+standards, or get rid of something I never really liked. I opted to
+drown a child and abandon online help. I don't expect a lot of mourners
+at the funeral.
+
+Using the new version of \texttt{jodhelp} requires installing the addon
+\texttt{joddocument} and configuring a J PDF reader. It's also good idea
+to define a JQT PF key to pop up JOD help with a keystroke. To configure
+a J PDF reader edit the configuration file:
+
+\begin{verbatim}
+ ~config/base.cfg
+\end{verbatim}
+
+\noindent this file is directly available from the JQT
+\texttt{Edit\textbackslash{}Configure} menu. \texttt{base.cfg} defines a
+number of operating system dependent utilities. Make changes to the
+systems you use, save your changes, and restart J. The following example
+shows my \texttt{Win64} system settings.
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr4946X0]
+ case. 'Win' do.   
+   BoxForm=: 1   
+   Browser=: 'c:/Program Files (x86)/Google/Chrome/Application/chrome.exe'   
+   Browser_nox=: ''   
+   EPSReader=: 'c:/program files/ghostgum/gsview/gsview64.exe'   
+   PDFReader=: 'c:/uap/sumatra/SumatraPDF.exe'   
+   XDiff=: 'c:/uap/WinMerge-2.14.0-exe/winmergeu.exe'   
+   Editor=: 'c:/uap/notepad++/notepad++.exe %f'   
+   Editor_nox=: '' 
+\end{lstlisting}
+
+I use
+\href{http://www.sumatrapdfreader.org/free-pdf-reader.html}{SumatraPDF}
+to read PDF files on Windows. It's a fast, lightweight, program that
+efficiently renders \texttt{jod.pdf}. Good PDF readers are available for
+all commonly used platforms.
+
+To define JQT PK keys edit the configuration
+file:\footnote{\texttt{userkeys.cfg} is only available for J 8.03 systems.
+}
+
+\begin{verbatim}
+ ~config/userkeys.cfg 
+\end{verbatim}
+
+\noindent This file is also directly available from the
+\texttt{Edit\textbackslash{}Configure} menu. My JOD specific PF keys
+are:
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr4946X1]
+ F3;1;Require JOD;require 'general/jod' 
+ Shift+F3;1;JOD Help;jodhelp 0 
+ F6;1;Dev Dicts;od cut 'joddev jod utils' [ 3 od '' 
+ Shift+F6;1;Fit Dev Dicts;od cut 'jodfit joddev jod utils' [ 3 od '' 
+ Ctrl+Shift+F6;1;Test Dev Dicts;od cut 'jodtest joddev jod utils' [ 3 od '' 
+\end{lstlisting}
+
+\noindent Pressing \texttt{Shift+F3} executes \texttt{jodhelp\ 0} which pops up
+JOD help.
+
+\paragraph{\texorpdfstring{\texttt{jodsource} changes
+(\#2)}{jodsource changes (\#2)}:}
+
+The \texttt{jodsource} addon is a collection of JOD dump scripts. Dump
+scripts are serialized versions of binary JOD dictionaries. When
+executed they merge objects into the current JOD put dictionary. I use
+them primarily to move dictionaries around but they
+\href{https://github.com/bakerjd99/joddumps}{have other uses} as well.
+Prior to this version I distributed the three main JOD development dump
+scripts, \texttt{joddev}, \texttt{jod}, and \texttt{utils} in one
+compressed zip file to reduce the size of
+\href{http://www.jsoftware.com/jwiki/JAL}{JAL} downloads.
+
+The distributed script
+\href{https://github.com/bakerjd99/jod/blob/master/jodsource/jodsourcesetup.ijs}{\texttt{jodsourcesetup.ijs}}
+used the \texttt{zfiles} addon to extract these scripts and rebuild JOD
+development dictionaries. This worked on 32 bit Windows systems but
+failed elsewhere. J now runs on 32/64 bit Windows, Mac, Linux, IOS and
+Android systems. To better support all these variants I eliminated the
+\texttt{zfiles} dependency and pruned the JOD development dictionaries.
+The result is a more portable and smaller \texttt{jodsource} addon.
+
+\paragraph{Bye bye volume sizing (\#4):}
+
+Early versions of JOD ran in the now bygone era of floppy disks. It was
+possible to create \emph{many} JOD dictionaries on a single standard 800
+kilobyte 3.5 inch floppy. Compared to modern \emph{porcine-ware} JOD,
+which many J'ers consider a \emph{huge} system, is lithe and lean. In
+floppy days it was important to check if there was enough space on a
+floppy before creating another \emph{huge 48K} empty JOD dictionary.
+This is a bit ridiculous today! If you don't have 48K free on whatever
+device you are running you have far more serious problems than not being
+able to create JOD dictionaries.
+
+Volume sizing code remained in JOD for years until it started giving me
+problems. Returning the size of very large network volumes can be
+time-consuming and there are serious portability issues. Every operating
+system calls different facilities to return volume sizes. Even worse,
+security settings on corporate networks and cloud architectures
+sometimes refuse to divulge national secrets like free byte counts.
+
+To eliminate all these headaches this version of JOD no longer checks
+volume size when the \texttt{FREESPACE} noun is zero. To restore the
+previous behavior you have to edit the file
+
+\begin{verbatim}
+ ~addons/general/jod.ijs`
+\end{verbatim}
+
+\noindent and change the line \texttt{FREESPACE=:0} to whatever byte count you
+want. Alternatively, you could
+\emph{NGAF}\footnote{\emph{Not Give a Fuck!}
+} and just assume you have 48K free on your terabyte size volumes.
+
+\paragraph{Still to come:}
+
+You may have surmised from JOD's version number that the system is still
+not \emph{feature complete.} The JOD manual lists a few words that I am
+planning to implement. I only develop JOD when I need something or I am
+bored out of my mind at work and need a break. Such intermittent
+motivators seldom insure project completion but I have found a new
+reason to finish JOD. To list a book on
+\href{http://www.goodreads.com/bakerjd99}{Goodreads} or Amazon you need
+an \href{https://www.isbn-international.org/}{ISBN number}. The
+\href{http://www.lulu.com/spotlight/bakerjd99}{hardcopy version} of the
+JOD manual is a \emph{sort-of-published} book. To complete the
+publishing process I need an ISBN. If I am going to bother with such
+formalities I might as well complete the system the manual describes. So
+there you have it a new software development motivator: vanity.
+
+%\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+%%begin{enumerate}
+%\item
+%  \hyperdef{}{fn3}{}
+%
+%  The version number is \texttt{*}'ed because you are always a point
+%  release from done!\hyperref[fnref3]{↩}
+%\item
+%  \hyperdef{}{fn1}{}
+%
+%  \texttt{userkeys.cfg} is only available for J 8.03
+%  systems.\hyperref[fnref1]{↩}
+%\item
+%  \hyperdef{}{fn2}{}
+%
+%  \emph{Not Give a F\%\&k!}\hyperref[fnref2]{↩}
+%\end{enumerate}
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{jodlittlecube.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:4946X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+%\end{document}

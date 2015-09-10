@@ -1,0 +1,139 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/}{WordPress to \LaTeX with Pandoc and J: Prerequisites (1)}}
+\addcontentsline{toc}{subsection}{WordPress to \LaTeX with Pandoc and J: Prerequisites (1)}
+
+
+\noindent\emph{Posted: 12 Feb 2012 01:33:11}
+\vspace{6pt}
+
+
+\captionsetup[floatingfigure]{labelformat=empty}
+\paragraph{There are no quick WordPress to \LaTeX\ fixes}
+Over the next three posts I will describe how to convert WordPress's
+\href{http://en.blog.wordpress.com/2006/06/12/xml-import-export/}{export
+XML} to \LaTeX\ source code. 
+\begin{floatingfigure}[r]{0.25\textwidth}
+\centering
+\includegraphics[width=0.23\textwidth]{i-mNK4RHL-M.png}
+\caption{WordPress to \LaTeX}
+\label{fig:2374X0}
+\end{floatingfigure}\noindent I know that many of you are looking for a
+quick WordPress to \LaTeX\ fix; unfortunately there are no quick fixes.
+The two formats come from different worlds and are used in different
+ways. Producing useful \LaTeX\ source from WordPress export XML will
+require manual edits. My goal here is to minimize manual edits,
+produce high quality \LaTeX\ source and to \emph{outline} what you will
+have to contend with. To get an idea of what you can expect download the
+\href{http://www.box.com/s/eqnv3obuy0detf99nruf}{\LaTeX\ compiled version
+of this post.}
+
+\paragraph{Visual and Logical composition}
+
+WordPress and \LaTeX\ are examples of the two basic approaches,
+\emph{visual} and \emph{logical,} taken by writing software. Visual
+systems value appearance. It matters what things look like and no effort
+is spared to get the right look. Logical systems value content. What's
+said is far more important than what it looks like. Logical systems
+impose order and structure and typically defer visual elements. As you
+might expect there is no such thing as a pure visual or logical writing
+system. Successful systems use both approaches to a greater or lesser
+degree. Composing WordPress blog posts is roughly 35\% visual and 65\%
+logical.\footnote{
+Actually this is not bad.
+\href{http://graphicssoft.about.com/od/findsoftware/a/pagelayout.htm}{Page
+layout systems} are far worse. A typical layout system might be 90\%
+visual and 10\% logical making layout systems polar opposites of \LaTeX.
+} \LaTeX\ composition is about 10\% visual and
+90\% logical. The numbers do not line up; there is a basic mismatch
+here.
+
+\emph{Many format X to \LaTeX\ converters tackle this mismatch by
+attempting to maintain visual fidelity. This is a catastrophic error
+that renders the entire conversion useless.} Here's a hint. If you're
+using a predominantly logical system like \LaTeX\ you don't give a
+rodent's posterior about visual fidelity. This method dispenses with all
+but the most basic of visual elements. No attempt is made to preserve
+fonts, type sizes, image scale, justification, hyphenation, text color
+and so forth. The goal is to produce working \LaTeX\ source that can be
+transformed to whatever final layout the author desires.
+
+\paragraph{Prerequisite Software}
+
+I use two programs to transform WordPress export XML to \LaTeX\: the
+\href{http://www.jsoftware.com/}{J programming language} and
+\href{http://johnmacfarlane.net/}{John MacFarlane's} Pandoc.
+\href{http://johnmacfarlane.net/pandoc/}{Pandoc} is an excellent
+\href{http://en.wikipedia.org/wiki/Markup\_language}{text mark-up} to
+mark-up converter. It wisely avoids attempting to convert entire complex
+documents and focuses on getting \emph{parts} of documents right. It
+does a particularly good job of converting HTML to \LaTeX\ which is a
+\emph{crucial} part of this process. I use Pandoc to transform the HTML
+embedded in WordPress export XML
+\href{http://en.wikipedia.org/wiki/CDATA}{\texttt{CDATA} elements} to
+\texttt{*.tex} files and I use J to preprocess and post process Pandoc
+inputs and outputs and to stitch everything together into a set of \LaTeX\
+ready files.
+
+Download Pandoc from
+\href{http://johnmacfarlane.net/pandoc/installing.html}{here}. I use the
+Windows command line version. There are Linux and Mac versions as well.
+Download J from \href{http://www.jsoftware.com/stable.htm}{here}. The
+easiest J install is the 32 bit Windows J 6.02 version. Other versions
+require additional steps to configure and deploy. If you are already a J
+user there is no need to install a particular system but you will need:
+
+\begin{enumerate}
+\item
+  The task library \texttt{require 'task'}
+\item
+  The utility program
+  \href{http://www.gnu.org/software/wget/}{\texttt{wget.exe}}
+\end{enumerate}
+Both of these components are typically part of the J distribution.
+
+\paragraph{Install and check prerequisites}
+
+To continue download and install Pandoc and J and run the following
+tests; if you succeed you're system is ready for
+\href{http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/}{WordPress
+to \LaTeX\ with Pandoc and J: \LaTeX\ Directories (2)}.
+
+\paragraph{Pandoc Test:} Download the test file: \texttt{cdata.html} and run Pandoc from the
+command line:
+
+\begin{verbatim}
+pandoc -o cdata.tex cdata.html
+\end{verbatim}
+
+\noindent \texttt{cdata.html} is an example of the HTML code you find in WordPress
+export XML \texttt{CDATA} elements. \emph{Note:} required files are also
+available in the files sidebar in the \texttt{WordPress to LaTeX}
+directory.
+
+\paragraph{J Test:} Start a J session and enter the following commands:
+\begin{verbatim}
+require 'task'
+
+shell  'wget --help'
+
+site=. 'http://conceptcontrol.smugmug.com/photos/'
+
+shell  'wget ',site,'i-mNK4RHL/0/L/i-mNK4RHL-L.png'
+\end{verbatim}
+
+\noindent If the shell command is properly loaded and \texttt{wget.exe} is found
+you will see help text. The second shell command downloads an image
+file. Downloading post images is part of the overall conversion process.
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{i-mNK4RHL-M.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:2374X0}
+%\end{floatingfigure}
+
+
+%\end{document}

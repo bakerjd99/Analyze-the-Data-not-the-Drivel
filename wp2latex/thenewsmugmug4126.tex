@@ -1,0 +1,210 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2013/08/05/the-new-smugmug/}{The New SmugMug}}
+\addcontentsline{toc}{subsection}{The New SmugMug}
+
+
+\noindent\emph{Posted: 06 Aug 2013 04:55:48}
+\vspace{6pt}
+
+Websites compete in a brutal Darwinian struggle for eyeballs and clicks:
+adapt or die is an understatement. Every few years users get
+``upgraded'' whether they want it or not. Generally things move in a
+better direction. Even twenty-something web programmers aren't
+completely stupid but setbacks and complete disasters are not uncommon.
+
+
+%{[}caption id=``attachment\_4141'' align=``aligncenter''  width=``350''{]}
+%\href{http://conceptcontrol.smugmug.com/}{\includegraphics{newsmugss.jpg}}
+%My new SmugMug layout - click to view.
+%{[}/caption{]}
+
+\captionsetup[figure]{labelformat=empty}
+\captionsetup[floatingfigure]{labelformat=empty}
+
+\begin{floatingfigure}[r]{0.37\textwidth}
+%\begin{figure}[htbp]
+\centering
+\href{http://conceptcontrol.smugmug.com/}{\includegraphics[width=0.32\textwidth]{newsmugss.jpg}}
+\caption{My new SmugMug layout.}
+\label{fig:4126X0}
+%\end{figure}
+\end{floatingfigure}
+
+
+My relationship with \href{http://www.smugmug.com/}{SmugMug} started
+about five years ago when my \href{http://www.flickr.com/}{Flickr}
+account was suddenly declared ``mature'' by some faceless administrative
+ape that couldn't tell the difference between innocent nudes and
+pornography. I was so incensed I sent Flickr administrators a message
+they couldn't ignore. I painstakingly deleted all my images, mass
+deletion was oddly not supported by the
+\href{http://www.yahoo.com/}{Yahoo's} that ran the joint, and dropped my
+account. How's that for maturity? I consider it my sacred duty to punish
+companies that screw customers. After dumping Flickr I searched around
+and found SmugMug.
+
+There were things I liked and didn't like about SmugMug. SmugMug did a
+better job of displaying images than Flickr and you could select your
+\emph{own} damn background color. On the downside, SmugMug has more of
+an empty art museum vibe than Flickr's busy social whorehouse milieu.
+For a few days I missed complete morons dropping snide asides on my
+pictures. The only comments I get on SmugMug come from family members
+and energetic strangers that find something they like enough to breach
+SmugMug's spam fortifications. The silence is welcome. This is an art
+museum after all.
+
+SmugMug offers a number of account types. I am a ``power'' user. A power
+account falls between basic and pro accounts. This account
+differentiation makes sense. SmugMug users fall into three classes.
+
+\begin{enumerate}
+\item
+  \textbf{Basic:} plain folks that want a no fuss picture website.
+\item
+  \textbf{Power:} nondelusional keen photographers.
+\item
+  \textbf{Pro:} delusional ``serious'' photographers.
+\end{enumerate}
+
+Only paparazzi, porn, wedding, fashion, sports and National Geographic
+photographers are making any money taking pictures these days. If you
+don't fall into any of these classes my guess is that you are spending
+more on photography than you are making. SmugMug harbors
+many photographers attempting to sell their pictures. I would never buy
+a picture nor would I expect to sell one. I see many shots on sale that
+aren't as good as many I've made for free. There are billions of cameras
+in the wild these days. Photography is not exempt from the law of supply
+and demand. When the supply is nearly infinite what do you expect the
+price to be? This is why newspapers are laying off staff photographers
+and small photography studios have mostly gone out of business. As a
+keen amateur photographer this saddens me but as a right-wing
+libertarian death beast it warms my dark evil heart that most of the
+``photographers'' being discarded are rent seeking nitwits playing
+\href{http://www.magnumphotos.com/C.aspx?VP3=CMS3\&VF=MAGO31\_10\_VForm\&ERID=24KL53ZMYN}{Henri
+Cartier-Bresson.} Still photography is no longer a viable personal
+business! We're deep into another age people. Now that you see where I'm
+coming from let's get on with what's good and bad about the new SmugMug.
+
+\medskip
+
+Let's start with the good stuff:
+
+\begin{enumerate}
+\item
+  \textbf{Stretchy layouts:} The new website does a better job of
+  automatically adapting to a variety of display devices. I've browsed
+  \href{http://conceptcontrol.smugmug.com/}{my own site} on phones,
+  tablets, laptops and giant desktop displays. It looks OK on all of
+  them and great on tablets and laptops.
+\item
+  \textbf{Easy customization and layout tweaking:} It took me all of ten
+  minutes to figure out the new layout controls. Programming \emph{easy
+  nontrivial} customization is hard. Here the SmugMug programmers have
+  brilliantly succeeded. I know enough about JavaScript, CSS and HTML to
+  roll my own designs but photography is a hobby; I'd rather spend my
+  time taking and refining pictures that writing JavaScript to display
+  them.
+\item
+  \textbf{Better overall site organization:} The new site organizer is a
+  significant improvement on older methods and allowing deeper directory
+  paths will be appreciated by many.
+\item
+  \textbf{An improved and better integrated mapping facility:}
+  Displaying geotagged images on old SmugMug was somewhat jarring. The
+  control was clunky and it didn't match your site design. The new
+  control adapts to your layout and ``circle'' area browsing is slick
+  and intuitive.
+\end{enumerate}
+
+Now for the dark side:
+
+\begin{enumerate}
+\item
+  \textbf{Website migration has hiccups:} My site has over two thousands
+  images. I didn't expect the migration to the new layout to be without
+  problems and it wasn't. For me the biggest problem was the handling of
+  keywords. The new site does not properly display keyword strings if
+  the ``;'' delimiter is used. I have thousands of pictures with
+  ``keywords'' like:
+
+\begin{verbatim}
+    5x5;capillary;glass;microscope;polywater;ultra;
+\end{verbatim}
+
+  The ``;'' character delimits separate words. It should be displayed
+  like:
+
+\begin{verbatim}
+    5x5 | capillary | glass | microscope | polywater | ultra
+\end{verbatim}
+
+  When you click on the ``;'' string it is interpreted as a ``find all
+  images with all these keywords'' request which is usually the very
+  image you are browsing. This is mostly a display problem. The
+  individual keywords were properly parsed and loaded.
+\item
+  \textbf{Custom API applications break:} I use a custom application I
+  wrote to synchronize my SmugMug online galleries with my offline
+  \href{http://www.cerious.com/}{ThumbsPlus} databases. This application
+  issues SmugMug REST API calls to collect and update image metadata.
+  When I migrated I expected this application to stop working and it
+  did. It looks like I need to authenticate my application with the new
+  SmugMug site. There are no \emph{easily found instructions} on how to
+  do this. I hope this is just an oversight and that power users can
+  still run custom API applications.
+\item
+  \textbf{The new map control is limited to one hundred images:} The
+  slick circle browser map control will only display one hundred images
+  and there is no easy way to set it to map pictures in a particular
+  gallery. The old clunky control allowed two hundred pictures and it
+  could display arbitrary galleries.
+\end{enumerate}
+
+I could go on but I program for a living. I know users always whine
+about change and seldom express gratitude for all the hard work the code
+monkeys of the world do to keep the lights on. Overall the new SmugMug
+is better than the old. There are problems but for a first production
+cut this is fine work. It certainly merits one prestigious Analyze the
+Data not the Drivel \emph{attaboy} award. See the following to print
+your award.
+
+
+%{[}caption id=``'' align=``aligncenter''  width=``640''{]}
+%\href{http://www.dilbert.com/}{\includegraphics{dilbert-attaboy.png}}
+%Dilbert almost gets an Attaboy. What would we do without Dilbert? For
+%more click and enjoy.
+%{[}/caption{]}
+
+\begin{figure}[htbp]
+\centering
+\href{http://www.dilbert.com/}{\includegraphics[width=0.80\textwidth]{dilbert-attaboy.png}}
+\caption{Dilbert almost gets an Attaboy. What would we do without Dilbert? For more click and enjoy.}
+\label{fig:4126X1}
+\end{figure}
+
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{newsmugss.jpg}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:4126X0}
+%\end{floatingfigure}
+%\end{figure}
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{dilbert-attaboy.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:4126X1}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

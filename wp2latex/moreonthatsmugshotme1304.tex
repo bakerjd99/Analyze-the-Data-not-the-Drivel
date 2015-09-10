@@ -1,0 +1,40 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2011/04/20/more-on-that-smugshot-metadata-mess/}{More on that SmugShot Metadata Mess}}
+\addcontentsline{toc}{subsection}{More on that SmugShot Metadata Mess}
+
+
+\noindent\emph{Posted: 21 Apr 2011 00:06:49}
+\vspace{6pt}
+
+A few days after posting a \href{http://www.box.net/shared/qlp4999qre}{J
+script} that fixes \href{http://www.exif.org/}{EXIF} timestamps in
+\href{http://www.smugmug.com/iphone/smugshot/}{SmugShot} images SmugMug
+changed the filename assigned to downloaded SmugShot images.
+Originally the layout was:
+
+\vspace{4pt}
+\textbf{\emph{SmugMugID}\_smugshot\_\emph{SmugShotID}.jpg}
+\vspace{4pt}
+
+This layout was inconsistent with the way SmugMug normally handles
+files. Default SmugMug behavior is to \textbf{leave filenames
+unchanged}. This contrasts with other photo sites,
+(\href{http://www.flickr.com/}{you know who you are}), \emph{that rename
+your sacred files to suit their indexing schemes.} A few days ago
+SmugMug corrected this discrepancy and downloaded SmugShot images
+reverted to their original format:
+
+\vspace{4pt}
+\textbf{smugshot\_\emph{SmugShotID}.jpg}
+\vspace{4pt}
+
+This fix broke \texttt{smugshotexif}: see:
+\href{http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/}{my
+previous post}. I have modified
+\href{http://www.box.net/shared/qlp4999qre}{\texttt{SmugShotFix.ijs}} to handle
+the current format and the older one. I will keep tweaking this hack
+until SmugShot's sloppy EXIF handling is corrected.
+
+
+%\end{document}

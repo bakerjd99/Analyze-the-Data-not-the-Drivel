@@ -1,0 +1,123 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/}{WordPress to \LaTeX\ with Pandoc and J: \LaTeX\ Directories (2)}}
+\addcontentsline{toc}{subsection}{WordPress to \LaTeX\ with Pandoc and J: \LaTeX\ Directories (2)}
+
+
+\noindent\emph{Posted: 19 Feb 2012 00:32:46}
+\vspace{6pt}
+
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[r]{0.25\textwidth}
+\centering
+\includegraphics[width=0.23\textwidth]{i-mNK4RHL-M.png}
+\caption{WordPress to \LaTeX}
+\label{fig:2374X0}
+\end{floatingfigure}In this post I will describe the \LaTeX\ directory structure the J script
+\href{http://www.box.com/s/9v5b6ub9cya108c03mr7}{\texttt{TeXfrWpxml.ijs}}
+is expecting. To convert WordPress export XML to \LaTeX\ with this script
+you will have to set up similar directories.
+
+\LaTeX\ documents are built from \texttt{*.tex}\footnote{
+\LaTeX\ uses many other file types but key files
+are usually \texttt{*.tex} files.
+} files.
+This makes \LaTeX\ more like a compiled programming language than a word
+processing program. There are advantages and disadvantages to the \LaTeX\
+way. In \LaTeX's favor, the system is enormously adaptable, versatile and
+powerful. There is very little that \LaTeX/\TeX\ and
+\href{http://www.amazon.com/LaTeX-Companions-Third-Revised-Boxed/dp/0321514432}{associates}
+cannot do. Unfortunately,
+``\href{http://www.youtube.com/watch?v=IKmQW7JTb6s}{with great power
+comes great responsibility.}'' \LaTeX\ is demanding! You have to study
+\LaTeX\ like any other programming language. It's not for everyone but for
+experienced users it's the best way to produce documents with the
+highest typographic standards.
+
+\paragraph{\LaTeX\ directory structure}
+
+To use \LaTeX\ efficiently it's wise to pick a document directory
+structure and \emph{stick with it.} I use a simple directory layout. Each
+document has a root directory. The root directory used by
+\texttt{TeXfrWpxml.ijs~}is:
+
+\begin{center}
+\begin{tabular}{lp{0.45\textwidth}} 
+   Windows          & \texttt{c:/pd/blog/wp2latex}  \\ 
+   Linux            & \texttt{/home/john/pd/blog/wp2latex}            \\ 
+\end{tabular}
+\end{center}
+
+\noindent I put my document specific \texttt{*.tex}, \texttt{*.bib},
+\texttt{*.sty} and other \LaTeX/\TeX\ files in the root. To handle graphics
+I create an immediate subdirectory called \texttt{inclusions}.
+\begin{verbatim}
+c:/pd/blog/wp2latex/inclusions
+\end{verbatim}
+The inclusions directory holds the document's \texttt{*.png},
+\texttt{*.jpg}, \texttt{*.pdf}, \texttt{*.eps} and other graphics files.
+To reference files in the inclusions directory with the standard \LaTeX\
+\texttt{graphicx} package insert
+\begin{verbatim}
+\usepackage{color,graphicx,subfigure,sidecap}
+\graphicspath{{./inclusions/}}
+\end{verbatim}
+in your preamble. Finally, to track document changes I create a
+\href{http://git-scm.com/}{GIT} repository in the root directory.
+\begin{verbatim}
+c:/pd/blog/wp2latex/.git
+\end{verbatim}
+
+\paragraph{Self contained directories}
+
+I take care to keep my document directories \emph{self-contained}.
+Zipping up the root and inclusions directory collects \emph{all} the
+document's files. This means that I sometimes have to copy files that
+are used in more than one document. Many \LaTeX\ users maintain a common
+directory for such files but I've found that common directories
+complicate moving documents around. You're always forgetting something
+in the damn common directory or you are copying a
+\href{http://www.urbandictionary.com/define.php?term=buttload}{buttload}
+of mostly irrelevant files from one big confusing common directory to
+another.
+
+\paragraph{TeXfrWpxml.ijs files}
+
+The \texttt{TeXfrWpxml.ijs~}script searches for these files in the root
+directory.
+
+\begin{center}
+\begin{tabular}{lp{0.45\textwidth}} 
+   \texttt{bm.tex}         & Main LaTeX root file  \\ 
+   \texttt{bmamble.tex}    & \href{http://www.charlietanksley.net/philtex/my-idosyncratic-latex-preamble/}{\LaTeX\
+preamble}            \\ 
+\end{tabular}
+\end{center}
+
+\noindent\texttt{bm.tex} references \texttt{bmtitlepage.tex}. I prefer a separate
+title page file; simply comment out this file if you create titles in
+other ways. \textbf{The zip file
+\href{http://www.box.com/s/nioua15kpdod5lvruaxe}{\texttt{wp2latex.zip}}
+contains a test directory in the format expected by
+\texttt{TeXfrWpxml.ijs}.} It also has a subset of my blog posts already
+converted to \LaTeX. To get ready for
+\href{http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/}{WordPress
+to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (3)} download
+\texttt{wp2latex.zip} and attempt to compile \texttt{bm.tex}. You might
+have to download a number of LaTeX packages. Once you have successfully
+compiled \texttt{bm.tex~}you are ready for the next step.
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{i-mNK4RHL-M.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:2456X0}
+%\end{floatingfigure}
+%\end{figure}
+
+%%% HTML table in source - edits required
+
+%\end{document}

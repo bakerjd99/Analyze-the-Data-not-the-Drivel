@@ -1,0 +1,97 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2010/02/05/smugmug-duplicate-image-hunting/}{SmugMug Duplicate Image Hunting}}
+\addcontentsline{toc}{subsection}{SmugMug Duplicate Image Hunting}
+
+
+\noindent\emph{Posted: 05 Feb 2010 18:07:45}
+\vspace{6pt}
+
+One of the many things the developers of
+\href{http://www.cerious.com/}{Thumbsplus} got right was a proper
+\href{http://en.wikipedia.org/wiki/Database\_normalization}{normalized
+database schema}. When I first inspected the layout of a Thumbsplus
+database I knew I was in good hands. In Thumbsplus image files get
+unique keys and image galleries are simply lists of image keys. Images
+can appear in any number of galleries, without duplication, just the way
+the gods of database design intended.
+
+Assigning unique keys and grouping by key lists is \emph{so correct}
+that it was a shock to discover that
+\href{http://www.smugmug.com/}{SmugMug}, until recently, eschewed this
+principle. Prior to a recent upgrade if you wanted to display an image
+in more than one gallery you had to \emph{\ldots{} shudder with horror
+\ldots{}}. make copies! Whenever I made an image copy I felt like I was
+\href{http://www.goarticles.com/cgi-bin/showa.cgi?C=1331827}{masturbating
+in an art museum.}
+
+This outrage is now fixed and you can place an image in as many
+galleries as you want without copying. Unfortunately there is a
+\emph{residual} problem. How do you hunt down and exterminate all your
+bogus copies? In an acronym:
+\href{http://www.fastsum.com/support/md5-checksum-utility-faq/md5-hash.php}{MD5}.
+SmugMug assigns MD5' s to all images. If two MD5's are the same there is
+an extremely high likelihood you are dealing with copies. So all you
+have to do is find images with identical MD5's and delete the extra
+copies. The following \href{http://www.jsoftware.com/}{J verb} uses image
+tables created from the XML captured by my
+\href{http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/}{SmugMug
+metadata dumper} to do just this.
+
+
+%[sourcecode gutter="false" wraplines="false"]
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr369X0]
+SmugDupsFrMD5=:3 : 0
+
+NB.*SmugDupsFrMD5 v-- duplicate SmugMug images from MD5.
+NB.
+NB. monad:  btct =. SmugDupsFrMD5 clDirectory
+NB.
+NB.   SmugDupsFrMD5 'c:\pd\docs\smugmug\data\'
+
+NB. read table files
+path=.tslash y
+albums=. readtd2 path,SMUGALBUMTABLE
+images=. readtd2 path,SMUGIMAGETABLE
+images=. }. images [ imhead=. 0 { images
+
+NB. all duplicate MD5's
+pos=. imhead i. <'MD5'
+md5=. pos {"1 images
+dup=. md5 #~ -. ~:md5
+images=. (md5 e. dup)#images
+images=. (/: pos {"1 images) { images
+
+NB. remove images with matching smugmug pids
+NB. these are proper virtual images and not copies
+pos=. imhead i. <'PID'
+pid=. pos {"1 images
+dup=. pid #~ -. ~:pid
+if. #images=. (-.pid e. dup)#images do.
+
+  NB. retain selected columns and insert album names
+  images=. (imhead i. ;:'FILENAME GID PID MD5 ALBUMURL') {"1 images
+  albums=. ((0 {"1 albums) i. 1 {"1 images){ 1 {"1 albums
+  images=. albums (<a:;1)} images
+
+  NB. group by MD5
+  images=. (~:3 {"1 images) <;.1 images
+  images=. >&.>@:(<"1@|:) &> images
+
+  NB. order MD5 groups by galleries in groups
+  NB. this results in a good order for editing
+  NB. out the duplicates on SmugMug
+  images=. (\:&.> 1 {"1 images) {&.> images
+  (\: 0 {&> 1 {"1 images){images
+else.
+  NB. no duplicates
+  0 5$''
+end.
+)
+\end{lstlisting}
+
+J source is not supported by the WordPress source code plugin so no
+syntax coloring for now.
+
+
+%\end{document}

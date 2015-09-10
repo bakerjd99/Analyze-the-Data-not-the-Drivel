@@ -1,0 +1,107 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2013/12/29/fun-with-farsi-text-in-latex/}{Fun with Farsi Text in \LaTeX}}
+\addcontentsline{toc}{subsection}{Fun with Farsi Text in \LaTeX}
+
+
+\noindent\emph{Posted: 30 Dec 2013 03:41:03}
+\vspace{6pt}
+
+\emph{Analyze the Data not the Drivel} is a mouthful. This blog needs a
+short symbolic name. For sometime I have used ADND myself but that's to
+close to
+\href{http://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd/index.shtml}{ADHD}
+for comfort. However if we treat ADND as a simple algebraic expression
+it becomes:
+
+\Huge
+\[ ad^2n \]
+\normalsize
+
+This is better but still not cool! If we replace Latin characters with
+colored Farsi equivalents and reverse the order we get:
+
+
+%{[}caption id=``attachment\_4451'' align=``aligncenter''  width=``300''{]}
+%\href{http://bakerjd99.wordpress.com/2013/12/29/fun-with-farsi-text-in-latex/adndsymbol/}{\includegraphics{adndsymbol.png}}
+%The new symbolic name and logo for Analyze the Data not the
+%Drivel.
+%{[}/caption{]}
+
+\captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+\href{http://bakerjd99.wordpress.com/2013/12/29/fun-with-farsi-text-in-latex/adndsymbol/}{\includegraphics[width=0.23\textwidth]{adndsymbol.png}}
+\caption{The new symbolic name and logo for Analyze the Data not the Drivel.}
+\label{fig:4452X0}
+\end{figure}
+
+
+To generate this with \LaTeX\ you need a version that handles UTF-8
+Unicode. I used Lua\LaTeX. ~You also need an OTF or TTF font with Farsi
+or Arabic characters. The following \LaTeX\
+\href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/tree/master/logos}{snippet generates my logo}.
+
+
+%{[}code language=``latex''{]}
+
+%\lstset{style=smallersource}
+
+% Note: the farsi characters in the text would have to 
+% be defined in for lstlisting/verbatim to show them. I wussed out
+% and suppressed the code inclusion for now
+
+%\begin{lstlisting}[language=TeX,frame=single,framerule=0pt,label=lst:scr4452x0]
+% process with LuaLaTeX file encoding is utf8
+%
+%\documentclass[12pt]{article}
+%
+%\usepackage{fontspec}
+%\setmainfont{Arial}
+%\setmonofont{Courier New Bold}
+%
+%\usepackage{color}
+%\usepackage[dvipsnames]{xcolor}
+%
+%\begin{document}
+
+%\begin{verbatim}
+
+% unicode oriented ttf font 
+%\setmainfont{IranNastaliq}
+
+% ADND blog symbol - arabic/farsi text must end
+% the line or the editor will break your parentheses
+%\Huge
+%
+%$$ \textrm{\textcolor{Red}{ن
+%}}^2
+%\textrm{\textcolor{Green}{د
+%}}
+%\textrm{\textcolor{Blue}{ا
+%}}
+%$$ 
+%
+%\normalsize
+%\end{verbatim}
+
+%\end{document}
+%\end{lstlisting}
+
+
+%{[}/code{]}
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{adndsymbol.png}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:4452X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}

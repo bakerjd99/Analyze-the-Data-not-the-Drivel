@@ -1,0 +1,122 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2011/06/10/jod-comes-to-linux/}{JOD comes to Linux}}
+\addcontentsline{toc}{subsection}{JOD comes to Linux}
+
+
+\noindent\emph{Posted: 10 Jun 2011 13:00:52}
+\vspace{6pt}
+
+For years I have distributed a
+\href{http://www.jsoftware.com/jwiki/Addons}{J Addon} called
+\href{http://bakerjd99.wordpress.com/the-jod-page/}{JOD}. JOD stands for
+\textbf{J} \textbf{O}bject \textbf{D}ictionary. JOD is a code database
+for the J programming language. Instead of storing my J programs in text
+files, \emph{like every other programmer in the world}, I break them
+down into the smallest reusable units. In J parlance I split my scripts
+into \emph{words.}
+
+If you are an experienced programmer I wouldn't blame you for
+questioning my sanity. What could possibly be gained by discounting good
+old-fashioned, superbly supported, ASCII/UTF8 text files? The short
+answer, \emph{in trendy software
+\href{http://ee.cleversoul.com/fun/engspeak.html}{engineer speak},} is
+\href{http://c2.com/cgi/wiki?WhatIsRefactoring}{refactoring}. JOD is a
+refactoring engine that works at the J word level.
+
+What does \emph{the word level} mean? Program text files are collections
+of many ``words.'' They roughly correspond to sentences, paragraphs,
+sections and chapters in ordinary books. When you \emph{reuse}, or
+quote, a book you typically copy passages and paste them into new
+contexts. Programmers call this cut and paste programming. We have all
+cut and pasted; it's a software sin
+\href{http://c2.com/cgi/wiki?CopyAndPasteProgramming}{our} \href{http://c2.com/cgi/wiki?CopyAndPasteProgramming}{prophets
+are constantly nagging} us about! JOD minimizes cut and paste
+programming. You no longer cut and paste or \emph{include} you simply
+\href{https://docs.google.com/document/d/1Vk-PQrdPEISp0SL4eDaGDgg5HpATarPPvXHryC12I8M/edit?hl=en\_US\&pli=1\#}{get}
+lists of words. J words are closer to English words than you might
+expect: hence this dictionary approach pays big dividends!
+
+With the
+\href{http://bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/}{release
+of J 7.01} it's become clear that Windows is no longer the preeminent J
+platform. The new
+\href{http://www.jsoftware.com/jwiki/System/Installation/J701/Gtk\#Install}{JGTK}
+interface works well on Windows but it \emph{sings} on Linux. This is
+hardly surprising. \href{http://www.gtk.org/}{GTK} originated in the
+Linux/Unix world and still performs best there. Porting JOD to Linux has
+been on my to-do list for years. The arrival of J 7.01 got me off my
+butt.
+
+JOD 0.9.3 is the first publicized Linux release. JOD code is 99\% J and
+makes limited use of OS facilities. The port consisted of finding Linux
+equivalents for a handful of Windows API calls. The always helpful J
+community provided useful pointers. Joey Tuttle and Bill Lam basically
+solved my Linux
+\href{http://en.wikipedia.org/wiki/Globally\_unique\_identifier}{GUID}
+and file handling problems. Thanks guys.
+
+My biggest chore was updating
+\href{https://docs.google.com/document/d/1pR1kc27OwTEGZ4BavhYT4RVvAtlEEUzueT9T-URY9t0/edit?hl=en\_US}{JOD
+online documentation}. In recent months
+\href{https://docs.google.com}{Google Documents} changed the format of
+their word processing documents. Google provided an upgrade tool to
+convert old documents to the new format but it:
+
+\begin{enumerate}
+\item
+  Did not remap scores of old URLs to new URLs. I had to go through
+  every document doing this one link at a time!
+\item
+  Totally wrecked a few documents. I reconstructed
+  \href{https://docs.google.com/document/d/1aBdt8rwdOq\_CQ52qRQ-js1MwiaovC2pxlQq-Z9VosOg/edit?hl=en\_US}{JOD
+  Release Notes} from version control logs.
+\end{enumerate}
+Despite these irritants the new format is better. You can attach
+comments and download documents in
+\href{http://www.coolutils.com/Formats/ODT}{ODT}, PDF, Word, HTML and
+ZIP formats. If you find problems with my documents please leave notes.
+
+I am not completely satisfied with some restrictions imposed by JOD
+0.9.3.
+
+\begin{enumerate}
+\item
+  JOD creates dictionaries in user home directories like
+  \texttt{/home/user/jod/...} and assumes it has the rights to create,
+  write, copy and erase JOD files and directories.
+\item
+  No blanks in file paths, i.e., \texttt{/home/i like blanks/but jod doesnt/...}
+  will not work.
+\item
+  Dictionary paths must begin with a forward slash, i.e., \texttt{/home/is/ok/}
+  but \ensuremath{\sim}\texttt{is/nada}
+\item
+  Volume sizing reports the smallest amount of free space on all mounted
+  volumes and not the free space on the volume containing JOD
+  directories. I just don't know how to do this on Linux.
+\item
+  \href{http://www.box.net/shared/gajfu50gc0}{jod.pdf} has not been
+  updated.
+\end{enumerate}
+I am sure there are other problems and limitations that I have missed.
+For more see:
+\href{https://docs.google.com/document/d/18pwvvpeuJiU\_HCsuReiKyOxmZORrlMRe45OYE\_cWq0w/edit?hl=en\_US}{Linux
+Notes}. I will be releasing fixes and upgrades via
+\href{http://www.jsoftware.com/jwiki/JAL/User\%20Guide}{JAL} and on
+\href{http://bakerjd99.wordpress.com/the-jod-page/}{the JOD page}. Give
+JOD a whirl. It might change your J ways.
+
+
+%{[}googleapps domain=``docs'' dir=``present/embed''  query=``id=dhnms2p5\_129fr9jcwht'' width=``410'' height=``342'' /{]}
+
+\captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+\href{https://docs.google.com/present/edit?id=0AXhRbt360vl5ZGhubXMycDVfMTI5ZnI5amN3aHQ}{\includegraphics[width=0.40\textwidth]{jodslideshow.png}}
+\caption{Click for a Google JOD slide show}
+\label{fig:jodshow}
+\end{figure}
+
+
+%\end{document}

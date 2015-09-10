@@ -1,0 +1,96 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2012/05/16/gpx-from-google-maps-kml-j-script/}{GPX from Google Maps KML J Script}}
+\addcontentsline{toc}{subsection}{GPX from Google Maps KML J Script}
+
+
+\noindent\emph{Posted: 17 May 2012 03:50:01}
+\vspace{6pt}
+
+In preparation for my Arizona jaunt to watch the May
+20\textsuperscript{th}
+\href{http://eclipse-maps.com/Eclipse-Maps/Gallery/Pages/Annular\_solar\_eclipse\_of\_2012\_May\_20.html}{annular
+eclipse} I spent a few hours on Google Maps selecting locations to
+visit. Here are my prime targets.
+
+\captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+\href{http://maps.google.com/maps/ms?msid=213851645709730088342.0004bd67c9be9e39b4797&msa=0}{\includegraphics[width=0.35\textwidth]{arizona-aect.png}}
+\caption{Click for current map}
+\label{fig:119X0}
+\end{figure}
+
+%{[}googlemaps  http://maps.google.com/maps/ms?msa=0\&msid=213851645709730088342.0004bd67c9be9e39b4797\&hl=en\&ie=UTF8\&t=m\&ll=35.215307,-111.704516\&spn=3.559403,1.36533\&output=embed\&w=375\&h=300{]}
+
+After selecting targets the next step is to load them onto my ``GPS
+device.'' Currently my GPS device is the
+\href{http://gps.motionx.com/iphone/overview/}{MotionX GPS iPhone} app.
+MotionX can read GPX files in many ways \emph{but you need
+\href{http://www.topografix.com/gpx.asp}{GPX} files not Google Maps
+\href{https://developers.google.com/kml/documentation/}{KML} files.}
+Converting KML to GPX is a recurring nuisance. I've used
+\href{http://kml2gpx.com/}{online converters} for this chore but today,
+after being annoyed by this problem for the zillionth time, I dashed off
+a \href{http://www.jsoftware.com/jwiki/FrontPage}{J script} that
+transforms Google Maps KML to GPX. The main verb \texttt{gpxfrmapkml} is
+shown below. The
+\href{https://www.box.com/s/09dc770e4821500d222b}{entire script is
+available here} and in the files sidebar. Browse to the J Scripts
+directory. Happy KML to GPX'ing my friends.
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%[sourcecode wraplines="false" gutter="false" autolinks="false"]
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr2767X0]
+
+gpxfrmapkml=:3 : 0
+
+NB.*gpxfrmapkml v-- gpx from Google maps kml.
+NB.
+NB. monad:  clGpx =. gpxfrmapkml clKml
+NB.
+NB.   NB. download Google map waypoints as kml
+NB.   kml=. read 'c:/temp/arizona annular eclipse.kml'
+NB.
+NB.   NB. convert to gpx and save
+NB.   gpx=. gpxfrmapkml kml
+NB.   gpx write 'c:/temp/arizona annular eclipse.gpx'  
+
+NB. parse kml form waypoint table
+dname=. ;'name' geteletext '<Placemark>' beforestr y
+wpt=.   ;'Placemark' geteletext y
+wpt=.   ('name' geteletext wpt) ,. <;._1&> ','&,&.> 'coordinates' geteletext wpt
+hdr=.   ;:'phototitle longitude latitude'
+
+NB. format gpx header 
+gpxstamp=.   'Waypoints: ',(":#wpt),' GPX generated: ',timestamp''
+gpxheader=.  '/{{headername}}/',dname,'/{{headerdescription}}/',gpxstamp
+gpxheader=.  gpxheader changestr GPXFRKMLHEADER
+gpxtrailer=. GPXTRAILER
+
+'idx pkml'=. HTMLVARBPATTERN patpartstr GPXSMUGPLACEMARK
+rvarbs=. idx htmlvarbs pkml
+
+NB. all row varibles must exist in data header
+assert. *./ rvarbs e. hdr
+rows=. (#wpt) # ,: pkml
+rows=. ((hdr i. <'phototitle'){"1 wpt) (<a:;(rvarbs i. <'phototitle'){idx)} rows
+rows=. ((hdr i. <'latitude'){"1 wpt) (<a:;(rvarbs i. <'latitude'){idx)} rows
+rows=. ((hdr i. <'longitude'){"1 wpt) (<a:;(rvarbs i. <'longitude'){idx)} rows
+
+gpxheader,(;rows),gpxtrailer
+)
+\end{lstlisting}
+
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:295X0}
+%\end{floatingfigure}
+
+
+
+%\end{document}

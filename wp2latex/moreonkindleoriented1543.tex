@@ -1,0 +1,171 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://bakerjd99.wordpress.com/2011/07/22/more-on-kindle-oriented-latex/}{More on Kindle Oriented \LaTeX}}
+\addcontentsline{toc}{subsection}{More on Kindle Oriented \LaTeX}
+
+
+\noindent\emph{Posted: 22 Jul 2011 16:09:01}
+\vspace{6pt}
+
+%\href{http://www.personal.psu.edu/ixc128/latex.html}{\includegraphics{lion.jpg}}
+\captionsetup[floatingfigure]{labelformat=empty}
+\begin{floatingfigure}[l]{0.20\textwidth}
+\centering
+\href{http://www.personal.psu.edu/ixc128/latex.html}{\includegraphics[width=0.18\textwidth]{lion.jpg}}
+\label{fig:1543X0}
+\end{floatingfigure}I've been compiling \LaTeX\
+\href{http://www.fileinfo.com/extension/pdf}{PDFs} for the Kindle. If
+you like \LaTeX\ typefaces, especially mathematical fonts, you'll
+love how they render on the Kindle. It's a good thing because \emph{you
+won't like the Kindle's cramped page dimensions.} For simple flow-able
+text this isn't a big deal but for complex \LaTeX\ documents it
+is!
+
+There are two basic \LaTeX\ $\Longrightarrow$ Kindle workflows.
+
+\begin{enumerate}
+\item
+  Convert your \LaTeX\ to
+  \href{http://www.fileinfo.com/extension/html}{HTML} and then convert
+  the HTML to
+  \href{http://pcsupport.about.com/od/fileextensions/f/mobifile.htm}{mobi}.
+\item
+  Compile your \LaTeX\ for Kindle page dimensions.
+\end{enumerate}
+For \emph{simple math and figure free documents} mobi is the best choice
+because \emph{it's a native Kindle format}. You will be able to re-flow
+text and change font sizes on the fly. There are many \LaTeX\ to
+HTML converters. \href{http://enc.com.au/docs/latexhtml/}{This is a good
+summary} of your options. You can also find a variety of HTML to mobi
+converters. I've used
+\href{http://sourceforge.net/projects/autokindle/}{Auto Kindle}; it's
+slow but produces decent results.
+
+Compiling \LaTeX\ for Kindle page dimensions is more work. First
+decide what works best for your document: \emph{landscape} or
+\emph{portrait}. Portrait is the Kindle default but I've found that
+landscape is better for math and figure rich documents. You can flip
+back and forth between landscape and portrait on the Kindle but it will
+not re-paginate PDFs. Of course with mobi this is
+\href{http://www.youtube.com/watch?v=4QWfrxYt9DQ\&NR=1}{no problemo}!
+
+After choosing a basic layout expunge all hard-coded lengths from your
+source \texttt{*.tex} files. Replace all fixed lengths with \emph{relative page}
+lengths. For example, 4 inches might become \verb|0.75\textwidth|. If
+you have hundreds of figures and images to adjust write a little program
+to replace fixed lengths. I did this while
+\href{http://bakerjd99.wordpress.com/2011/07/12/open-source-hilbert-for-the-kindle/}{preparing
+a Kindle version} of Hilbert's \emph{Foundations of Geometry.}
+
+The next hurdle to overcome is the Kindle's blase attitude about length
+units. \LaTeX\ is extremely precise: an inch is an inch to six
+decimals. This is not the case on the Kindle! You will have to load your
+PDFs on the Kindle and inspect margins for text overflows. Be prepared
+for a few rounds of page dimension tweaking! For more details about
+preparing \LaTeX\ source check out
+\href{http://www.faqoverflow.com/tex/16735.html}{\LaTeX\ Options for
+Kindle}.
+
+Finally, after you have compiled your PDF and loaded it on your Kindle,
+there are some Kindle options you should set to optimize your PDF
+reading experience. My next post will walk you through setting these
+options.
+
+The following \texttt{*.tex} file loads packages that are useful for Kindle
+sizing. It also shows how to print out \LaTeX\ dimensions with the
+\href{http://www.ctan.org/pkg/printlen}{printlen} package.
+
+%[sourcecode wraplines="false" gutter="true" autolinks="false"]
+\lstset{style=smallersource}
+\begin{lstlisting}[language=TeX,frame=single,framerule=0pt,label=lst:scr1543X0]
+% A simple test document that displays some packages and settings
+% that are useful when compiling LaTeXe documents for the Kindle.
+% Compile with pdflatex or xelatex.
+%
+% Tested on MikTeX 2.9
+% July 22, 2011
+
+\documentclass[12pt]{article}
+
+% included graphics in immediate subdirectory
+\usepackage{graphicx}
+\graphicspath{{./image/}}
+
+% extended coloring
+\usepackage[usenames,dvipsnames]{color}
+
+% hyperref link colors are chosen to display
+% well on Kindle monochrome devices
+\usepackage[colorlinks, linkcolor=OliveGreen, urlcolor=blue,
+            pdfauthor={your name}, pdftitle={your title},
+            pdfsubject={your subject},
+            pdfcreator={MikTeX+LaTeXe with hyperref package},
+            pdfkeywords={your,key,words},
+            ]{hyperref}
+
+\usepackage{breqn}      % automatic equation breaking
+\usepackage{microtype}  % microtypography, reduces hyphenation
+
+% kindle page geometry (no page numbers)
+%\usepackage[papersize={3.6in,4.8in},
+%            hmargin=0.1in,vmargin={0.1in,0.1in}]{geometry}
+
+% portrait kindle page geometry space reserved for page numbers
+\usepackage[papersize={3.6in,4.8in},
+            hmargin=0.1in,vmargin={0.1in,0.255in}]{geometry}
+
+% landscape geometry
+%\usepackage[papersize={4.8in,3.6in},
+%            hmargin={0.1in,0.18},vmargin={0.1in,0.255in}]{geometry}
+
+% headers and footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}      % clear page header
+\fancyfoot{}      % clear page footer
+
+\setlength{\abovecaptionskip}{2pt} % space above captions
+\setlength{\belowcaptionskip}{0pt} % space below captions
+
+% space between last top float or first bottom float and the text
+\setlength{\textfloatsep}{2pt} 
+\setlength{\floatsep}{2pt}  % space left between floats
+\setlength{\intextsep}{2pt} % space left on top and bottom of an in-text float
+
+% print LaTeX dimensions
+\usepackage{printlen}
+
+% reduces footer text separation adjusted for page numbers
+\setlength{\footskip}{14pt}
+
+% scales page number font size if document is 12pt -> page numbers 10 pt
+\renewcommand*{\thepage}{\footnotesize\arabic{page}}
+
+\begin{document}
+
+The \verb|\textwidth| is \printlength{\textwidth} which is also
+\uselengthunit{in}\printlength{\textwidth} and
+\uselengthunit{mm}\printlength{\textwidth}.
+
+\uselengthunit{pt}
+The \verb|\textheight| is \printlength{\textheight} which is also
+\uselengthunit{in}\printlength{\textheight} and
+\uselengthunit{mm}\printlength{\textheight}.
+
+\end{document}
+\end{lstlisting}
+\lstset{style=resetdefaults}
+
+%\captionsetup[floatingfigure]{labelformat=empty}
+%\begin{figure}[htbp]
+%\begin{floatingfigure}[l]{0.25\textwidth}
+%\centering
+%\includegraphics[width=0.23\textwidth]{lion.jpg}
+%\caption{~~~IMCAPTION~~~}
+%\label{fig:1543X0}
+%\end{floatingfigure}
+%\end{figure}
+
+
+
+%\end{document}
