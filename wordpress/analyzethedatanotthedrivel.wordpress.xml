@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2015-09-10 19:27"-->
+<!-- generator="WordPress.com" created="2016-01-11 14:56"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>https://bakerjd99.wordpress.com</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Thu, 10 Sep 2015 19:27:19 +0000</pubDate>
+<pubDate>Mon, 11 Jan 2016 14:56:15 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -788,6 +788,11 @@
   <wp:tag_name><![CDATA[cartoon]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>302177</wp:term_id>
+  <wp:tag_slug>cashflow</wp:tag_slug>
+  <wp:tag_name><![CDATA[cashflow]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>20576</wp:term_id>
   <wp:tag_slug>cell-phone</wp:tag_slug>
   <wp:tag_name><![CDATA[cell-phone]]></wp:tag_name>
@@ -1333,6 +1338,11 @@
   <wp:tag_name><![CDATA[flickr]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>581590</wp:term_id>
+  <wp:tag_slug>forecasting</wp:tag_slug>
+  <wp:tag_name><![CDATA[forecasting]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>815468</wp:term_id>
   <wp:tag_slug>forest-park</wp:tag_slug>
   <wp:tag_name><![CDATA[Forest Park]]></wp:tag_name>
@@ -1826,6 +1836,11 @@
   <wp:term_id>64923</wp:term_id>
   <wp:tag_slug>joseph-smith</wp:tag_slug>
   <wp:tag_name><![CDATA[Joseph Smith]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>25570186</wp:term_id>
+  <wp:tag_slug>jqt</wp:tag_slug>
+  <wp:tag_name><![CDATA[JQT]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>8423020</wp:term_id>
@@ -8708,183 +8723,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4175/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:49 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4175</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4175</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:49</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:49</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4175</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>18</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4177/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:52 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4177</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4177</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:52</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:52</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4177</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>20</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[457]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4178/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:54 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4178</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4178</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:54</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:54</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4178</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>21</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>https://bakerjd99.wordpress.com/?attachment_id=4361</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -9915,6 +9753,75 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/09/captionsuggestion1.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>networth</title>
+  <link>https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/networth/</link>
+  <pubDate>Sun, 10 Jan 2016 20:40:47 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/01/networth.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5172</wp:post_id>
+  <wp:post_date>2016-01-10 14:40:47</wp:post_date>
+  <wp:post_date_gmt>2016-01-10 20:40:47</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>networth</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5175</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/01/networth.png</wp:attachment_url>
+</item>
+<item>
+  <title>meanbalance</title>
+  <link>https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/meanbalance/</link>
+  <pubDate>Sun, 10 Jan 2016 20:42:01 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/01/meanbalance.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5173</wp:post_id>
+  <wp:post_date>2016-01-10 14:42:01</wp:post_date>
+  <wp:post_date_gmt>2016-01-10 20:42:01</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>meanbalance</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5175</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/01/meanbalance.png</wp:attachment_url>
+</item>
+<item>
+  <title>jhsswag</title>
+  <link>https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/jhsswag/</link>
+  <pubDate>Sun, 10 Jan 2016 20:42:50 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/01/jhsswag.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5174</wp:post_id>
+  <wp:post_date>2016-01-10 14:42:50</wp:post_date>
+  <wp:post_date_gmt>2016-01-10 20:42:50</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>jhsswag</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5175</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/01/jhsswag.png</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -21506,392 +21413,179 @@ If the Prometheus of myth was as reckless as this "engineer" then Zeus did us a 
   </wp:comment>
 </item>
 <item>
-  <title>Mac JOD</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/27/mac-jod/</link>
-  <pubDate>Wed, 27 Jun 2012 18:39:06 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4175/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:49 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2980</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4175</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="87"]<a href="http://bakerjd99.wordpress.com/the-jod-page/"><img class="       " style="margin-left:5px;margin-right:5px;" title="JOD " src="http://conceptcontrol.smugmug.com/photos/i-zdzdBJj/0/Th/i-zdzdBJj-Th.png" alt="JOD" width="87" height="87" /></a> JOD now runs on the Mac[/caption]
-
-The <a href="http://www.jsoftware.com/jwiki/Addons">J addon</a> JOD now runs on Macs. You can update <a href="http://www.jsoftware.com/jwiki/Addons/general/jod">JOD</a>, or install it for the first time, with <a href="http://www.jsoftware.com/jwiki/JAL">JAL</a>. JOD now runs on all the major J hosts: Windows, Linux and the Mac.
-
-To keep track of host specific features I have started a series of version documents.  The Mac document is <a href="https://docs.google.com/document/d/1J-PUUB-a9UTY9gC-H26Fe8sEfQryGt5cOWRJVYBtVAw/edit?pli=1">here</a>.
-
-At the upcoming <a href="http://www.jsoftware.com/jwiki/Community/Conference2012">J conference</a>, (July 23-24, 2012), in Toronto I will show an iPhone version of JOD. And, as a reward for attending the conference and my little presentation, <em>Writing Portable J addons</em>, I will be raffling off hardcopy <a href="http://www.lulu.com/shop/john-baker/jod-j-object-dictionary/paperback/product-20076245.html">printed versions</a> of the JOD manual.
-
-An updated PDF version of the JOD manual is available <a href="https://www.box.com/shared/gajfu50gc0">here</a>. For more see <a href="http://bakerjd99.wordpress.com/the-jod-page/">The JOD Page</a>.]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2980</wp:post_id>
-  <wp:post_date>2012-06-27 13:39:06</wp:post_date>
-  <wp:post_date_gmt>2012-06-27 18:39:06</wp:post_date_gmt>
+  <wp:post_id>4175</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:49</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:49</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>mac-jod</wp:post_name>
+  <wp:post_name>4175</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>18</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="addon"><![CDATA[addon]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
-  <category domain="category" nicename="j"><![CDATA[J]]></category>
-  <category domain="post_tag" nicename="jod"><![CDATA[JOD]]></category>
-  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
-  <category domain="post_tag" nicename="portable-software"><![CDATA[portable software]]></category>
-  <category domain="post_format" nicename="post-format-standard"><![CDATA[Standard]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1412775448;}]]></wp:meta_value>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
-  <title>Turn your iPhone into a jPhone</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/23/turn-your-iphone-into-a-jphone-2/</link>
-  <pubDate>Sat, 23 Jun 2012 15:24:15 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4177/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:52 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3026</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4177</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/"><img class="alignleft" style="margin-left:8px;margin-right:8px;" title="J for iPhone" alt="J for iPhone" src="http://conceptcontrol.smugmug.com/photos/i-CrNW8Jh/0/Th/i-CrNW8Jh-Th.png" width="72" height="72" />Jsoftware</a> recently released a <em>free</em> <a href="https://itunes.apple.com/us/app/j-programming-language/id532587550?mt=8">J app for the iPhone.</a> Search for “jsoftware” in Apple’s app store and you will land right on it. There are many excellent free iPhone apps, I have half-a-dozen on my iPhone, but this little jewel sets a new standard for power in your palm.
-
-Let’s start with the good news; this is not a crippled version of J. It’s the same high-caliber interpreter that J programmers have used on Windows, Linux and Mac machines for years. Anything this app’s big desktop brothers can do this little app can do. You won’t see the same blistering desktop speed but I think you’ll be pleasantly surprised at how fast this app munches numbers. I have run desktop J since the 1990’s and J on the iPhone 4 matches or beats what I was seeing on laptops ten years ago. This is the real J deal.
-
-Now for a few caveats --- this J app is not a complete J development environment. To meet Apple’s restrictive app store rules C-style APIs, JAL addons, GUI tools and third-party libraries like <a href="http://www.jsoftware.com/jwiki/OpenGL">opengl</a> and<a href="http://www.jsoftware.com/jwiki/Addons/math/lapack"> lapack</a> are not included. With this app you get the J interpreter and a few of the most useful J addons like <a href="http://www.jsoftware.com/jwiki/Plot">plot</a>. Despite these limitations this J app is probably the most powerful, <em>purely local,</em> calculator available for the iPhone.
-
-Don’t believe me? Turn off Wi-Fi and set your iPhone to Airplane mode: Airplane mode cuts off phone and internet access.  Now try computing <a href="https://www.box.com/s/dadb252a1b49635d6c05">the following</a> on your favorite iPhone calculator.
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-NB. generate one million random numbers and average them
-(+/ % #) ? 1000000#10000
-
-NB. generate a 50 50 random matrix, invert it and multiply with the
-NB. original - rounding to the nearest 0.0001 to form an identity matrix
-round=: [ * [: &lt;. 0.5 + %~
-matrix=: ? 50 50 $ 10000
-invmat=: %. matrix
-identity=: 0.0001 round matrix +/ . * invmat
-
-NB. sum of the diagonal elements of matrix (identity) is 50
-50 = +/ (&lt;0 1) |: identity
-
-NB. multiply two polynomials with complex number coefficients
-polyprod=:  +//.@(*/)
-
-NB. complex number coefficients - AjB is J's notation for A + Bi
-poly0=: 2j5 3j7 0 1
-poly1=: 1j2 0 3j7 0 0 2
-poly0 polyprod poly1
-
-NB. prime factorization table of 50 random integers less than one billion
-(&lt;&quot;0 nums) ,: -.&amp;0 &amp;.&gt; &lt;&quot;1 q: nums=.50?1e9
-[/sourcecode]
-
-The J app blows through these examples on my iPhone 4 in a few seconds. Of course this is only a tiny taste of what J on the iPhone is capable of. I have managed to run 1000+ line J scripts on this app. The only desktop J code I have not been able to run depends on external compiled libraries like <a href="http://www.jsoftware.com/help/user/script_regex.htm">regex</a>.
-
-Cell phones are powerful little computers and it’s gratifying to finally see software that can focus that power on something other than <a href="http://itunes.apple.com/us/app/angry-birds/id343200656?mt=8">Angry Birds</a>.  If you’re interested in learning an array oriented functional programming language or if you’re already familiar with J and want to <em>pack serious computational heat</em> then this app is for you!
-
-[caption id="" align="aligncenter" width="400"]<a href="http://www.jsoftware.com/"><img class=" " title="J iPhone app" alt="J iPhone app" src="http://conceptcontrol.smugmug.com/photos/i-qpqg6vn/0/S/i-qpqg6vn-S.png" width="400" height="267" /></a> J running on the iPhone[/caption]]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3026</wp:post_id>
-  <wp:post_date>2012-06-23 10:24:15</wp:post_date>
-  <wp:post_date_gmt>2012-06-23 15:24:15</wp:post_date_gmt>
+  <wp:post_id>4177</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:52</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:52</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>turn-your-iphone-into-a-jphone-2</wp:post_name>
+  <wp:post_name>4177</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>20</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="free-iphone"><![CDATA[free iphone]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="post_tag" nicename="iphone-apps"><![CDATA[iphone apps]]></category>
-  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
-  <category domain="category" nicename="j"><![CDATA[J]]></category>
-  <category domain="post_tag" nicename="j-iphone-app"><![CDATA[J iPhone app]]></category>
-  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
-  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
-  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[457]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>287</wp:comment_id>
-    <wp:comment_author><![CDATA[jimsrussell@yahoo.com]]></wp:comment_author>
-    <wp:comment_author_email>jimsrussell@yahoo.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>108.28.189.130</wp:comment_author_IP>
-    <wp:comment_date>2012-06-23 10:44:12</wp:comment_date>
-    <wp:comment_date_gmt>2012-06-23 15:44:12</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Nice. (Pitty that the example J expressions cannot be copied from your blog page.)]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1340466253.5914";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1340467237</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-06-23 15:44:12</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>288</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>174.255.0.29</wp:comment_author_IP>
-    <wp:comment_date>2012-06-23 11:00:27</wp:comment_date>
-    <wp:comment_date_gmt>2012-06-23 16:00:27</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[It depends on the browser. Most display the source code control. The control has a copy to clipboard function. Still it's a good idea to put a copy of the examples in the files box with a download link.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>287</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1340467227</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1340467227.2541";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-06-23 16:00:27</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>289</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>24.107.3.1</wp:comment_author_IP>
-    <wp:comment_date>2012-06-23 13:26:32</wp:comment_date>
-    <wp:comment_date_gmt>2012-06-23 18:26:32</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[I have added a link to the examples. You can download the example script <a href="https://www.box.com/s/dadb252a1b49635d6c05" rel="nofollow">here</a>.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1340475992</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1340475992.8047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-06-23 18:26:32</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>293</wp:comment_id>
-    <wp:comment_author><![CDATA[tablebey]]></wp:comment_author>
-    <wp:comment_author_email>tablebey@hotmailo.co.uk</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>92.239.206.50</wp:comment_author_IP>
-    <wp:comment_date>2012-07-05 06:52:54</wp:comment_date>
-    <wp:comment_date_gmt>2012-07-05 11:52:54</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[does not install on my two year old itouch.  pity]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>true</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1341489175.2735";s:7:"message";s:35:"Akismet caught this comment as spam";s:5:"event";s:10:"check-spam";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1341511400.8358";s:7:"message";s:43:"bakerjd99 reported this comment as not spam";s:5:"event";s:10:"report-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_user_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_user</wp:meta_key>
-      <wp:meta_value>bakerjd99</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1341520712</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1341520712.7054";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-07-05 11:52:54</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>325</wp:comment_id>
-    <wp:comment_author><![CDATA[Eric Sargeant]]></wp:comment_author>
-    <wp:comment_author_email>ESgt@BCS.org.uk</wp:comment_author_email>
-    <wp:comment_author_url>http://leyhunters.co.uk</wp:comment_author_url>
-    <wp:comment_author_IP>109.150.222.23</wp:comment_author_IP>
-    <wp:comment_date>2012-09-19 10:52:55</wp:comment_date>
-    <wp:comment_date_gmt>2012-09-19 15:52:55</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Found the tilder char', but now can't find the vertical bar. The broken bar at the 'h' key position isn't it.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1348069976.3908360004425048828125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1348076661</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1348076662.243791103363037109375;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-09-19 15:52:55</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>326</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
-    <wp:comment_date>2012-09-19 12:51:13</wp:comment_date>
-    <wp:comment_date_gmt>2012-09-19 17:51:13</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Eric
-
-You can access the | character on the iPhone version of J by bringing up the standard keyboard  pressing .?123 for the number panel and then on the number panel press #+= to bring up the additional symbols panel. 
-
-If you are having problems cutting and pasting from the examples posted here try using the source code display tool bar. It copies text to the clipboard, prints and also displays in plain text. 
-
-Hope this helps.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>325</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1348077075</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1348077076.27744007110595703125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-09-19 17:51:13</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
 </item>
 <item>
-  <title>Playing the Blog hit game</title>
-  <link>https://bakerjd99.wordpress.com/2012/07/09/playing-the-blog-hit-game/</link>
-  <pubDate>Tue, 10 Jul 2012 03:39:06 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4178/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:54 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3047</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4178</guid>
   <description/>
-  <content:encoded><![CDATA[On June 5<sup>th</sup> 2012 my little blog set an all time hit record: 198 robots, spammers and readers incremented my counters. 198 hits would be embarrassing for a major blog like <a href="http://pjmedia.com/instapundit/">Instapundit</a> but for <a href="http://bakerjd99.wordpress.com/">Analyze the Data not the Drivel</a> it was a “<a href="http://www.samizdata.net/blog/glossary_archives/2002/09/hitnosis.html">hitnotic</a>” day. I always attribute my triumphs to my utter manly awesomeness but I had to ask; <em>was anything else going on June 5<sup>th</sup>, 2012?  Nothing much except the last transit of Venus in this century! </em>The masses were searching for “transit” and hundreds landed on this <a href="http://bakerjd99.wordpress.com/2012/04/22/2012-venus-transit-and-annular-eclipse/">little entry</a> I wrote a few months ago.
-
-It takes time for a blog post to burrow into cyberspace. Google and Bing are always prowling blog sites and will pick up new posts within minutes but it takes about two weeks before worldwide indexes are updated.  Once a post is on search engines readers will find it and when they do it will meet one of these three fates.
-<ol>
-	<li><em>Nobody ever reads it again.</em> This is the fate of most of my posts. I have posts that my dog, if I had a dog, wouldn't read. It's too bad because some of my <a href="http://bakerjd99.wordpress.com/2010/06/16/i-did-not-have-sex-with-that-oil-spill/">finest lyrical unhinged rants</a> are my least read posts.</li>
-	<li><em>It gets lots of hits followed by a quick return to few or none.</em> My popular posts follow this pattern. Now that the 2012 transit of Venus is history people will stop searching for it. Popular posts fade faster than <a href="http://www.drparkave.com/news/10-famous-women-aging-gracefully-10-who-arent/">old Botox saturated actresses</a> so enjoy your hits <em>while they last!</em></li>
-	<li><em>It gets legs and keeps sucking in hits for weeks, months and years.</em> My normal traffic comes from half a dozen <em>leggy</em> postings. My <em>leggy-est</em> posting is an <a href="http://bakerjd99.wordpress.com/2010/07/28/the-20-seconds-that-ruined-inception/"><em>Inception</em> movie review</a> that I wrote almost two years ago; it's still generating ten to twenty hits per week. <em>Its ok people nobody really got that movie.</em></li>
-</ol>
-Finally, <em>the blog hit game is a long game;</em> you have to keep playing. The best sports analogy is golf. Golf is the world's hardest game. The gap between a perfect round of eighteen and what the best players are capable of is insurmountable. Nobody will ever shoot an honest eighteen. A <a href="http://golf.about.com/cs/golfterms/g/bldef_bestball.htm">best ball</a> foursome of Buddha, Christ, Mohammad and the archangel Gabriel couldn't shoot an honest eighteen. The Sun exploding tomorrow is more likely than on honest eighteen. Golf sets a bar so high it will never be breached. Artists have similar bars. The perfect novel is impossible. The perfect song is impossible. The perfect sculpture is impossible and I dare say the perfect blog post is impossible but then <em>it's the impossibility of perfection that keeps things interesting.</em> Keep at it and the hits will come.]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3047</wp:post_id>
-  <wp:post_date>2012-07-09 22:39:06</wp:post_date>
-  <wp:post_date_gmt>2012-07-10 03:39:06</wp:post_date_gmt>
+  <wp:post_id>4178</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:54</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:54</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>playing-the-blog-hit-game</wp:post_name>
+  <wp:post_name>4178</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>21</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="blog-hits"><![CDATA[blog hits]]></category>
-  <category domain="post_tag" nicename="blogging-about-blogging"><![CDATA[blogging about blogging]]></category>
-  <category domain="post_tag" nicename="hitnosis"><![CDATA[Hitnosis]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="post_tag" nicename="three-fates"><![CDATA[three fates]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -22305,6 +21999,396 @@ Finally, <em>the blog hit game is a long game;</em> you have to keep playing. Th
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Mac JOD</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/27/mac-jod/</link>
+  <pubDate>Wed, 27 Jun 2012 18:39:06 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2980</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="87"]<a href="http://bakerjd99.wordpress.com/the-jod-page/"><img class="       " style="margin-left:5px;margin-right:5px;" title="JOD " src="http://conceptcontrol.smugmug.com/photos/i-zdzdBJj/0/Th/i-zdzdBJj-Th.png" alt="JOD" width="87" height="87" /></a> JOD now runs on the Mac[/caption]
+
+The <a href="http://www.jsoftware.com/jwiki/Addons">J addon</a> JOD now runs on Macs. You can update <a href="http://www.jsoftware.com/jwiki/Addons/general/jod">JOD</a>, or install it for the first time, with <a href="http://www.jsoftware.com/jwiki/JAL">JAL</a>. JOD now runs on all the major J hosts: Windows, Linux and the Mac.
+
+To keep track of host specific features I have started a series of version documents.  The Mac document is <a href="https://docs.google.com/document/d/1J-PUUB-a9UTY9gC-H26Fe8sEfQryGt5cOWRJVYBtVAw/edit?pli=1">here</a>.
+
+At the upcoming <a href="http://www.jsoftware.com/jwiki/Community/Conference2012">J conference</a>, (July 23-24, 2012), in Toronto I will show an iPhone version of JOD. And, as a reward for attending the conference and my little presentation, <em>Writing Portable J addons</em>, I will be raffling off hardcopy <a href="http://www.lulu.com/shop/john-baker/jod-j-object-dictionary/paperback/product-20076245.html">printed versions</a> of the JOD manual.
+
+An updated PDF version of the JOD manual is available <a href="https://www.box.com/shared/gajfu50gc0">here</a>. For more see <a href="http://bakerjd99.wordpress.com/the-jod-page/">The JOD Page</a>.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2980</wp:post_id>
+  <wp:post_date>2012-06-27 13:39:06</wp:post_date>
+  <wp:post_date_gmt>2012-06-27 18:39:06</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>mac-jod</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="addon"><![CDATA[addon]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jod"><![CDATA[JOD]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="post_tag" nicename="portable-software"><![CDATA[portable software]]></category>
+  <category domain="post_format" nicename="post-format-standard"><![CDATA[Standard]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1412775448;}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Turn your iPhone into a jPhone</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/23/turn-your-iphone-into-a-jphone-2/</link>
+  <pubDate>Sat, 23 Jun 2012 15:24:15 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3026</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/"><img class="alignleft" style="margin-left:8px;margin-right:8px;" title="J for iPhone" alt="J for iPhone" src="http://conceptcontrol.smugmug.com/photos/i-CrNW8Jh/0/Th/i-CrNW8Jh-Th.png" width="72" height="72" />Jsoftware</a> recently released a <em>free</em> <a href="https://itunes.apple.com/us/app/j-programming-language/id532587550?mt=8">J app for the iPhone.</a> Search for “jsoftware” in Apple’s app store and you will land right on it. There are many excellent free iPhone apps, I have half-a-dozen on my iPhone, but this little jewel sets a new standard for power in your palm.
+
+Let’s start with the good news; this is not a crippled version of J. It’s the same high-caliber interpreter that J programmers have used on Windows, Linux and Mac machines for years. Anything this app’s big desktop brothers can do this little app can do. You won’t see the same blistering desktop speed but I think you’ll be pleasantly surprised at how fast this app munches numbers. I have run desktop J since the 1990’s and J on the iPhone 4 matches or beats what I was seeing on laptops ten years ago. This is the real J deal.
+
+Now for a few caveats --- this J app is not a complete J development environment. To meet Apple’s restrictive app store rules C-style APIs, JAL addons, GUI tools and third-party libraries like <a href="http://www.jsoftware.com/jwiki/OpenGL">opengl</a> and<a href="http://www.jsoftware.com/jwiki/Addons/math/lapack"> lapack</a> are not included. With this app you get the J interpreter and a few of the most useful J addons like <a href="http://www.jsoftware.com/jwiki/Plot">plot</a>. Despite these limitations this J app is probably the most powerful, <em>purely local,</em> calculator available for the iPhone.
+
+Don’t believe me? Turn off Wi-Fi and set your iPhone to Airplane mode: Airplane mode cuts off phone and internet access.  Now try computing <a href="https://www.box.com/s/dadb252a1b49635d6c05">the following</a> on your favorite iPhone calculator.
+
+[sourcecode wraplines="false" gutter="false" autolinks="false"]
+NB. generate one million random numbers and average them
+(+/ % #) ? 1000000#10000
+
+NB. generate a 50 50 random matrix, invert it and multiply with the
+NB. original - rounding to the nearest 0.0001 to form an identity matrix
+round=: [ * [: &lt;. 0.5 + %~
+matrix=: ? 50 50 $ 10000
+invmat=: %. matrix
+identity=: 0.0001 round matrix +/ . * invmat
+
+NB. sum of the diagonal elements of matrix (identity) is 50
+50 = +/ (&lt;0 1) |: identity
+
+NB. multiply two polynomials with complex number coefficients
+polyprod=:  +//.@(*/)
+
+NB. complex number coefficients - AjB is J's notation for A + Bi
+poly0=: 2j5 3j7 0 1
+poly1=: 1j2 0 3j7 0 0 2
+poly0 polyprod poly1
+
+NB. prime factorization table of 50 random integers less than one billion
+(&lt;&quot;0 nums) ,: -.&amp;0 &amp;.&gt; &lt;&quot;1 q: nums=.50?1e9
+[/sourcecode]
+
+The J app blows through these examples on my iPhone 4 in a few seconds. Of course this is only a tiny taste of what J on the iPhone is capable of. I have managed to run 1000+ line J scripts on this app. The only desktop J code I have not been able to run depends on external compiled libraries like <a href="http://www.jsoftware.com/help/user/script_regex.htm">regex</a>.
+
+Cell phones are powerful little computers and it’s gratifying to finally see software that can focus that power on something other than <a href="http://itunes.apple.com/us/app/angry-birds/id343200656?mt=8">Angry Birds</a>.  If you’re interested in learning an array oriented functional programming language or if you’re already familiar with J and want to <em>pack serious computational heat</em> then this app is for you!
+
+[caption id="" align="aligncenter" width="400"]<a href="http://www.jsoftware.com/"><img class=" " title="J iPhone app" alt="J iPhone app" src="http://conceptcontrol.smugmug.com/photos/i-qpqg6vn/0/S/i-qpqg6vn-S.png" width="400" height="267" /></a> J running on the iPhone[/caption]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3026</wp:post_id>
+  <wp:post_date>2012-06-23 10:24:15</wp:post_date>
+  <wp:post_date_gmt>2012-06-23 15:24:15</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>turn-your-iphone-into-a-jphone-2</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="free-iphone"><![CDATA[free iphone]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="post_tag" nicename="iphone-apps"><![CDATA[iphone apps]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="j-iphone-app"><![CDATA[J iPhone app]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>287</wp:comment_id>
+    <wp:comment_author><![CDATA[jimsrussell@yahoo.com]]></wp:comment_author>
+    <wp:comment_author_email>jimsrussell@yahoo.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>108.28.189.130</wp:comment_author_IP>
+    <wp:comment_date>2012-06-23 10:44:12</wp:comment_date>
+    <wp:comment_date_gmt>2012-06-23 15:44:12</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Nice. (Pitty that the example J expressions cannot be copied from your blog page.)]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1340466253.5914";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1340467237</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-06-23 15:44:12</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>288</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>174.255.0.29</wp:comment_author_IP>
+    <wp:comment_date>2012-06-23 11:00:27</wp:comment_date>
+    <wp:comment_date_gmt>2012-06-23 16:00:27</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[It depends on the browser. Most display the source code control. The control has a copy to clipboard function. Still it's a good idea to put a copy of the examples in the files box with a download link.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>287</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1340467227</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1340467227.2541";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-06-23 16:00:27</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>289</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>24.107.3.1</wp:comment_author_IP>
+    <wp:comment_date>2012-06-23 13:26:32</wp:comment_date>
+    <wp:comment_date_gmt>2012-06-23 18:26:32</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[I have added a link to the examples. You can download the example script <a href="https://www.box.com/s/dadb252a1b49635d6c05" rel="nofollow">here</a>.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1340475992</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1340475992.8047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-06-23 18:26:32</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>293</wp:comment_id>
+    <wp:comment_author><![CDATA[tablebey]]></wp:comment_author>
+    <wp:comment_author_email>tablebey@hotmailo.co.uk</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>92.239.206.50</wp:comment_author_IP>
+    <wp:comment_date>2012-07-05 06:52:54</wp:comment_date>
+    <wp:comment_date_gmt>2012-07-05 11:52:54</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[does not install on my two year old itouch.  pity]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>true</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1341489175.2735";s:7:"message";s:35:"Akismet caught this comment as spam";s:5:"event";s:10:"check-spam";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1341511400.8358";s:7:"message";s:43:"bakerjd99 reported this comment as not spam";s:5:"event";s:10:"report-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_user_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_user</wp:meta_key>
+      <wp:meta_value>bakerjd99</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1341520712</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1341520712.7054";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-07-05 11:52:54</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>325</wp:comment_id>
+    <wp:comment_author><![CDATA[Eric Sargeant]]></wp:comment_author>
+    <wp:comment_author_email>ESgt@BCS.org.uk</wp:comment_author_email>
+    <wp:comment_author_url>http://leyhunters.co.uk</wp:comment_author_url>
+    <wp:comment_author_IP>109.150.222.23</wp:comment_author_IP>
+    <wp:comment_date>2012-09-19 10:52:55</wp:comment_date>
+    <wp:comment_date_gmt>2012-09-19 15:52:55</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Found the tilder char', but now can't find the vertical bar. The broken bar at the 'h' key position isn't it.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1348069976.3908360004425048828125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1348076661</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1348076662.243791103363037109375;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-09-19 15:52:55</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>326</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
+    <wp:comment_date>2012-09-19 12:51:13</wp:comment_date>
+    <wp:comment_date_gmt>2012-09-19 17:51:13</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Eric
+
+You can access the | character on the iPhone version of J by bringing up the standard keyboard  pressing .?123 for the number panel and then on the number panel press #+= to bring up the additional symbols panel. 
+
+If you are having problems cutting and pasting from the examples posted here try using the source code display tool bar. It copies text to the clipboard, prints and also displays in plain text. 
+
+Hope this helps.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>325</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1348077075</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1348077076.27744007110595703125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-09-19 17:51:13</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Playing the Blog hit game</title>
+  <link>https://bakerjd99.wordpress.com/2012/07/09/playing-the-blog-hit-game/</link>
+  <pubDate>Tue, 10 Jul 2012 03:39:06 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3047</guid>
+  <description/>
+  <content:encoded><![CDATA[On June 5<sup>th</sup> 2012 my little blog set an all time hit record: 198 robots, spammers and readers incremented my counters. 198 hits would be embarrassing for a major blog like <a href="http://pjmedia.com/instapundit/">Instapundit</a> but for <a href="http://bakerjd99.wordpress.com/">Analyze the Data not the Drivel</a> it was a “<a href="http://www.samizdata.net/blog/glossary_archives/2002/09/hitnosis.html">hitnotic</a>” day. I always attribute my triumphs to my utter manly awesomeness but I had to ask; <em>was anything else going on June 5<sup>th</sup>, 2012?  Nothing much except the last transit of Venus in this century! </em>The masses were searching for “transit” and hundreds landed on this <a href="http://bakerjd99.wordpress.com/2012/04/22/2012-venus-transit-and-annular-eclipse/">little entry</a> I wrote a few months ago.
+
+It takes time for a blog post to burrow into cyberspace. Google and Bing are always prowling blog sites and will pick up new posts within minutes but it takes about two weeks before worldwide indexes are updated.  Once a post is on search engines readers will find it and when they do it will meet one of these three fates.
+<ol>
+	<li><em>Nobody ever reads it again.</em> This is the fate of most of my posts. I have posts that my dog, if I had a dog, wouldn't read. It's too bad because some of my <a href="http://bakerjd99.wordpress.com/2010/06/16/i-did-not-have-sex-with-that-oil-spill/">finest lyrical unhinged rants</a> are my least read posts.</li>
+	<li><em>It gets lots of hits followed by a quick return to few or none.</em> My popular posts follow this pattern. Now that the 2012 transit of Venus is history people will stop searching for it. Popular posts fade faster than <a href="http://www.drparkave.com/news/10-famous-women-aging-gracefully-10-who-arent/">old Botox saturated actresses</a> so enjoy your hits <em>while they last!</em></li>
+	<li><em>It gets legs and keeps sucking in hits for weeks, months and years.</em> My normal traffic comes from half a dozen <em>leggy</em> postings. My <em>leggy-est</em> posting is an <a href="http://bakerjd99.wordpress.com/2010/07/28/the-20-seconds-that-ruined-inception/"><em>Inception</em> movie review</a> that I wrote almost two years ago; it's still generating ten to twenty hits per week. <em>Its ok people nobody really got that movie.</em></li>
+</ol>
+Finally, <em>the blog hit game is a long game;</em> you have to keep playing. The best sports analogy is golf. Golf is the world's hardest game. The gap between a perfect round of eighteen and what the best players are capable of is insurmountable. Nobody will ever shoot an honest eighteen. A <a href="http://golf.about.com/cs/golfterms/g/bldef_bestball.htm">best ball</a> foursome of Buddha, Christ, Mohammad and the archangel Gabriel couldn't shoot an honest eighteen. The Sun exploding tomorrow is more likely than on honest eighteen. Golf sets a bar so high it will never be breached. Artists have similar bars. The perfect novel is impossible. The perfect song is impossible. The perfect sculpture is impossible and I dare say the perfect blog post is impossible but then <em>it's the impossibility of perfection that keeps things interesting.</em> Keep at it and the hits will come.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3047</wp:post_id>
+  <wp:post_date>2012-07-09 22:39:06</wp:post_date>
+  <wp:post_date_gmt>2012-07-10 03:39:06</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>playing-the-blog-hit-game</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="blog-hits"><![CDATA[blog hits]]></category>
+  <category domain="post_tag" nicename="blogging-about-blogging"><![CDATA[blogging about blogging]]></category>
+  <category domain="post_tag" nicename="hitnosis"><![CDATA[Hitnosis]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="three-fates"><![CDATA[three fates]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -28001,23 +28085,6 @@ Finally, I disagree that there is no optimistic scenario, but I can forgive Grif
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:100002231139337;b:1;}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_google_plus_publicize_failure</wp:meta_key>
-    <wp:meta_value><![CDATA[O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:12:"content-type";s:31:"application/json; charset=UTF-8";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Tue, 18 Mar 2014 01:23:30 GMT";s:7:"expires";s:29:"Tue, 18 Mar 2014 01:23:30 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-xss-protection";s:13:"1; mode=block";s:14:"content-length";s:3:"134";s:6:"server";s:3:"GSE";s:18:"alternate-protocol";s:8:"443:quic";}s:4:"body";s:202:"{
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceeded",
-    "message": "Daily Limit Exceeded"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit Exceeded"
- }
-}
-";s:8:"response";a:2:{s:4:"code";i:403;s:7:"message";s:9:"Forbidden";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>publicize_google_plus_url</wp:meta_key>
     <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
@@ -28095,23 +28162,6 @@ To me Chris’s biggest mistake was not walking into the Alaskan bush but reject
   <wp:postmeta>
     <wp:meta_key>publicize_facebook_url</wp:meta_key>
     <wp:meta_value><![CDATA[https://facebook.com/618113468273019]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_google_plus_publicize_failure</wp:meta_key>
-    <wp:meta_value><![CDATA[O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:12:"content-type";s:31:"application/json; charset=UTF-8";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Wed, 02 Apr 2014 01:26:28 GMT";s:7:"expires";s:29:"Wed, 02 Apr 2014 01:26:28 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-xss-protection";s:13:"1; mode=block";s:14:"content-length";s:3:"134";s:6:"server";s:3:"GSE";s:18:"alternate-protocol";s:8:"443:quic";}s:4:"body";s:202:"{
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceeded",
-    "message": "Daily Limit Exceeded"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit Exceeded"
- }
-}
-";s:8:"response";a:2:{s:4:"code";i:403;s:7:"message";s:9:"Forbidden";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_done_5415134</wp:meta_key>
@@ -28211,23 +28261,6 @@ As nasty as Sagan’s death celebrations were I consoled myself with the fact th
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:100002231139337;b:1;}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_google_plus_publicize_failure</wp:meta_key>
-    <wp:meta_value><![CDATA[O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:12:"content-type";s:31:"application/json; charset=UTF-8";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Sat, 12 Apr 2014 00:34:57 GMT";s:7:"expires";s:29:"Sat, 12 Apr 2014 00:34:57 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-xss-protection";s:13:"1; mode=block";s:14:"content-length";s:3:"134";s:6:"server";s:3:"GSE";s:18:"alternate-protocol";s:8:"443:quic";}s:4:"body";s:202:"{
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceeded",
-    "message": "Daily Limit Exceeded"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit Exceeded"
- }
-}
-";s:8:"response";a:2:{s:4:"code";i:403;s:7:"message";s:9:"Forbidden";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>publicize_google_plus_url</wp:meta_key>
     <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
@@ -28306,23 +28339,6 @@ You might want to pull your head out of your blood moron ass long enough to obse
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:100002231139337;b:1;}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_google_plus_publicize_failure</wp:meta_key>
-    <wp:meta_value><![CDATA[O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:12:"content-type";s:31:"application/json; charset=UTF-8";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Mon, 14 Apr 2014 16:39:09 GMT";s:7:"expires";s:29:"Mon, 14 Apr 2014 16:39:09 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-xss-protection";s:13:"1; mode=block";s:14:"content-length";s:3:"134";s:6:"server";s:3:"GSE";s:18:"alternate-protocol";s:8:"443:quic";}s:4:"body";s:202:"{
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceeded",
-    "message": "Daily Limit Exceeded"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit Exceeded"
- }
-}
-";s:8:"response";a:2:{s:4:"code";i:403;s:7:"message";s:9:"Forbidden";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>publicize_google_plus_url</wp:meta_key>
@@ -28428,23 +28444,6 @@ But now, in the blood moon discharge, it’s clear a fate worse than community o
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:100002231139337;b:1;}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_google_plus_publicize_failure</wp:meta_key>
-    <wp:meta_value><![CDATA[O:13:"Keyring_Error":2:{s:6:"errors";a:1:{s:21:"keyring-request-error";a:1:{i:0;a:5:{s:7:"headers";a:11:{s:12:"content-type";s:31:"application/json; charset=UTF-8";s:16:"content-encoding";s:4:"gzip";s:4:"date";s:29:"Tue, 15 Apr 2014 21:41:50 GMT";s:7:"expires";s:29:"Tue, 15 Apr 2014 21:41:50 GMT";s:13:"cache-control";s:18:"private, max-age=0";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-xss-protection";s:13:"1; mode=block";s:14:"content-length";s:3:"134";s:6:"server";s:3:"GSE";s:18:"alternate-protocol";s:8:"443:quic";}s:4:"body";s:202:"{
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceeded",
-    "message": "Daily Limit Exceeded"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit Exceeded"
- }
-}
-";s:8:"response";a:2:{s:4:"code";i:403;s:7:"message";s:9:"Forbidden";}s:7:"cookies";a:0:{}s:8:"filename";N;}}}s:10:"error_data";a:0:{}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>publicize_google_plus_url</wp:meta_key>
@@ -32140,6 +32139,244 @@ As annoying as SmugMug print-ordering is at least I get the prints I want with o
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:36:"https://facebook.com/888343987916631";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob</title>
+  <link>https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/</link>
+  <pubDate>Sun, 10 Jan 2016 23:14:39 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=5175</guid>
+  <description/>
+  <content:encoded><![CDATA[While browsing in a favorite bookstore with my son, I spotted a display of horoscope themed Christmas tree ornaments. The ornaments were glass balls embossed with golden birth signs like Aquarius, Gemini, Cancer, et cetera, and a descriptive phrase that “summed up” the character of people born under a sign. Below my birth sign golden text declared, “Imaginative and Suspicious.”
+
+I said to my son, “I hate it when astrological rubbish is right.”
+
+I am imaginative and suspicious; it’s a curse. When it comes to money my “suspicious dial” is permanently <a href="https://www.youtube.com/watch?v=4xgx4k83zzc">set on eleven</a>. I assume everyone is out to cheat and defraud me until there is overwhelming evidence to the contrary. Paranoia is generally crippling but when it comes to cold hard cash it’s a sound retention strategy.
+
+Prompted by an eminent life move, I found myself in need of a cash flow forecasting tool. Normal people deal with forecasting problems by buying standard finance programs or cranking up spreadsheets; imaginative and suspicious people roll their own.
+
+<h2 id="swag">SWAG</h2>
+
+SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob<sup><a id="fnref1" class="footnoteRef" href="#fn1">1</a></sup> that meets my eccentric needs. I wanted a tool that:
+
+<ol style="list-style-type:decimal;">
+    <li>Abstracted away <em>accounting noise</em>.</li>
+    <li>Was general and flexible.</li>
+    <li>Used highly portable, durable, and version control friendly inputs and outputs.</li>
+    <li>Reflected what ordinary people, not tax accountants, actually do with money.</li>
+    <li>Is open source and unencumbered by parasitic software patents.</li>
+</ol>
+
+Amazingly, my short list of no-brainer requirements eliminates most standard finance programs. Time to code!
+
+<h2 id="swag-inputs">SWAG Inputs</h2>
+
+The bulk of SWAG is a <a href="http://code.jsoftware.com/wiki/Addons/general/jod">JOD generated</a> self-contained J script. You can <a href="https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs">peruse the script here</a>. SWAG inputs and outputs are brain-dead simple TAB delimited text tables. Inputs consist of monthly, null-free, numeric time series tables, scenario tables, and name cross-reference tables. Outputs are simple, null-free, numeric time series tables. Input and output time series tables have identical formats.
+
+A few examples will make this clear. The following is a typical SWAG input and output time series table.
+
+<pre><code> Date        E0      E1       E2      E3  E4     E5  E6  E7  E8  EC  EF  Etotal   I0       I1  I2  I3  I4  I5  IC  Itotal   R0         R1        R2  R3  Rtotal     D0  D1  D2  D3  D4  Dtotal  BB       NW         U0         U1  U2  U3
+ 2015-09-01  912.00  1650.00  100.00  0   50.00  0   0   0   0   0   0   2712.00  4800.00  0   0   0   0   0   0   4800.00  130000.00  25000.00  0   0   155000.00  0   0   0   0   0   0       2088.00  157088.00  155000.00  0   0   0 
+ 2015-10-01  912.00  1656.88  100.00  0   50.00  0   0   0   0   0   0   2718.88  4806.00  0   0   0   0   0   0   4806.00  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2087.13  159291.79  0          0   0   0 
+ 2015-11-01  912.00  1663.78  100.00  0   50.00  0   0   0   0   0   0   2725.78  4812.01  0   0   0   0   0   0   4812.01  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2086.23  161378.02  0          0   0   0 
+ 2015-12-01  912.00  1670.71  100.00  0   50.00  0   0   0   0   0   0   2732.71  4818.02  0   0   0   0   0   0   4818.02  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2085.31  163463.33  0          0   0   0 
+ 2016-01-01  912.00  1677.67  100.00  0   50.00  0   0   0   0   0   0   2739.67  4824.05  0   0   0   0   0   0   4824.05  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2084.37  165547.70  0          0   0   0 
+ 2016-02-01  912.00  1684.66  100.00  0   50.00  0   0   0   0   0   0   2746.66  4830.08  0   0   0   0   0   0   4830.08  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2083.41  167631.12  0          0   0   0 
+ 2016-03-01  912.00  1691.68  100.00  0   50.00  0   0   0   0   0   0   2753.68  4836.11  0   0   0   0   0   0   4836.11  130054.17  25062.50  0   0   155116.67  0   0   0   0   0   0       2082.43  169713.55  0          0   0   0 </code></pre>
+
+The first header line is a simple list of names. The first name “Date” heads a column of first of month dates in YYYY-MM-DD format. The SWAG clock has month resolution and dates are the only nonnumeric items. Names beginning with “E” like <code>E0</code>, <code>E1</code>, …, are aggregated expenses. Names beginning with “I” like <code>I0</code>, <code>I1</code>, <code>I2</code> … are income totals. “R” names are reserves: basically savings, investments, equity and so forth. “D” names are various debts. <code>BB</code> is basic period balance, <code>NW</code> is period net worth and “U” names are utility series. Utility series facilitate calculations. Remaining names are self-explanatory totals. Be aware that this table has been formatted for this blog. Examples of raw input and output tables<a href="https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets"> can be found here.</a>
+
+The next ingredient in the SWAG stew is what many call a scenario. A scenario is a collection of prospective assumptions and actions. In one scenario you buy a Mercedes and assume interest rates remain low. In another, you take the bus and rates explode. When forecasting I evaluate five basic scenarios, grim, pessimistic, expected, optimistic, and exuberant. Being a negative <a href="http://www.urbandictionary.com/define.php?term=Debbie+Downer">Debbie Downer</a> type I rarely invest time in exuberant scenarios. I concentrate on grim and pessimistic scenarios because once you are mentally prepared for the worst anything better feels like a lottery win.
+
+The following is a typical SWAG scenario table. Scenario tables, like time series tables, are simple TAB delimited text files.
+
+<pre><code> Name         Scenario On Group       Value  OnDate     OffDate    Method   MethodArguments                                                Description                                                                     
+ reservetotal s0          assumptions 0      2015-09-01 2015-10-01 assume   RSavings=. 0.5 [ RInvest=. 3 [ REquity=. 3 [ ROther=. 1        annual nominal percent reserve growth or decline during period                  
+ car          s0                      50     2015-09-01 2035-08-01 history                                                                 annualized car maintenance until first death                                    
+ house        s0                      912    2015-09-01 2016-08-01 history  BackPeriods=.1                                                 current rent until move                                                         
+ insurance    s0                      100    2015-09-01 2035-08-01 history                                                                 car insurance                                                                   
+ living       s0                      1650   2015-09-01 2044-01-01 history  YearInflate=.5                                                 normal monthly living expenses                                                  
+ salary       s0                      4800   2015-09-01 2016-08-01 history  BackPeriods=.4 [ YearInflate=.1.5                              maintain net monthly income until move                                          
+ reservetotal s0                      25000  2015-09-01 2015-10-01 reserve  Initial=.1 [ RInvest=. 1                                       stock value at model start                                                      
+ reservetotal s0                      130000 2015-09-01 2015-10-01 reserve  Initial=.1                                                     savings at model start                                                          
+ salary       s0                      4200   2016-08-01 2023-07-01 history  BackPeriods=.4 [ YearInflate=.1.5                              reduced net income after move until retirement                                  
+ house        s0          move        2000   2016-08-01 2016-09-01 history                                                                 moving expenses                                                                 
+ house        s0                      100    2016-08-01 2044-01-01 history                                                                 incidental housing expenses after move                                          
+ house        s0                      100    2016-08-01 2044-01-01 history                                                                 home owners association payments                                                
+ house        s0                      150    2016-08-01 2044-01-01 history                                                                 property taxes                                                                  
+ reservetotal s0          buy house   110000 2016-08-01 2016-09-01 reserve  Initial=.1 [ REquity=. 1                                       down payment added to house equity initial setting prevents double spend        
+ loan         s0          buy house   150000 2016-08-01 2023-02-01 borrow   Interest=. 4.5 [ YearTerm=. 30 [ DHouse=.1  [ LoanEquity=.1    30 year mortgage rate on house until inheritance                                
+ reservetotal s0          buy house   110000 2016-08-01 2016-09-01 spend                                                                   down payment on house from savings                                              
+ annuities    s0                      250    2018-07-01 2035-08-01 history                                                                 monthly retirement and other annuity payments end date is unknown               
+ annuities    s0                      50     2018-07-01 2035-08-01 history                                                                 any government pension payments                                                 
+ reservetotal s0          assumptions 0      2020-01-01 2044-01-01 assume   RSavings=. -2.5 [ RInvest=. -5.0 [ REquity=. -5.0 [ ROther=. 2 market tanks government introduces negative interest                            
+ loan         s0          buy car     10000  2020-07-01 2025-07-01 borrow   Interest=. 5 [ YearTerm=. 5 [ DCar=.1                          pay balance of car at 5% for 5 years                                            
+ reservetotal s0          buy car     7000   2020-07-01 2020-08-01 spend                                                                   car down payment from savings                                                   
+ reservetotal s0          inherit     180000 2023-01-01 2023-02-01 reserve  Initial=.1                                                     inheritance to savings                                                          
+ reservetotal s0          buy house   150000 2023-03-01 2023-04-01 transfer Fee=. 1500 [ DHouse=.1                                         pay off remaining mortgage balance after inheritance fee is closing cost        
+ salary       s0                      1400   2023-07-01 2035-08-01 history                                                                 estimated social security payments spread over expected life                    
+ insurance    s0                      700    2023-07-01 2024-12-01 history                                                                 medical insurance in the gap between retirement and spouse medicare eligibility 
+ annuities    s0                      100    2024-12-01 2044-01-01 history                                                                 any retirement pension payments to spouse                                       
+ annuities    s0                      100    2035-08-01 2044-01-01 history                                                                 any us social security survivor benefit after first death                       </code></pre>
+
+Again the first header row is a simple list of names. Most scenario names are self-explanatory but four <code>OnDate</code>, <code>OffDate</code>, <code>Method</code>, and <code>MethodArguments</code> merit some explanation. SWAG series methods <code>assume</code>, <code>history</code>, <code>reserve</code>, <code>transfer</code>, <code>borrow</code>, and <code>spend</code> are modeled on what people typically do with cash.
+
+<ol style="list-style-type:decimal;">
+    <li><code>assume</code> sets expected interest rates and other global assumptions for a given time period. SWAG series methods operate over a well-defined time period. The period is defined by <code>OnDate</code> and <code>OffDate</code>.</li>
+    <li><code>history</code> looks at past periods and estimates a numeric value that is projected into the future. Currently, <code>history</code> computes simple means but the underlying code can use arbitrary time series verbs.</li>
+    <li><code>reserve</code> manages savings, investments, equity and other cash-like instruments.</li>
+    <li><code>borrow</code> borrows money and sets future loan payments. <code>borrow</code> supports simple amortization loans but is also capable of reading an arbitrary payment schedule that can be used for <em>exotic</em><sup><a id="fnref2" class="footnoteRef" href="#fn2">2</a></sup> loans.</li>
+    <li><code>transfer</code> moves money between reserves, debts, expenses and income series.</li>
+    <li><code>spend</code> does just what you expect.</li>
+</ol>
+
+SWAG series methods adjust all the series affected by the method. As you might expect SWAG arguments methods are detailed. <code>MethodArguments</code> uses a restricted J syntax to set SWAG arguments. Argument order does not matter but only supported names are allowed. Many examples of SWAG <code>MethodArguments</code> can be found in the <a href="https://github.com/bakerjd99/jacks/blob/master/swag/tests/tp.xlsx">EXCEL spreadsheet tp.xlsx</a>. I use EXCEL as a scenario editor. By setting EXCEL filters, you can manage many scenarios.
+
+The final SWAG input is a name cross-reference table. It is another TAB delimited text file that defines SWAG names. You can inspect a typical <a href="https://github.com/bakerjd99/jacks/blob/master/swag/tests/CrossReference.txt">cross-reference table here</a>.
+
+<h2 id="running-swag">Running SWAG</h2>
+
+To run SWAG you:
+
+<ol style="list-style-type:decimal;">
+    <li>Prepare input files.</li>
+    <li>Start J, any front-end <code>jconsole</code>, <code>JQT</code> or <code>JHS</code> will do, and load the Swag script.</li>
+    <li>Execute <code>RunTheNumbers</code>.</li>
+    <li>Open the EXCEL spreadsheet <code>swag.xlsx</code>, click on the data ribbon and then press the “Refresh All” button.</li>
+</ol>
+
+Let’s work through the steps.
+
+<h2 id="prepare-input-files">Prepare Input Files</h2>
+
+By far the most difficult step is the first. Here you review your financial status which means checking bank balances, stock values, loan balances and so on. Depending on your holdings this could take anywhere from minutes to hours. I call this updating actuals. Not only is updating actuals the most difficult and time-consuming step it is also the most valuable. Money that is not closely watched leaks away.
+
+I store my actuals in a simple tabbed spreadsheet. Each tab maintains an image of a text file. I enter my data and then cut and paste the sheets into a text editor where I apply final tweaks and then save the sheets as TAB delimited text files.
+
+Monthly income, expenses and debts are easy to update but some of my holdings do not offer monthly statements. The verb <code>RawReservesFromLast</code> <a href="https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs">in Swag.ijs</a> fills in missing months with the last known values. When I’m finished preparing input files I’m left with four actual TAB delimited files, <code>RawIncome.txt</code>, <code>RawExpenses.txt</code>, <code>RawReserves.txt</code>, and <code>RawDebts.txt</code>. You can inspect <a href="https://github.com/bakerjd99/jacks/tree/master/swag/rawact">example actual files here</a>.
+
+<h2 id="start-j-and-load-the-swag-script.">Start J and load the Swag script.</h2>
+
+The SWAG script is relatively self-contained. It can be run in any J session that loads the standard J profile. Load Swag with the standard load utility.
+
+<pre><code> load 'c:/pd/fd/swag/swag.ijs'</code></pre>
+
+Here SWAG is loaded in JHS.
+
+<a href="https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/jhsswag/" rel=" rel=&quot;attachment wp-att-5174&quot;"><img class="aligncenter wp-image-5174 size-full" src="https://bakerjd99.files.wordpress.com/2016/01/jhsswag.png" alt="jhsswag" width="1818" height="818" /></a>
+
+<strong>Execute RunTheNumbers</strong>
+
+<code>RunTheNumbers</code> sets the SWAG configuration, loads scenarios, copies actuals to each scenario, and then evaluates each scenario. Scenarios are numbered. I use positive numbers for “production” scenarios and negative numbers for test scenarios. It sounds more complicated that it is. This is all you have to do to execute <code>RunTheNumbers</code>
+
+<pre><code> RunTheNumbers 0 1 2 3 4 </code></pre>
+
+The code is simple and shows what’s going on.
+
+<pre class="sourceCode j"><code class="sourceCode j">RunTheNumbers<span class="al">=:</span>3 <span class="ot">:</span> 0
+
+<span class="co">NB.*RunTheNumbers v-- compute all scenarios on list (y).</span>
+<span class="co">NB.</span>
+<span class="co">NB. monad:  blclFiles =. RunTheNumbers ilScenarios</span>
+<span class="co">NB.</span>
+<span class="co">NB.   RunTheNumbers 0 1 2 3 4</span>
+
+<span class="co">NB. parameters sheet is the last config sheet</span>
+ModelConfiguration_Swag_<span class="al">=:</span>MainConfiguration_Swag_
+parms<span class="ch">=.</span> <span class="fu">".;{:</span>LoadConfig 0
+scfx<span class="ch">=.</span> ScenarioPrefix
+
+ac<span class="ch">=.</span> toHOST fmttd ActualSheet 0
+ac write TABSheetPath<span class="fu">,</span><span class="st">'MainActuals'</span><span class="fu">,</span>SheetExt
+
+sf<span class="ch">=.</span> 0<span class="fu">$a:</span>
+<span class="kw">for_sn.</span> <span class="dt">y</span> <span class="kw">do.</span>
+  ac write TABSheetPath<span class="fu">,</span>scfx<span class="fu">,</span><span class="re">(</span><span class="fu">":</span>sn<span class="re">)</span><span class="fu">,</span><span class="st">'Actuals'</span><span class="fu">,</span>SheetExt
+  sf<span class="ch">=.</span> sf <span class="fu">,</span> parms Swag sn <span class="fu">[</span> LoadSheets sn
+<span class="kw">end.</span>
+
+sf 
+<span class="re">)</span></code></pre>
+
+<code>RunTheNumbers</code> writes a pair of TAB delimited forecast and statistics files for each scenario it evaluates.
+
+<strong>Open swag.xlsx and press “Refresh All”</strong>
+
+The <a href="https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx">spreadsheet <code>swag.xlsx</code></a> loads SWAG TAB delimited text files and plots results.<sup><a id="fnref3" class="footnoteRef" href="#fn3">3</a></sup> I plot monthly cash flow, estimated net worth and debt/equity for each scenario. The following is a typical cash flow plot. It estimates mean monthly cash balance over the scenario time range.
+
+<a href="https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/meanbalance/" rel=" rel=&quot;attachment wp-att-5173&quot;"><img class="aligncenter wp-image-5173 size-full" src="https://bakerjd99.files.wordpress.com/2016/01/meanbalance.png" alt="meanbalance" width="1336" height="638" /></a>
+
+The polynomial displayed on the graph is an estimated trend line. Things are looking bleak.
+
+Here’s a typical net worth plot.
+
+<a href="https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/networth/" rel=" rel=&quot;attachment wp-att-5172&quot;"><img class="aligncenter wp-image-5172 size-full" src="https://bakerjd99.files.wordpress.com/2016/01/networth.png" alt="networth" width="1339" height="639" /></a>
+
+In this happy scenario, we die broke and leave a giant bill for the government.<sup><a id="fnref4" class="footnoteRef" href="#fn4">4</a></sup>
+
+So far SWAG has met my basic needs and forced me to pay more attention to the proverbial bottom line. As I use the system I will fix bugs, refine rough spots, and add <em>strictly necessary</em> features. Feel free to use or modify SWAG for your own purposes. If you find SWAG useful please leave a note on this blog or follow the <a href="https://github.com/bakerjd99/jacks/tree/master/swag">SWAG repository on GitHub</a>.
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">What do you call <em>dis-integrated</em> collections of programs that you use to solve problems? Declaring such dog piles “systems” demeans the word “system” and gives the impression that everything has been planned. This is not how I roll. “Mob” is far more appropriate. It conveys a proper sense of disorder and danger.<a href="#fnref1">↩</a></li>
+    <li id="fn2">When borrowing money you should always plan on paying it all back. Insist on a complete iron clad repayment schedule. If such a schedule cannot be provided run like hell or prepare for the thick end of a baseball bat to be rammed up your financial ass.<a href="#fnref2">↩</a></li>
+    <li id="fn3">It may be necessary to adjust file paths on the EXCEL DATA ribbon to load SWAG TAB delimited text files.<a href="#fnref3">↩</a></li>
+    <li id="fn4">They can see me in Hell to collect.<a href="#fnref4">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5175</wp:post_id>
+  <wp:post_date>2016-01-10 17:14:39</wp:post_date>
+  <wp:post_date_gmt>2016-01-10 23:14:39</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>swag-a-jexcelgit-personal-cash-flow-forecasting-mob</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="cashflow"><![CDATA[cashflow]]></category>
+  <category domain="post_tag" nicename="forecasting"><![CDATA[forecasting]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jhs"><![CDATA[JHS]]></category>
+  <category domain="post_tag" nicename="jod"><![CDATA[JOD]]></category>
+  <category domain="post_tag" nicename="jqt"><![CDATA[JQT]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:36:"https://facebook.com/944360165648346";}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_done_5454303</wp:meta_key>
