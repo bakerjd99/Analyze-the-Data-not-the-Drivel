@@ -40,7 +40,7 @@ eccentric needs. I wanted a tool that:
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \item
-  Abstracted away \emph{accounting noise}.
+  Abstracted away \href{http://www.investopedia.com/terms/a/accountingnoise.asp}{\emph{accounting noise}}.
 \item
   Was general and flexible.
 \item
@@ -68,7 +68,7 @@ time series tables, scenario tables, and name cross reference tables.
 Outputs are simple, null-free, numeric time series tables. Input and
 output time series tables have identical formats.
 
-A few examples will make this clear. The following is a typical SWAG
+A few examples will make this clear. Table~\ref{tab:5175x1} on page~\pageref{tab:5175x1} is a typical SWAG
 input and output time series table.
 
 %\fontfamily{pcr}\selectfont
@@ -96,6 +96,7 @@ have been elided. Elisions are indicated with \ldots\ ellipsis.
 \vspace{5pt}
 \\
 Raw input files can be inspected at \href{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}{\texttt{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}}}
+\label{tab:5175x1}
 \end{sidewaystable}
 
 The first header line is a simple list of names. The first name ``Date''
@@ -109,7 +110,8 @@ names are various debts. \texttt{BB} is basic period balance,
 \texttt{NW} is period net worth and ``U'' names are utility series.
 Utility series facilitate calculations. Remaining names are
 self-explanatory totals. Be aware that this table has been formatted for
-this blog. Examples of raw input and output tables can be found here.
+this blog. Examples of raw input and output tables 
+\href{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}{can be found here}.
 
 The next ingredient in the SWAG stew is what many call a scenario. A
 scenario is a collection of prospective assumptions and actions. In one
@@ -122,7 +124,7 @@ Downer} type I rarely invest time in exuberant scenarios. I concentrate
 on grim and pessimistic scenarios because once you are mentally prepared
 for the worst anything better feels like a lottery win.
 
-The following is a typical SWAG scenario table. Scenario tables, like
+Table~\ref{tab:5175x2} on page~\pageref{tab:5175x2} is a typical SWAG scenario table. Scenario tables, like
 time series tables, are simple TAB delimited text files.
 
 \begin{sidewaystable}
@@ -165,7 +167,8 @@ annuities    &s0 &\ldots &100    &2035-08-01 &2044-01-01 &history  &            
 have been elided. Elisions are indicated with \ldots\ ellipsis.
 \vspace{5pt}
 \\
-Raw scenario files can be inspected at \href{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}{\texttt{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}}}
+Raw scenario files can be inspected at \href{https://github.com/bakerjd99/jacks/tree/master/swag/scenarios}{\texttt{https://github.com/bakerjd99/jacks/tree/master/swag/scenarios}}}
+\label{tab:5175x2}
 \end{sidewaystable}
 
 
@@ -191,7 +194,7 @@ what people typically do with cash.
   \texttt{reserve} manages savings, investments, equity and other
   cash-like instruments.
 \item
-  \texttt{borrow} borrows money and sets future loan payments. borrow
+  \texttt{borrow} borrows money and sets future loan payments. \texttt{borrow}
   supports simple amortization loans but is also capable of reading an
   arbitrary payment schedule that can be used for
   \emph{exotic}\footnote{When borrowing money you should always plan on
@@ -235,7 +238,7 @@ To run SWAG you:
 \item
   Execute \texttt{RunTheNumbers}.
 \item
-  Open the EXCEL spreadsheet \texttt{swag.xlsx}, click on the data
+  Open the EXCEL \href{https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx}{spreadsheet \texttt{swag.xlsx}}, click on the data
   ribbon and then press the ``Refresh All'' button.
 \end{enumerate}
 
@@ -256,13 +259,13 @@ into a text editor where I apply final tweaks and then save the sheets
 as TAB delimited files.
 
 Monthly income, expenses and debts are easy to update but some of my
-holdings do not provide monthly statements. The verb RawReservesFromLast
+holdings do not provide monthly statements. The verb \texttt{RawReservesFromLast}
 \href{https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs}{in
 Swag.ijs} fills in missing months with the last known values. When I'm
-finished preparing input files I'm left with four actual TAB delimited
+finished preparing input files I'm left with four TAB delimited
 files, \texttt{RawIncome.txt}, \texttt{RawExpenses.txt},
 \texttt{RawReserves.txt}, and \texttt{RawDebts.txt}. You can inspect
-example actual files here.
+\href{https://github.com/bakerjd99/jacks/tree/master/swag/rawact}{example actual files here}.
 
 \subsection*{Start J and load the Swag script.}%\label{start-j-and-load-the-swag-script.}
 
@@ -283,7 +286,6 @@ load utility.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=\textwidth]{jhsswag.png}
-%\caption{The new symbolic name and logo for Analyze the Data not the Drivel.}
 \label{fig:5175X0}
 \end{figure}
 
@@ -300,6 +302,8 @@ is. This is all you have to do to execute \texttt{RunTheNumbers}
 \end{verbatim}
 
 \noindent The code is simple and shows what's going on.
+
+%NOTE: lstlisting syntax coloring misses for_sn - it's a long standing problem
 
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5175X0]
 RunTheNumbers=:3 : 0
@@ -333,25 +337,26 @@ statistics files for each scenario it evaluates.
 
 \subsection*{Open swag.xlsx and press ``Refresh All''}
 
-The spreadsheet \texttt{swag.xlsx} loads SWAG TAB delimited text files
+The \href{https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx}{spreadsheet \texttt{swag.xlsx}} 
+loads SWAG TAB delimited text files
 and plots results.\footnote{It may be necessary to adjust file paths on
   the EXCEL DATA ribbon to load SWAG TAB delimited text files.} I plot
 monthly cash flow, estimated net worth and debt/equity for each
-scenario. The following is a typical cash flow plot. It estimates mean
-monthly cash balance over the scenario time range.
+scenario. Figure~\ref{fig:5175x1} on page~\pageref{fig:5175x1} is a typical cash flow plot. It estimates mean
+monthly cash balance over the scenario time range. Figure~\ref{fig:5175x2} on page~\pageref{fig:5175x2} is typical net worth plot.
+It estimates mean net worth over time.
 
 %\includegraphics{meanbalance.png}\{width=``6.5in''
 %height=``3.0729166666666665in''\}
 
+\captionsetup[figure]{labelformat=default}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=\textwidth]{meanbalance.png}
-\label{fig:5175X1}
+\caption{Mean monthly cash flow balance over time. The polynomial displayed on
+the graph is an estimated trend line. $R^2$ is a standard fit measure.}
+\label{fig:5175x1}
 \end{figure}
-
-\noindent The polynomial displayed on the graph is an estimated trend line.
-
-\noindent Here's a typical net worth plot.
 
 %\includegraphics{networth.png}\{width=``6.5in''
 %height=``3.0555555555555554in''\}
@@ -359,16 +364,16 @@ monthly cash balance over the scenario time range.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=\textwidth]{networth.png}
-\label{fig:5175X2}
+\caption{Mean net worth. In this happy scenario we die broke and leave a giant bill for
+the government. \textit{They can meet me in Hell to collect.}}
+\label{fig:5175x2}
 \end{figure}
 
-\noindent In this happy scenario, we are dying broke and leaving a giant bill for
-the government.\footnote{They can see me in Hell to collect.}
 
-So far SWAG has met my basic needs and it has forced me to pay more
+So far SWAG has met my basic needs and forced me to pay more
 attention to the proverbial bottom line. As I use the system I will fix
 bugs, refine rough spots, and add \emph{strictly necessary} features.
 Feel free to use or adapt SWAG for your own purposes. If you do leave a
-note on this blog or follow the SWAG repository on GitHub.
+note on this blog or follow the \href{https://github.com/bakerjd99/jacks/tree/master/swag}{SWAG repository on GitHub}.
 
 %\end{document}
