@@ -1,0 +1,374 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/}{SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob}}
+\addcontentsline{toc}{subsection}{SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob}
+
+\noindent\emph{Posted: 19 Jan 2016 23:14:39}
+\vspace{6pt}
+
+While browsing in a favorite bookstore with my son, I spotted a display
+of horoscope themed Christmas tree ornaments. The ornaments were glass
+balls embossed with golden birth signs like Aquarius, Gemini, Cancer, et
+cetera, and a descriptive phrase that ``summed up'' the character of
+people born under a sign. Below my birth sign golden text declared,
+``Imaginative and Suspicious.''
+
+I said to my son, ``I hate it when astrological rubbish is right.''
+
+I am imaginative and suspicious; it's a curse. When it comes to money my
+``suspicious dial'' is permanently
+\href{https://www.youtube.com/watch?v=4xgx4k83zzc}{set on eleven}. I
+assume everyone is out to cheat and defraud me until there is
+overwhelming evidence to the contrary. Paranoia is generally crippling
+but when it comes to cold hard cash it's a sound retention strategy.
+
+Prompted by an eminent life move, I found myself in need of a cash flow
+forecasting tool. Normal people deal with forecasting problems by buying
+standard finance programs or cranking up spreadsheets; imaginative and
+suspicious people roll their own.
+
+\subsection*{SWAG}\label{swag}
+
+SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob\footnote{What
+  do you call \emph{dis-integrated} collections of programs that you use
+  to solve problems? Declaring such dog piles ``systems'' demeans the
+  word ``system'' and gives the impression that everything has been
+  planned. This is not how I roll. ``Mob'' is far more appropriate. It
+  conveys a proper sense of disorder and danger.} that meets my
+eccentric needs. I wanted a tool that:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Abstracted away \emph{accounting noise}.
+\item
+  Was general and flexible.
+\item
+  Used highly portable, durable, and version control friendly inputs and
+  outputs.
+\item
+  Reflected what ordinary people, not tax accountants, actually do with
+  money.
+\item
+  Is open source and unencumbered by parasitic software patents.
+\end{enumerate}
+
+Amazingly, my short list of no-brainer requirements eliminates most
+standard finance programs. Time to code!
+
+\subsection*{SWAG Inputs}%\label{swag-inputs}
+
+The bulk of SWAG is a
+\href{http://code.jsoftware.com/wiki/Addons/general/jod}{JOD generated}
+self-contained J script. You can
+\href{https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs}{peruse
+the script here}. SWAG inputs and outputs are brain-dead simple TAB
+delimited text tables. Inputs consist of monthly, null-free, numeric
+time series tables, scenario tables, and name cross reference tables.
+Outputs are simple, null-free, numeric time series tables. Input and
+output time series tables have identical formats.
+
+A few examples will make this clear. The following is a typical SWAG
+input and output time series table.
+
+%\fontfamily{pcr}\selectfont
+
+\begin{sidewaystable}
+\centering
+\scriptsize
+\rowcolors{1}{}{TableStripes}
+\begin{tabular}{llllllllllllllllll}
+\bf{Date} &\bf{E0}  &\ldots &\bf{Etotal}   &\bf{I0}  &\ldots &\bf{Itotal}   &\bf{R0}  &\ldots &\bf{Rtotal}  &\bf{D0} &\ldots &\bf{Dtotal}  &\bf{BB}  &\bf{NW}   &\bf{U0} &\ldots \\ \hline
+&&&&&&&&&&&&&&&&\\ 
+2015-10-01 &912.00  &\ldots &2718.88  &4806.00  &\ldots &4806.00  &130054.17  &\ldots &155116.67  &0  &\ldots &2087.13 &159291.79  &0 &0  &\ldots \\
+2015-11-01 &912.00  &\ldots &2725.78  &4812.01  &\ldots &4812.01  &130054.17  &\ldots &155116.67  &0  &\ldots &2086.23 &161378.02  &0 &0  &\ldots \\
+2015-12-01 &912.00  &\ldots &2732.71  &4818.02  &\ldots &4818.02  &130054.17  &\ldots &155116.67  &0  &\ldots &2085.31 &163463.33  &0 &0  &\ldots \\
+2016-01-01 &912.00  &\ldots &2739.67  &4824.05  &\ldots &4824.05  &130054.17  &\ldots &155116.67  &0  &\ldots &2084.37 &165547.70  &0 &0  &\ldots \\
+2016-02-01 &912.00  &\ldots &2746.66  &4830.08  &\ldots &4830.08  &130054.17  &\ldots &155116.67  &0  &\ldots &2083.41 &167631.12  &0 &0  &\ldots \\
+2016-03-01 &912.00  &\ldots &2753.68  &4836.11  &\ldots &4836.11  &130054.17  &\ldots &155116.67  &0  &\ldots &2082.43 &169713.55  &0 &0  &\ldots \\ 
+&&&&&&&&&&&&&&&&\\ 
+\ldots &\ldots  &\ldots &\ldots  &\ldots &\ldots &\ldots  &\ldots  &\ldots &\ldots  &\ldots  &\ldots &\ldots &\ldots  &\ldots &\ldots  &\ldots \\ 
+\ldots &\ldots  &\ldots &\ldots  &\ldots &\ldots &\ldots  &\ldots  &\ldots &\ldots  &\ldots  &\ldots &\ldots &\ldots  &\ldots &\ldots  &\ldots \\ \hline
+\end{tabular}
+\normalsize
+\caption{A typical SWAG input and output TAB delimited table. This table has been formatted to fit on a single page. Many columns 
+have been elided. Elisions are indicated with \ldots\ ellipsis.
+\vspace{5pt}
+\\
+Raw input files can be inspected at \href{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}{\texttt{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}}}
+\end{sidewaystable}
+
+The first header line is a simple list of names. The first name ``Date''
+heads a column of first of month dates in YYYY-MM-DD format. The SWAG
+clock has month resolution and dates are the only nonnumeric items.
+Names beginning with ``E'' like \texttt{E0}, \texttt{E1}, \ldots{}, are
+aggregated expenses. Names beginning with ``I'' like \texttt{I0},
+\texttt{I1}, \texttt{I2} \ldots{} are income totals. ``R'' names are
+reserves: basically savings, investments, equity and so forth. ``D''
+names are various debts. \texttt{BB} is basic period balance, 
+\texttt{NW} is period net worth and ``U'' names are utility series.
+Utility series facilitate calculations. Remaining names are
+self-explanatory totals. Be aware that this table has been formatted for
+this blog. Examples of raw input and output tables can be found here.
+
+The next ingredient in the SWAG stew is what many call a scenario. A
+scenario is a collection of prospective assumptions and actions. In one
+scenario you buy a Mercedes and assume interest rates remain low. In
+another, you take the bus and rates explode. When forecasting I evaluate
+five basic scenarios, grim, pessimistic, expected, optimistic, and
+exuberant. Being a negative
+\href{http://www.urbandictionary.com/define.php?term=Debbie+Downer}{Debbie
+Downer} type I rarely invest time in exuberant scenarios. I concentrate
+on grim and pessimistic scenarios because once you are mentally prepared
+for the worst anything better feels like a lottery win.
+
+The following is a typical SWAG scenario table. Scenario tables, like
+time series tables, are simple TAB delimited text files.
+
+\begin{sidewaystable}
+\centering
+\tiny
+\rowcolors{1}{}{TableStripes}
+\begin{tabular}{llllllllp{1.5in}}
+\bf{Name} &\bf{Scenario} &\ldots &\bf{Value}  &\bf{OnDate} &\bf{OffDate} &\bf{Method} &\bf{MethodArguments} &\bf{Description}\\      \hline                                                           
+&&&&&&&&\\
+reservetotal &s0 &\ldots &0      &2015-09-01 &2015-10-01 &assume   &RSavings=.0.5 [ RInvest=.3 [ REquity=.3 [ ROther=.1        &annual nominal percent reserve growth or decline during period \\                 
+car          &s0 &\ldots &50     &2015-09-01 &2035-08-01 &history  &                                                               &annualized car maintenance until first death  \\                                  
+house        &s0 &\ldots &912    &2015-09-01 &2016-08-01 &history  &BackPeriods=.1                                                 &current rent until move \\                                                        
+insurance    &s0 &\ldots &100    &2015-09-01 &2035-08-01 &history  &                                                               &car insurance  \\                                                                 
+living       &s0 &\ldots &1650   &2015-09-01 &2044-01-01 &history  &YearInflate=.5                                                 &normal monthly living expenses  \\                                                
+salary       &s0 &\ldots &4800   &2015-09-01 &2016-08-01 &history  &BackPeriods=.4 [ YearInflate=.1.5                              &maintain net monthly income until move \\                                         
+reservetotal &s0 &\ldots &25000  &2015-09-01 &2015-10-01 &reserve  &Initial=.1 [ RInvest=.1                                       &stock value at model start  \\                                                    
+reservetotal &s0 &\ldots &130000 &2015-09-01 &2015-10-01 &reserve  &Initial=.1                                                     &savings at model start \\                                                         
+salary       &s0 &\ldots &4200   &2016-08-01 &2023-07-01 &history  &BackPeriods=.4 [ YearInflate=.1.5                              &reduced net income after move until retirement \\                                 
+house        &s0 &\ldots &2000   &2016-08-01 &2016-09-01 &history  &                                                               &moving expenses  \\                                                               
+house        &s0 &\ldots &100    &2016-08-01 &2044-01-01 &history  &                                                               &incidental housing expenses after move  \\                                        
+house        &s0 &\ldots &100    &2016-08-01 &2044-01-01 &history  &                                                               &home owners association payments \\                                               
+house        &s0 &\ldots &150    &2016-08-01 &2044-01-01 &history  &                                                               &property taxes \\                                                                 
+reservetotal &s0 &\ldots &110000 &2016-08-01 &2016-09-01 &reserve  &Initial=.1 [ REquity=.1                                       &down payment added to house equity initial setting prevents double spend  \\      
+loan         &s0 &\ldots &150000 &2016-08-01 &2023-02-01 &borrow   &Interest=.4.5 [ YearTerm=.30 [ DHouse=.1 [ LoanEquity=.1    &30 year mortgage rate on house until inheritance \\                               
+reservetotal &s0 &\ldots &110000 &2016-08-01 &2016-09-01 &spend    &                                                               &down payment on house from savings \\                                             
+annuities    &s0 &\ldots &250    &2018-07-01 &2035-08-01 &history  &                                                               &monthly retirement and other annuity payments end date is unknown \\              
+annuities    &s0 &\ldots &50     &2018-07-01 &2035-08-01 &history  &                                                               &any government pension payments \\                                                
+reservetotal &s0 &\ldots &0      &2020-01-01 &2044-01-01 &assume   &RSavings=.-2.5 [ RInvest=.-5.0 [ REquity=.-5.0 &market tanks government introduces negative interest \\                           
+loan         &s0 &\ldots &10000  &2020-07-01 &2025-07-01 &borrow   &Interest=.5 [ YearTerm=.5 [ DCar=.1                          &pay balance of car at 5 percent for 5 years  \\                                          
+reservetotal &s0 &\ldots &7000   &2020-07-01 &2020-08-01 &spend    &                                                               &car down payment from savings \\                                                  
+reservetotal &s0 &\ldots &180000 &2023-01-01 &2023-02-01 &reserve  &Initial=.1                                                     &inheritance to savings \\                                                         
+reservetotal &s0 &\ldots &150000 &2023-03-01 &2023-04-01 &transfer &Fee=.1500 [ DHouse=.1                                         &pay off remaining mortgage balance after inheritance fee is closing cost \\       
+salary       &s0 &\ldots &1400   &2023-07-01 &2035-08-01 &history  &                                                               &estimated social security payments spread over expected life  \\                  
+insurance    &s0 &\ldots &700    &2023-07-01 &2024-12-01 &history  &                                                               &medical insurance in the gap between retirement and spouse Medicare eligibility \\
+annuities    &s0 &\ldots &100    &2024-12-01 &2044-01-01 &history  &                                                               &any retirement pension payments to spouse \\                                       
+annuities    &s0 &\ldots &100    &2035-08-01 &2044-01-01 &history  &                                                               &any us social security survivor benefit after first death \\ \hline
+\end{tabular}
+\normalsize
+\caption{A SWAG scenario table. This table has been formatted to fit on a single page. Some columns 
+have been elided. Elisions are indicated with \ldots\ ellipsis.
+\vspace{5pt}
+\\
+Raw scenario files can be inspected at \href{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}{\texttt{https://github.com/bakerjd99/jacks/tree/master/swag/tabsheets}}}
+\end{sidewaystable}
+
+
+Again the first header row is a simple list of names. Most scenario
+names are self-explanatory but four \texttt{OnDate}, \texttt{OffDate},
+\texttt{Method}, and \texttt{MethodArguments} merit some explanation.
+SWAG series methods \texttt{assume}, \texttt{history}, \texttt{reserve},
+\texttt{transfer}, \texttt{borrow}, and \texttt{spend} are modeled on
+what people typically do with cash.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \texttt{assume} sets expected interest rates and other global
+  assumptions for a given time period. SWAG series methods operate over
+  a well-defined time period. The period is defined by \texttt{OnDate}
+  and \texttt{OffDate}.
+\item
+  \texttt{history} looks at past periods and estimates a numeric value
+  that is projected into the future. Currently, history computes simple
+  means but the underlying code can employ arbitrary time series verbs.
+\item
+  \texttt{reserve} manages savings, investments, equity and other
+  cash-like instruments.
+\item
+  \texttt{borrow} borrows money and sets future loan payments. borrow
+  supports simple amortization loans but is also capable of reading an
+  arbitrary payment schedule that can be used for
+  \emph{exotic}\footnote{When borrowing money you should always plan on
+    paying it all back. Insist on a complete iron clad repayment
+    schedule. If such a schedule cannot be provided run like hell or
+    prepare for the thick end of a baseball bat to be rammed up your
+    financial ass.} loans.
+\item
+  \texttt{transfer} moves money between reserves, debts, expenses and
+  income series.
+\item
+  \texttt{spend} does just what you expect.
+\end{enumerate}
+
+SWAG series methods adjust all the series impacted by the method. As you
+might expect the arguments of SWAG methods can be detailed.
+\texttt{MethodArguments} uses a restricted J syntax to set SWAG
+arguments. Argument order does not matter but only supported names are
+allowed. Many examples of SWAG \texttt{MethodArguments} can be found in
+the
+\href{https://github.com/bakerjd99/jacks/blob/master/swag/tests/tp.xlsx}{EXCEL
+spreadsheet tp.xlsx}. I use EXCEL as a scenario editor. By setting EXCEL
+filters, you can manage a large number of scenarios.
+
+The final SWAG input is a name cross reference table. It is another TAB
+delimited text file that defines SWAG names. You can inspect a typical
+\href{https://github.com/bakerjd99/jacks/blob/master/swag/tests/CrossReference.txt}{cross-reference
+table here}.
+
+\subsection*{Running SWAG}%\label{running-swag}
+
+To run SWAG you:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  Prepare input files.
+\item
+  Start J, any front-end \texttt{jconsole}, \texttt{JQT} or \texttt{JHS}
+  will do, and load the Swag script.
+\item
+  Execute \texttt{RunTheNumbers}.
+\item
+  Open the EXCEL spreadsheet \texttt{swag.xlsx}, click on the data
+  ribbon and then press the ``Refresh All'' button.
+\end{enumerate}
+
+Let's work through the steps.
+
+\subsection*{Prepare Input Files}%\label{prepare-input-files}
+
+By far the most difficult step is the first. Here you review your
+financial status which means checking bank balances, stock values, loan
+balances and so on. Depending on your holdings this could take anywhere
+from minutes to hours. I call this updating actuals. Not only is
+updating actuals the most difficult and time-consuming step it is also
+the most valuable. Money that is not closely watched leaks away.
+
+I store my actuals in a simple tabbed spreadsheet. Each tab maintains an
+image of a text file. I enter my data and then cut and paste the sheets
+into a text editor where I apply final tweaks and then save the sheets
+as TAB delimited files.
+
+Monthly income, expenses and debts are easy to update but some of my
+holdings do not provide monthly statements. The verb RawReservesFromLast
+\href{https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs}{in
+Swag.ijs} fills in missing months with the last known values. When I'm
+finished preparing input files I'm left with four actual TAB delimited
+files, \texttt{RawIncome.txt}, \texttt{RawExpenses.txt},
+\texttt{RawReserves.txt}, and \texttt{RawDebts.txt}. You can inspect
+example actual files here.
+
+\subsection*{Start J and load the Swag script.}%\label{start-j-and-load-the-swag-script.}
+
+The SWAG script is relatively self-contained. It can be run in any J
+session that loads the standard J profile. Load Swag with the standard
+load utility.
+
+\begin{verbatim}
+ load 'c:/pd/fd/swag/swag.ijs'
+\end{verbatim}
+
+\noindent Here SWAG is loaded in JHS.
+
+%\includegraphics{jhsswag.png}\{width=``6.5in''
+%height=``2.9243055555555557in''\}
+
+\captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth]{jhsswag.png}
+%\caption{The new symbolic name and logo for Analyze the Data not the Drivel.}
+\label{fig:5175X0}
+\end{figure}
+
+\subsection*{Execute \texttt{RunTheNumbers}}
+
+\texttt{RunTheNumbers} sets the SWAG configuration, loads scenarios, copies
+actuals to each scenario, and then evaluates each scenario. Scenarios
+are numbered. I use positive numbers for ``production'' scenarios and
+negative numbers for test scenarios. It sounds more complicated that it
+is. This is all you have to do to execute \texttt{RunTheNumbers}
+
+\begin{verbatim}
+ RunTheNumbers 0 1 2 3 4 
+\end{verbatim}
+
+\noindent The code is simple and shows what's going on.
+
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5175X0]
+RunTheNumbers=:3 : 0
+
+NB.*RunTheNumbers v-- compute all scenarios on list (y).
+NB.
+NB. monad:  blclFiles =. RunTheNumbers ilScenarios
+NB.
+NB.   RunTheNumbers 0 1 2 3 4
+
+NB. parameters sheet is the last config sheet
+ModelConfiguration_Swag_=:MainConfiguration_Swag_
+parms=. ".;{:LoadConfig 0
+scfx=. ScenarioPrefix
+
+ac=. toHOST fmttd ActualSheet 0
+ac write TABSheetPath,'MainActuals',SheetExt
+
+sf=. 0$a:
+for_sn. y do.
+  ac write TABSheetPath,scfx,(":sn),'Actuals',SheetExt
+  sf=. sf , parms Swag sn [ LoadSheets sn
+end.
+
+sf 
+)
+\end{lstlisting}
+
+\noindent \texttt{RunTheNumbers} writes a pair of TAB delimited forecast and
+statistics files for each scenario it evaluates.
+
+\subsection*{Open swag.xlsx and press ``Refresh All''}
+
+The spreadsheet \texttt{swag.xlsx} loads SWAG TAB delimited text files
+and plots results.\footnote{It may be necessary to adjust file paths on
+  the EXCEL DATA ribbon to load SWAG TAB delimited text files.} I plot
+monthly cash flow, estimated net worth and debt/equity for each
+scenario. The following is a typical cash flow plot. It estimates mean
+monthly cash balance over the scenario time range.
+
+%\includegraphics{meanbalance.png}\{width=``6.5in''
+%height=``3.0729166666666665in''\}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth]{meanbalance.png}
+\label{fig:5175X1}
+\end{figure}
+
+\noindent The polynomial displayed on the graph is an estimated trend line.
+
+\noindent Here's a typical net worth plot.
+
+%\includegraphics{networth.png}\{width=``6.5in''
+%height=``3.0555555555555554in''\}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth]{networth.png}
+\label{fig:5175X2}
+\end{figure}
+
+\noindent In this happy scenario, we are dying broke and leaving a giant bill for
+the government.\footnote{They can see me in Hell to collect.}
+
+So far SWAG has met my basic needs and it has forced me to pay more
+attention to the proverbial bottom line. As I use the system I will fix
+bugs, refine rough spots, and add \emph{strictly necessary} features.
+Feel free to use or adapt SWAG for your own purposes. If you do leave a
+note on this blog or follow the SWAG repository on GitHub.
+
+%\end{document}
