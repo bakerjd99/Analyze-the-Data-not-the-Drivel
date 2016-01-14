@@ -59,8 +59,9 @@ scenario tables, and name cross reference tables. Outputs are simple,
 null-free, numeric time series tables. Input and output time series
 tables have identical formats.
 
-A few examples will make this clear. Table [tab:5175x1] on page  is a
-typical SWAG input and output time series table.
+A few examples will make this clear. 
+
+[Here  is a typical SWAG input and output time series table](https://github.com/bakerjd99/jacks/blob/master/swag/tabsheets/s_77Actuals.txt).
 
 The first header line is a simple list of names. The first name “Date”
 heads a column of first of month dates in YYYY-MM-DD format. The SWAG
@@ -86,10 +87,10 @@ type I rarely invest time in exuberant scenarios. I concentrate on grim
 and pessimistic scenarios because once you are mentally prepared for the
 worst anything better feels like a lottery win.
 
-Table [tab:5175x2] on page  is a typical SWAG scenario table. Scenario
-tables, like time series tables, are simple TAB delimited text files.
+[Here is a typical SWAG scenario table](https://github.com/bakerjd99/jacks/blob/master/swag/scenarios/s_77scenario.txt). 
 
-Again the first header row is a simple list of names. Most scenario
+Scenario tables, like time series tables, are simple TAB delimited text files.
+Again, the first header row is a simple list of names. Most scenario
 names are self-explanatory but four `OnDate`, `OffDate`, `Method`, and
 `MethodArguments` merit some explanation. SWAG series methods `assume`,
 `history`, `reserve`, `transfer`, `borrow`, and `spend` are modeled on
@@ -181,7 +182,7 @@ load utility.
 
      load 'c:/pd/fd/swag/swag.ijs'
 
-Here SWAG is loaded in JHS.
+[Here SWAG is loaded in JHS](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/inclusions/jhsswag.png).
 
 **Execute `RunTheNumbers`**
 
@@ -229,9 +230,9 @@ The [spreadsheet
 `swag.xlsx`](https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx)
 loads SWAG TAB delimited text files and plots results.[^3] I plot
 monthly cash flow, estimated net worth and debt/equity for each
-scenario. Figure [fig:5175x1] on page  is a typical cash flow plot. It
+scenario. [Here is a typical cash flow plot](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/inclusions/meanbalance.png). It
 estimates mean monthly cash balance over the scenario time range.
-Figure [fig:5175x2] on page  is typical net worth plot. It estimates
+[Here is typical net worth plot](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/inclusions/networth.png). It estimates
 mean net worth over time.
 
 So far SWAG has met my basic needs and forced me to pay more attention
