@@ -3,7 +3,7 @@
 Personal Cash Flow Forecasting Mob](https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
-*Posted: 19 Jan 2016 23:14:39*
+*Posted: 10 Jan 2016 23:14:39*
 
 While browsing in a favorite bookstore with my son, I spotted a display
 of horoscope themed Christmas tree ornaments. The ornaments were glass
