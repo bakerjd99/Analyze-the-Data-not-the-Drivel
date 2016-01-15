@@ -7,11 +7,11 @@ Resume Personal Statement](https://bakerjd99.wordpress.com/2015/05/04/an-honest-
 
 *While updating an online version of my resume a nagging web page
 advised me to include a personal statement: apparently the personal
-statement is my chance to stand out, make that all important first
+statement is my chance to stand out, make that all-important first
 impression, and firmly affix my lips to succulent corporate ass.*
 
-*Being programmer oriented the web page suggested I write about my first
-computer. This is just conniving HR speak for, “How old you?” HR cannot
+*Being programmer oriented, the web page suggested I write about my first
+computer. This is just conniving HR speak for, “How old are you?” HR cannot
 directly ask so they’ll probe circuitously. Sorry gals, (HR is a female
 ghetto), I’m on to you. I am excellent actor and liar. I can play your
 little game but I am no longer interested. Still your little page made
