@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2016-01-11 14:56"-->
+<!-- generator="WordPress.com" created="2016-03-12 21:57"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>https://bakerjd99.wordpress.com</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Mon, 11 Jan 2016 14:56:15 +0000</pubDate>
+<pubDate>Sat, 12 Mar 2016 21:57:47 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -546,6 +546,11 @@
   <wp:term_id>110371</wp:term_id>
   <wp:tag_slug>beirut</wp:tag_slug>
   <wp:tag_name><![CDATA[Beirut]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>272852</wp:term_id>
+  <wp:tag_slug>bernie-sanders</wp:tag_slug>
+  <wp:tag_name><![CDATA[Bernie Sanders]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>297663</wp:term_id>
@@ -1093,6 +1098,11 @@
   <wp:tag_name><![CDATA[Django]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>189091</wp:term_id>
+  <wp:tag_slug>donald-trump</wp:tag_slug>
+  <wp:tag_name><![CDATA[Donald Trump]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>170363</wp:term_id>
   <wp:tag_slug>doomsday</wp:tag_slug>
   <wp:tag_name><![CDATA[doomsday]]></wp:tag_name>
@@ -1568,6 +1578,11 @@
   <wp:tag_name><![CDATA[Hillary Clinton]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>472002098</wp:term_id>
+  <wp:tag_slug>hippie-commies</wp:tag_slug>
+  <wp:tag_name><![CDATA[hippie-commies]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>28757282</wp:term_id>
   <wp:tag_slug>hipstamatic</wp:tag_slug>
   <wp:tag_name><![CDATA[Hipstamatic]]></wp:tag_name>
@@ -1861,6 +1876,11 @@
   <wp:term_id>257468</wp:term_id>
   <wp:tag_slug>jury-duty</wp:tag_slug>
   <wp:tag_name><![CDATA[jury duty]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>728647</wp:term_id>
+  <wp:tag_slug>justin-trudeau</wp:tag_slug>
+  <wp:tag_name><![CDATA[Justin Trudeau]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>75886330</wp:term_id>
@@ -3258,6 +3278,11 @@
   <wp:tag_name><![CDATA[Windows 7]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>472002106</wp:term_id>
+  <wp:tag_slug>witch-berning</wp:tag_slug>
+  <wp:tag_name><![CDATA[witch Berning]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>288100</wp:term_id>
   <wp:tag_slug>wizard-of-oz</wp:tag_slug>
   <wp:tag_name><![CDATA[Wizard of Oz]]></wp:tag_name>
@@ -3350,7 +3375,7 @@
 </item>
 <item>
   <title>650251443.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=97</link>
+  <link>https://bakerjd99.wordpress.com/650251443-jpg/</link>
   <pubDate>Tue, 22 Sep 2009 21:04:35 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/650251443.jpg</guid>
@@ -3373,7 +3398,7 @@
 </item>
 <item>
   <title>650251443_thumb.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=98</link>
+  <link>https://bakerjd99.wordpress.com/650251443_thumb-jpg/</link>
   <pubDate>Tue, 22 Sep 2009 21:04:36 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/650251443_thumb.jpg</guid>
@@ -3396,7 +3421,7 @@
 </item>
 <item>
   <title>650251443.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=100</link>
+  <link>https://bakerjd99.wordpress.com/650251443-jpg-2/</link>
   <pubDate>Tue, 22 Sep 2009 21:19:24 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/6502514431.jpg</guid>
@@ -3419,7 +3444,7 @@
 </item>
 <item>
   <title>650251443_thumb.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=101</link>
+  <link>https://bakerjd99.wordpress.com/650251443_thumb-jpg-2/</link>
   <pubDate>Tue, 22 Sep 2009 21:19:25 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/650251443_thumb1.jpg</guid>
@@ -4328,7 +4353,7 @@
 </item>
 <item>
   <title>under_construction_animated</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=2424</link>
+  <link>https://bakerjd99.wordpress.com/under_construction_animated/</link>
   <pubDate>Sun, 12 Feb 2012 00:18:34 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2012/02/under_construction_animated.gif</guid>
@@ -5045,7 +5070,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>Great apes.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4098</link>
+  <link>https://bakerjd99.wordpress.com/great-apes/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:15 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/me-zoo-gorilla-statue.jpg</guid>
@@ -5068,7 +5093,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>An interesting painting by P. Delvaux 1945 in the Saint Louis Art Museum.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4099</link>
+  <link>https://bakerjd99.wordpress.com/an-interesting-painting-by-p-delvaux-1945-in-the-saint-louis-art-museum/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:25 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/delvaux-painting-saint-louis-art-museum.jpg</guid>
@@ -5091,7 +5116,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>Evelyn around five.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4100</link>
+  <link>https://bakerjd99.wordpress.com/evelyn-around-five/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:30 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/evelyn-five-years-1940.jpg</guid>
@@ -5114,7 +5139,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>feeding forest park sea lion</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4101</link>
+  <link>https://bakerjd99.wordpress.com/feeding-forest-park-sea-lion/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:40 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/feeding-forest-park-sea-lion.jpg</guid>
@@ -5137,7 +5162,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>Striking a long neck profile.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4102</link>
+  <link>https://bakerjd99.wordpress.com/striking-a-long-neck-profile/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:48 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/giraffe-profile.jpg</guid>
@@ -5160,7 +5185,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>Me Caribe Venezuela 1979.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4103</link>
+  <link>https://bakerjd99.wordpress.com/me-caribe-venezuela-1979/</link>
   <pubDate>Sun, 30 Jun 2013 18:58:58 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/me-caribe-venezuela-1979.jpg</guid>
@@ -5183,7 +5208,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>me in police hat and underpants</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4104</link>
+  <link>https://bakerjd99.wordpress.com/me-in-police-hat-and-underpants/</link>
   <pubDate>Sun, 30 Jun 2013 18:59:05 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/me-in-police-hat-and-underpants.jpg</guid>
@@ -5206,7 +5231,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>My mother meets her new granddaugher.</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4112</link>
+  <link>https://bakerjd99.wordpress.com/my-mother-meets-her-new-granddaugher/</link>
   <pubDate>Sun, 30 Jun 2013 20:43:12 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/grandmother-meets-granddaughter-294058734.jpg</guid>
@@ -5229,7 +5254,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>Golden converging griffens</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4114</link>
+  <link>https://bakerjd99.wordpress.com/golden-converging-griffens/</link>
   <pubDate>Sun, 30 Jun 2013 22:41:59 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/golden-converging-griffens.jpg</guid>
@@ -5252,7 +5277,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>cropped-golden-converging-griffens.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4123</link>
+  <link>https://bakerjd99.wordpress.com/cropped-golden-converging-griffens-jpg/</link>
   <pubDate>Fri, 02 Aug 2013 23:30:24 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/06/cropped-golden-converging-griffens.jpg</guid>
@@ -5306,7 +5331,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>adndlbanner00.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4139</link>
+  <link>https://bakerjd99.wordpress.com/adndlbanner00-jpg/</link>
   <pubDate>Tue, 06 Aug 2013 04:13:38 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg</guid>
@@ -5337,7 +5362,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>cropped-adndlbanner00.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4140</link>
+  <link>https://bakerjd99.wordpress.com/cropped-adndlbanner00-jpg/</link>
   <pubDate>Tue, 06 Aug 2013 04:15:41 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg</guid>
@@ -8605,126 +8630,8 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4173/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:46 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4173</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4173</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:46</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:46</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4173</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>16</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[266660]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4174/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:47 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4174</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4174</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:47</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:47</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4174</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>17</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4361</link>
+  <link>https://bakerjd99.wordpress.com/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/adndlbanner01.jpg</guid>
@@ -8747,7 +8654,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>cropped-adndlbanner01.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4362</link>
+  <link>https://bakerjd99.wordpress.com/cropped-adndlbanner01-jpg/</link>
   <pubDate>Tue, 10 Dec 2013 04:24:05 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/cropped-adndlbanner01.jpg</guid>
@@ -8778,7 +8685,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>copy-adndlbanner01.jpg</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4363</link>
+  <link>https://bakerjd99.wordpress.com/copy-adndlbanner01-jpg/</link>
   <pubDate>Tue, 10 Dec 2013 04:24:30 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/copy-adndlbanner01.jpg</guid>
@@ -8832,7 +8739,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>urinetest</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4378</link>
+  <link>https://bakerjd99.wordpress.com/urinetest/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:17 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/urinetest.jpg</guid>
@@ -8855,7 +8762,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>commoncorekids</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4379</link>
+  <link>https://bakerjd99.wordpress.com/commoncorekids/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:19 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/commoncorekids.jpg</guid>
@@ -8878,7 +8785,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>cyberbullying</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4380</link>
+  <link>https://bakerjd99.wordpress.com/cyberbullying/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:20 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/cyberbullying.jpg</guid>
@@ -8901,7 +8808,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>feministcrybabies</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4381</link>
+  <link>https://bakerjd99.wordpress.com/feministcrybabies/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:22 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/feministcrybabies.jpg</guid>
@@ -8924,7 +8831,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>freemarket</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4382</link>
+  <link>https://bakerjd99.wordpress.com/freemarket/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:24 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/freemarket.jpg</guid>
@@ -8947,7 +8854,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>globalwarmingbloomers</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4383</link>
+  <link>https://bakerjd99.wordpress.com/globalwarmingbloomers/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:26 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/globalwarmingbloomers.jpg</guid>
@@ -8970,7 +8877,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>libertarianjesus</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4384</link>
+  <link>https://bakerjd99.wordpress.com/libertarianjesus/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:27 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/libertarianjesus.jpg</guid>
@@ -8993,7 +8900,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>texasgunowners</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4385</link>
+  <link>https://bakerjd99.wordpress.com/texasgunowners/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:29 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/texasgunowners.jpg</guid>
@@ -9016,7 +8923,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>thinnerthanever</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4386</link>
+  <link>https://bakerjd99.wordpress.com/thinnerthanever/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:31 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/thinnerthanever.jpg</guid>
@@ -9039,7 +8946,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>twilightobama</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4387</link>
+  <link>https://bakerjd99.wordpress.com/twilightobama/</link>
   <pubDate>Mon, 16 Dec 2013 01:01:32 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/twilightobama.jpg</guid>
@@ -9062,7 +8969,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>repdemyou</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4388</link>
+  <link>https://bakerjd99.wordpress.com/repdemyou/</link>
   <pubDate>Mon, 16 Dec 2013 01:02:01 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/repdemyou.jpg</guid>
@@ -9085,7 +8992,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>atfstore</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4394</link>
+  <link>https://bakerjd99.wordpress.com/atfstore/</link>
   <pubDate>Tue, 17 Dec 2013 04:09:19 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/atfstore.jpg</guid>
@@ -9154,7 +9061,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>adndsymbolurl</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4450</link>
+  <link>https://bakerjd99.wordpress.com/adndsymbolurl/</link>
   <pubDate>Mon, 30 Dec 2013 02:26:58 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/adndsymbolurl.png</guid>
@@ -9572,7 +9479,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title>withtests</title>
-  <link>https://bakerjd99.wordpress.com/?attachment_id=4981</link>
+  <link>https://bakerjd99.wordpress.com/withtests/</link>
   <pubDate>Sat, 11 Apr 2015 23:50:02 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/04/withtests.jpg</guid>
@@ -9822,6 +9729,52 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/01/jhsswag.png</wp:attachment_url>
+</item>
+<item>
+  <title>bernthewitch</title>
+  <link>https://bakerjd99.wordpress.com/bernthewitch/</link>
+  <pubDate>Sat, 12 Mar 2016 20:07:06 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/03/bernthewitch.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5199</wp:post_id>
+  <wp:post_date>2016-03-12 14:07:06</wp:post_date>
+  <wp:post_date_gmt>2016-03-12 20:07:06</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bernthewitch</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/03/bernthewitch.png</wp:attachment_url>
+</item>
+<item>
+  <title>monosoc</title>
+  <link>https://bakerjd99.wordpress.com/2016/03/12/on-shiny-pony-and-witch-berning/monosoc/</link>
+  <pubDate>Sat, 12 Mar 2016 20:47:16 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/03/monosoc.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5207</wp:post_id>
+  <wp:post_date>2016-03-12 14:47:16</wp:post_date>
+  <wp:post_date_gmt>2016-03-12 20:47:16</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>monosoc</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5197</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/03/monosoc.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -21185,232 +21138,122 @@ The mood was curious and somber; parents urged their children to look and rememb
   </wp:postmeta>
 </item>
 <item>
-  <title>Controlling Cell Phones the new IT Frontier</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/</link>
-  <pubDate>Sat, 09 Jun 2012 17:08:31 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4173/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:46 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2934</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4173</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="135"]<img class=" " style="margin-left:5px;margin-right:5px;" title="no cell phones" alt="no cell phones" src="http://conceptcontrol.smugmug.com/photos/i-svb6dNv/0/S/i-svb6dNv-S.jpg" height="132" width="135" /> Personal cell phones are on the IT hit list.[/caption]
-
-It won’t be long before your employer starts jamming or <a href="http://newsfeed.time.com/2012/05/15/obama-campaign-bans-cell-phones-at-private-fundraisers/">confiscating</a> your <em>personal</em> cell phone. Wait a minute isn’t that a tad hyperbolic? Wouldn’t that trigger an avalanche of “freedom of speech” lawsuits?  Wouldn’t people yell “fornicate elsewhere” and quit?  Ahh, if only it were so.  I would love to be wrong about this but I have a superb track record when it comes to predicating IT control freak trends.
-
-In my long programming career I’ve never met a “liberty loving” IT manager. There’s something utterly intoxicating about being in a place where reliable minions, (dead computers for the most part), completely manifest your vision.  I’ve watched the most libertarian of programmers turn into <a href="http://dilbert.com/strips/comic/2010-09-13/">Dilbertian despots</a> when tasked with network security, software procurement or SOX compliance. IT's first impulse is to control, control and control even if control is counterproductive.
-
-Here’s the sad news. <em>Most IT polices are counterproductive and they never fix the problems they claim to address. </em> Consider my case. I have never introduced a network virus, distributed proprietary company information or collaborated with competitors.  Everywhere I’ve worked had specific IT policies for these, and other <em>corporate crimes</em>, but I could have easily circumvented 95% of them at any time. The only defense any of my employers ever had was <em>my personal honesty and integrity</em>.
-
-Unfortunately my personal honesty and integrity is beyond the control of IT and, as I have said before, <a href="http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/">control is key when it comes to IT</a>. If IT cannot control it they won’t even recognize it!  This is why we end up with abominations like <a href="http://www.infoworld.com/d/developer-world/sarbanes-oxley-seen-biggest-it-time-waster-481">SOX</a> --- perhaps the must ludicrous bit of micro-managing nonsense ever foisted on American companies. Incidentally SOX does <a href="http://www.urbandictionary.com/define.php?term=sweet%20fuck%20all">SFO</a> when it comes to preventing the Enronesque crimes it was intended to prevent. Don’t believe me, ask <a href="http://technorati.com/business/article/jon-corzine-to-be-hoisted-by/">Jon Corzine about where MF’s billions went</a>.
-
-<em>Exactly where do personal cell phones fit into IT policies?</em> When cell phones first appeared they were just phones. Now they’re web browsers, cameras, microphones, stereos, GPS receivers and recently full-fledged programming environments. So much power and all outside of IT’s control. Most employers keep lists of banned websites. What’s the use of tasking neutered lackeys with maintaining a list of banned websites if an employee can whip out an iPhone and browse at will? What’s the point of banning USB drives and locking down proprietary files if you can take a quick snapshot of your monitor and post it on Facebook?  IT has a personal cell phone problem and I can guarantee that whatever twisted solution their misguided minds fixate on <em>it will have nothing to do with employee honesty and integrity.</em>]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2934</wp:post_id>
-  <wp:post_date>2012-06-09 12:08:31</wp:post_date>
-  <wp:post_date_gmt>2012-06-09 17:08:31</wp:post_date_gmt>
+  <wp:post_id>4173</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:46</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:46</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>controlling-cell-phones-the-new-it-frontier</wp:post_name>
+  <wp:post_name>4173</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>16</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="cell-phone"><![CDATA[cell-phone]]></category>
-  <category domain="post_tag" nicename="control"><![CDATA[control]]></category>
-  <category domain="post_tag" nicename="control-freak"><![CDATA[control freak]]></category>
-  <category domain="post_tag" nicename="freedom-of-speech"><![CDATA[Freedom-of-Speech]]></category>
-  <category domain="post_tag" nicename="it"><![CDATA[IT]]></category>
-  <category domain="category" nicename="it"><![CDATA[IT]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="post_tag" nicename="personal-cell-phone"><![CDATA[personal cell phone]]></category>
-  <category domain="post_tag" nicename="personal-honesty"><![CDATA[personal honesty]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="technology"><![CDATA[technology]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[266660]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>697</wp:comment_id>
-    <wp:comment_author><![CDATA[Jacks Repository | Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2013/12/21/jacks-repository/</wp:comment_author_url>
-    <wp:comment_author_IP>207.198.101.75</wp:comment_author_IP>
-    <wp:comment_date>2013-12-21 13:31:04</wp:comment_date>
-    <wp:comment_date_gmt>2013-12-21 19:31:04</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[&#8230;] find that my employer’s network monkeys had blocked the file sharing service. I’ve railed about IT control freaks in the past. They will not rest until it’s impossible to do useful work. I fumed and grumbled [&#8230;]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1387654265.5715630054473876953125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1387654744</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1387654745.294168949127197265625;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-12-21 19:31:04</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
 </item>
 <item>
-  <title>Ooh Promethean Tentacles</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/17/ooh-promethean-tentacles/</link>
-  <pubDate>Sun, 17 Jun 2012 06:02:06 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4174/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:47 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2950</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4174</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignright" width="240"]<a href="http://www.prometheus-movie.com/"><img style="margin-left:5px;margin-right:5px;" title="Prometheus" src="http://conceptcontrol.smugmug.com/photos/i-PnM2XvX/0/S/i-PnM2XvX-S.jpg" alt="Prometheus" width="240" height="160" /></a> Hey let's wander around in the dark and feed vagina snakes.[/caption]
-
-<a href="http://www.prometheus-movie.com/">Prometheus</a> breaks the first rule of movies: <em>don’t make your audience think! </em>Any movie that violates this taboo gets exactly what it deserves and Prometheus is begging for it.
-
-Let’s get the good stuff out-of-the-way. Prometheus looks great. It throws up one fabulous tableau after another. To all the set designers, CGI programmers and other visual artists that worked on Prometheus take a bow; you did a superb job. I am not kidding when I say this would be a better film if you simply turned off the brain numbing sound track and soaked in the sights. Unfortunately the sound track is left on letting us in on the shallow thoughts of the too stupid to live protagonists.
-
-I won’t dissect Prometheus’s numerous Promethean logical affronts. The blogosphere has already <a href="http://m15m.livejournal.com/23209.html">boiled and rendered</a> that beast. Google the phrase “Prometheus too stupid to live”; the deluge of scorn will restore your faith in mankind.  I could join in the script-savaging but I’m a kind, loving and compassionate man. I like science fiction. I want science fiction screen writers to succeed but the poor lost souls need help. Here are three “rules” that might have saved Prometheus.
-
-<strong>1. Any “number” that appears in a science fiction movie must be real.</strong>
-
-Numbers incite analysis and analysis plops you right back into reality which is not a good place for any movie especially science fiction. Prometheus violates this rule early on.
-
-When the spaceship Prometheus arrived at its multiple-star-grouping destination the film makes a point of informing us that it’s 3.27 x 10<sup>14 </sup>kilometers from Earth. My little cinema bound brain went to work. A light year is roughly 10<sup>13 </sup>kilometers thus Prometheus was about thirty light years from Earth.  I’d turned my cell phone off to watch the movie so I didn’t check the <a href="http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html">Hipparchus star catalogue</a> but I’m pretty sure there are no large visible multiple star groupings that close to Earth.  It’s possible a grouping of nearby brown dwarfs has escaped detection but then the color balance of the giant planet the spaceship was approaching was all wrong.
-
-Flashing bogus numbers distracts and infuriates audiences. If you must insert numbers in your scripts make sure they are 100% scientifically credible.
-
-<strong>2. Do not populate your spaceship with suicidal dolts.</strong>
-
-It’s hard to relate to complete brain-dead tools. About halfway through Prometheus I realized the only creatures acting sensibly were the tentacle waving predatory aliens.  They were busy going about their prey stalking ways. I can only imagine what they thought.
-
-“Hey Sam,” alien vagina snakes call themselves Sam, “can you believe this fool wants to pet me. I bet his esophagus is going to be really tasty.”
-
-“Uh, I don’t know Sam; something that stupid couldn’t survive in the wild unless it was highly toxic.”
-
-“Yeah, you may be right but I’m going take a chance and stuff myself down his pie hole anyway.”
-
-Nobody mourns the death of imbeciles. Sympathetic characters should have at least room temperature IQs.
-
-<strong>3. Never show superior beings.</strong>
-
-Good science fiction works best in the imagination of its audience.  Nurturing a sense of mystery, awe and wonder is what this genre is all about.  Showing too much kills the imagination and frankly my imagination took a few sniper rounds to the head when a "superior engineer” turned out to be bald, ripped, roid-raging bodybuilder that was as stupid as every other character in this film.
-
-If the Prometheus of myth was as reckless as this "engineer" then Zeus did us a solid when he chained his dumb ass to that rock.]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2950</wp:post_id>
-  <wp:post_date>2012-06-17 01:02:06</wp:post_date>
-  <wp:post_date_gmt>2012-06-17 06:02:06</wp:post_date_gmt>
+  <wp:post_id>4174</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:47</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:47</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>ooh-promethean-tentacles</wp:post_name>
+  <wp:post_name>4174</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>17</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="film"><![CDATA[film]]></category>
-  <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
-  <category domain="post_tag" nicename="prometheus"><![CDATA[Prometheus]]></category>
-  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>285</wp:comment_id>
-    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
-    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
-    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
-    <wp:comment_author_IP>142.167.36.22</wp:comment_author_IP>
-    <wp:comment_date>2012-06-17 08:52:29</wp:comment_date>
-    <wp:comment_date_gmt>2012-06-17 13:52:29</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA["Don't make me think." and "Don't kill my imagination." ... a tall order... to be celebrated when it is met, not lambasted when it isn't.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1339941149</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1339941149.2803";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_post_as</wp:meta_key>
-      <wp:meta_value>facebook</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_avatar</wp:meta_key>
-      <wp:meta_value/>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_foreign_user_id</wp:meta_key>
-      <wp:meta_value>1004931289</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-06-17 13:52:29</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>286</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>24.107.3.1</wp:comment_author_IP>
-    <wp:comment_date>2012-06-17 11:33:42</wp:comment_date>
-    <wp:comment_date_gmt>2012-06-17 16:33:42</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Good point. In my defense imagination is more like breathing than problem solving but I must bow to your contradiction.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>285</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1339950823</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1339950823.1096";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-06-17 16:33:42</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -22001,6 +21844,234 @@ If the Prometheus of myth was as reckless as this "engineer" then Zeus did us a 
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Controlling Cell Phones the new IT Frontier</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/</link>
+  <pubDate>Sat, 09 Jun 2012 17:08:31 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2934</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="135"]<img class=" " style="margin-left:5px;margin-right:5px;" title="no cell phones" alt="no cell phones" src="http://conceptcontrol.smugmug.com/photos/i-svb6dNv/0/S/i-svb6dNv-S.jpg" height="132" width="135" /> Personal cell phones are on the IT hit list.[/caption]
+
+It won’t be long before your employer starts jamming or <a href="http://newsfeed.time.com/2012/05/15/obama-campaign-bans-cell-phones-at-private-fundraisers/">confiscating</a> your <em>personal</em> cell phone. Wait a minute isn’t that a tad hyperbolic? Wouldn’t that trigger an avalanche of “freedom of speech” lawsuits?  Wouldn’t people yell “fornicate elsewhere” and quit?  Ahh, if only it were so.  I would love to be wrong about this but I have a superb track record when it comes to predicating IT control freak trends.
+
+In my long programming career I’ve never met a “liberty loving” IT manager. There’s something utterly intoxicating about being in a place where reliable minions, (dead computers for the most part), completely manifest your vision.  I’ve watched the most libertarian of programmers turn into <a href="http://dilbert.com/strips/comic/2010-09-13/">Dilbertian despots</a> when tasked with network security, software procurement or SOX compliance. IT's first impulse is to control, control and control even if control is counterproductive.
+
+Here’s the sad news. <em>Most IT polices are counterproductive and they never fix the problems they claim to address. </em> Consider my case. I have never introduced a network virus, distributed proprietary company information or collaborated with competitors.  Everywhere I’ve worked had specific IT policies for these, and other <em>corporate crimes</em>, but I could have easily circumvented 95% of them at any time. The only defense any of my employers ever had was <em>my personal honesty and integrity</em>.
+
+Unfortunately my personal honesty and integrity is beyond the control of IT and, as I have said before, <a href="http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/">control is key when it comes to IT</a>. If IT cannot control it they won’t even recognize it!  This is why we end up with abominations like <a href="http://www.infoworld.com/d/developer-world/sarbanes-oxley-seen-biggest-it-time-waster-481">SOX</a> --- perhaps the must ludicrous bit of micro-managing nonsense ever foisted on American companies. Incidentally SOX does <a href="http://www.urbandictionary.com/define.php?term=sweet%20fuck%20all">SFO</a> when it comes to preventing the Enronesque crimes it was intended to prevent. Don’t believe me, ask <a href="http://technorati.com/business/article/jon-corzine-to-be-hoisted-by/">Jon Corzine about where MF’s billions went</a>.
+
+<em>Exactly where do personal cell phones fit into IT policies?</em> When cell phones first appeared they were just phones. Now they’re web browsers, cameras, microphones, stereos, GPS receivers and recently full-fledged programming environments. So much power and all outside of IT’s control. Most employers keep lists of banned websites. What’s the use of tasking neutered lackeys with maintaining a list of banned websites if an employee can whip out an iPhone and browse at will? What’s the point of banning USB drives and locking down proprietary files if you can take a quick snapshot of your monitor and post it on Facebook?  IT has a personal cell phone problem and I can guarantee that whatever twisted solution their misguided minds fixate on <em>it will have nothing to do with employee honesty and integrity.</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2934</wp:post_id>
+  <wp:post_date>2012-06-09 12:08:31</wp:post_date>
+  <wp:post_date_gmt>2012-06-09 17:08:31</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>controlling-cell-phones-the-new-it-frontier</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="cell-phone"><![CDATA[cell-phone]]></category>
+  <category domain="post_tag" nicename="control"><![CDATA[control]]></category>
+  <category domain="post_tag" nicename="control-freak"><![CDATA[control freak]]></category>
+  <category domain="post_tag" nicename="freedom-of-speech"><![CDATA[Freedom-of-Speech]]></category>
+  <category domain="post_tag" nicename="it"><![CDATA[IT]]></category>
+  <category domain="category" nicename="it"><![CDATA[IT]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="personal-cell-phone"><![CDATA[personal cell phone]]></category>
+  <category domain="post_tag" nicename="personal-honesty"><![CDATA[personal honesty]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="technology"><![CDATA[technology]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>697</wp:comment_id>
+    <wp:comment_author><![CDATA[Jacks Repository | Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2013/12/21/jacks-repository/</wp:comment_author_url>
+    <wp:comment_author_IP>207.198.101.75</wp:comment_author_IP>
+    <wp:comment_date>2013-12-21 13:31:04</wp:comment_date>
+    <wp:comment_date_gmt>2013-12-21 19:31:04</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[&#8230;] find that my employer’s network monkeys had blocked the file sharing service. I’ve railed about IT control freaks in the past. They will not rest until it’s impossible to do useful work. I fumed and grumbled [&#8230;]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1387654265.5715630054473876953125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1387654744</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1387654745.294168949127197265625;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2013-12-21 19:31:04</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Ooh Promethean Tentacles</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/17/ooh-promethean-tentacles/</link>
+  <pubDate>Sun, 17 Jun 2012 06:02:06 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2950</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignright" width="240"]<a href="http://www.prometheus-movie.com/"><img style="margin-left:5px;margin-right:5px;" title="Prometheus" src="http://conceptcontrol.smugmug.com/photos/i-PnM2XvX/0/S/i-PnM2XvX-S.jpg" alt="Prometheus" width="240" height="160" /></a> Hey let's wander around in the dark and feed vagina snakes.[/caption]
+
+<a href="http://www.prometheus-movie.com/">Prometheus</a> breaks the first rule of movies: <em>don’t make your audience think! </em>Any movie that violates this taboo gets exactly what it deserves and Prometheus is begging for it.
+
+Let’s get the good stuff out-of-the-way. Prometheus looks great. It throws up one fabulous tableau after another. To all the set designers, CGI programmers and other visual artists that worked on Prometheus take a bow; you did a superb job. I am not kidding when I say this would be a better film if you simply turned off the brain numbing sound track and soaked in the sights. Unfortunately the sound track is left on letting us in on the shallow thoughts of the too stupid to live protagonists.
+
+I won’t dissect Prometheus’s numerous Promethean logical affronts. The blogosphere has already <a href="http://m15m.livejournal.com/23209.html">boiled and rendered</a> that beast. Google the phrase “Prometheus too stupid to live”; the deluge of scorn will restore your faith in mankind.  I could join in the script-savaging but I’m a kind, loving and compassionate man. I like science fiction. I want science fiction screen writers to succeed but the poor lost souls need help. Here are three “rules” that might have saved Prometheus.
+
+<strong>1. Any “number” that appears in a science fiction movie must be real.</strong>
+
+Numbers incite analysis and analysis plops you right back into reality which is not a good place for any movie especially science fiction. Prometheus violates this rule early on.
+
+When the spaceship Prometheus arrived at its multiple-star-grouping destination the film makes a point of informing us that it’s 3.27 x 10<sup>14 </sup>kilometers from Earth. My little cinema bound brain went to work. A light year is roughly 10<sup>13 </sup>kilometers thus Prometheus was about thirty light years from Earth.  I’d turned my cell phone off to watch the movie so I didn’t check the <a href="http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html">Hipparchus star catalogue</a> but I’m pretty sure there are no large visible multiple star groupings that close to Earth.  It’s possible a grouping of nearby brown dwarfs has escaped detection but then the color balance of the giant planet the spaceship was approaching was all wrong.
+
+Flashing bogus numbers distracts and infuriates audiences. If you must insert numbers in your scripts make sure they are 100% scientifically credible.
+
+<strong>2. Do not populate your spaceship with suicidal dolts.</strong>
+
+It’s hard to relate to complete brain-dead tools. About halfway through Prometheus I realized the only creatures acting sensibly were the tentacle waving predatory aliens.  They were busy going about their prey stalking ways. I can only imagine what they thought.
+
+“Hey Sam,” alien vagina snakes call themselves Sam, “can you believe this fool wants to pet me. I bet his esophagus is going to be really tasty.”
+
+“Uh, I don’t know Sam; something that stupid couldn’t survive in the wild unless it was highly toxic.”
+
+“Yeah, you may be right but I’m going take a chance and stuff myself down his pie hole anyway.”
+
+Nobody mourns the death of imbeciles. Sympathetic characters should have at least room temperature IQs.
+
+<strong>3. Never show superior beings.</strong>
+
+Good science fiction works best in the imagination of its audience.  Nurturing a sense of mystery, awe and wonder is what this genre is all about.  Showing too much kills the imagination and frankly my imagination took a few sniper rounds to the head when a "superior engineer” turned out to be bald, ripped, roid-raging bodybuilder that was as stupid as every other character in this film.
+
+If the Prometheus of myth was as reckless as this "engineer" then Zeus did us a solid when he chained his dumb ass to that rock.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2950</wp:post_id>
+  <wp:post_date>2012-06-17 01:02:06</wp:post_date>
+  <wp:post_date_gmt>2012-06-17 06:02:06</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>ooh-promethean-tentacles</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="film"><![CDATA[film]]></category>
+  <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
+  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="post_tag" nicename="prometheus"><![CDATA[Prometheus]]></category>
+  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>285</wp:comment_id>
+    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
+    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
+    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
+    <wp:comment_author_IP>142.167.36.22</wp:comment_author_IP>
+    <wp:comment_date>2012-06-17 08:52:29</wp:comment_date>
+    <wp:comment_date_gmt>2012-06-17 13:52:29</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA["Don't make me think." and "Don't kill my imagination." ... a tall order... to be celebrated when it is met, not lambasted when it isn't.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1339941149</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1339941149.2803";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_post_as</wp:meta_key>
+      <wp:meta_value>facebook</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_avatar</wp:meta_key>
+      <wp:meta_value/>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_foreign_user_id</wp:meta_key>
+      <wp:meta_value>1004931289</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-06-17 13:52:29</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>286</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>24.107.3.1</wp:comment_author_IP>
+    <wp:comment_date>2012-06-17 11:33:42</wp:comment_date>
+    <wp:comment_date_gmt>2012-06-17 16:33:42</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Good point. In my defense imagination is more like breathing than problem solving but I must bow to your contradiction.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>285</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1339950823</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1339950823.1096";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-06-17 16:33:42</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Mac JOD</title>
@@ -31107,7 +31178,7 @@ There are two types of stories about major astronomical observatories. There are
   <description/>
   <content:encoded><![CDATA[<em>While updating an online version of my resume a nagging web page advised me to include a personal statement: apparently the personal statement is my chance to stand out, make that all important first impression, and firmly affix my lips to succulent corporate ass.</em>
 
-<em>Being programmer oriented the web page suggested I write about my first computer. This is just conniving HR speak for, “How old you?” HR cannot directly ask so they’ll probe circuitously. Sorry gals, (HR is a female ghetto), I’m on to you. I am excellent actor and liar. I can play your little game but I am no longer interested. Still your little page made we wonder what my personal statement would be like if I was telling the truth and not spinning like a millisecond pulsar. I think it would look something like this:</em>
+<em>Being programmer oriented, the web page suggested I write about my first computer. This is just conniving HR speak for, “How old are you?” HR cannot directly ask so they’ll probe circuitously. Sorry gals, (HR is a female ghetto), I’m on to you. I am excellent actor and liar. I can play your little game but I am no longer interested. Still your little page made we wonder what my personal statement would be like if I was telling the truth and not spinning like a millisecond pulsar. I think it would look something like this:</em>
 
 <hr />
 
@@ -31201,10 +31272,6 @@ If you’re still reading and think, <em>I like the cut of this guy’s jib. We 
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>publicize_twitter_user</wp:meta_key>
     <wp:meta_value><![CDATA[bakerjd99]]></wp:meta_value>
   </wp:postmeta>
@@ -31223,6 +31290,10 @@ If you’re still reading and think, <em>I like the cut of this guy’s jib. We 
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[18786981244]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -32169,7 +32240,7 @@ Prompted by an eminent life move, I found myself in need of a cash flow forecast
 SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob<sup><a id="fnref1" class="footnoteRef" href="#fn1">1</a></sup> that meets my eccentric needs. I wanted a tool that:
 
 <ol style="list-style-type:decimal;">
-    <li>Abstracted away <em>accounting noise</em>.</li>
+    <li>Abstracted away <em><a href="http://www.investopedia.com/terms/a/accountingnoise.asp">accounting noise</a></em>.</li>
     <li>Was general and flexible.</li>
     <li>Used highly portable, durable, and version control friendly inputs and outputs.</li>
     <li>Reflected what ordinary people, not tax accountants, actually do with money.</li>
@@ -32251,7 +32322,7 @@ To run SWAG you:
     <li>Prepare input files.</li>
     <li>Start J, any front-end <code>jconsole</code>, <code>JQT</code> or <code>JHS</code> will do, and load the Swag script.</li>
     <li>Execute <code>RunTheNumbers</code>.</li>
-    <li>Open the EXCEL spreadsheet <code>swag.xlsx</code>, click on the data ribbon and then press the “Refresh All” button.</li>
+    <li>Open the EXCEL <a href="https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx">spreadsheet <code>swag.xlsx</code></a>, click on the data ribbon and then press the “Refresh All” button.</li>
 </ol>
 
 Let’s work through the steps.
@@ -32377,6 +32448,84 @@ So far SWAG has met my basic needs and forced me to pay more attention to the pr
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:36:"https://facebook.com/944360165648346";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>On Shiny Pony and Witch Berning</title>
+  <link>https://bakerjd99.wordpress.com/2016/03/12/on-shiny-pony-and-witch-berning/</link>
+  <pubDate>Sat, 12 Mar 2016 21:24:48 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=5197</guid>
+  <description/>
+  <content:encoded><![CDATA[This week Canada’s shiny new Prime Minister <a href="http://www.cbc.ca/news/politics/trudeau-obama-state-visit-washington-1.3483545">Justin Trudeau is hanging out with Obama</a>. You can imagine my excitement: two photogenic lightweights sharing a heartwarming <em>bromance</em> on the public’s dime. I am at a loss to imagine <a href="https://www.youtube.com/watch?v=Mbg1nEXQ1fI">a more hurl inducing</a> scenario. I shared my feelings with a terse CBC comment.
+
+<em>As a dual US-Canadian citizen I must avert my eyes when confronted with such unctuous and expensive dog and pony shows. At least, we know who the dog is and who the shiny pony is! In a few short months, the toilet of history will flush on the Obama administration. For this we can thank term limits: one the best ideas in government ehh! This will cure the American Obama problem and ruin Trudeau’s play dates for years to come as I’m pretty sure neither Hillary or Trump are compatible with whatever is putting the wave in Justin’s hair.</em>
+
+I have safely ignored Justin Trudeau, (Shiny Pony), for decades and no harm will come from continuing this practice. Canada is, in Douglas Adam’s immortal words, “mostly harmless.” It’s one of the things I love about the country. It balances out the smug, preening, holier than thou, moral posturing that erupts from many Canadians when presented with conundrums like Trump. Batman’s nemesis the Joker said it best, “Why so serious?” Canadians take themselves more seriously than the Danes. If you’ve ever lived in Denmark you’ll understand.
+
+Unfortunately, the United States is not mostly harmless. It matters <em>a little bit</em> who is elected President. It doesn’t matter nearly as much as many Americans think and we can praise the all squiggling <a href="http://www.venganza.org/">Flying Spaghetti Monster</a> for that. Living under a hubris-infused narcissist like Obama would be far worse if we didn’t have the luxury of ignoring him. And this brings me to Hillary, (Hildabeast), and Trump. It’s going to be difficult to ignore either one of them, and sadly <em><a href="http://truthinmedia.com/none-of-the-above-to-appear-on-canadian-ballot/">None of the Above</a></em>, my preferred candidate, is not on the ballot. This is a problem.
+
+My solution, as always, revolves around who I hate the most. Animus is my animating principle. Trump is a bombastic tool, but, at least, I don’t want to hold his head under water until it stops making nagging noises. The prospect of four years of <a href="http://hotair.com/archives/2016/02/16/video-for-some-reason-hillary-barks-like-a-dog-during-stump-speech/">Hildabeast barking</a> is profoundly depressing. The bitch must be stopped so I’m resorting to extreme measures. Next week I’ll cast a primary vote for that old 1960s era western hippie-commie, Bernie Sanders. Sanders has no chance of winning the presidency in November. If by some miracle, he ends up as the Democrat nominee he will be crushed by whatever crawls out of the Republican swamp.
+
+I almost feel sorry for Bernie. Like all 1960s era western hippie-commies, he’s a weird mixture of earnest naiveté and historical ignorance. Western hippie-commies differ from their real eastern counterparts. They’ve never held power, never run anything of importance, and have a serious marketing problem!
+
+Anyone, even remotely cognizant of 20<sup>th</sup>-century history, will find it hard to overlook the vast pile of corpses various communist and socialist regimes piled up. We’re not really sure how many tens of millions died at the hands of Stalin, Mao, Kim Il-Sung, Pol Pot and lesser thugs but it exceeds the toll exacted by the Nazi’s. This is beyond historical dispute. You can whine, attempt to change the subject, and hurl as many epithets as you want but it won’t change this nasty fact. People’s regimes are demonstrably bad for people.
+
+Western hippie-commies like Sanders know this so they rebrand themselves as socialists. Socialists believe that if you only do communism right none of the brutal side effects will accrue. You can have somebody else’s cake and eat it too. This is naïve. Ask anyone in Venezuela about the wonders of 21<sup>st</sup>-century socialism. While you’re at it, explain how the socialism of Bernie Sanders differs from the socialism of Hugo Chavez. Spoiler alert: it doesn’t!
+
+A primary vote for Sanders is mostly harmless. It’s like sticking a cocklebur on <a href="https://bakerjd99.wordpress.com/2014/04/15/pussydent-hildabeast/">Pussydent Hildabeast’s</a> hideous hide. Still it amuses me? I must take solace somewhere. Let’s Bern the Witch!
+
+<a href="http://www.zazzle.com/bern_the_witch_car_bumper_sticker-128802686687335170"><img class="aligncenter wp-image-5199 size-full" src="https://bakerjd99.files.wordpress.com/2016/03/bernthewitch.png" alt="bernthewitch" width="499" height="149" /></a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5197</wp:post_id>
+  <wp:post_date>2016-03-12 15:24:48</wp:post_date>
+  <wp:post_date_gmt>2016-03-12 21:24:48</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>on-shiny-pony-and-witch-berning</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="bernie-sanders"><![CDATA[Bernie Sanders]]></category>
+  <category domain="post_tag" nicename="donald-trump"><![CDATA[Donald Trump]]></category>
+  <category domain="post_tag" nicename="hildabeast"><![CDATA[Hildabeast]]></category>
+  <category domain="post_tag" nicename="hillary-clinton"><![CDATA[Hillary Clinton]]></category>
+  <category domain="post_tag" nicename="hippie-commies"><![CDATA[hippie-commies]]></category>
+  <category domain="post_tag" nicename="justin-trudeau"><![CDATA[Justin Trudeau]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="post_tag" nicename="pussydent-hildabeast"><![CDATA[Pussydent Hildabeast]]></category>
+  <category domain="category" nicename="trolling"><![CDATA[Trolling]]></category>
+  <category domain="post_tag" nicename="witch-berning"><![CDATA[witch Berning]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:36:"https://facebook.com/977636375654058";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[20695331337]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_done_5454303</wp:meta_key>
