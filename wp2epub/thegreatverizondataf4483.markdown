@@ -105,7 +105,7 @@ now!](https://www.youtube.com/watch?v=XMblePw7eJs)
 
 [^4483b]: [EBooks are developing nasty data mining
     habits.](http://online.wsj.com/news/articles/SB10001424052702304870304577490950051438304)
-    I have no desire to expose the precise details of my reading too
+    I have no desire to expose the precise details of my reading to
     busy bodies. This doesn’t mean I am giving up on eBooks but I am
     giving up on on-line eBooks. I now demand complete control of the
     eBook file on a device that I can shut off logging and
