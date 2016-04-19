@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2016-03-12 21:57"-->
+<!-- generator="WordPress.com" created="2016-04-18 23:50"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>https://bakerjd99.wordpress.com</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sat, 12 Mar 2016 21:57:47 +0000</pubDate>
+<pubDate>Mon, 18 Apr 2016 23:50:02 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -2333,6 +2333,11 @@
   <wp:tag_name><![CDATA[new age imbeciles]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>59355</wp:term_id>
+  <wp:tag_slug>new-mexico</wp:tag_slug>
+  <wp:tag_name><![CDATA[New Mexico]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>90149275</wp:term_id>
   <wp:tag_slug>nick-lomb</wp:tag_slug>
   <wp:tag_name><![CDATA[Nick Lomb]]></wp:tag_name>
@@ -2761,6 +2766,11 @@
   <wp:term_id>7094</wp:term_id>
   <wp:tag_slug>sales</wp:tag_slug>
   <wp:tag_name><![CDATA[sales]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>67737</wp:term_id>
+  <wp:tag_slug>santa-fe</wp:tag_slug>
+  <wp:tag_name><![CDATA[Santa Fe]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>31099</wp:term_id>
@@ -8571,65 +8581,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4172/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:43 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4172</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4172</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:43</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:43</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4172</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>14</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[217420]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>https://bakerjd99.wordpress.com/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -9777,6 +9728,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/03/monosoc.jpg</wp:attachment_url>
 </item>
 <item>
+  <title>Casa Joma</title>
+  <link>https://bakerjd99.wordpress.com/2016/04/18/the-santa-fe-trail/casajoma2/</link>
+  <pubDate>Mon, 18 Apr 2016 22:54:24 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/04/casajoma2.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5245</wp:post_id>
+  <wp:post_date>2016-04-18 17:54:24</wp:post_date>
+  <wp:post_date_gmt>2016-04-18 22:54:24</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>casajoma2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5241</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/04/casajoma2.jpg</wp:attachment_url>
+</item>
+<item>
   <title>What's In it for Facebook?</title>
   <link>https://bakerjd99.wordpress.com/2009/09/05/whats-in-it-for-facebook/</link>
   <pubDate>Sat, 05 Sep 2009 22:44:50 +0000</pubDate>
@@ -9849,20 +9823,22 @@ Have I harshed your Facebook mellow?]]></content:encoded>
 <item>
   <title>Fake Programming</title>
   <link>https://bakerjd99.wordpress.com/2009/09/09/fake-progamming/</link>
-  <pubDate>Wed, 09 Sep 2009 21:36:47 +0000</pubDate>
+  <pubDate>Thu, 10 Sep 2009 02:36:47 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=31</guid>
   <description/>
   <content:encoded><![CDATA[I have been a <em>fake programmer </em>for a long time.  A fake programmer is someone who writes software to crush personal irritants.   Fake programmers are not hackers; they don't enjoy the process of software creation; they don't work for <a href="http://en.wikipedia.org/wiki/The_Man">the man </a>and they make piss poor cubicle dwellers.  Fake programmers detest industry standards and will wage silent, passive aggressive, war on anyone foolish enough to insist on them.  The typical fake programmer is boiling with rage, <em>``what do you mean there's nothing out there that solves my problem!"</em> When confronted with nasty problems fake programmers:
+
 <ol>
-	<li>Look for ways to ignore them</li>
-	<li>Try to pass the buck</li>
-	<li>Live with suboptimal crap</li>
-	<li>Whine</li>
-	<li>Complain about lesbians on welfare</li>
-	<li>Yell at morons on TV</li>
-	<li>Write snarky blog posts</li>
+    <li>Look for ways to ignore them</li>
+    <li>Try to pass the buck</li>
+    <li>Live with suboptimal crap</li>
+    <li>Whine</li>
+    <li>Complain about lesbians on welfare</li>
+    <li>Yell at morons on TV</li>
+    <li>Write snarky blog posts</li>
 </ol>
+
 and if all else fails: <strong>write some damn software</strong>.
 
 By the time the fake programmer has decided to code he is looking for the quickest and least painful solution to his problem.  Remember the fake programmer doesn't care about your problems and won't live by your rules.  He only wants to kill his problem and get his blood pressure back to normal.
@@ -9872,12 +9848,14 @@ Fake programmers will use industry standard languages and tools if they provide 
 I recently drove a stake through the  --- "no decent <a href="http://www-01.ibm.com/software/data/cognos/products/cognos-8-planning/">IBM/Cognos Planning</a> model diagram tool"  ---  vampire.  In my day job I wrestle with financial planning software.  Corporate planning software is an <em>irritant rich </em>environment.   My biggest complaint was the lack of an automatic way to quickly and accurately outline the contents of a Cognos model.  Without such a guide you will be at the mercy of "documentation",  (don't make me laugh) , or worse, Cognos Planning's <a href="http://www.buigallery.com/">ultra-sucky user interface</a>.  Either way you can kiss your weekends good bye.
 
 Fortunately,  I am an excellent fake J programmer.  <a href="http://www.jsoftware.com/">J is my favorite programming language</a>.   What's J you ask?  You have never heard of it and that's to bad for you!  You have deprived your brain of a <a href="http://en.wikipedia.org/wiki/Kenneth_E._Iverson">tool of thought</a> and my human side feels for you:  of course the outer fake programmer doesn't give a rat's ass.  Using <a href="http://www.jsoftware.com/jwiki/Addons/graphics/graphviz">J's excellent graphviz addon </a>I can generate two Cognos Planning <em><a href="http://www.fileinfo.com/extension/csv">*.csv</a> </em>files containing model metadata and then apply my <em><a href="http://www.box.net/shared/7mqg9bek5x">analystgraphs</a></em> script to generate accurate, blood pressure reducing,  diagrams like:
+
 <p style="text-align:center;"><a href="http://conceptcontrol.smugmug.com/Other/utilimages/8074217_BQjXN/1/#672169130_vajvn-A-LB"><img class="aligncenter" title="Cognos Planning Model Diagram" src="http://conceptcontrol.smugmug.com/photos/672169130_vajvn-M.png" alt="Cognos Planning Model Diagram" /></a></p>
+
 If  you are interested in these diagrams feel free to download and use my J scripts.  Of course you will have to learn enough J to run them.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>31</wp:post_id>
   <wp:post_date>2009-09-09 21:36:47</wp:post_date>
-  <wp:post_date_gmt>2009-09-09 21:36:47</wp:post_date_gmt>
+  <wp:post_date_gmt>2009-09-10 02:36:47</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>fake-progamming</wp:post_name>
@@ -9902,6 +9880,30 @@ If  you are interested in these diagrams feel free to download and use my J scr
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21914986027]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005796326171396";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -10181,7 +10183,7 @@ The attached KMZ file <a href="http://www.box.net/shared/xha0totm6f">geotagged.k
 <item>
   <title>Nobel Peace Prize Idol</title>
   <link>https://bakerjd99.wordpress.com/2009/10/09/nobel-peace-prize-idol/</link>
-  <pubDate>Fri, 09 Oct 2009 17:03:39 +0000</pubDate>
+  <pubDate>Fri, 09 Oct 2009 22:03:39 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=171</guid>
   <description/>
@@ -10189,7 +10191,7 @@ The attached KMZ file <a href="http://www.box.net/shared/xha0totm6f">geotagged.k
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>171</wp:post_id>
   <wp:post_date>2009-10-09 17:03:39</wp:post_date>
-  <wp:post_date_gmt>2009-10-09 17:03:39</wp:post_date_gmt>
+  <wp:post_date_gmt>2009-10-09 22:03:39</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>nobel-peace-prize-idol</wp:post_name>
@@ -10210,6 +10212,30 @@ The attached KMZ file <a href="http://www.box.net/shared/xha0totm6f">geotagged.k
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915068837]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005799272837768";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
@@ -11743,21 +11769,19 @@ The Internet has also leveled the playing field between big and small city libra
 <item>
   <title>Everybody Abandon Facebook Day</title>
   <link>https://bakerjd99.wordpress.com/2010/05/21/everybody-abandon-facebook-day/</link>
-  <pubDate>Fri, 21 May 2010 18:51:24 +0000</pubDate>
+  <pubDate>Fri, 21 May 2010 23:51:24 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=521</guid>
   <description/>
-  <content:encoded><![CDATA[Yesterday was the first ever <a href="http://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/#">Everybody Draw Mohammed Day.</a>   My favorite Everybody Draw Mohammed cartoon is shown below. 
-<p style="text-align:center;">
+  <content:encoded><![CDATA[Yesterday was the first ever <a href="http://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/#">Everybody Draw Mohammed Day.</a>   My favorite Everybody Draw Mohammed cartoon is shown below.
 
-[caption id="" align="aligncenter" width="151" caption="Da Glory-ass Koran"]<img class="  " style="display:block;" title="Da Glory-ass Koran" src="http://conceptcontrol.smugmug.com/photos/874351252_o23th-S.jpg" alt="Da Glory-ass Koran" width="151" height="201" />[/caption]
+[caption id="" align="aligncenter" width="151"]<img class=" " style="display:block;" title="Da Glory-ass Koran" src="http://conceptcontrol.smugmug.com/photos/874351252_o23th-S.jpg" alt="Da Glory-ass Koran" width="151" height="201" /> Da Glory-ass Koran[/caption]
 
-</p>
-For the <a href="http://en.wikipedia.org/wiki/Troglodyte">troglodytes</a> among us Everybody Draw Mohammed Day was a sarcastic reaction to years of bullying, death threats and <a href="http://islam.about.com/od/law/g/fatwa.htm">fatwas</a> issued against cartoonists for the horrible crime of drawing caricatures of Mohammed.  The point of Everybody Draw Mohammed Day was to drive home the simple fact that when it comes to free speech there are no sacred cows or prophets!  Nothing is beyond <em>offensive satire.</em> 
+For the <a href="http://en.wikipedia.org/wiki/Troglodyte">troglodytes</a> among us Everybody Draw Mohammed Day was a sarcastic reaction to years of bullying, death threats and <a href="http://islam.about.com/od/law/g/fatwa.htm">fatwas</a> issued against cartoonists for the horrible crime of drawing caricatures of Mohammed.  The point of Everybody Draw Mohammed Day was to drive home the simple fact that when it comes to free speech there are no sacred cows or prophets!  Nothing is beyond <em>offensive satire.</em>
 
 For me free speech is an absolute <em>inalienable</em> right that overrides nonsense like religious belief.  If you attempt to regulate my speech I will resist.  The harder you push the more I will push back.  If you curtail or regulate my speech I will scream louder. If you pass laws restricting discourse I will break them. If you suppress my voice I will stop debating and start shooting.  And, if you think I am bluffing go ahead and call me on it.
 
-Given the depth of this conviction I was sorely disappointed to see that Facebook dropped The Everybody Draw Mohammed Day page.  The cowardly weasels weren’t even responding to official complaints.  They just decided to self-censor themselves and a hundred thousand Facebook users as well.  Of course they had their reasons but let’s cut the crap.  They have shown us that when cards are in play they have no core beliefs beyond pimping user data to third parties for cash. 
+Given the depth of this conviction I was sorely disappointed to see that Facebook dropped The Everybody Draw Mohammed Day page.  The cowardly weasels weren’t even responding to official complaints.  They just decided to self-censor themselves and a hundred thousand Facebook users as well.  Of course they had their reasons but let’s cut the crap.  They have shown us that when cards are in play they have no core beliefs beyond pimping user data to third parties for cash.
 
 I cannot endorse such behavior so I deleted my Facebook account.  This was not an empty gesture for me.  As a divorced father living in another country I enjoyed seeing Facebook posts from my kids on a regular basis but sometimes we have to give up things we like when they clash with principles.
 
@@ -11765,7 +11789,7 @@ So I am inviting all that sincerely uphold free speech to join with me on June 5
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>521</wp:post_id>
   <wp:post_date>2010-05-21 18:51:24</wp:post_date>
-  <wp:post_date_gmt>2010-05-21 18:51:24</wp:post_date_gmt>
+  <wp:post_date_gmt>2010-05-21 23:51:24</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>everybody-abandon-facebook-day</wp:post_name>
@@ -11786,6 +11810,30 @@ So I am inviting all that sincerely uphold free speech to join with me on June 5
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005811379503224";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915731169]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
     <wp:comment_id>17</wp:comment_id>
@@ -11902,18 +11950,19 @@ In Ghana I lived without TV, radio, recorded music and sometimes newspapers but 
 <item>
   <title>“Plug the Damn Hole”</title>
   <link>https://bakerjd99.wordpress.com/2010/05/26/plug-the-damn-hole/</link>
-  <pubDate>Wed, 26 May 2010 18:31:51 +0000</pubDate>
+  <pubDate>Wed, 26 May 2010 23:31:51 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=534</guid>
   <description/>
   <content:encoded><![CDATA[I see Obama’s <a href="http://www.youtube.com/watch?v=PKx1C0gY6Qk">awesome intellect</a> has been working overtime. I guess this is plan B after plan A was scuttled by a <a href="http://metroweekly.com/news/?ak=5208">raging homophobe.</a> Forgive my “hickness” but if a homophobe could actually <a href="http://thehill.com/blogs/blog-briefing-room/news/99713-obama-to-aides-plug-the-damn-hole?page=46">plug the damn hole</a> I would gladly overlook some queer queasiness.
+
 <div id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:2c07d276-daa6-48cc-8a24-f02ec579772d" class="wlWriterEditableSmartContent" style="width:425px;display:block;float:none;margin:0 auto;padding:0;">
 <div>[youtube=http://www.youtube.com/watch?v=rlPPFcy-3Vo]</div>
 </div>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>534</wp:post_id>
   <wp:post_date>2010-05-26 18:31:51</wp:post_date>
-  <wp:post_date_gmt>2010-05-26 18:31:51</wp:post_date_gmt>
+  <wp:post_date_gmt>2010-05-26 23:31:51</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>plug-the-damn-hole</wp:post_name>
@@ -11934,6 +11983,30 @@ In Ghana I lived without TV, radio, recorded music and sometimes newspapers but 
   <wp:postmeta>
     <wp:meta_key>reddit</wp:meta_key>
     <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423195757;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005812542836441";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915808422]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -12346,27 +12419,31 @@ Mike Boozer, http://somebodyhadtosayit.com]]></wp:comment_content>
 <item>
   <title>I did not have sex with that Oil Spill!</title>
   <link>https://bakerjd99.wordpress.com/2010/06/16/i-did-not-have-sex-with-that-oil-spill/</link>
-  <pubDate>Wed, 16 Jun 2010 18:55:00 +0000</pubDate>
+  <pubDate>Wed, 16 Jun 2010 23:55:00 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=616</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://politicalhumor.about.com/b/2010/05/31/bp-were-bringing-oil-to-american-shores.htm"><img style="display:inline;margin-left:6px;margin-right:6px;border-color:initial;border-style:initial;border-width:0;" title="bp-oil-shores" src="http://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg" alt="bp-oil-shores" width="198" height="157" align="left" border="0" /></a>I would like to thank BP for accidently creating a <a href="http://k6educators.about.com/od/educationglossary/g/gteachmoment.htm">teachable moment</a> for our political class.  Prior to the gulf cluster-fuck the <a href="http://www.breitbart.tv/pelosi-still-says-she%E2%80%99s-running-%E2%80%98most-ethical%E2%80%99-congress-ever/">most ethical congress in history</a> did not know that <a href="http://www.claymath.org/millennium/Navier-Stokes_Equations/">fluid dynamics</a> is one of the hardest of the hard sciences.  But, after two months of heroic attempts to contain the spill with <a href="http://www.treehugger.com/files/2010/06/breaking-down-bp-gulf-spill-blame-game.php">blame games</a>, <a href="http://www.free-press-release.com/news-gulf-oil-scandal-mineral-management-services-bribery-1274902506.html">bribes</a>, <a href="http://www.washingtonexaminer.com/opinion/blogs/beltway-confidential/with-doj-threatening-prosecution-obama-slams-bp-for-lawyering-up-95647809.html">threats</a>, <a href="http://www.ldjackson.net/news-politics/the-gulf-oil-spill-and-cap-and-trade/">legislative initiatives</a> and <a href="http://standbyliberty.org/2010/06/14/obama-golf-vs-the-gulf-you-decide-who-is-winning-better-yet-just-blame-bush/">golf</a> it’s finally dawning on the powerful minds that rule us that fluids cannot be bought-off, community-organized, press-marginalized or change-the-channel ignored.  Reality is such an unfair bitch.
+  <content:encoded><![CDATA[<a href="http://politicalhumor.about.com/b/2010/05/31/bp-were-bringing-oil-to-american-shores.htm"><img style="display:inline;margin-left:6px;margin-right:6px;border:0 initial initial;" title="bp-oil-shores" src="http://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg" alt="bp-oil-shores" width="198" height="157" align="left" border="0" /></a>I would like to thank BP for accidently creating a <a href="http://k6educators.about.com/od/educationglossary/g/gteachmoment.htm">teachable moment</a> for our political class.  Prior to the gulf cluster-fuck the <a href="http://www.breitbart.tv/pelosi-still-says-she%E2%80%99s-running-%E2%80%98most-ethical%E2%80%99-congress-ever/">most ethical congress in history</a> did not know that <a href="http://www.claymath.org/millennium/Navier-Stokes_Equations/">fluid dynamics</a> is one of the hardest of the hard sciences.  But, after two months of heroic attempts to contain the spill with <a href="http://www.treehugger.com/files/2010/06/breaking-down-bp-gulf-spill-blame-game.php">blame games</a>, <a href="http://www.free-press-release.com/news-gulf-oil-scandal-mineral-management-services-bribery-1274902506.html">bribes</a>, <a href="http://www.washingtonexaminer.com/opinion/blogs/beltway-confidential/with-doj-threatening-prosecution-obama-slams-bp-for-lawyering-up-95647809.html">threats</a>, <a href="http://www.ldjackson.net/news-politics/the-gulf-oil-spill-and-cap-and-trade/">legislative initiatives</a> and <a href="http://standbyliberty.org/2010/06/14/obama-golf-vs-the-gulf-you-decide-who-is-winning-better-yet-just-blame-bush/">golf</a> it’s finally dawning on the powerful minds that rule us that fluids cannot be bought-off, community-organized, press-marginalized or change-the-channel ignored.  Reality is such an unfair bitch.
 
 Last night, sensing a disturbance in the zeitgeist, Obama subjected our nation to a rousing <em><a href="http://www.youtube.com/watch?v=Gh76oepKFc8">I did not have sex with that oil spill speech</a></em>.  The One’s words soared but we, the little unworthy peons, were as unmoved as <a href="http://www.aolnews.com/opinion/article/opinion-why-this-is-the-iconic-gulf-oil-spill-picture/19503566">oil soaked pelicans</a>.  Even our <a href="http://www.urbandictionary.com/define.php?term=obamabot">Obamabot</a> leg tinglers failed to detect <a href="http://www.realclearpolitics.com/video/2010/06/15/msnbc_trashes_obamas_address_compared_to_carter_i_dont_sense_executive_command.html">executive command</a>.
 
 I wish I could say I am disappointed but I wrote this government off a longtime ago.  The stark fiscal, technical and rhetorical incompetence they display every day is no more surprising than sunshine.  The oil spill is an infuriating accidental disaster but it’s not the biggest spill confronting us.  That would be our insane, reckless and entirely <a href="http://newsbusters.org/blogs/tim-graham/2009/03/19/obama-speak-homeland-security-secretary-replaces-terrorism-term-man-caus">man caused</a> deficit spending.
 
 Let’s do some arithmetic.  Let’s assume the unhinged moonbats turned reservoir engineers have pulled the correct gulf spill rate of 100,000 barrels/day out of their asses.  Let’s also assume an oil price of $80 dollars/barrel. When you multiply everything together you find that
+
 <p style="text-align:center;"><span style="font-family:Courier New;font-size:small;">8000000 =  1e5 * 80</span></p>
+
 eight millions dollars of oil is spilling into the gulf every day.  Sounds bad.  Let’s compare that to our government’s fiscal spill.  The deficit for this fiscal year is expected to approach <a href="http://www.usdebtclock.org/">1.3 trillion dollars</a>.   This works out to
+
 <p style="text-align:center;"><span style="font-family:Courier New;font-size:small;">3.56164384e9 = 1.3e12 % 365</span></p>
+
 roughly 3.6 billion dollars/day or <em>445 times the gulf spill rate!</em>  If I could plug only one damn hole I know which one I’d choose!]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>616</wp:post_id>
   <wp:post_date>2010-06-16 18:55:00</wp:post_date>
-  <wp:post_date_gmt>2010-06-16 18:55:00</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:post_date_gmt>2010-06-16 23:55:00</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>i-did-not-have-sex-with-that-oil-spill</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -12405,6 +12482,30 @@ roughly 3.6 billion dollars/day or <em>445 times the gulf spill rate!</em>  If 
   <wp:postmeta>
     <wp:meta_key>reddit</wp:meta_key>
     <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1412815954;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005812179503144";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915781404]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
     <wp:comment_id>296</wp:comment_id>
@@ -14050,29 +14151,32 @@ The modern chick flick is a difficult genre.  A good chick flick:
 <item>
   <title>Resume blues partly alleviated by LaTeX</title>
   <link>https://bakerjd99.wordpress.com/2010/08/28/resume-blues-partly-alleviated-by-latex/</link>
-  <pubDate>Sat, 28 Aug 2010 16:26:06 +0000</pubDate>
+  <pubDate>Sat, 28 Aug 2010 21:26:06 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=771</guid>
   <description/>
   <content:encoded><![CDATA[Once again your fearless correspondent is seeking new consulting opportunities.  One of the major drawbacks of consulting is the constant need to keep marketing yourself!  When it comes to self promotion that old standby, the resume,  is still one of your most effective tools.  When communicating with potential clients their first question is; “Can you send me a resume?”
 
 Resumes are a black art.  There are many,  mostly bogus,  theories about what constitutes a good resume and an entire cottage industry has sprung up to support resume creation.  I am sure you have walked down the <em>power resume aisle</em> in your local big-box bookstore marveling at how people can write entire books on composing three page resumes.  Maybe you have suffered through a corporate <em>out-placing</em> where well dressed <em>human-resource</em> types will earnestly criticize your use of bullets and personal pronouns.  Whenever people go on about resumes I always think of Monty Python’s theory of Brontosauruses.
+
 <div id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:313904e4-3ee0-4991-a933-ce3d93f5f5c5" class="wlWriterEditableSmartContent" style="width:425px;display:block;float:none;margin:0 auto;padding:0;">
 <div>[youtube=http://www.youtube.com/watch?v=cAYDiPizDIs]</div>
 </div>
+
 Here’s the nasty truth: a resume is an advertisement!  Do you honestly think anyone would dare to propose a <em>theory of advertisements?</em> A good ad gets noticed and helps sell the product.  The same holds for resumes.
 
 I have a simple resume style that has worked well.  The only complaints I get relate to <em>file types</em>.  Some clients want plain text, some want Word documents, others want PDFs and most don’t care!
 
 Lately I revised the <a href="http://www.latex-project.org/">LaTeX</a> version of my resume.  LaTeX is my preferred document format.  LaTeX source documents are simple text files. You can manipulate them with any text editor on any computer system.  Hence LaTeX documents cannot be held hostage by software vendors that <em>encode your words</em> in version specific binary formats. If you have ever converted a Word document to an old or new format you will know of what I speak.  Because LaTeX files are simple text it’s easy to share LaTeX on the web.  My current resume borrowed from a number of authors.  When I borrow I try to give back.  The following links point to the LaTeX source of my resume and the final PDF output.  Help yourself but be courteous and maintain the <a href="http://creativecommons.org/licenses/by-nc-sa/1.0/">creative common license</a> block in the LaTeX code.
+
 <ul>
-	<li><a href="http://www.box.net/shared/ef8yxegr0i">cvh2010pub.zip</a> zipped resume LaTeX source</li>
-	<li><a href="http://www.box.net/shared/u27ntub3nr">cvh2010pub.pdf</a> final typeset resume</li>
+    <li><a href="http://www.box.net/shared/ef8yxegr0i">cvh2010pub.zip</a> zipped resume LaTeX source</li>
+    <li><a href="http://www.box.net/shared/u27ntub3nr">cvh2010pub.pdf</a> final typeset resume</li>
 </ul>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>771</wp:post_id>
   <wp:post_date>2010-08-28 16:26:06</wp:post_date>
-  <wp:post_date_gmt>2010-08-28 16:26:06</wp:post_date_gmt>
+  <wp:post_date_gmt>2010-08-28 21:26:06</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>resume-blues-partly-alleviated-by-latex</wp:post_name>
@@ -14105,6 +14209,30 @@ Lately I revised the <a href="http://www.latex-project.org/">LaTeX</a> version o
   <wp:postmeta>
     <wp:meta_key>reddit</wp:meta_key>
     <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423194402;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005825909501771";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916692207]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -14739,7 +14867,7 @@ Cheers, bob]]></wp:comment_content>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1101</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.985 released August 9, 2015</a> </strong>
+  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.987 released March 20, 2016</a> </strong>
 
 This page maintains references to primary JOD materials. See the directory: <a href="https://www.box.com/s/eb537470b25ab230a0ab">JOD Dictionary</a>
 
@@ -17184,7 +17312,7 @@ I won't go into details about my particular PIP. Let's just say it captures eve
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1681</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="attachment_1685" align="alignright" width="135" caption="Government Fiscal Policy"]<a href="http://bakerjd99.files.wordpress.com/2011/07/headupasslogo.jpg"><img class="size-thumbnail wp-image-1685 " title="HeadUpAssLogo" src="http://bakerjd99.files.wordpress.com/2011/07/headupasslogo.jpg?w=150" alt="" width="135" height="135" /></a>[/caption]
+  <content:encoded><![CDATA[[caption id="attachment_1685" align="alignright" width="135"]<a href="http://bakerjd99.files.wordpress.com/2011/07/headupasslogo.jpg"><img class="size-thumbnail wp-image-1685 " title="HeadUpAssLogo" src="http://bakerjd99.files.wordpress.com/2011/07/headupasslogo.jpg?w=150" alt="" width="135" height="135" /></a> Government Fiscal Policy[/caption]
 
 Well well it turns out that when John Boehner isn't <a href="http://www.buzzfeed.com/akdobbins/john-boehner-crying-a-comprehensive-guide">crying like a little girl</a> he can deliver a speech. Tonight he smoked Obama like a fine cigar. I tried to flip around Obama's debt limit rant but ended up watching like a gawker at a hospital fire.
 
@@ -17228,6 +17356,30 @@ But don't worry our elected pets have a plan! They're going to borrow and print 
     <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005813569503005";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915884472]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title>Cowboys and Aliens and Obama</title>
@@ -17236,7 +17388,7 @@ But don't worry our elected pets have a plan! They're going to borrow and print 
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1698</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="253" caption="I give this better odds than &quot;quantitative easing!&quot;"]<img class="    " title="Cowboys and Aliens" src="http://conceptcontrol.smugmug.com/photos/i-59xGPwj/0/M/i-59xGPwj-M.jpg" alt="Cowboys and Aliens" width="253" height="143" />[/caption]
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="253"]<img class=" " title="Cowboys and Aliens" src="http://conceptcontrol.smugmug.com/photos/i-59xGPwj/0/M/i-59xGPwj-M.jpg" alt="Cowboys and Aliens" width="253" height="143" /> I give this better odds than "quantitative easing!"[/caption]
 
 Cowboys and Aliens had me at the title! Throwing Indiana Jones, James Bond and House's 13,  (Olivia Wilde - the thinking man's smoking hot babe), into the mix merely turned a ridiculous premise into a cosmically absurd proposition. How could I resist?
 
@@ -17244,22 +17396,24 @@ There's no point issuing spoiler alerts, like a fine Obama speech, this schizoph
 
 Yes I hear your <a href="http://www.nationalreview.com/corner/267605/safe-sex-and-taxes-are-little-people-victor-davis-hanson">little people</a> objections, but bear with me. If we<em> <strong>throw fun <a href="http://www.post-gazette.com/pg/08184/894024-51.stm">under the bus</a> </strong></em>then CB is the cinematic equivalent of a typical Obama speech.
 
-[caption id="" align="alignright" width="211" caption="I gave up a season of House for this turkey!"]<img title="Oliva Wilde" src="http://conceptcontrol.smugmug.com/photos/i-VW88d2q/0/S/i-VW88d2q-S.jpg" alt="Oliva Wilde" width="211" height="300" />[/caption]
+[caption id="" align="alignright" width="211"]<img title="Oliva Wilde" src="http://conceptcontrol.smugmug.com/photos/i-VW88d2q/0/S/i-VW88d2q-S.jpg" alt="Oliva Wilde" width="211" height="300" /> I gave up a season of House for this turkey![/caption]
 
 Let's review the evidence:
+
 <ol>
-	<li>CB mashes together tired old western and science-fiction clichés without the slightest regard for antiquated notions like coherence and plausibility.</li>
-	<li>Obama (OB) mashes together tired old political clichés without the slightest regard for antiquated notions like effectiveness and reality.</li>
-	<li>CB conjures up big nasty bug-like aliens that literally blind the people with science so they can harvest their <a href="http://www.youtube.com/watch?v=N1KvgtEnABY">precious bodily fluids</a>.</li>
-	<li>OB conjures up big nasty Tea Party Republicans that blind the people with <a href="http://www.ardue.org.uk/world/finarith.html">arithmetic</a> so they can <a href="http://www.thedailylink.org/2005/04/good-god-just-balance-fucking-budget.html">balance the budget</a>.</li>
-	<li>CB rails against the <a href="http://www.econlib.org/library/Enc/GoldStandard.html">gold standard</a>. See the movie</li>
-	<li>OB rails against the gold standard. See the Federal Reserve.</li>
-	<li>CB is confused.</li>
-	<li>OB ditto.</li>
+    <li>CB mashes together tired old western and science-fiction clichés without the slightest regard for antiquated notions like coherence and plausibility.</li>
+    <li>Obama (OB) mashes together tired old political clichés without the slightest regard for antiquated notions like effectiveness and reality.</li>
+    <li>CB conjures up big nasty bug-like aliens that literally blind the people with science so they can harvest their <a href="http://www.youtube.com/watch?v=N1KvgtEnABY">precious bodily fluids</a>.</li>
+    <li>OB conjures up big nasty Tea Party Republicans that blind the people with <a href="http://www.ardue.org.uk/world/finarith.html">arithmetic</a> so they can <a href="http://www.thedailylink.org/2005/04/good-god-just-balance-fucking-budget.html">balance the budget</a>.</li>
+    <li>CB rails against the <a href="http://www.econlib.org/library/Enc/GoldStandard.html">gold standard</a>. See the movie</li>
+    <li>OB rails against the gold standard. See the Federal Reserve.</li>
+    <li>CB is confused.</li>
+    <li>OB ditto.</li>
 </ol>
+
 <div>
 
-[caption id="" align="alignleft" width="224" caption="Jesus what a freak show. Hey it could be worse. I could be Obama&#039;s press secretary."]<img class="  " title="Harrison Ford" src="http://conceptcontrol.smugmug.com/photos/i-2HMfkxd/0/S/i-2HMfkxd-S.jpg" alt="Harrison Ford" width="224" height="150" />[/caption]
+[caption id="" align="alignleft" width="224"]<img class=" " title="Harrison Ford" src="http://conceptcontrol.smugmug.com/photos/i-2HMfkxd/0/S/i-2HMfkxd-S.jpg" alt="Harrison Ford" width="224" height="150" /> Jesus what a freak show. Hey it could be worse. I could be Obama's press secretary.[/caption]
 
 Analogies are never perfect and eventually the $latex CB = OB$ symmetry breaks down.  In CB it all works out!  After dispatching the aliens the good guys are better off. When we finally <em>dispatch</em> Obama I doubt any of us will be better off.
 
@@ -17297,6 +17451,30 @@ Analogies are never perfect and eventually the $latex CB = OB$ symmetry breaks d
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916745359]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005826639501698";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -18096,7 +18274,7 @@ My friends that golden Apollonic age is past! Now we must content ourselves with
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1952</guid>
   <description/>
-  <content:encoded><![CDATA[[caption id="attachment_1971" align="alignleft" width="198" caption="Yousef Nadarkhani"]<a href="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg"><img class="size-full wp-image-1971 " title="Yousef Nadarkhani" src="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg" alt="Yousef Nadarkhani" width="198" height="161" /></a>[/caption]
+  <content:encoded><![CDATA[[caption id="attachment_1971" align="alignleft" width="198"]<a href="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg"><img class="size-full wp-image-1971 " title="Yousef Nadarkhani" src="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg" alt="Yousef Nadarkhani" width="198" height="161" /></a> Yousef Nadarkhani[/caption]
 
 I rarely comment on the "news" but the planned execution of <a href="http://michellemalkin.com/2011/09/29/iranian-pastor-yousef-nadarkhani-faces-execution-for-refusing-to-renounce-christianity-where-are-the-hollyweirdos-and-euroweenies-now/">Yousef Nadarkhani</a> for the<a href="http://bakerjd99.wordpress.com/2009/10/26/counting-gods/"> make-believe</a> crime of Islamic apostasy has really pissed me off. Once again the Iranian branch of the "religion of peace" shows its primitive, ass-backwards, subhuman side to a stunned world that finds it hard to believe that <em>changing your mind about fictitious religious nonsense is punishable by death! </em>It's rubbish like this that turned me into a hardcore atheist. If this is Sharia then Sharia is shit!
 
@@ -18142,6 +18320,30 @@ Savages always assume they can bully and terrorize people forever. At first peop
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005820342835661";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916358660]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -20922,7 +21124,7 @@ Astronomy lead ranger]]></wp:comment_content>
   <description/>
   <content:encoded><![CDATA[Today I’m joining a <a href="http://michellemalkin.com/2012/05/23/free-speech-show-solidarity-for-targeted-conservative-bloggers/">free speech blogburst</a> in support of <a href="http://patterico.com/2012/05/25/convicted-bomber-brett-kimberlin-neal-rauhauser-ron-brynaert-and-their-campaign-of-political-terrorism/">bloggers harassed and threatened</a> by Brett Kimberlin (<a href="http://www.urbandictionary.com/define.php?term=sack%20of%20shit">SOS</a>) and his butt monkeys.  Brett has a problem with people pointing out his bomb detonating <a href="http://pjmedia.com/blog/brett-kimberlin-and-the-future-of-blogbursts/">criminal terrorist past</a>, but unlike your typical effeminate impotent lefty whiner, Brett isn’t going to take any truth-telling lying down. No Brett is going to wage scorched earth <a href="http://en.wikipedia.org/wiki/Lawfare">lawfare</a> and if that isn’t good enough get some of his unhinged goons to threaten violence.  Yes, Brett practices the restrained dispassionate discourse advocated by <a href="http://www.youtube.com/watch?v=mopkn0lPzM8">The One</a>.  Unfortunately Brett has pissed off some real men and women and those of us with gnarly gonads and fertile ovaries will not be intimidated by our intellectual, moral and cosmetic inferiors. So sue me if you want Brett. Threaten me if you have the balls but before you get in my face keep in mind that Missouri is a concealed carry state.
 
-[caption id="" align="aligncenter" width="302"]<img class="  " title="Brett Kimberlin mug shot" alt="Brett Kimberlin mug shot" src="http://conceptcontrol.smugmug.com/photos/i-fG5Wnmw/0/S/i-fG5Wnmw-S.jpg" width="302" height="240" /> Brett Kimberlin speedway bomber mug shot[/caption]]]></content:encoded>
+[caption id="" align="aligncenter" width="302"]<img class=" " title="Brett Kimberlin mug shot" src="http://conceptcontrol.smugmug.com/photos/i-fG5Wnmw/0/S/i-fG5Wnmw-S.jpg" alt="Brett Kimberlin mug shot" width="302" height="240" /> Brett Kimberlin speedway bomber mug shot[/caption]]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>2856</wp:post_id>
   <wp:post_date>2012-05-25 14:19:51</wp:post_date>
@@ -20964,6 +21166,30 @@ Astronomy lead ranger]]></wp:comment_content>
   <wp:postmeta>
     <wp:meta_key>reddit</wp:meta_key>
     <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413386363;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005827146168314";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916779083]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -21086,54 +21312,61 @@ As a mainly manly man I thank the <a href="http://www.venganza.org/">FSM</a> for
   </wp:postmeta>
 </item>
 <item>
-  <title>Venus puts a period on our Time</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/</link>
-  <pubDate>Thu, 07 Jun 2012 01:58:30 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4172/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:43 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2910</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4172</guid>
   <description/>
-  <content:encoded><![CDATA[I left work early yesterday to scoot down to Forest Park, one of St. Louis’s best city parks, and take in the transit of Venus. The <a href="http://www.slasonline.org/">St. Louis Astronomical Society</a> conducted a public outreach event on the grounds of the World’s Fair Pavilion. The pavilion sits atop a small hill with a good view of the western horizon. Many club members had set up telescopes for the public. Some scopes projected images of the sun and others used solar filters.  It was <a href="http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/">another large daytime star party</a>. Hundreds of people showed up and patiently waited in telescope lines to get a glimpse of Venus crossing the Sun.
-
-[caption id="" align="aligncenter" width="400"]<a href="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/14124438_8dvZ6h"><img class=" " title="World's Fair Pavilion" src="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/i-cCFrfhR/0/S/worlds-fair-pavilion-pool-S.jpg" alt="World's Fair Pavilion" width="400" height="267" /></a> Worlds Fair Pavilion in St. Louis's Forest Park on Venus transit day.[/caption]
-
-The mood was curious and somber; parents urged their children to look and remember. Many dutifully complied but you could see they were more interested in running around the pavilion than watching a little black dot. Maybe some will remember in the decades to come; maybe one or two will live to see the next transit but for the rest of us the little black dot of Venus is a “period” to the sentence of our time. We will never see Venus’s silhouette on the Sun again.  Venus will circle on punctuating future epochs but we, my friends, will soon cease to exist --- period.
-
-[caption id="" align="aligncenter" width="216"]<a href="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/14124438_8dvZ6h"><img class="  " title="Sunspotter solar transit projection" src="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/i-w7v8fMV/0/S/venus-transit-projection-S.jpg" alt="Sunspotter solar transit projection" width="216" height="216" /></a> A<a href="http://www.scientificsonline.com/sunspotter.html"> Sunspotter</a> transit of Venus projection.[/caption]]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2910</wp:post_id>
-  <wp:post_date>2012-06-06 20:58:30</wp:post_date>
-  <wp:post_date_gmt>2012-06-07 01:58:30</wp:post_date_gmt>
+  <wp:post_id>4172</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:43</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:43</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>venus-puts-a-period-on-our-time</wp:post_name>
+  <wp:post_name>4172</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>14</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="2012-transit-of-venus"><![CDATA[2012 transit of Venus]]></category>
-  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="forest-park"><![CDATA[Forest Park]]></category>
-  <category domain="post_tag" nicename="st-louis-astronomical-society"><![CDATA[St. Louis Astronomical Society]]></category>
-  <category domain="post_tag" nicename="transit-of-venus"><![CDATA[transit of Venus]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[217420]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -21846,6 +22079,58 @@ The mood was curious and somber; parents urged their children to look and rememb
   </wp:postmeta>
 </item>
 <item>
+  <title>Venus puts a period on our Time</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/</link>
+  <pubDate>Thu, 07 Jun 2012 01:58:30 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2910</guid>
+  <description/>
+  <content:encoded><![CDATA[I left work early yesterday to scoot down to Forest Park, one of St. Louis’s best city parks, and take in the transit of Venus. The <a href="http://www.slasonline.org/">St. Louis Astronomical Society</a> conducted a public outreach event on the grounds of the World’s Fair Pavilion. The pavilion sits atop a small hill with a good view of the western horizon. Many club members had set up telescopes for the public. Some scopes projected images of the sun and others used solar filters.  It was <a href="http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/">another large daytime star party</a>. Hundreds of people showed up and patiently waited in telescope lines to get a glimpse of Venus crossing the Sun.
+
+[caption id="" align="aligncenter" width="400"]<a href="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/14124438_8dvZ6h"><img class=" " title="World's Fair Pavilion" src="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/i-cCFrfhR/0/S/worlds-fair-pavilion-pool-S.jpg" alt="World's Fair Pavilion" width="400" height="267" /></a> Worlds Fair Pavilion in St. Louis's Forest Park on Venus transit day.[/caption]
+
+The mood was curious and somber; parents urged their children to look and remember. Many dutifully complied but you could see they were more interested in running around the pavilion than watching a little black dot. Maybe some will remember in the decades to come; maybe one or two will live to see the next transit but for the rest of us the little black dot of Venus is a “period” to the sentence of our time. We will never see Venus’s silhouette on the Sun again.  Venus will circle on punctuating future epochs but we, my friends, will soon cease to exist --- period.
+
+[caption id="" align="aligncenter" width="216"]<a href="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/14124438_8dvZ6h"><img class="  " title="Sunspotter solar transit projection" src="http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Missouri-Moments/i-w7v8fMV/0/S/venus-transit-projection-S.jpg" alt="Sunspotter solar transit projection" width="216" height="216" /></a> A<a href="http://www.scientificsonline.com/sunspotter.html"> Sunspotter</a> transit of Venus projection.[/caption]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2910</wp:post_id>
+  <wp:post_date>2012-06-06 20:58:30</wp:post_date>
+  <wp:post_date_gmt>2012-06-07 01:58:30</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>venus-puts-a-period-on-our-time</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="2012-transit-of-venus"><![CDATA[2012 transit of Venus]]></category>
+  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="forest-park"><![CDATA[Forest Park]]></category>
+  <category domain="post_tag" nicename="st-louis-astronomical-society"><![CDATA[St. Louis Astronomical Society]]></category>
+  <category domain="post_tag" nicename="transit-of-venus"><![CDATA[transit of Venus]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
   <title>Controlling Cell Phones the new IT Frontier</title>
   <link>https://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/</link>
   <pubDate>Sat, 09 Jun 2012 17:08:31 +0000</pubDate>
@@ -22508,11 +22793,13 @@ Finally, <em>the blog hit game is a long game;</em> you have to keep playing. Th
   <content:encoded><![CDATA[[caption id="" align="alignright" width="174"]<img style="margin:5px;" title="James Holmes" src="http://conceptcontrol.smugmug.com/photos/i-Wz5KbHp/0/S/i-Wz5KbHp-S.jpg" alt="James Holmes" width="174" height="144" /> Would you execute this man?[/caption]
 
 Jonah Goldberg makes an excellent point in <a href="http://www.baltimoresun.com/news/opinion/oped/bs-ed-goldberg-death-penalty-20120730,0,6792851.story">his recent column</a> about how the media always exploits shooting sprees to push for gun control but seldom asks --- <em>what should we do with mass murders?</em> To my right-wingy, death-beasty, vengeance-seeking, cowboy mind <a href="http://www.washingtonpost.com/national/james-holmes-expected-to-be-charged-monday-in-colorado-massacre/2012/07/30/gJQAFCRQKX_story.html">James Holmes</a>, the Colorado Dark Knight Rises cinema shooter, is a perfect candidate for the death penalty. Let’s review the facts.
+
 <ol>
-	<li><strong>Is James guilty beyond any reasonable doubt? </strong>Hell fucking yes! There is absolutely no doubt this little shithead is guiltier than sin. He is so fucking guilty that even a battalion of lawyers couldn’t prove otherwise.</li>
-	<li><strong>Is James mentally competent?</strong> Here tiny lawyer brains will attempt to argue that poor little James is obviously mentally ill because he killed all those innocent people and only mentally ill people kill people. It’s tautological drivel like this that’s destroyed whatever esteem lawyers once had. It’s a pathetic argument but let’s play anyway. Was Caesar mentally ill when he came saw and conquered? Was Truman mentally ill when he decided to nuke Hiroshima? I hold that choosing to kill any number of people, either directly or indirectly, is not, ipso facto, proof of mental illness. We don’t live in a <a href="http://www.thespoof.com/news/spoof.cfm?headline=s2i89689">Kumbya </a>universe people! Sometimes there are excellent reasons for killing people and, more often than not, murders know exactly what they are doing. James is mentally competent. He carefully, logically and methodically executed his murderous spree.</li>
-	<li><strong>Was the act premeditated?</strong> Duh - You don’t booby trap your apartment or stockpile ammo by accident!</li>
+    <li><strong>Is James guilty beyond any reasonable doubt? </strong>Hell fucking yes! There is absolutely no doubt this little shithead is guiltier than sin. He is so fucking guilty that even a battalion of lawyers couldn’t prove otherwise.</li>
+    <li><strong>Is James mentally competent?</strong> Here tiny lawyer brains will attempt to argue that poor little James is obviously mentally ill because he killed all those innocent people and only mentally ill people kill people. It’s tautological drivel like this that’s destroyed whatever esteem lawyers once had. It’s a pathetic argument but let’s play anyway. Was Caesar mentally ill when he came saw and conquered? Was Truman mentally ill when he decided to nuke Hiroshima? I hold that choosing to kill any number of people, either directly or indirectly, is not, ipso facto, proof of mental illness. We don’t live in a <a href="http://www.thespoof.com/news/spoof.cfm?headline=s2i89689">Kumbya </a>universe people! Sometimes there are excellent reasons for killing people and, more often than not, murders know exactly what they are doing. James is mentally competent. He carefully, logically and methodically executed his murderous spree.</li>
+    <li><strong>Was the act premeditated?</strong> Duh - You don’t booby trap your apartment or stockpile ammo by accident!</li>
 </ol>
+
 James scored a perfect trifecta; he’s absolutely guilty, he knew what he was doing and he carefully planned his murders. Colorado is a death penalty state. <em> If James retires to a life of cable TV in prison that will be a miscarriage of justice!</em>
 
 Coloradoans shouldn’t worry another nanosecond about the fate of this piece-of-shit. They should be lining up to execute him which brings me to my one problem with the death penalty. If you are unable to kill someone yourself you shouldn’t expect others to do it for you. Our current system of <em>humane execution, </em>(talk about oxymoronic bullshit), by professional executioners is absurd. It shields society from the consequences of their laws and beliefs and it grants to much power to the state. Life and death belongs in the people’s hands. We should select executioners like we select jurors. Maybe if we had to pull the trigger, throw the switch, or swing the head removing axe ourselves we might decide we don’t like the death penalty. I know many death penalty opponents think that’s the case but it’s also possible that we might like it even more. I could easily bludgeon poor James to death hence I can abide the death penalty. Can You?]]></content:encoded>
@@ -22554,8 +22841,20 @@ Coloradoans shouldn’t worry another nanosecond about the fate of this piece-of
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916653737]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
     <wp:comment_id>314</wp:comment_id>
@@ -24751,7 +25050,7 @@ Cheers]]></wp:comment_content>
   <description/>
   <content:encoded><![CDATA[I have cinematic dreams that I watch as a little sleeping movie critic. I'm sure you're familiar with this weird state of consciousness. You know you're asleep and dreaming; the dream is unfolding around you, but part of your mind, the part that knows you're dreaming, is aware and watching. It's busy taking notes, making snide remarks, lamenting poor production values and snickering at clichés.  Sometimes it's surprised and delighted by unexpected turns. This morning I had an entertaining dream.
 
-<a href="http://conceptcontrol.smugmug.com/Trips/USA-and-Canada/New-York-2005-1/7461666_BQ3QDf#!i=481352959&amp;k=thrPPpx&amp;lb=1&amp;s=A"><img class="alignright" style="margin-left:7px;margin-right:7px;" alt="" src="http://conceptcontrol.smugmug.com/Trips/USA-and-Canada/New-York-2005-1/i-thrPPpx/0/M/statue%20of%20liberty%202%20%5B3962082%5D-M.jpg" width="171" height="227" /></a>I was visiting the Statue of Liberty for the second time. I've seen the statue in my waking life and it is well worth the security shakedown you’ll get before boarding the ferry at <a href="http://www.statuecruises.com/pd_directions.html">Battery Park</a>. In my dream I knew that many years had passed since my last visit and I was nervous about recent changes. As the ferry pulled up to the statue's island my concerns materialized. The entire island had been "redeveloped." The little park at the base of the statue was gone: replaced by a massive marble covered plaza. Standing in the middle of the plaza was a large, hideous, marble, glass and steel building that completely enclosed the statue. From the island boat dock you couldn't even see Liberty! "Oh crap," my dreaming self muttered. Large signs on the dock warned us about "demonstrative language." We were  to conduct ourselves with quiet dignity while visiting this "shrine of democracy." My dreaming self, and the little sleeping movie critic, both inwardly groaned. Nothing says "democracy" like shutting up and taking whatever's doled out.
+<a href="http://conceptcontrol.smugmug.com/Trips/USA-and-Canada/New-York-2005-1/7461666_BQ3QDf#!i=481352959&amp;k=thrPPpx&amp;lb=1&amp;s=A"><img class="alignright" style="margin-left:7px;margin-right:7px;" src="http://conceptcontrol.smugmug.com/Trips/USA-and-Canada/New-York-2005-1/i-thrPPpx/0/M/statue%20of%20liberty%202%20%5B3962082%5D-M.jpg" alt="" width="171" height="227" /></a>I was visiting the Statue of Liberty for the second time. I've seen the statue in my waking life and it is well worth the security shakedown you’ll get before boarding the ferry at <a href="http://www.statuecruises.com/pd_directions.html">Battery Park</a>. In my dream I knew that many years had passed since my last visit and I was nervous about recent changes. As the ferry pulled up to the statue's island my concerns materialized. The entire island had been "redeveloped." The little park at the base of the statue was gone: replaced by a massive marble covered plaza. Standing in the middle of the plaza was a large, hideous, marble, glass and steel building that completely enclosed the statue. From the island boat dock you couldn't even see Liberty! "Oh crap," my dreaming self muttered. Large signs on the dock warned us about "demonstrative language." We were  to conduct ourselves with quiet dignity while visiting this "shrine of democracy." My dreaming self, and the little sleeping movie critic, both inwardly groaned. Nothing says "democracy" like shutting up and taking whatever's doled out.
 
 I got off the boat feeling hopeful; there had to be a good vantage point to look at Liberty. I was carrying my cameras, so I set off exploring the plaza looking for a good place to take pictures. The plaza was still under construction. Construction fencing blocked off the plaza behind the Liberty building. You couldn't walk around the building, but you could go far enough to see that the walls were completely opaque on all sides except the front, where Liberty gazed at the harbor. Her back and sides were completely hidden and exceptionally thick steel girders buttressed the back wall. "That ought to block incoming planes," my dream self thought. My little movie critic wasn't happy. <em>Liberty is about open possibilities in all directions.</em> It's not about being stuffed in a box and hidden from view. All my selves found it difficult to believe that some moron thought it was a good idea to completely cover the thing we were all there to see.
 
@@ -24780,7 +25079,7 @@ At this point I woke up and thought, "Boy John, your subconscious totally nailed
   <category domain="post_tag" nicename="statue-of-liberty"><![CDATA[Statue of Liberty]]></category>
   <category domain="post_tag" nicename="visiting-the-statue-of-liberty"><![CDATA[visiting the statue of liberty]]></category>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -24807,6 +25106,14 @@ At this point I woke up and thought, "Boy John, your subconscious totally nailed
     <wp:meta_key>_publicize_done_external</wp:meta_key>
     <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:100002231139337;b:1;}}]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916410819]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title>A Memo to the next Murdering Dorner</title>
@@ -24815,7 +25122,7 @@ At this point I woke up and thought, "Boy John, your subconscious totally nailed
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3751</guid>
   <description/>
-  <content:encoded><![CDATA[No doubt you've been following the breathless <a href="http://patdollard.com/2013/02/chris-matthews-heaps-praise-on-chris-dorner-returning-favor/">media swooning</a> about <a href="http://www.thedailybeast.com/articles/2013/02/14/how-christopher-dorner-went-down.html">Christopher Dorner</a> and his <a href="http://www.mediaite.com/tv/cnn-panelists-dorners-exciting-rampage-like-watching-django-exact-revenge-for-police-brutality/">Djangoistic</a>, fight the power, murder spree and you’re wondering if <em>you</em> should take up arms against a sea of troubles and go off some bystanders.  Before loading up your assault weapons, making suspiciously large purchases of plant food and diesel oil, or enrolling in flight, but not <em>landing</em> classes, I’d like to take a few moments of your busy pre-murder spree day and try to convince you to up your game. Let’s face it, walking into a kindergarten and shooting up a classroom of tiny nobodies, while undoubtedly good target practice, means nothing in the great sweep of history. Nobody, <em>except the nobodies,</em> cares about the death of nobodies. Sorry, I didn't make the world; I just live here pointing out the absurdities. To seize the long-lasting historical notoriety, you so insanely crave, you have to eliminate people who matter. It sounds simple, but here’s the nasty truth: removing people who matter is hard and dangerous work. It requires talent, dedication, planning and foresight: qualities that pathetic psychopaths, like you, often lack.
+  <content:encoded><![CDATA[No doubt you've been following the breathless <a href="http://patdollard.com/2013/02/chris-matthews-heaps-praise-on-chris-dorner-returning-favor/">media swooning</a> about <a href="http://www.thedailybeast.com/articles/2013/02/14/how-christopher-dorner-went-down.html">Christopher Dorner</a> and his <a href="http://www.mediaite.com/tv/cnn-panelists-dorners-exciting-rampage-like-watching-django-exact-revenge-for-police-brutality/">Djangoistic</a>, fight the power, murder spree and you’re wondering if <em>you</em> should take up arms against a sea of troubles and go off some bystanders. Before loading up your assault weapons, making suspiciously large purchases of plant food and diesel oil, or enrolling in flight, but not <em>landing</em> classes, I’d like to take a few moments of your busy pre-murder spree day and try to convince you to up your game. Let’s face it, walking into a kindergarten and shooting up a classroom of tiny nobodies, while undoubtedly good target practice, means nothing in the great sweep of history. Nobody, <em>except the nobodies,</em> cares about the death of nobodies. Sorry, I didn't make the world; I just live here pointing out the absurdities. To seize the long-lasting historical notoriety, you so insanely crave, you have to eliminate people who matter. It sounds simple, but here’s the nasty truth: removing people who matter is hard and dangerous work. It requires talent, dedication, planning and foresight: qualities that pathetic psychopaths, like you, often lack.
 
 Still not convinced? Let’s run a little “thought experiment.” A major lament of would be terminators, and just about everyone else on this planet, is that it seems <em>absolutely impossible to fix utterly fixable problems.</em> It doesn't really matter what the problem is. How about peace in the Middle East? We’re constantly told that this is a big hard problem. What utter hogwash, formal group theory poses big hard problems; mathematicians wouldn't even snort “trivial” when faced with a pedestrian and irritating nuisance like Middle Eastern peace. All that’s required is a few simple peace treaties, a routine exchange of Jewish and Muslim embassies, a state for the Palestinians and boom, instant peace. How about Korean unification? Same old, same old, a formal peace treaty followed by some judicious mine clearing and wire clipping. If the Germans can do it - so can the Koreans. On a domestic note: how about balancing the goddamn US federal budget? This barely rises to the level of “problem.” Any idiot familiar with addition and subtraction is capable of wielding the awesome technology required to match spending with income. So my poor homicidal friend what exactly is the problem?
 
@@ -24852,7 +25159,7 @@ Brain bombs in wise hands could turn shit hole Earth into something of an Eden. 
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -24878,6 +25185,14 @@ Brain bombs in wise hands could turn shit hole Earth into something of an Eden. 
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915970791]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -26426,10 +26741,6 @@ John Baker Saint Louis County
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
   <category domain="post_tag" nicename="syria"><![CDATA[Syria]]></category>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
@@ -26480,6 +26791,18 @@ John Baker Saint Louis County
   <wp:postmeta>
     <wp:meta_key>_wpas_done_7349825</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915663117]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -26783,25 +27106,26 @@ I don’t remember the bus ride. It took forty-five minutes of highway driving a
 
 When I got home my parents were glued to our fuzzy black and white TV. The Kennedy news was so riveting that my dad, normally allergic to technology despite being an accomplished petroleum engineer, went outside and fiddled with our rooftop TV antenna. No matter where the antenna pointed reception was awful. We got three channels and only one was watchable. TV talking heads were going on about Kennedy’s death. By the time I got home his death was certain. My normal after school routine consisted of TV cartoons, but I could see that there would be no cartoons and I was OK with it. I knew presidents weren't assassinated every day, a little break in routine might be good. I expected the adults would go on about this for a few days and then things would get back to normal.
 
-Boy was I wrong. Two days later I was eating a bowl of Cheerios in our small dining area when my mother stormed out of the living room ranting, “Why don’t we all get a gun and open fire?<sup><a class="footnoteRef" id="fnref1" href="#fn1">1</a></sup>” Ruby had just shot Oswald on live TV. My hopes for a return of afternoon cartoons took a major hit. I don’t remember much after Oswald’s death because my patience ran out. I didn’t watch the interminable lying in state, the never-ending funeral procession, the tiresome media bloviating or little Johnny F. Kennedy junior<sup><a class="footnoteRef" id="fnref2" href="#fn2">2</a></sup> saluting poor dead dad.
+Boy was I wrong. Two days later I was eating a bowl of Cheerios in our small dining area when my mother stormed out of the living room ranting, “Why don’t we all get a gun and open fire?<sup><a id="fnref1" class="footnoteRef" href="#fn1">1</a></sup>” Ruby had just shot Oswald on live TV. My hopes for a return of afternoon cartoons took a major hit. I don’t remember much after Oswald’s death because my patience ran out. I didn’t watch the interminable lying in state, the never-ending funeral procession, the tiresome media bloviating or little Johnny F. Kennedy junior<sup><a id="fnref2" class="footnoteRef" href="#fn2">2</a></sup> saluting poor dead dad.
 
 Later on I remember sitting with one of my older friends in an oilfield garbage dump. We had been breaking discarded Mercury filled electrical switches to recover Mercury. At one time I had almost an entire liter of Mercury in my basement chemistry lab. I mixed it with molten lead and poured the mixture into water to form brittle 3D Jackson Pollack’ey insta-sculptures. When I was kid boys were allowed to be boys, we snuck cigarettes, shot out oil field gauges with our 22’s, stole welding blasting caps, had fist fights, had rock fights, shot sheep, called girls names and thrust 30-06 rifle bullets into bonfires. It was a golden age. I feel for the poor ADHD drug saturated eunuchs that substitute for boys in today’s pussy safe schools. It’s hardly surprising so many of them harbor volcanic rage that erupts in mass shootings. As my friend smashed Mercury filled switch tubes he bitched, “Jesus Dupont Christopher Christ, it’s been almost two goddamn weeks and there’s still nothing but Kennedy on TV. When the hell do we get back to regularly scheduled programming?” I really didn’t know but I didn’t expect to wait decades.
 
-For years after the assassination we gorged on a steady nausea inducing diet of the handsome young president, so filled with promise, but cut down before his time, propaganda that somewhere between LBJ and Watergate I stopped giving a shit about anything associated with the Kennedy’s. When the stories about JFK’s drug abuse, whoring and general political ineptitude started surfacing<sup><a class="footnoteRef" id="fnref3" href="#fn3">3</a></sup> I thought maybe the masses are finally developing some perspective. Kennedy was an average president. We remember him for five things: the Bay of Pigs, the Cuban Missile Crisis, starting the Apollo program, rabid skirt chasing and getting assassinated. Only one thing on that list, the Apollo program, is good! He had a meager legislative impact and everything liberal morons credit him with was actually implemented by the hated LBJ. If Kennedy hadn’t been shot he would be rated below Clinton and way below Truman and Eisenhower. Fortunately for Kennedy’s legacy, but not for himself, Oswald was a competent sniper.
+For years after the assassination we gorged on a steady nausea inducing diet of the handsome young president, so filled with promise, but cut down before his time, propaganda that somewhere between LBJ and Watergate I stopped giving a shit about anything associated with the Kennedy’s. When the stories about JFK’s drug abuse, whoring and general political ineptitude started surfacing<sup><a id="fnref3" class="footnoteRef" href="#fn3">3</a></sup> I thought maybe the masses are finally developing some perspective. Kennedy was an average president. We remember him for five things: the Bay of Pigs, the Cuban Missile Crisis, starting the Apollo program, rabid skirt chasing and getting assassinated. Only one thing on that list, the Apollo program, is good! He had a meager legislative impact and everything liberal morons credit him with was actually implemented by the hated LBJ. If Kennedy hadn’t been shot he would be rated below Clinton and way below Truman and Eisenhower. Fortunately for Kennedy’s legacy, but not for himself, Oswald was a competent sniper.
 
 And now that I have mentioned the “O-word “ will all you Kennedy assassination conspiracy nuts just fornicate elsewhere and expire.<em> It’s been fifty years and you still haven’t definitely made your case.</em> I will admit that a Kennedy conspiracy is possible, just like I will admit that aliens buzzing around in UFO’s is possible, but in both cases the “evidence” does not pass skeptical muster. I only change my mind when there are good reasons to do so and in Kennedy’s case there are no compelling arguments.
 
 My intense disdain for Kennedy conspiracy imbeciles reached homicidal levels watching Oliver Stone’s absolutely execrable film JFK. There is a scene in JFK where two lead characters discuss “the shooting.” The film’s gun expert authoritatively intones that it was simply impossible for Oswald to fire as many shoots as he did and hit a moving target at such a distance. This is a simple outright lie and I would bet big bucks that Stone, another amoral lying reprobate, knew it when he was filming. How did I know it was pure and utter bullshit? Well I have been to the Dallas Book Depository and I have looked out the window Oswald shot from. When I saw just how far away his target was, it’s not that far, I immediately thought --- I could have hit Kennedy. It would have been easy for any competent sniper. Go and look yourselves. To test the shooting another fallen liberal icon, Dan Rather, ran a test where he recruited a number of snipers to duplicate Oswald’s shooting. The verdict: it was completely possible. Stone was simply lying in the middle of his alleged historical big budget film. I have never watched another Oliver Stone film; don’t bankroll your enemies.
 
 For a few months we’ll be subjected to a torrent of unbalanced Kennedy retrospectives. The few remaining magazine stands, in the few remaining bookstores, are filling up with Camelot encrusted crud. I only hope the generations born after Kennedy’s assassination will show their usual complete lack of interest in boomer nostalgia and let’s not fool ourselves Kennedy is pure boomer nostalgia. My hideous self-centered generation has always lacked historical perspective and here we are, fifty years later, still acting like fifth graders. Nobody gives a crap where we were when Kennedy was shot! So enjoy your 50<sup>th</sup> assassination anniversary because in another fifty years, when boomers are dead and gone, a new generation of American historical illiterates will be asking, "Wasn't Kennedy the dude that nailed Marilyn Monroe on the moon?"
+
 <div class="footnotes">
 
 <hr />
 
 <ol>
-	<li id="fn1">Not a rhetorical question in hunting crazy rural Utah.<a href="#fnref1">↩</a></li>
-	<li id="fn2">Little Johnny grew into another loathsome entitled Kennedy. He was a dim witted echo of his dad and the <a href="https://www.youtube.com/watch?v=HAkrbNEOrOY">original shiny pony.</a> Perhaps we should encourage Justin Trudeau to take flying lessons.<a href="#fnref2">↩</a></li>
-	<li id="fn3">Before the Internet it was a lot easier to keep the lid on political dirt. Kennedy, like Obama today, was revered by a sycophantic slobbering press.<a href="#fnref3">↩</a></li>
+    <li id="fn1">Not a rhetorical question in hunting crazy rural Utah.<a href="#fnref1">↩</a></li>
+    <li id="fn2">Little Johnny grew into another loathsome entitled Kennedy. He was a dim witted echo of his dad and the <a href="https://www.youtube.com/watch?v=HAkrbNEOrOY">original shiny pony.</a> Perhaps we should encourage Justin Trudeau to take flying lessons.<a href="#fnref2">↩</a></li>
+    <li id="fn3">Before the Internet it was a lot easier to keep the lid on political dirt. Kennedy, like Obama today, was revered by a sycophantic slobbering press.<a href="#fnref3">↩</a></li>
 </ol>
 </div>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -26833,7 +27157,7 @@ For a few months we’ll be subjected to a torrent of unbalanced Kennedy retrosp
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -26846,7 +27170,7 @@ For a few months we’ll be subjected to a torrent of unbalanced Kennedy retrosp
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{s:11:"google_plus";a:1:{s:21:"109459250977988268850";b:1;}}]]></wp:meta_value>
+    <wp:meta_value><![CDATA[a:2:{s:11:"google_plus";a:1:{s:21:"109459250977988268850";b:1;}s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005806619503700";}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>publicize_twitter_user</wp:meta_key>
@@ -26866,6 +27190,22 @@ For a few months we’ll be subjected to a torrent of unbalanced Kennedy retrosp
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915488187]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -27608,24 +27948,27 @@ I have no technical complaints about Verizon. The engineers at Verizon clearly k
 When I first walked into the Verizon store I wanted an accurate answer to this question:
 
 <strong>How much will my monthly bill be if:</strong>
+
 <ol style="list-style-type:decimal;">
-	<li><strong>I pay the full retail cost of the phone upfront.</strong> Old white guys do not buy on credit because old white guys have learned the hard way that <em>buying anything on credit means you eventually pay more.</em> I am not interested in paying more. I have a very bad attitude when it comes to paying more. My butthole has been reamed often enough, long enough and hard enough that it’s now operating on a strict cash upfront basis.</li>
-	<li><strong>And if I have an uncapped 4G data plan.</strong> Cell providers constantly go on about their unlimited data plans yet down in the fine print --- old white guys always read the fine print --- you typically see “limited to two gigabytes per month.” Two gigabytes is not unlimited, four gigabytes is not unlimited, fifty <a href="https://en.wikipedia.org/wiki/Yottabyte">yottabytes</a> is not unlimited; unlimited means arbitrarily high.</li>
+    <li><strong>I pay the full retail cost of the phone upfront.</strong> Old white guys do not buy on credit because old white guys have learned the hard way that <em>buying anything on credit means you eventually pay more.</em> I am not interested in paying more. I have a very bad attitude when it comes to paying more. My butthole has been reamed often enough, long enough and hard enough that it’s now operating on a strict cash upfront basis.</li>
+    <li><strong>And if I have an uncapped 4G data plan.</strong> Cell providers constantly go on about their unlimited data plans yet down in the fine print --- old white guys always read the fine print --- you typically see “limited to two gigabytes per month.” Two gigabytes is not unlimited, four gigabytes is not unlimited, fifty <a href="https://en.wikipedia.org/wiki/Yottabyte">yottabytes</a> is not unlimited; unlimited means arbitrarily high.</li>
 </ol>
+
 It took two trips to the same store to get a simple price quote. The quoted rate was $69.99 per month. This is close to my current rate and since I'm burning another $39.99 per month on Internet cable it looked like I could cancel cable, divert all my residential Internet traffic through an iPhone 4G hot spot and save about thirty bucks a month.
 
-I realized I would have to go on a data diet. 4G connections are faster than 3G but 4G is still <em>much slower</em> than cable Internet. The cable provider in St. Louis, Charter<sup><a class="footnoteRef" id="fnref1" href="#fn1">1</a></sup>, runs at 30 megabits per second. This is about five times faster than 4G. 4G is okay for blogging, modest sub-gigabyte downloads, uploading a few dozen high-resolution pictures and normal web browsing. 4G is not up to <em>irritant free</em> HD streaming. You can stream but the image is often downgraded to a blocky low resolution mess. I planned on giving up streaming because TV, whether broadcast or streamed, is still mostly time-wasting garbage. I was looking forward to reallocating my streaming time to good old-fashioned paper<sup><a class="footnoteRef" id="fnref2" href="#fn2">2</a></sup> book reading.
+I realized I would have to go on a data diet. 4G connections are faster than 3G but 4G is still <em>much slower</em> than cable Internet. The cable provider in St. Louis, Charter<sup><a id="fnref1" class="footnoteRef" href="#fn1">1</a></sup>, runs at 30 megabits per second. This is about five times faster than 4G. 4G is okay for blogging, modest sub-gigabyte downloads, uploading a few dozen high-resolution pictures and normal web browsing. 4G is not up to <em>irritant free</em> HD streaming. You can stream but the image is often downgraded to a blocky low resolution mess. I planned on giving up streaming because TV, whether broadcast or streamed, is still mostly time-wasting garbage. I was looking forward to reallocating my streaming time to good old-fashioned paper<sup><a id="fnref2" class="footnoteRef" href="#fn2">2</a></sup> book reading.
 
 After doing my research, considering the options and allocating funds I returned to the same Verizon store I had visited three times with the intention of plunking down the full cost of an iPhone 5s and signing another two-year service contract at the price I was previously quoted. Then things went horribly wrong. First, we had to call my wife to change the name on our account from hers to mine. The simple act of changing the account name voided my unlimited data. I went from an uncapped plan to a two gigabyte plan. Then, as a final affront, it turns out that you if you actually want to use your iPhone’s hot spot you need to pay another $30.00 per month on top of your normal data plan. In other words my bill would be a few cents shy of $100.00 per month. So, I would pay roughly the same as my current Verizon and Charter bills combined and end up with a connection that is five times slower. Old white guys are slow and stupid but not that stupid.
 
 Instead of walking out of the store with a shiny new iPhone 5s and another two-year contract I left with my old iPhone 4 and a downgraded, but equally expensive data plan. I am now looking at other options. I will probably retain cable and cut off all cell phone data. Most of my cell phone data moves over Wi-Fi so why pay Verizon, or another provider, $30.00 bucks per month to keep up on Twitter tripe. Verizon’s sales did a bang up job here. They convinced a loyal and reasonably happy customer that it’s time to take a serious look at the competition. I was planning on a data diet but not a data famine. <a href="https://www.youtube.com/watch?v=XMblePw7eJs">Can you hear me now!</a>
+
 <div class="footnotes">
 
 <hr />
 
 <ol>
-	<li id="fn1"><a href="https://www.charter.com/">Charter</a> Internet is a binary operation. When it’s working it works very well, but over that last three years I’ve watched it go down more often than a cheap street prostitute. Right now it's down. Charter outages are annoying but they’re usually quickly resolved.<a href="#fnref1">↩</a></li>
-	<li id="fn2"><a href="http://online.wsj.com/news/articles/SB10001424052702304870304577490950051438304">EBooks are developing nasty data mining habits.</a> I have no desire to expose the precise details of my reading too busy bodies. This doesn’t mean I am giving up on eBooks but I am giving up on on-line eBooks. I now demand complete control of the eBook file on a device that I can shut off logging and communication. <em>If you don't control it you cannot trust it.</em><a href="#fnref2">↩</a></li>
+    <li id="fn1"><a href="https://www.charter.com/">Charter</a> Internet is a binary operation. When it’s working it works very well, but over that last three years I’ve watched it go down more often than a cheap street prostitute. Right now it's down. Charter outages are annoying but they’re usually quickly resolved.<a href="#fnref1">↩</a></li>
+    <li id="fn2"><a href="http://online.wsj.com/news/articles/SB10001424052702304870304577490950051438304">EBooks are developing nasty data mining habits.</a> I have no desire to expose the precise details of my reading to busy bodies. This doesn’t mean I am giving up on eBooks but I am giving up on on-line eBooks. I now demand complete control of the eBook file on a device that I can shut off logging and communication. <em>If you don't control it you cannot trust it.</em><a href="#fnref2">↩</a></li>
 </ol>
 </div>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -27653,10 +27996,6 @@ Instead of walking out of the store with a shiny new iPhone 5s and another two-y
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>publicize_facebook_url</wp:meta_key>
@@ -27701,6 +28040,14 @@ Instead of walking out of the store with a shiny new iPhone 5s and another two-y
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[20951704655]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -28396,7 +28743,7 @@ You might want to pull your head out of your blood moron ass long enough to obse
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -28438,6 +28785,14 @@ You might want to pull your head out of your blood moron ass long enough to obse
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915468205]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -28484,8 +28839,8 @@ But now, in the blood moon discharge, it’s clear a fate worse than community o
   <wp:post_id>4647</wp:post_id>
   <wp:post_date>2014-04-15 16:41:44</wp:post_date>
   <wp:post_date_gmt>2014-04-15 21:41:44</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>pussydent-hildabeast</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -28550,7 +28905,11 @@ But now, in the blood moon discharge, it’s clear a fate worse than community o
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[13078347219]]></wp:meta_value>
+    <wp:meta_value><![CDATA[21915368734]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
     <wp:comment_id>1645</wp:comment_id>
@@ -28624,7 +28983,7 @@ Unfortunately, the old world of a few nuclear states and a naïve non-proliferat
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -28658,6 +29017,18 @@ Unfortunately, the old world of a few nuclear states and a naïve non-proliferat
   <wp:postmeta>
     <wp:meta_key>_wpas_done_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915420702]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -29081,11 +29452,13 @@ For Vivian the act of capture sufficed and what wonderful captures they are. Her
   <content:encoded><![CDATA[Recently <a href="https://coinbase.com/">Coinbase</a> introduced payment pages. <a href="https://coinbase.com/bakerjd99">Here's my page</a>. Payment pages simplify the process of paying with Bitcoins. In the last six months more and more businesses have started accepting Bitcoins. Once people get cryptocurrencies they inevitably start questioning the legitimacy of national currencies. This is all good. National currencies are part of the past.  It's embarrassing to trade<em> debased presidents</em> or <em>unnecessary queens</em> for goods.
 
 I now pay online fees with Bitcoins when I can. I am doing this for three reasons.
+
 <ol>
-	<li><strong>Bitcoin payments are orders of magnitude more secure than credit cards, PayPal or other online payment methods.</strong> When you pay with Bitcoins you don't spread personal information around. Bitcoin is a nightmare for identity thieves.</li>
-	<li><strong>I want to encourage the widespread adoption of Bitcoin as a payment technology.</strong> The entire parasitic financial class must be reformed or destroyed. A good way to kill something is to cut off its air supply. When you use credit cards a big cut goes to banks. Why enrich what you hate? Bitcoin, and its brethren, will help suffocate traditional banks and their despicable government cronies.</li>
-	<li><strong>The era of government backed legal tender is drawing to an end.</strong> Money is way to important to allow governments to control it. Abominations like the Federal Reserve are as obsolete and morally repugnant as slavery.</li>
+    <li><strong>Bitcoin payments are orders of magnitude more secure than credit cards, PayPal or other online payment methods.</strong> When you pay with Bitcoins you don't spread personal information around. Bitcoin is a nightmare for identity thieves.</li>
+    <li><strong>I want to encourage the widespread adoption of Bitcoin as a payment technology.</strong> The entire parasitic financial class must be reformed or destroyed. A good way to kill something is to cut off its air supply. When you use credit cards a big cut goes to banks. Why enrich what you hate? Bitcoin, and its brethren, will help suffocate traditional banks and their despicable government cronies.</li>
+    <li><strong>The era of government backed legal tender is drawing to an end.</strong> Money is way to important to allow governments to control it. Abominations like the Federal Reserve are as obsolete and morally repugnant as slavery.</li>
 </ol>
+
 To help bring about the glorious day when shitheads in government no longer <em>create money out of thin fucking nothing</em> and give it to their bum buddies I am encouraging all of you to start using cryptocurrencies. <a href="https://coinbase.com/bakerjd99">You can start by tipping<em> moi</em>!</a>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>4729</wp:post_id>
@@ -29115,7 +29488,7 @@ To help bring about the glorious day when shitheads in government no longer <em>
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
@@ -29161,6 +29534,10 @@ To help bring about the glorious day when shitheads in government no longer <em>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915349394]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -30003,10 +30380,6 @@ Fortunately for us, government isn't nearly as important as political assholes o
     <wp:meta_value><![CDATA[0]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>publicize_facebook_url</wp:meta_key>
     <wp:meta_value><![CDATA[https://facebook.com/731035716980793]]></wp:meta_value>
   </wp:postmeta>
@@ -30049,6 +30422,10 @@ Fortunately for us, government isn't nearly as important as political assholes o
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915289720]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -30228,10 +30605,6 @@ Of course missing incontrovertible evidence is never a problem for people who ha
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
     <wp:meta_key>publicize_facebook_url</wp:meta_key>
     <wp:meta_value><![CDATA[https://facebook.com/743144619103236]]></wp:meta_value>
   </wp:postmeta>
@@ -30264,8 +30637,8 @@ Of course missing incontrovertible evidence is never a problem for people who ha
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21915193695]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_google_plus</wp:meta_key>
@@ -31293,7 +31666,7 @@ If you’re still reading and think, <em>I like the cut of this guy’s jib. We 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[18786981244]]></wp:meta_value>
+    <wp:meta_value><![CDATA[21916863076]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -31540,7 +31913,7 @@ Bang us, feed us, and cleanup afterwards, <em>without nagging resentment,</em> a
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[11639493175]]></wp:meta_value>
+    <wp:meta_value><![CDATA[21916873889]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
@@ -32067,7 +32440,7 @@ This is all good news! What the morons in Washington have created is a gigantic 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[13029716897]]></wp:meta_value>
+    <wp:meta_value><![CDATA[21915107101]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_done_external</wp:meta_key>
@@ -32467,7 +32840,7 @@ So far SWAG has met my basic needs and forced me to pay more attention to the pr
   <description/>
   <content:encoded><![CDATA[This week Canada’s shiny new Prime Minister <a href="http://www.cbc.ca/news/politics/trudeau-obama-state-visit-washington-1.3483545">Justin Trudeau is hanging out with Obama</a>. You can imagine my excitement: two photogenic lightweights sharing a heartwarming <em>bromance</em> on the public’s dime. I am at a loss to imagine <a href="https://www.youtube.com/watch?v=Mbg1nEXQ1fI">a more hurl inducing</a> scenario. I shared my feelings with a terse CBC comment.
 
-<em>As a dual US-Canadian citizen I must avert my eyes when confronted with such unctuous and expensive dog and pony shows. At least, we know who the dog is and who the shiny pony is! In a few short months, the toilet of history will flush on the Obama administration. For this we can thank term limits: one the best ideas in government ehh! This will cure the American Obama problem and ruin Trudeau’s play dates for years to come as I’m pretty sure neither Hillary or Trump are compatible with whatever is putting the wave in Justin’s hair.</em>
+<blockquote><em>As a dual US-Canadian citizen I must avert my eyes when confronted with such unctuous and expensive dog and pony shows. At least, we know who the dog is and who the shiny pony is! In a few short months, the toilet of history will flush on the Obama administration. For this we can thank term limits: one the best ideas in government ehh! This will cure the American Obama problem and ruin Trudeau’s play dates for years to come as I’m pretty sure neither Hillary or Trump are compatible with whatever is putting the wave in Justin’s hair.</em></blockquote>
 
 I have safely ignored Justin Trudeau, (Shiny Pony), for decades and no harm will come from continuing this practice. Canada is, in Douglas Adam’s immortal words, “mostly harmless.” It’s one of the things I love about the country. It balances out the smug, preening, holier than thou, moral posturing that erupts from many Canadians when presented with conundrums like Trump. Batman’s nemesis the Joker said it best, “Why so serious?” Canadians take themselves more seriously than the Danes. If you’ve ever lived in Denmark you’ll understand.
 
@@ -32488,8 +32861,8 @@ A primary vote for Sanders is mostly harmless. It’s like sticking a cocklebur 
   <wp:post_id>5197</wp:post_id>
   <wp:post_date>2016-03-12 15:24:48</wp:post_date>
   <wp:post_date_gmt>2016-03-12 21:24:48</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>on-shiny-pony-and-witch-berning</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -32525,7 +32898,91 @@ A primary vote for Sanders is mostly harmless. It’s like sticking a cocklebur 
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[20695331337]]></wp:meta_value>
+    <wp:meta_value><![CDATA[21916904382]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>The Santa Fe Trail</title>
+  <link>https://bakerjd99.wordpress.com/2016/04/18/the-santa-fe-trail/</link>
+  <pubDate>Mon, 18 Apr 2016 23:41:35 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=5241</guid>
+  <description/>
+  <content:encoded><![CDATA[In the last ten years, we’ve moved five times.<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> In a few days, I will increment that count. We are moving to Santa Fe New Mexico. Our previous perambulations were driven by work. We went where the jobs were and they were all over.
+
+Because I have spent a lifetime moving for work I have no patience or sympathy for people who insist on staying put.
+
+“I can’t leave here because ... blah, blah, blah,” said every lazy whiner ever.
+
+If you have to move to find a job get off your fat ass and move. Humans evolved on the move. Our distant ancestors trekked great distances foraging and hunting. We are happiest when moving. Putting down roots is for plants, not people. <em>I’ll eventually settle down when I’m dead.</em> Until then I am on the move.
+
+Moving is old hat; what’s different this time is picking a place first. For over twenty-five years I’ve been a <em>wandering software developer</em>. This is beyond idiotic. The most portable stuff in the world is software. The internet makes it possible to create software anywhere and deploy it everywhere almost cost-free. There’s no need to pile programmers into pits to extract bits. Theoretically, all software developers could work remotely, but in case you haven’t noticed, we don’t live a theoretical world.
+
+It’s easier for management to impose discipline and administer idiocies like SOX compliance if uppity developers are in the same room. Remote discipline is too easily mitigated with the mute button meaning management must come up with good ideas to herd their far-flung cats. Some enlightened outfits successfully manage productive remote developers but frankly most are struggling or openly hostile to the idea.
+
+When it first occurred to me, way back in the 1980s, that commuting to an actual office was unnecessary I thought that within a decade or two most software development organizations would embrace remote work. The cost savings and enhanced access to global talent seemed like total no-brainers. Well, for many reasons, some good, (like getting smart people together), and some stupid, (see SOX), the brave new world of ubiquitous remote workers remains an infuriating work in progress.
+
+I expect this muddle to eventually resolve but in the meanwhile, I am no longer willing to abide locales that do not suit me. So, for this move, we picked a spot, Santa Fe, that mostly meets our esoteric geographic preferences and then started looking for a job. Santa Fe is a small city so it took a little longer to find a good job but this thing called the internet also simplifies job hunting.
+
+I’ve enjoyed my Saint Louis sojourn but like many <a href="https://earthstonestation.com/2012/08/30/santa-fe-trail-diary-of-susan-magoffin/">Missourians of the 19<sup>th</sup> century</a>, it’s time to head down the Santa Fe Trail.
+
+[caption id="attachment_5245" align="aligncenter" width="300"]<a href="https://bakerjd99.wordpress.com/casajoma2/" rel="attachment wp-att-5245"><img class="wp-image-5245 size-medium" src="https://bakerjd99.files.wordpress.com/2016/04/casajoma2.jpg?w=300" alt="Casa Joma" width="300" height="226" /></a> We are building a little house in the hills near Santa Fe. We will have unimpeded views of the mountains to the north. The lack of street lights, combined with Santa Fe's 2000 meter elevation, should make for decent stargazing.[/caption]
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">Frequent moves are a good way to dodge jury duty.<a href="#fnref1">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5241</wp:post_id>
+  <wp:post_date>2016-04-18 18:41:35</wp:post_date>
+  <wp:post_date_gmt>2016-04-18 23:41:35</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-santa-fe-trail</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="new-mexico"><![CDATA[New Mexico]]></category>
+  <category domain="post_tag" nicename="santa-fe"><![CDATA[Santa Fe]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005939639490398";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21923343693]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_done_5454303</wp:meta_key>
