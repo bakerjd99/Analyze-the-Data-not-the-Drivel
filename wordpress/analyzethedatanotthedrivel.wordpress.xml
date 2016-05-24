@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2016-04-18 23:50"-->
+<!-- generator="WordPress.com" created="2016-05-24 00:08"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>https://bakerjd99.wordpress.com</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Mon, 18 Apr 2016 23:50:02 +0000</pubDate>
+<pubDate>Tue, 24 May 2016 00:08:52 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -776,6 +776,11 @@
   <wp:term_id>4252</wp:term_id>
   <wp:tag_slug>cancer</wp:tag_slug>
   <wp:tag_name><![CDATA[cancer]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>114819</wp:term_id>
+  <wp:tag_slug>captions</wp:tag_slug>
+  <wp:tag_name><![CDATA[captions]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>595916</wp:term_id>
@@ -2091,6 +2096,11 @@
   <wp:term_id>346391</wp:term_id>
   <wp:tag_slug>longitude</wp:tag_slug>
   <wp:tag_name><![CDATA[longitude]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>5655657</wp:term_id>
+  <wp:tag_slug>loretto-chapel</wp:tag_slug>
+  <wp:tag_name><![CDATA[Loretto Chapel]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>47221924</wp:term_id>
@@ -8522,65 +8532,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>https://bakerjd99.wordpress.com/2013/08/08/4171/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:41 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4171</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4171</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:41</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:41</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4171</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>13</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[140469]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>https://bakerjd99.wordpress.com/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -9749,6 +9700,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/04/casajoma2.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>loretto miraculous staircase</title>
+  <link>https://bakerjd99.wordpress.com/2016/05/22/milliblog-photo-captions/loretto-miraculous-staircase/</link>
+  <pubDate>Sun, 22 May 2016 22:11:38 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/05/loretto-miraculous-staircase.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[The “miraculous staircase” in Santa Fe's Loretto Chapel. After paying your three dollar entrance fee you can enter the chapel and see the staircase. When I was there people were milling around while a recorded message told the breathless story of the miraculous staircase. The story goes something like this. The chapel needed a staircase. Some nuns prayed to the sky fairy of carpenters and low and behold a carpenter showed up with a bag of simple tools. Over the next month this remarkably skilled carpenter fashioned this beautiful wood staircase using only his simple tools. Apparently he constructed the staircase from the floor to the upper level without central supports. Even now the staircase lacks the standard central beam of spiral staircases. The masses were amazed! How could the staircase stand without a central support? Surely this is the work of the divine. This is what passes for a miracle among sky fairy believers. It’s the same type of magical thinking that invokes aliens to explain the pyramids. Just maybe the carpenter knew what he was doing and had the technique to pull it off. Occam’s razor people: It cuts deeply.]]></excerpt:encoded>
+  <wp:post_id>5251</wp:post_id>
+  <wp:post_date>2016-05-22 17:11:38</wp:post_date>
+  <wp:post_date_gmt>2016-05-22 22:11:38</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>loretto-miraculous-staircase</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5249</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/05/loretto-miraculous-staircase.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -17487,13 +17461,13 @@ Analogies are never perfect and eventually the $latex CB = OB$ symmetry breaks d
   <description/>
   <content:encoded><![CDATA[[caption id="attachment_4723" align="alignleft" width="150"]<a href="https://bakerjd99.files.wordpress.com/2014/06/me.jpg" rel="attachment wp-att-4723"><img class="wp-image-4723 size-thumbnail" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg?w=150" alt="me" width="150" height="150" /></a> Are you looking at me?[/caption]
 
-I am a recusant programmer working in the insurance industry. I have lived in seven countries on four continents. Like many software professionals, I didn't start out with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required.
+I am a recusant programmer working for a consulting firm. I have lived in seven countries on four continents. Like many software professionals, I didn't start out with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required.
 
 I would really like to catch the first starship outta here!
 
 John Baker
 
-Saint Louis Missouri.]]></content:encoded>
+Santa Fe New Mexico.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1730</wp:post_id>
   <wp:post_date>2011-08-01 19:38:11</wp:post_date>
@@ -21248,67 +21222,62 @@ Restoration work also changes your attitude about duds. In my film days I ruthle
   </wp:postmeta>
 </item>
 <item>
-  <title>Evil Queens are getting Hotter</title>
-  <link>https://bakerjd99.wordpress.com/2012/06/03/evil-queens-are-getting-hotter/</link>
-  <pubDate>Sun, 03 Jun 2012 20:50:25 +0000</pubDate>
+  <title/>
+  <link>https://bakerjd99.wordpress.com/2013/08/08/4171/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:41 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2887</guid>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4171</guid>
   <description/>
-  <content:encoded><![CDATA[There’s not a lot of good news out there. Our currencies are being sodomized by <a href="http://conceptcontrol.smugmug.com/photos/i-K4d39S3/0/X3/i-K4d39S3-X3.jpg">economic imbeciles</a>. High unemployment has demoralized the masses and forced lobotomized bureaucrats to get off their entitled asses and <a href="http://www.shadowstats.com/">redefine it</a>. The suck---oops stock---market has returned <a href="http://www.urbandictionary.com/define.php?term=sweet%20fuck%20all">SFO</a> for a decade. <a href="http://co2now.org/">CO<sub>2</sub> levels</a> are rising. <a href="http://tidesandcurrents.noaa.gov/sltrends/sltrends.shtml">The seas</a> are not subsiding; they didn’t get <a href="http://www.youtube.com/watch?v=u2pZSvq9bto">The One’s memo</a>. Goons are <a href="http://www.theregister.co.uk/2009/05/26/nork_nuke_test/">getting nukes</a>. Species are <a href="http://news.softpedia.com/news/The-Rate-of-Extinction-3-Species-per-Hour-55411.shtml">going extinct</a>. The freaking <a href="http://kings.nhl.com/">LA Kings</a> are two up in the Stanley Cup finals and, <a href="http://zombietime.com/mohammed_image_archive/jyllands-posten_cartoons/">Mohammed</a> in a <a href="http://verredaffair.blogspot.com/2011/09/whats-your-favorite-transvestite.html">transvestite musical</a>, the <a href="http://www.eonline.com/shows/kardashians">Kardashians</a> are still on TV. In this bleak, soul suffocating, <a href="http://www.zazzle.com/obamalypse+now+gifts">Obamalypse</a> we must take solace from any quarter and I’ve found one; <em>evil queens are getting hotter!</em>
-
-[caption id="" align="alignright" width="224"]<a href="http://beta.abc.go.com/shows/once-upon-a-time"><img title="Regina " src="http://conceptcontrol.smugmug.com/photos/i-qVFZbsJ/0/S/i-qVFZbsJ-S.jpg" alt="Regina" width="224" height="157" /></a> Regina, (Lana Parrilla), Once Upon a Time's Wicked Queen.[/caption]
-
-This positive trend surfaced with TV’s <a href="http://www.imdb.com/title/tt1843230/">Once Upon a Time</a>: a rare, well written, series that ripped familiar fairy tale characters out of children’s books and deposited them in Storybrooke: a small <em>fictional</em> town in Maine. All of our favorite characters are present: Snow White, Little Red Riding Hood, Pinocchio, Rumplestiltskin and, outclassing them all, Regina, Snow White’s poison apple wielding nemesis the Wicked Queen played by <a href="http://www.imdb.com/name/nm0663469/">Lana Parrilla</a>. Regina is no hook nosed NPR feminist hag. This wicked queen is a high-caliber alpha cougar. Frankly, I envy her victims. Please Regina; make me your next man-toy.
-
-An even hotter queen is Ravenna, another incarnation of Snow White’s mortal enemy, from <a href="http://www.rottentomatoes.com/m/snow_white_and_the_huntsman/">Snow White and the Huntsman</a>. Huntsman is a dark straight up high-tech rendering of Snow White’s tale. The movie is competent but is afraid of veering off well-trodden material. I found it flat and predictable. Great movies astonish, good movies surprise, ordinary movies entertain and bad movies are lauded by liberal film critics.
-
-[caption id="" align="alignleft" width="212"]<a href="http://www.snowwhiteandthehuntsman.com/"><img class="    " title="Ravenna's spa" src="http://conceptcontrol.smugmug.com/photos/i-xHmKvGR/0/S/i-xHmKvGR-S.jpg" alt="Ravenna's spa" width="212" height="168" /></a> Ravenna, (Charlize Theron), in her spa.[/caption]
-
-Huntsman is ordinary but has its charms. The best character is Charlize Theron’s wicked queen Ravenna. Ravenna has an endearing nasty bitch habit. She must periodically slurp up the life force of attractive young women to stay “the fairest of them all.” Think of it as extreme celebrity Botox. You may object to Ravenna’s ravishing methods but you cannot argue with the results. This wicked queen is setting new standards for maximum babe bad.
-
-As a mainly manly man I thank the <a href="http://www.venganza.org/">FSM</a> for Regina and Ravenna. Evil queening: it’s not for obese dykes anymore.]]></content:encoded>
+  <content:encoded><![CDATA[ ]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2887</wp:post_id>
-  <wp:post_date>2012-06-03 15:50:25</wp:post_date>
-  <wp:post_date_gmt>2012-06-03 20:50:25</wp:post_date_gmt>
+  <wp:post_id>4171</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:41</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:41</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>evil-queens-are-getting-hotter</wp:post_name>
+  <wp:post_name>4171</wp:post_name>
   <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>13</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
-  <category domain="post_tag" nicename="once-upon-a-time"><![CDATA[Once Upon a Time]]></category>
-  <category domain="post_tag" nicename="ravenna"><![CDATA[Ravenna]]></category>
-  <category domain="post_tag" nicename="regina"><![CDATA[Regina]]></category>
-  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
-  <category domain="post_tag" nicename="snow-white"><![CDATA[Snow White]]></category>
-  <category domain="post_tag" nicename="snow-white-and-the-huntsman"><![CDATA[Snow White and the Huntsman]]></category>
-  <category domain="post_tag" nicename="tv"><![CDATA[TV]]></category>
-  <category domain="category" nicename="tv"><![CDATA[TV]]></category>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
   <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[140469]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423196440;}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -22076,6 +22045,70 @@ As a mainly manly man I thank the <a href="http://www.venganza.org/">FSM</a> for
   <wp:postmeta>
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Evil Queens are getting Hotter</title>
+  <link>https://bakerjd99.wordpress.com/2012/06/03/evil-queens-are-getting-hotter/</link>
+  <pubDate>Sun, 03 Jun 2012 20:50:25 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2887</guid>
+  <description/>
+  <content:encoded><![CDATA[There’s not a lot of good news out there. Our currencies are being sodomized by <a href="http://conceptcontrol.smugmug.com/photos/i-K4d39S3/0/X3/i-K4d39S3-X3.jpg">economic imbeciles</a>. High unemployment has demoralized the masses and forced lobotomized bureaucrats to get off their entitled asses and <a href="http://www.shadowstats.com/">redefine it</a>. The suck---oops stock---market has returned <a href="http://www.urbandictionary.com/define.php?term=sweet%20fuck%20all">SFO</a> for a decade. <a href="http://co2now.org/">CO<sub>2</sub> levels</a> are rising. <a href="http://tidesandcurrents.noaa.gov/sltrends/sltrends.shtml">The seas</a> are not subsiding; they didn’t get <a href="http://www.youtube.com/watch?v=u2pZSvq9bto">The One’s memo</a>. Goons are <a href="http://www.theregister.co.uk/2009/05/26/nork_nuke_test/">getting nukes</a>. Species are <a href="http://news.softpedia.com/news/The-Rate-of-Extinction-3-Species-per-Hour-55411.shtml">going extinct</a>. The freaking <a href="http://kings.nhl.com/">LA Kings</a> are two up in the Stanley Cup finals and, <a href="http://zombietime.com/mohammed_image_archive/jyllands-posten_cartoons/">Mohammed</a> in a <a href="http://verredaffair.blogspot.com/2011/09/whats-your-favorite-transvestite.html">transvestite musical</a>, the <a href="http://www.eonline.com/shows/kardashians">Kardashians</a> are still on TV. In this bleak, soul suffocating, <a href="http://www.zazzle.com/obamalypse+now+gifts">Obamalypse</a> we must take solace from any quarter and I’ve found one; <em>evil queens are getting hotter!</em>
+
+[caption id="" align="alignright" width="224"]<a href="http://beta.abc.go.com/shows/once-upon-a-time"><img title="Regina " src="http://conceptcontrol.smugmug.com/photos/i-qVFZbsJ/0/S/i-qVFZbsJ-S.jpg" alt="Regina" width="224" height="157" /></a> Regina, (Lana Parrilla), Once Upon a Time's Wicked Queen.[/caption]
+
+This positive trend surfaced with TV’s <a href="http://www.imdb.com/title/tt1843230/">Once Upon a Time</a>: a rare, well written, series that ripped familiar fairy tale characters out of children’s books and deposited them in Storybrooke: a small <em>fictional</em> town in Maine. All of our favorite characters are present: Snow White, Little Red Riding Hood, Pinocchio, Rumplestiltskin and, outclassing them all, Regina, Snow White’s poison apple wielding nemesis the Wicked Queen played by <a href="http://www.imdb.com/name/nm0663469/">Lana Parrilla</a>. Regina is no hook nosed NPR feminist hag. This wicked queen is a high-caliber alpha cougar. Frankly, I envy her victims. Please Regina; make me your next man-toy.
+
+An even hotter queen is Ravenna, another incarnation of Snow White’s mortal enemy, from <a href="http://www.rottentomatoes.com/m/snow_white_and_the_huntsman/">Snow White and the Huntsman</a>. Huntsman is a dark straight up high-tech rendering of Snow White’s tale. The movie is competent but is afraid of veering off well-trodden material. I found it flat and predictable. Great movies astonish, good movies surprise, ordinary movies entertain and bad movies are lauded by liberal film critics.
+
+[caption id="" align="alignleft" width="212"]<a href="http://www.snowwhiteandthehuntsman.com/"><img class="    " title="Ravenna's spa" src="http://conceptcontrol.smugmug.com/photos/i-xHmKvGR/0/S/i-xHmKvGR-S.jpg" alt="Ravenna's spa" width="212" height="168" /></a> Ravenna, (Charlize Theron), in her spa.[/caption]
+
+Huntsman is ordinary but has its charms. The best character is Charlize Theron’s wicked queen Ravenna. Ravenna has an endearing nasty bitch habit. She must periodically slurp up the life force of attractive young women to stay “the fairest of them all.” Think of it as extreme celebrity Botox. You may object to Ravenna’s ravishing methods but you cannot argue with the results. This wicked queen is setting new standards for maximum babe bad.
+
+As a mainly manly man I thank the <a href="http://www.venganza.org/">FSM</a> for Regina and Ravenna. Evil queening: it’s not for obese dykes anymore.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2887</wp:post_id>
+  <wp:post_date>2012-06-03 15:50:25</wp:post_date>
+  <wp:post_date_gmt>2012-06-03 20:50:25</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>evil-queens-are-getting-hotter</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
+  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="post_tag" nicename="once-upon-a-time"><![CDATA[Once Upon a Time]]></category>
+  <category domain="post_tag" nicename="ravenna"><![CDATA[Ravenna]]></category>
+  <category domain="post_tag" nicename="regina"><![CDATA[Regina]]></category>
+  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
+  <category domain="post_tag" nicename="snow-white"><![CDATA[Snow White]]></category>
+  <category domain="post_tag" nicename="snow-white-and-the-huntsman"><![CDATA[Snow White and the Huntsman]]></category>
+  <category domain="post_tag" nicename="tv"><![CDATA[TV]]></category>
+  <category domain="category" nicename="tv"><![CDATA[TV]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_facebook</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423196440;}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -32991,6 +33024,65 @@ I’ve enjoyed my Saint Louis sojourn but like many <a href="https://earthstones
   <wp:postmeta>
     <wp:meta_key>_wpas_done_5415134</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Milliblog: Photo Captions</title>
+  <link>https://bakerjd99.wordpress.com/2016/05/22/milliblog-photo-captions/</link>
+  <pubDate>Sun, 22 May 2016 22:35:58 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=5249</guid>
+  <description/>
+  <content:encoded><![CDATA[This blog is still alive and kicking. I post when I post. Currently, my energies are deployed on other fronts. If you absolutely must get your <em><a href="https://bakerjd99.wordpress.com/">Analyze the Data not the Drivel</a></em> fix look over my extensive <em><a href="https://conceptcontrol.smugmug.com/">millibloggy photo captions</a></em>.  Here’s a typical example:
+
+[caption id="attachment_5251" align="aligncenter" width="584"]<a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/New-Mexico-Montage/i-D79vhKg/A"><img class="wp-image-5251 size-large" src="https://bakerjd99.files.wordpress.com/2016/05/loretto-miraculous-staircase.jpg?w=584" alt="The “miraculous staircase” in the Loretto Chapel. After paying your three dollar entrance fee you can enter the chapel and see the staircase. When I was there people were milling around while a recorded message told the breathless story of the miraculous staircase. The story goes something like this. The chapel needed a staircase. Some nuns prayed to the sky fairy of carpenters and low and behold a carpenter showed up with a bag of simple tools. Over the next month this remarkably skilled carpenter fashioned this beautiful wood staircase using only his simple tools. Apparently he constructed the staircase from the floor to the upper level without central supports. Even now the staircase lacks the standard central beam of spiral staircases. The masses were amazed! How could the staircase stand without a central support? Surely this is the work of the divine. This is what passes for a miracle among sky fairy believers. It’s the same type of magical thinking that invokes aliens to explain the pyramids. Just maybe the carpenter knew what he was doing and had the technique to pull it off. Occam’s razor people: It cuts deeply." width="584" height="877" /></a> The “miraculous staircase” in Santa Fe's Loretto Chapel. After paying your three dollar entrance fee you can enter the chapel and see the staircase. When I was there people were milling around while a recorded message told the breathless story of the miraculous staircase. The story goes something like this. The chapel needed a staircase. Some nuns prayed to the sky fairy of carpenters and low and behold a carpenter showed up with a bag of simple tools. Over the next month this remarkably skilled carpenter fashioned this beautiful wood staircase using only his simple tools. Apparently he constructed the staircase from the floor to the upper level without central supports. Even now the staircase lacks the standard central beam of spiral staircases. The masses were amazed! How could the staircase stand without a central support? Surely this is the work of the divine. This is what passes for a miracle among sky fairy believers. It’s the same type of magical thinking that invokes aliens to explain the pyramids. Just maybe the carpenter knew what he was doing and had the technique to pull it off. Occam’s razor people: it cuts deep.[/caption]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5249</wp:post_id>
+  <wp:post_date>2016-05-22 17:35:58</wp:post_date>
+  <wp:post_date_gmt>2016-05-22 22:35:58</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>milliblog-photo-captions</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="captions"><![CDATA[captions]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="loretto-chapel"><![CDATA[Loretto Chapel]]></category>
+  <category domain="category" nicename="milliblog"><![CDATA[Milliblog]]></category>
+  <category domain="post_tag" nicename="milliblog-2"><![CDATA[milliblog]]></category>
+  <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+  <category domain="post_tag" nicename="santa-fe"><![CDATA[Santa Fe]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1026869880730707";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[23076667104]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
