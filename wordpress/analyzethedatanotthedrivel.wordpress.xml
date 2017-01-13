@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-01-01 17:24"-->
+<!-- generator="WordPress.com" created="2017-01-13 04:36"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sun, 01 Jan 2017 17:24:06 +0000</pubDate>
+<pubDate>Fri, 13 Jan 2017 04:36:53 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -743,6 +743,11 @@
   <wp:tag_name><![CDATA[Bullshit]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>1099101</wp:term_id>
+  <wp:tag_slug>busybodies</wp:tag_slug>
+  <wp:tag_name><![CDATA[busybodies]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>2426</wp:term_id>
   <wp:tag_slug>c</wp:tag_slug>
   <wp:tag_name><![CDATA[C#]]></wp:tag_name>
@@ -1138,6 +1143,11 @@
   <wp:tag_name><![CDATA[dreams]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>4344076</wp:term_id>
+  <wp:tag_slug>drivers-licences</wp:tag_slug>
+  <wp:tag_name><![CDATA[driver's licences]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>5663255</wp:term_id>
   <wp:tag_slug>dumb-government</wp:tag_slug>
   <wp:tag_name><![CDATA[dumb government]]></wp:tag_name>
@@ -1516,6 +1526,11 @@
   <wp:term_id>51334</wp:term_id>
   <wp:tag_slug>google-maps</wp:tag_slug>
   <wp:tag_name><![CDATA[Google Maps]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>5560112</wp:term_id>
+  <wp:tag_slug>government-id</wp:tag_slug>
+  <wp:tag_name><![CDATA[Government ID]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>3169</wp:term_id>
@@ -2503,6 +2518,11 @@
   <wp:tag_name><![CDATA[passport]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>421623</wp:term_id>
+  <wp:tag_slug>passports</wp:tag_slug>
+  <wp:tag_name><![CDATA[passports]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>75387</wp:term_id>
   <wp:tag_slug>pbs</wp:tag_slug>
   <wp:tag_name><![CDATA[PBS]]></wp:tag_name>
@@ -2546,6 +2566,11 @@
   <wp:term_id>468335</wp:term_id>
   <wp:tag_slug>philosopher-king</wp:tag_slug>
   <wp:tag_name><![CDATA[Philosopher King]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>146986</wp:term_id>
+  <wp:tag_slug>photo-id</wp:tag_slug>
+  <wp:tag_name><![CDATA[Photo ID]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>14490271</wp:term_id>
@@ -2841,6 +2866,11 @@
   <wp:term_id>102988</wp:term_id>
   <wp:tag_slug>second-amendment</wp:tag_slug>
   <wp:tag_name><![CDATA[Second Amendment]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>801</wp:term_id>
+  <wp:tag_slug>security</wp:tag_slug>
+  <wp:tag_name><![CDATA[security]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>194848</wp:term_id>
@@ -17507,7 +17537,7 @@ I would really like to catch the first starship outta here!
 
 John Baker
 
-Secure undisclosed location.]]></content:encoded>
+Meridian Idaho.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>1730</wp:post_id>
   <wp:post_date>2011-08-01 19:38:11</wp:post_date>
@@ -20888,91 +20918,6 @@ How about that history haters. I knew why astronomers cared about transits of V
   </wp:postmeta>
 </item>
 <item>
-  <title>GPX from Google Maps KML J Script</title>
-  <link>http://analyzethedatanotthedrivel.org/2012/05/16/gpx-from-google-maps-kml-j-script/</link>
-  <pubDate>Thu, 17 May 2012 03:50:01 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2767</guid>
-  <description/>
-  <content:encoded><![CDATA[In preparation for my Arizona jaunt to watch the May 20<sup>th</sup> <a href="http://eclipse-maps.com/Eclipse-Maps/Gallery/Pages/Annular_solar_eclipse_of_2012_May_20.html">annular eclipse</a> I spent a few hours on Google Maps selecting locations to visit.  Here are my prime targets.
-<p style="text-align:center;"><span style="text-align:center;">[googlemaps http://maps.google.com/maps/ms?msa=0&amp;msid=213851645709730088342.0004bd67c9be9e39b4797&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=35.215307,-111.704516&amp;spn=3.559403,1.36533&amp;output=embed&amp;w=375&amp;h=300]</span></p>
-<p style="text-align:left;">After selecting targets the next step is to load them onto my “GPS device.” Currently my GPS device is the <a href="http://gps.motionx.com/iphone/overview/">MotionX GPS iPhone</a> app.  MotionX can read GPX files in many ways <em>but you need <a href="http://www.topografix.com/gpx.asp">GPX</a> files not Google Maps <a href="https://developers.google.com/kml/documentation/">KML</a> files.</em> Converting KML to GPX is a recurring nuisance. I've used <a href="http://kml2gpx.com/">online converters</a> for this chore but today, after being annoyed by this problem for the zillionth time, I dashed off a <a href="http://www.jsoftware.com/jwiki/FrontPage">J script</a> that transforms Google Maps KML to GPX.  The main verb <code>gpxfrmapkml</code> is shown below. The <a href="https://www.box.com/s/09dc770e4821500d222b">entire script is available here</a> and in the files sidebar. Browse to the J Scripts directory. Happy KML to GPX'ing my friends.</p>
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-gpxfrmapkml=:3 : 0
-
-NB.*gpxfrmapkml v-- gpx from Google maps kml.
-NB.
-NB. monad:  clGpx =. gpxfrmapkml clKml
-NB.
-NB.   NB. download Google map waypoints as kml
-NB.   kml=. read 'c:/temp/arizona annular eclipse.kml'
-NB.
-NB.   NB. convert to gpx and save
-NB.   gpx=. gpxfrmapkml kml
-NB.   gpx write 'c:/temp/arizona annular eclipse.gpx'  
-
-NB. parse kml form waypoint table
-dname=. ;'name' geteletext '&lt;Placemark&gt;' beforestr y
-wpt=.   ;'Placemark' geteletext y
-wpt=.   ('name' geteletext wpt) ,. &lt;;._1&amp;&gt; ','&amp;,&amp;.&gt; 'coordinates' geteletext wpt
-hdr=.   ;:'phototitle longitude latitude'
-
-NB. format gpx header 
-gpxstamp=. 'Waypoints: ',(&quot;:#wpt),' GPX generated: ',timestamp''
-gpxheader=. ('/{{headername}}/',dname,'/{{headerdescription}}/',gpxstamp) changestr GPXFRKMLHEADER
-gpxtrailer=. GPXTRAILER
-
-'idx pkml'=. HTMLVARBPATTERN patpartstr GPXSMUGPLACEMARK
-rvarbs=. idx htmlvarbs pkml
-
-NB. all row varibles must exist in data header
-assert. *./ rvarbs e. hdr
-rows=. (#wpt) # ,: pkml
-rows=. ((hdr i. &lt;'phototitle'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'phototitle'){idx)} rows
-rows=. ((hdr i. &lt;'latitude'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'latitude'){idx)} rows
-rows=. ((hdr i. &lt;'longitude'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'longitude'){idx)} rows
-
-gpxheader,(;rows),gpxtrailer
-)
-[/sourcecode]]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2767</wp:post_id>
-  <wp:post_date>2012-05-16 22:50:01</wp:post_date>
-  <wp:post_date_gmt>2012-05-17 03:50:01</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>gpx-from-google-maps-kml-j-script</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="annular-eclipse"><![CDATA[annular eclipse]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="geotagging"><![CDATA[geotagging]]></category>
-  <category domain="post_tag" nicename="google-maps"><![CDATA[Google Maps]]></category>
-  <category domain="post_tag" nicename="gpx"><![CDATA[gpx]]></category>
-  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
-  <category domain="category" nicename="j"><![CDATA[J]]></category>
-  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
-  <category domain="post_tag" nicename="kml"><![CDATA[KML]]></category>
-  <category domain="post_tag" nicename="latitude"><![CDATA[latitude]]></category>
-  <category domain="post_tag" nicename="longitude"><![CDATA[longitude]]></category>
-  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="post_tag" nicename="script"><![CDATA[script]]></category>
-  <category domain="post_tag" nicename="waypoints"><![CDATA[waypoints]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title/>
   <link>http://analyzethedatanotthedrivel.org/2013/08/08/4168/</link>
   <pubDate>Thu, 08 Aug 2013 14:58:36 +0000</pubDate>
@@ -21972,6 +21917,122 @@ gpxheader,(;rows),gpxtrailer
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>My Final Facebook Fuckoff</title>
+  <link>http://analyzethedatanotthedrivel.org/?p=5294</link>
+  <pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5294</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5294</wp:post_id>
+  <wp:post_date>2017-01-07 18:24:44</wp:post_date>
+  <wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name/>
+  <wp:status>draft</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>GPX from Google Maps KML J Script</title>
+  <link>http://analyzethedatanotthedrivel.org/2012/05/16/gpx-from-google-maps-kml-j-script/</link>
+  <pubDate>Thu, 17 May 2012 03:50:01 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2767</guid>
+  <description/>
+  <content:encoded><![CDATA[In preparation for my Arizona jaunt to watch the May 20<sup>th</sup> <a href="http://eclipse-maps.com/Eclipse-Maps/Gallery/Pages/Annular_solar_eclipse_of_2012_May_20.html">annular eclipse</a> I spent a few hours on Google Maps selecting locations to visit.  Here are my prime targets.
+<p style="text-align:center;"><span style="text-align:center;">[googlemaps http://maps.google.com/maps/ms?msa=0&amp;msid=213851645709730088342.0004bd67c9be9e39b4797&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=35.215307,-111.704516&amp;spn=3.559403,1.36533&amp;output=embed&amp;w=375&amp;h=300]</span></p>
+<p style="text-align:left;">After selecting targets the next step is to load them onto my “GPS device.” Currently my GPS device is the <a href="http://gps.motionx.com/iphone/overview/">MotionX GPS iPhone</a> app.  MotionX can read GPX files in many ways <em>but you need <a href="http://www.topografix.com/gpx.asp">GPX</a> files not Google Maps <a href="https://developers.google.com/kml/documentation/">KML</a> files.</em> Converting KML to GPX is a recurring nuisance. I've used <a href="http://kml2gpx.com/">online converters</a> for this chore but today, after being annoyed by this problem for the zillionth time, I dashed off a <a href="http://www.jsoftware.com/jwiki/FrontPage">J script</a> that transforms Google Maps KML to GPX.  The main verb <code>gpxfrmapkml</code> is shown below. The <a href="https://www.box.com/s/09dc770e4821500d222b">entire script is available here</a> and in the files sidebar. Browse to the J Scripts directory. Happy KML to GPX'ing my friends.</p>
+
+[sourcecode wraplines="false" gutter="false" autolinks="false"]
+gpxfrmapkml=:3 : 0
+
+NB.*gpxfrmapkml v-- gpx from Google maps kml.
+NB.
+NB. monad:  clGpx =. gpxfrmapkml clKml
+NB.
+NB.   NB. download Google map waypoints as kml
+NB.   kml=. read 'c:/temp/arizona annular eclipse.kml'
+NB.
+NB.   NB. convert to gpx and save
+NB.   gpx=. gpxfrmapkml kml
+NB.   gpx write 'c:/temp/arizona annular eclipse.gpx'  
+
+NB. parse kml form waypoint table
+dname=. ;'name' geteletext '&lt;Placemark&gt;' beforestr y
+wpt=.   ;'Placemark' geteletext y
+wpt=.   ('name' geteletext wpt) ,. &lt;;._1&amp;&gt; ','&amp;,&amp;.&gt; 'coordinates' geteletext wpt
+hdr=.   ;:'phototitle longitude latitude'
+
+NB. format gpx header 
+gpxstamp=. 'Waypoints: ',(&quot;:#wpt),' GPX generated: ',timestamp''
+gpxheader=. ('/{{headername}}/',dname,'/{{headerdescription}}/',gpxstamp) changestr GPXFRKMLHEADER
+gpxtrailer=. GPXTRAILER
+
+'idx pkml'=. HTMLVARBPATTERN patpartstr GPXSMUGPLACEMARK
+rvarbs=. idx htmlvarbs pkml
+
+NB. all row varibles must exist in data header
+assert. *./ rvarbs e. hdr
+rows=. (#wpt) # ,: pkml
+rows=. ((hdr i. &lt;'phototitle'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'phototitle'){idx)} rows
+rows=. ((hdr i. &lt;'latitude'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'latitude'){idx)} rows
+rows=. ((hdr i. &lt;'longitude'){&quot;1 wpt) (&lt;a:;(rvarbs i. &lt;'longitude'){idx)} rows
+
+gpxheader,(;rows),gpxtrailer
+)
+[/sourcecode]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2767</wp:post_id>
+  <wp:post_date>2012-05-16 22:50:01</wp:post_date>
+  <wp:post_date_gmt>2012-05-17 03:50:01</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>gpx-from-google-maps-kml-j-script</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="annular-eclipse"><![CDATA[annular eclipse]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="geotagging"><![CDATA[geotagging]]></category>
+  <category domain="post_tag" nicename="google-maps"><![CDATA[Google Maps]]></category>
+  <category domain="post_tag" nicename="gpx"><![CDATA[gpx]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="post_tag" nicename="kml"><![CDATA[KML]]></category>
+  <category domain="post_tag" nicename="latitude"><![CDATA[latitude]]></category>
+  <category domain="post_tag" nicename="longitude"><![CDATA[longitude]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="post_tag" nicename="script"><![CDATA[script]]></category>
+  <category domain="post_tag" nicename="waypoints"><![CDATA[waypoints]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
@@ -33479,7 +33540,7 @@ Things did not work out. My new job imploded a week before closing on the house 
 
 [caption id="attachment_5285" align="aligncenter" width="400"]<a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-GBMLf7V/A"><img class="wp-image-5285" src="https://bakerjd99.files.wordpress.com/2016/12/mepetrifiedstump.jpg?w=584" alt="Resting on a petrified stump on the trail. Old farts require more rest stops on the way up. I am so glad that trail running was not a thing when I was young. I didn’t see any trail runners in Yellowstone today. The presence of bears, wolves and mountain lions, all of which can run trails a lot faster than millennial showoffs, puts the brakes on such behavior." width="400" height="600" /></a> Resting on a petrified stump on the trail. Old farts require more rest stops on the way up. I am so glad that trail running was not a thing when I was young. I didn’t see any trail runners in Yellowstone today. The presence of bears, wolves and mountain lions, all of which can run trails a lot faster than millennial showoffs, puts the brakes on such behavior.[/caption]
 
-We scrambled and quickly moved to <a href="https://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-SrjgQ7Z/A">Bozeman Montana</a> to stay with my father. Since my mother’s death three years ago he has spent his summers in Bozeman alone. He was glad to have some company and we glad to have a place to stay while I resumed the chore of looking for another job. I didn’t mind our summer in Bozeman. We hiked a lot, visited <a href="https://conceptcontrol.smugmug.com/Trips/USA-and-Canada/Weekenders/i-WjmPK8D/A">Yellowstone</a> a few times, drove up to <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-9Kqgz6b/A">Glacier National Park</a>, visited <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-GLxm6Tq/A">Missoula</a> and <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-M4SJqfB/A">Butte</a>, and took lots of pictures. I also spent many hours scanning, restoring, and annotating old family slides. I found some real gems like this shot of my mother as a young teenager with baby “Tommy.”
+We scrambled and quickly moved to <a href="https://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-SrjgQ7Z/A">Bozeman Montana</a> to stay with my father. Since my mother’s death three years ago he has spent his summers in Bozeman alone. He was glad to have some company and we were glad to have a place to stay while I resumed the chore of looking for another job. I didn’t mind our summer in Bozeman. We hiked a lot, visited <a href="https://conceptcontrol.smugmug.com/Trips/USA-and-Canada/Weekenders/i-WjmPK8D/A">Yellowstone</a> a few times, drove up to <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-9Kqgz6b/A">Glacier National Park</a>, visited <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-GLxm6Tq/A">Missoula</a> and <a href="https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Montana-Now-and-Then/i-M4SJqfB/A">Butte</a>, and took lots of pictures. I also spent many hours scanning, restoring, and annotating old family slides. I found some real gems like this shot of my mother as a young teenager with baby “Tommy.”
 
 [caption id="attachment_5278" align="aligncenter" width="400"]<a href="https://conceptcontrol.smugmug.com/People/From-Hazels-Albums-1/i-tLbfswS/A"><img class="wp-image-5278" src="https://bakerjd99.files.wordpress.com/2016/12/evelyntommy1949.jpg?w=584" alt="Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head." width="400" height="560" /></a> Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head.[/caption]
 
@@ -33610,6 +33671,71 @@ We did have a Merry Christmas.]]></wp:comment_content>
       <wp:meta_value>1482859937</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title>My Final Facebook Fuckoff</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/07/my-final-facebook-fuckoff/</link>
+  <pubDate>Sun, 08 Jan 2017 01:41:28 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5295</guid>
+  <description/>
+  <content:encoded><![CDATA[It’s the start of a new year and much has changed. This week we moved into a new house. Our move has been an eight month and four state ordeal but I am hoping we will be here for some time. I am tired of moving and our frequent moves are confusing our self-appointed digital overlords. This afternoon, after unpacking and assembling the table I am now writing on, I tried to login to Facebook using a borrowed library hotspot. The Boise Library consortium is now lending out Internet Hotspot devices. My wife put one on hold about a month ago and she got an email the other day that the device was ready to be picked up at the Eagle branch. It will be a week or two before our local broadband supplier can wire up our new house so the hotspot perfectly hit our Internet dead spot. We picked it up and I’m using it now.
+
+Getting back to Facebook. My login attempt failed. Facebook detected yet another change in my connection IP address and asked me to verify my account. I’ve done this before. I was expecting a text or reset email but no, this time the bastards had the sheer unmitigated gall to ask for proper government ID. They want scans of driver’s licenses, passports, social security cards and so forth. This was the last straw. I couldn’t even login to delete my account so I sent this message to security@facebookmail.com.
+
+<blockquote><em>Dear Security at Facebook,</em>
+
+<em>It's so good of you to ask if I was trying to access my account from a new IP.  Yes, that new login attempt was me. For reasons that do not concern you I move around a lot. It's irritating that you track IPs and harass users when they go to another coffee shop or library.</em>
+
+<em>This has happened in the past and I have jumped through your irritating hoops to reset the account. Prior to, today you did not ask for PROPER GOVERNMENT ID! <strong>There is no fucking way in hell I will be uploading scans of driver’s licenses, passports, social security numbers, or any other form of official ID.</strong> It's bad enough that proper authorities force us to use these documents but, the last time I looked Facebook is not an authority! We don't have to show proper ID to vote in many states but apparently it's required to browse your steaming pile of distracting rubbish.</em>
+
+[caption id="attachment_4723" align="alignright" width="250"]<a href="https://conceptcontrol.smugmug.com/search/?q=me&amp;c=photos" rel="attachment wp-att-4723"><img class="wp-image-4723 size-full" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg" alt="me" width="250" height="250" /></a> My Facebook profile image. Apparently, it is no longer ok to use avatar images on Facebook. I started using this image a few years ago primarily to screw with their facial recognition programs. I will not aid and abet Facebook user profiling. I am not hiding you can browse scores of my pictures by clicking on the gorrilla. Of course, these images are not under the legal purview of Facebook so they cannot legally use them for profiles.[/caption]
+
+<em>I have always hated Facebook and the only reason I have maintained my tiny footprint in your sewer is to catch a little gossip from real friends and family members. I have done my best to keep my friend list short, my security options on maximum, and my profile information scant and useless. I know you are a giant data mining operation. You entice idiots with cat videos then quietly monitor their mostly boring and pointless lives with the sole aim of selling this information to third parties. Well, count me out! This will be the last byte stream from </em>moi.<em> If I could login I would delete my account but I since I will not change my lovely gorilla profile picture or give proper ID I will have to simply orphan my account. I have already deleted my phone app and purged my browsers of your vile links. I will never login to Facebook again.</em>
+
+<em>I always knew this day was coming. I had long ago decided to drop Facebook when a few family members tired of your trash. I don't waste a lot of time on Facebook, but be honest, even you know it's nothing but a complete</em> <em>waste of time.</em>
+
+<em>In this case, parting is not sweet sorrow, it's like being released from an insane asylum. </em>
+
+<em>Anonymously yours </em>
+<em>John D. Baker</em></blockquote>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5295</wp:post_id>
+  <wp:post_date>2017-01-07 19:41:28</wp:post_date>
+  <wp:post_date_gmt>2017-01-08 01:41:28</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>my-final-facebook-fuckoff</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="busybodies"><![CDATA[busybodies]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="drivers-licences"><![CDATA[driver's licences]]></category>
+  <category domain="post_tag" nicename="facebook"><![CDATA[Facebook]]></category>
+  <category domain="post_tag" nicename="government-id"><![CDATA[Government ID]]></category>
+  <category domain="post_tag" nicename="passports"><![CDATA[passports]]></category>
+  <category domain="post_tag" nicename="photo-id"><![CDATA[Photo ID]]></category>
+  <category domain="post_tag" nicename="security"><![CDATA[security]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[519215489]]></wp:meta_value>
+  </wp:postmeta>
 </item>
   </channel>
 </rss>
