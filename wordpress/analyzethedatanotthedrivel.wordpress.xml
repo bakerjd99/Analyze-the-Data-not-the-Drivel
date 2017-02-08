@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-01-13 04:36"-->
+<!-- generator="WordPress.com" created="2017-02-08 04:01"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Fri, 13 Jan 2017 04:36:53 +0000</pubDate>
+<pubDate>Wed, 08 Feb 2017 04:01:55 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -341,6 +341,11 @@
   <wp:term_id>157</wp:term_id>
   <wp:tag_slug>advice</wp:tag_slug>
   <wp:tag_name><![CDATA[advice]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>254049665</wp:term_id>
+  <wp:tag_slug>affinity-photo</wp:tag_slug>
+  <wp:tag_name><![CDATA[Affinity Photo]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>14067</wp:term_id>
@@ -2583,6 +2588,11 @@
   <wp:tag_name><![CDATA[Photography]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>1615</wp:term_id>
+  <wp:tag_slug>photoshop</wp:tag_slug>
+  <wp:tag_name><![CDATA[Photoshop]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>2119603</wp:term_id>
   <wp:tag_slug>photosphere</wp:tag_slug>
   <wp:tag_name><![CDATA[Photosphere]]></wp:tag_name>
@@ -3186,6 +3196,11 @@
   <wp:term_id>2523870</wp:term_id>
   <wp:tag_slug>three-fates</wp:tag_slug>
   <wp:tag_name><![CDATA[three fates]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>21405564</wp:term_id>
+  <wp:tag_slug>thumbsplus</wp:tag_slug>
+  <wp:tag_name><![CDATA[ThumbsPlus]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>14745</wp:term_id>
@@ -5827,7 +5842,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2011-11-19 14:06:28</wp:post_date>
   <wp:post_date_gmt>2011-11-19 20:06:28</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>photos</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -5882,7 +5897,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2011-11-19 14:06:26</wp:post_date>
   <wp:post_date_gmt>2011-11-19 20:06:26</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>2111</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -5937,11 +5952,11 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2011-11-19 14:06:27</wp:post_date>
   <wp:post_date_gmt>2011-11-19 20:06:27</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>2112</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>2</wp:menu_order>
+  <wp:menu_order>35</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -7312,7 +7327,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2012-02-22 23:14:20</wp:post_date>
   <wp:post_date_gmt>2012-02-23 05:14:20</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>2515</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -7650,7 +7665,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:42:33</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:42:33</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4154</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
@@ -7709,7 +7724,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:37</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:37</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4156</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
@@ -7768,7 +7783,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:31</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:31</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4157</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
@@ -7827,7 +7842,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:33</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:33</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4158</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>196</wp:post_parent>
@@ -7886,7 +7901,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:35</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:35</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4159</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>196</wp:post_parent>
@@ -7945,7 +7960,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:29</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:29</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4160</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
@@ -8004,7 +8019,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:39</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:39</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4161</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
@@ -8052,124 +8067,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4162/</link>
-  <pubDate>Thu, 08 Aug 2013 14:48:42 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4162</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4162</wp:post_id>
-  <wp:post_date>2013-08-08 09:48:42</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:48:42</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4162</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>29</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[581]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4163/</link>
-  <pubDate>Thu, 08 Aug 2013 14:48:41 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4163</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4163</wp:post_id>
-  <wp:post_date>2013-08-08 09:48:41</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:48:41</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4163</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>27</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[178]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
   <link>http://analyzethedatanotthedrivel.org/2013/08/08/4164/</link>
   <pubDate>Thu, 08 Aug 2013 14:48:25 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
@@ -8181,7 +8078,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:25</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:25</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4164</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
@@ -8240,7 +8137,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_date>2013-08-08 09:48:27</wp:post_date>
   <wp:post_date_gmt>2013-08-08 14:48:27</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
+  <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>4165</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>90</wp:post_parent>
@@ -8260,124 +8157,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
     <wp:meta_value><![CDATA[3128]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4166/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:31 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4166</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4166</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:31</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:31</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4166</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>90</wp:post_parent>
-  <wp:menu_order>7</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[3607]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4167/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:33 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4167</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4167</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:33</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:33</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4167</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>90</wp:post_parent>
-  <wp:menu_order>8</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[17903]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
@@ -9665,6 +9444,98 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/12/mepetrifiedstump.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>babyevelynbeforeafter</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/babyevelynbeforeafter/</link>
+  <pubDate>Sun, 22 Jan 2017 06:06:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/01/babyevelynbeforeafter.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[For some restorations, the ones that please or annoy me, I create a before and after diptych. I want to convince myself that my restoration work was worthwhile. Most of the time the restored image is better but in more cases than I would like the original scan is superior. And, every now and then, I cannot decide which one I like the best. This rendering of an old faded patterned print of my mother as a baby is one of those images. The original print is on patterned paper. The pattern imparts a quality that the restoration lacks.  Ansel Adams once wrote that the negative is the score and the print is the performance. For restorers, the scan is the score and the restoration is the performance. Sometimes the music is glorious and clear and sometimes it's rap – rhymes with crap!]]></excerpt:encoded>
+  <wp:post_id>5313</wp:post_id>
+  <wp:post_date>2017-01-22 00:06:03</wp:post_date>
+  <wp:post_date_gmt>2017-01-22 06:06:03</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>babyevelynbeforeafter</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5317</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/01/babyevelynbeforeafter.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>evelynpattern</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/evelynpattern/</link>
+  <pubDate>Sun, 22 Jan 2017 06:06:05 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/01/evelynpattern.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5314</wp:post_id>
+  <wp:post_date>2017-01-22 00:06:05</wp:post_date>
+  <wp:post_date_gmt>2017-01-22 06:06:05</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>evelynpattern</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5317</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/01/evelynpattern.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>glaciermountainstorm</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/glaciermountainstorm/</link>
+  <pubDate>Sun, 22 Jan 2017 06:06:09 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/01/glaciermountainstorm.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[Looking west from just outside the eastern side of Glacier National Park near Saint Mary. The weather was grim and dark, just the way I like it, when I braved the rain to snap the frames that went into this panorama. I built this panorama directly from Nikon NEF files in the Windows version of Affinity Photo. My favorite image processor, Picture Window Pro, is being retired and I am exploring alternatives. I rather like this result.]]></excerpt:encoded>
+  <wp:post_id>5315</wp:post_id>
+  <wp:post_date>2017-01-22 00:06:09</wp:post_date>
+  <wp:post_date_gmt>2017-01-22 06:06:09</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>glaciermountainstorm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5317</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/01/glaciermountainstorm.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>beirutsouthcoast</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/beirutsouthcoast/</link>
+  <pubDate>Sun, 22 Jan 2017 21:59:22 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/01/beirutsouthcoast.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[I am still exploring the Affinity Photo image editor. I used it to restore this scan of a Kodachrome slide my father shot from a hotel window of the south coast of Beirut Lebanon in 1968. The Continental Hotel is visible in the lower left corner of this image. My mother often stayed in the Continental when she visited me in Beirut. I fondly remember having continental breakfast in the Continental.  The original slide was overexposed and covered with splotches and sky fingerprints. The retouching tools in Affinity Photo are better than corresponding tools in Photoshop Elements. I particularly like the Affinity inpainting brush; it works well on textured and linear subjects. I was able to remove long scratches cutting through the buildings in this image without unduly wreaking building detail. I also used the inpainting tool to remove a cutoff street light and a car it was shading on the bottom of the image. It's easier to remove objects with Affinity Photo than it is in Photoshop Elements.]]></excerpt:encoded>
+  <wp:post_id>5316</wp:post_id>
+  <wp:post_date>2017-01-22 15:59:22</wp:post_date>
+  <wp:post_date_gmt>2017-01-22 21:59:22</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>beirutsouthcoast</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5317</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/01/beirutsouthcoast.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -20261,6 +20132,1335 @@ Changing TeXfrWpxml.ijs will not work for you but the source XML document contai
   </wp:comment>
 </item>
 <item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4162/</link>
+  <pubDate>Thu, 08 Aug 2013 14:48:42 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4162</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4162</wp:post_id>
+  <wp:post_date>2013-08-08 09:48:42</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:48:42</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4162</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>29</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[581]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4163/</link>
+  <pubDate>Thu, 08 Aug 2013 14:48:41 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4163</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4163</wp:post_id>
+  <wp:post_date>2013-08-08 09:48:41</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:48:41</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4163</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>27</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[178]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4166/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:31 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4166</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4166</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:31</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:31</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4166</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>90</wp:post_parent>
+  <wp:menu_order>7</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3607]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4167/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:33 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4167</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4167</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:33</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:33</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4167</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>90</wp:post_parent>
+  <wp:menu_order>8</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[17903]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4168/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:36 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4168</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4168</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:36</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:36</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4168</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>10</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[60944419]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4169/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:37 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4169</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4169</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:37</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:37</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4169</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>11</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[60944059]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4170/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:39 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4170</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4170</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:39</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:39</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4170</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>12</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[16753]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4171/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:41 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4171</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4171</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:41</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:41</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4171</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>13</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[140469]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4172/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:43 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4172</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4172</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:43</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:43</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4172</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>436</wp:post_parent>
+  <wp:menu_order>14</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[217420]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4173/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:46 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4173</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4173</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:46</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:46</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4173</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>16</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[266660]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4174/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:47 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4174</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4174</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:47</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:47</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4174</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>17</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4175/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:49 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4175</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4175</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:49</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:49</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4175</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>18</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4177/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:52 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4177</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4177</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:52</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:52</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4177</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>20</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[457]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4178/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:54 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4178</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4178</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:54</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:54</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4178</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>21</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4180/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:57 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4180</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4180</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:57</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:57</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4180</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>47</wp:post_parent>
+  <wp:menu_order>24</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4156]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3072]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4181/</link>
+  <pubDate>Thu, 08 Aug 2013 14:58:59 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4181</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4181</wp:post_id>
+  <wp:post_date>2013-08-08 09:58:59</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:58:59</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4181</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>47</wp:post_parent>
+  <wp:menu_order>25</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4156]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[398]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4182/</link>
+  <pubDate>Thu, 08 Aug 2013 14:59:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4182</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4182</wp:post_id>
+  <wp:post_date>2013-08-08 09:59:03</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:59:03</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4182</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>30</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[462]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4183/</link>
+  <pubDate>Thu, 08 Aug 2013 14:59:07 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4183</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4183</wp:post_id>
+  <wp:post_date>2013-08-08 09:59:07</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:59:07</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4183</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>173</wp:post_parent>
+  <wp:menu_order>32</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4185]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4003]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4184/</link>
+  <pubDate>Thu, 08 Aug 2013 14:59:09 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4184</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4184</wp:post_id>
+  <wp:post_date>2013-08-08 09:59:09</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:59:09</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4184</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>173</wp:post_parent>
+  <wp:menu_order>33</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4185]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3582]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4185/</link>
+  <pubDate>Thu, 08 Aug 2013 14:59:05 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4185</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4185</wp:post_id>
+  <wp:post_date>2013-08-08 09:59:05</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:59:05</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4185</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4526</wp:post_parent>
+  <wp:menu_order>31</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[173]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2014/11/10/4896/</link>
+  <pubDate>Tue, 11 Nov 2014 03:54:48 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4896</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4896</wp:post_id>
+  <wp:post_date>2014-11-10 21:54:48</wp:post_date>
+  <wp:post_date_gmt>2014-11-11 03:54:48</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4896</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>28</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21571]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>My Final Facebook Fuckoff</title>
+  <link>http://analyzethedatanotthedrivel.org/?p=5294</link>
+  <pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5294</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5294</wp:post_id>
+  <wp:post_date>2017-01-07 18:24:44</wp:post_date>
+  <wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name/>
+  <wp:status>draft</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Code</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/17/code/</link>
+  <pubDate>Tue, 17 Jan 2017 19:53:37 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5312</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5312</wp:post_id>
+  <wp:post_date>2017-01-17 13:53:37</wp:post_date>
+  <wp:post_date_gmt>2017-01-17 19:53:37</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>code</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>2</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5312]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[custom]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[https://github.com/bakerjd99]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
   <title>Turn your Blog into an eBook</title>
   <link>http://analyzethedatanotthedrivel.org/2012/03/04/turn-your-blog-into-an-ebook/</link>
   <pubDate>Mon, 05 Mar 2012 02:44:38 +0000</pubDate>
@@ -20915,1040 +22115,6 @@ How about that history haters. I knew why astronomers cared about transits of V
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_fb</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4168/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:36 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4168</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4168</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:36</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:36</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4168</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>10</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[60944419]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4169/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:37 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4169</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4169</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:37</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:37</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4169</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>11</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[60944059]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4170/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:39 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4170</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4170</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:39</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:39</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4170</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>12</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[16753]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4171/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:41 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4171</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4171</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:41</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:41</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4171</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>13</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[140469]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4172/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:43 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4172</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4172</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:43</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:43</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4172</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>436</wp:post_parent>
-  <wp:menu_order>14</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4160]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[217420]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4173/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:46 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4173</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4173</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:46</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:46</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4173</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>16</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[266660]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4174/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:47 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4174</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4174</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:47</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:47</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4174</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>17</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4175/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:49 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4175</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4175</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:49</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:49</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4175</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>18</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4177/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:52 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4177</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4177</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:52</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:52</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4177</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>20</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[457]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4178/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:54 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4178</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4178</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:54</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:54</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4178</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>21</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4180/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:57 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4180</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4180</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:57</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:57</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4180</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>47</wp:post_parent>
-  <wp:menu_order>24</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4156]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[3072]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4181/</link>
-  <pubDate>Thu, 08 Aug 2013 14:58:59 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4181</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4181</wp:post_id>
-  <wp:post_date>2013-08-08 09:58:59</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:58:59</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4181</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>47</wp:post_parent>
-  <wp:menu_order>25</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4156]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[398]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4182/</link>
-  <pubDate>Thu, 08 Aug 2013 14:59:03 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4182</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4182</wp:post_id>
-  <wp:post_date>2013-08-08 09:59:03</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:59:03</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4182</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>30</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[462]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4183/</link>
-  <pubDate>Thu, 08 Aug 2013 14:59:07 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4183</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4183</wp:post_id>
-  <wp:post_date>2013-08-08 09:59:07</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:59:07</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4183</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>173</wp:post_parent>
-  <wp:menu_order>32</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4185]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[4003]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4184/</link>
-  <pubDate>Thu, 08 Aug 2013 14:59:09 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4184</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4184</wp:post_id>
-  <wp:post_date>2013-08-08 09:59:09</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:59:09</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4184</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>173</wp:post_parent>
-  <wp:menu_order>33</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4185]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[3582]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4185/</link>
-  <pubDate>Thu, 08 Aug 2013 14:59:05 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4185</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4185</wp:post_id>
-  <wp:post_date>2013-08-08 09:59:05</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:59:05</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4185</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>31</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[173]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2014/11/10/4896/</link>
-  <pubDate>Tue, 11 Nov 2014 03:54:48 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4896</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4896</wp:post_id>
-  <wp:post_date>2014-11-10 21:54:48</wp:post_date>
-  <wp:post_date_gmt>2014-11-11 03:54:48</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>4896</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>28</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4161]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[21571]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>My Final Facebook Fuckoff</title>
-  <link>http://analyzethedatanotthedrivel.org/?p=5294</link>
-  <pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5294</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5294</wp:post_id>
-  <wp:post_date>2017-01-07 18:24:44</wp:post_date>
-  <wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name/>
-  <wp:status>draft</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -33736,6 +33902,186 @@ Getting back to Facebook. My login attempt failed. Facebook detected yet another
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[519215489]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Affinity Photo Review</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/</link>
+  <pubDate>Sun, 22 Jan 2017 23:40:20 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5317</guid>
+  <description/>
+  <content:encoded><![CDATA[There’s a new image processor on my computers. Recently the chief developer of one of my favorite image editors, <a href="http://www.dl-c.com/">Picture Window Pro</a> (PWP), sent out a sad email letting all PWP users know that he is stopping PWP development. He thanked us for over twenty years of support and as a last gift converted the final version of PWP to freeware. You can now download and run Picture Window Pro without a key. PWP is a superb program! It’s still the fastest and meanest image editor I have ever used and I am constantly trying image editors. If you’re interested in getting a free copy of PWP download the program before the distribution website shuts down.
+
+I was saddened by this news but all good things eventually end. With PWP going away I decided, for the n<sup>th</sup> time, to look for alternatives. I reconsidered Photoshop. I’ve used full-blown Photoshop but frankly, I’ve never been impressed. It’s expensive and slow! I use an old copy of Photoshop Elements, mainly to remove blemishes on film scans, but in my opinion, the only Adobe image processing product worth paying for is <a href="https://www.adobe.com/products/photoshop-lightroom.html">Lightroom</a>. Adobe is the evil image processing empire. They squeeze you with sluggish performance and abusive subscription payment models and then act like they’re doing you a favor. It didn’t take me very long to abandon Photoshop (again) and keep looking for PWP alternatives. Lucky for me there’s this thing called <a href="https://start.duckduckgo.com/">DuckDuckGo</a> that quickly led me to <a href="https://affinity.serif.com/en-us/">Affinity Photo.</a>
+
+Affinity Photo is a relatively new image editor that got started in the Mac world and, as of November 2016, is also available for 64 bit Windows systems. Affinity has snagged dozens of <a href="https://fstoppers.com/photoshop/affinity-photo-finally-true-alternative-photoshop-windows-153211">positive reviews</a> and, unlike Photoshop, is reasonably priced. I decided to give myself a little Christmas present and bought Affinity Photo.
+
+The Affinity Windows download file is large: over 200 megabytes. Affinity Windows depends on  <code>.Net 4.6.2</code> which is also installed if it’s not on your machine. It took a few minutes to suck down and install all the required bytes but things went smoothly and I eagerly started the program.
+
+Before relating my impressions of Affinity Photo I will describe my <em>binary image format philosophy</em>. Image editors typically create and manipulate vendor specific proprietary binary image files. Binary image files like PSDs, NEFs, DNGs, and now Affinity’s AFPHOTOs, have a nasty tendency to evolve on vendor whim. This poses fundamental long-term image storage problems. Even if you conscientiously backup and archive your original image files you may discover, a decade hence, that you can no longer load them with current software. I hate this! <em>Photography is for the ages, not the marketing cycles of software and camera companies!</em> If you have ever wondered why the lowly JPG image format still reigns supreme despite its abundant technical deficiencies stop wondering. The JPG format is an open and well described eight-bit channel format. Any competent programmer can write software to read and write JPGs. The same holds for TIFs, PNGs and a few other open formats. This is not true for vendor dominated formats. The specifications, even if disclosed, can change on a moment’s notice.
+
+How can photographers deal with <em>transient</em> binary image formats? There are two basic approaches. You can convert all your images to an open image format. Some photographers convert camera RAW files to high bit TIFs. Converting large numbers of image files is a tedious and resource hungry process but it’s probably the best bet for long-term storage. I use the second lazier approach: maintain at least two independent image programs that can read and write the binary image formats you work with. I use Nikon cameras; they crank out proprietary NEF binaries. Currently, I have four programs on this machine that can read NEFs: PWP, Lightroom, Affinity and <a href="http://www.cerious.com/">ThumbsPlus</a>. I will tolerate proprietary binaries <em>if and only if</em> I have options. Don’t let software and camera companies box you in.
+
+I started using image editors about fifteen years ago. My first editor came with my first digital camera: a one megapixel HP. I cannot remember the name of this program; I only used it long enough to discover its appalling deficiencies. Within a week I had purchased my first version of Photoshop Elements (PE). I was happy with PE until I encountered <a href="https://en.wikipedia.org/wiki/Posterization">posterization</a> (read the link for the gory technical details). Posterization wreaks prints and it’s easy to posterize eight-bit channel images. The answer then, as it is now, is to increase your working bit depth. Adobe recommended upgrading from PE to full Photoshop. Why fork over $70 bucks when you can fork over $500? Photoshop Elements has a long history of half-assed support for sixteen-bit channel images and the reason is painfully obvious. If Photoshop Elements fully embraced sixteen-bit channel images there would be very little need for full Photoshop. You could save yourself hundreds of dollars. Adobe decided not to compete with themselves and adopted the time-tested pseudo-monopolistic practice of sodomizing the customer. I did not embrace the <a href="http://www.urbandictionary.com/define.php?term=ButtHurt">butthurt</a>! I started looking for low-cost programs that properly handled sixteen-bit images. It didn’t take me long to find PWP.
+
+This early experience shaped my entire image processing approach. Instead of adopting a single monolithic “industry standard” program and joining the <em>nerd herd</em> I decided to go my way and use many small programs. Instead of a Goliath, I went with many Davids.<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> When you take the David approach interoperability moves to the top of the stack. The output of one program must effortlessly become the input of another. How programs play together matters. Additionally, when you apply the David approach, you never look to completely replace your tool set. General purpose tools like Affinity may be able to do all the things more specialized tools can do but probably not as efficiently or as well.
+
+So, before adding Affinity to my trusted tools I asked:
+
+<ol style="list-style-type:decimal;">
+    <li>Does Affinity play nice with others?</li>
+    <li>Is Affinity’s user interface (UI) tolerable?</li>
+    <li>Does Affinity streamline common tedious tasks?</li>
+    <li>What new capabilities does Affinity offer?</li>
+</ol>
+
+With these points in mind let’s look at Affinity Photo.
+
+<h1 id="does-affinity-play-nice-with-others">Does Affinity play nice with others?</h1>
+
+One of the first things I look for in image processors is <em>tolerable</em> loading times. Part the reason I’ve never been able to stick with full Photoshop is because it takes forever to get the damn thing up. Affinity on Windows easily beats full Photoshop but it’s still slower than good old C coded PWP. PWP comes up in a flash. It’s one of the many reasons I stuck with it for over a decade. Affinity’s loading speed is comparable to <a href="https://www.gimp.org/">GIMP</a>, Photoshop Elements and Lightroom: fast enough to not drive me crazy.
+
+After loading Affinity, I immediately started testing the program’s ability to read and write sixteen-bit TIF files. The basic single layer sixteen-bit TIF file format is one of the best supported lossless image formats. It’s often the only way to move information from one program to another without trashing bits. JPGs are universal, but every time you write a JPG you lose data: that’s the <a href="http://www.howtogeek.com/142174/what-lossless-file-formats-are-why-you-shouldnt-convert-lossy-to-lossless/">lossy part of JPG</a> compression. Lossy image formats are fine for the web and final presentation but are a total disaster for image editing. Affinity can read and write sixteen-bit TIFs. It can also read and write a number of other important formats like Photoshop Elements PSDs. Affinity converts PSD layers to AFPHOTO layers. It also handles JPGs, PNGs and many RAW formats like Nikon’s NEFs. <em>Affinity plays well with others.</em>
+
+<h1 id="is-affinitys-user-interface-ui-tolerable">Is Affinity’s user interface UI tolerable?</h1>
+
+Once I had satisfied myself that I could slosh bits through Affinity I started evaluating the program’s user interface. UIs have ruined many editors. I’m immediately suspicious when reviewers start lauding a program’s UI before spending a few hundred hours using it. UIs either help or hinder. Affinity’s UI is decent. If you have ever used a layer oriented image editor you will quickly adjust to how Affinity works. <a href="https://affinity.serif.com/forum/index.php?/topic/10119-in-house-affinity-photo-video-tutorials/">I strongly recommend watching the Affinity tutorial videos</a>; they are among the best video tutorials I’ve seen and quickly show what the program can do.
+
+Once Affinity is loaded it’s pretty zippy. Common image handling operations are fast enough to <em>fly under my annoyance radar</em>. Image processing can be very demanding. Don’t expect to stitch 500-megabyte panoramas from original RAW files instantly. With current hardware and software, some things will take time. It’s fair to say that Affinity’s performance compares favorably to other image processors. <em>I can put up with Affinity’s user interface.</em>
+
+<h1 id="does-affinity-streamline-common-tedious-tasks">Does Affinity streamline common tedious tasks?</h1>
+
+After playing with Affinity for a few days I used the program to help restore some old scanned slides. Old pictures are always damaged; they all need a bit, or a lot, of retouching. The problems most people associate with old pictures, tears, color changes, and loss of tone are usually easily fixed in most editors. The biggest job is removing thousands of scratches, spots, and stains. Most restorers give up and crop or blur away such defects but I’m with Lady Macbeth: “out, out damn spots.” Any tool that helps me hunt down and exterminate spotty pests will be lovingly embraced.
+
+The Affinity <a href="https://vimeo.com/130966523">inpainting brush</a> works a lot better than the corresponding Photoshop Elements healing brush. In particular, it crosses linear backgrounds, buildings, fabric patterns, and so forth without unduly destroying detail. Removing long linear scratches that cross regular structured detail is a soul draining chore. Whenever I see such defects I typically give up and find another picture to restore; I have a big backlog of scans awaiting restoration! This slide of the southern end of Beirut Lebanon, taken by my
+
+[caption id="attachment_5316" align="aligncenter" width="584"]<a href="https://conceptcontrol.smugmug.com/Places/Overseas-Places/Beirut-Lebanon-1960s-1/i-xVRksrK/A"><img class="wp-image-5316 size-large" src="https://bakerjd99.files.wordpress.com/2017/01/beirutsouthcoast.jpg?w=584" alt="I am still exploring the Affinity Photo image editor. I used it to restore this scan of a Kodachrome slide my father shot from a hotel window of the south coast of Beirut Lebanon in 1968. The Continental Hotel is visible in the lower left corner of this image. My mother often stayed in the Continental when she visited me in Beirut. I fondly remember having continental breakfast in the Continental. The original slide was overexposed and covered with splotches and sky fingerprints. The retouching tools in Affinity Photo are better than corresponding tools in Photoshop Elements. I particularly like the Affinity inpainting brush; it works well on textured and linear subjects. I was able to remove long scratches cutting through the buildings in this image without unduly wreaking building detail. I also used the inpainting tool to remove a cutoff street light and a car it was shading on the bottom of the image. It's easier to remove objects with Affinity Photo than it is in Photoshop Elements." width="584" height="389" /></a> I am still exploring the Affinity Photo image editor. I used it to restore this scan of a Kodachrome slide my father shot from a hotel window of the south coast of Beirut Lebanon in 1968. The Continental Hotel is visible in the lower left corner of this image. My mother often stayed in the Continental when she visited me in Beirut. I fondly remember having continental breakfast in the Continental. The original slide was overexposed and covered with splotches and sky fingerprints. The retouching tools in Affinity Photo are better than corresponding tools in Photoshop Elements. I particularly like the Affinity inpainting brush; it works well on textured and linear subjects. I was able to remove long scratches cutting through the buildings in this image without unduly wreaking building detail. I also used the inpainting tool to remove a cutoff street light and a car it was shading on the bottom of the image. It's easier to remove objects with Affinity Photo than it is in Photoshop Elements.[/caption]
+
+father in 1968, is typical of many images in my backlog. There were dozens of long linear scratches running through the buildings. It would have taken hours to fix them with PE. All it took was a few passes with Affinity’s inpainting brush to remove them. I was impressed. This single tool significantly speeds up restoring scratched and spotted images and justifies Affinity’s purchase price all by itself.
+
+Another Affinity tool that streamlines common image processing tasks is the Affinity panorama tool. Most modern image editors have fairly decent panorama tools and building a panorama is easier than it used to be. In the image editing Dark Age, you had to manually select control points and master blend masks to build decent panoramas. It could take hours to align a single image. Current editors use effective automatic control point detection and advanced blending algorithms. In most cases, it’s a simple matter of using good capture technique followed by loading the individual images into a panorama tool to generate decent to excellent results.
+
+We are living in a panoramic golden age but there are still problems. I shoot entirely in RAW because RAW preserves the most information and affords the greatest post processing options. Panoramas often encompass scenes of high contrast. Image tones will vary from extremely bright to very dark. It’s not uncommon for ordinary panoramas to span twelve or more stops of dynamic range. When processing high dynamic range pictures it’s extremely advantageous to do all your work on sixteen-bit or thirty-two-bit channel images. Blending eight-bit panoramas can release<a href="https://www.youtube.com/watch?v=7SqC_m3yUDU"> <em>the posterization Kraken</em></a>; trust me, you don’t want that monster savaging your scenes.
+
+Unfortunately, the Photoshop Elements panorama tool is inherently eight-bit. This means I must do all my major tone adjustments in Lightroom before panorama stitching. Adjusting the tones of a single image is tedious, doing it for many panorama frames is cruel and unusual punishment. Adobe’s answer is always the same; give us a lot of money and we’ll release you from eight-bit Hell! Lucky for us Affinity gets us out of eight-bit panorama Hell for a lot less.
+
+The following panorama of the mountains near the eastern entrance of Glacier National Park was directly generated from Nikon NEF RAW files. All feature detection and blending calculations were high-bit. Tone adjustments were aided by <a href="https://vimeo.com/192632826">regular tone mapping</a>. Tone mapping is like an automatic <a href="https://en.wikipedia.org/wiki/Zone_System">Zone System</a>. Compared to what I used to put up with <a href="https://conceptcontrol.smugmug.com/Trips/USA-and-Canada/Arizona-Toodling-1/i-fMPPrqd/A">ten years ago</a> Affinity panorama building is almost as easy as scanning scenes <a href="https://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-phFMbnJ/A">with an iPhone</a>. <em>Affinity significantly streamlines routine retouching and panorama building.</em>
+
+[caption id="attachment_5315" align="aligncenter" width="584"]<a href="https://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-DDThBLs/A"><img class="wp-image-5315 size-large" src="https://bakerjd99.files.wordpress.com/2017/01/glaciermountainstorm.jpg?w=584" alt="Looking west from just outside the eastern side of Glacier National Park near Saint Mary. The weather was grim and dark, just the way I like it, when I braved the rain to snap the frames that went into this panorama. I built this panorama directly from Nikon NEF files in the Windows version of Affinity Photo. My favorite image processor, Picture Window Pro, is being retired and I am exploring alternatives. I rather like this result." width="584" height="180" /></a> Looking west from just outside the eastern side of Glacier National Park near Saint Mary. The weather was grim and dark, just the way I like it when I braved the rain to snap the frames that went into this panorama. I built this panorama directly from Nikon NEF files in the Windows version of Affinity Photo. My favorite image processor, Picture Window Pro, is being retired and I am exploring alternatives. I rather like this result.[/caption]
+
+<h1 id="what-new-capabilities-does-affinity-offer">What new capabilities does Affinity offer?</h1>
+
+So far, the features I’ve discussed are common to most image editors. Does Affinity offer anything new or special? There is one Affinity feature, the <em>FFT (Fast Fourier Transform) Denoise filter</em>, that greatly mitigates one of my long-standing retouching nightmares: regular patterns.
+
+Many old portraits were printed on patterned paper. The following is a crop of an old (1935) baby picture of my mother.
+
+[caption id="attachment_5314" align="aligncenter" width="400"]<a href="https://bakerjd99.files.wordpress.com/2017/01/evelynpattern.jpg"><img class="wp-image-5314" src="https://bakerjd99.files.wordpress.com/2017/01/evelynpattern.jpg?w=584" alt="evelynpattern" width="400" height="267" /></a> My mother as a seven-week-old baby. This 1935 picture was printed on patterned paper. Patterned paper often adds luster and depth to photographs but it also makes it more difficult to retouch them. The Affinity Photo FFT (Fast Fourier Transform) Denoise filter can remove regular patterns without unduly softening images.[/caption]
+
+As you can see the entire picture is covered with tiny regular hexagons. Patterned prints were popular in the early and mid-20<sup>th</sup> century. The pattern adds depth and luster and has the nice side effect of making prints difficult to copy. Patterns also make retouching difficult. Retouching spots and scratches on patterned backgrounds tends to make them more, not less conspicuous. If only there was some way to remove the damn pattern before retouching. Affinity’s <a href="https://vimeo.com/161180581">FFT Denoise</a> filter does just that.
+
+I applied the FFT Denoise filter to my mother’s baby picture and then ran through my regular retouching regime: see the following before and after diptych.
+
+[caption id="attachment_5313" align="aligncenter" width="584"]<a href="https://conceptcontrol.smugmug.com/Themes/Manipulations/Restorations-1/i-jg2v6DD/A"><img class="wp-image-5313 size-large" src="https://bakerjd99.files.wordpress.com/2017/01/babyevelynbeforeafter.jpg?w=584" alt="For some restorations, the ones that please or annoy me, I create a before and after diptych. I want to convince myself that my restoration work was worthwhile. Most of the time the restored image is better but in more cases than I would like the original scan is superior. And, every now and then, I cannot decide which one I like the best. This rendering of an old faded patterned print of my mother as a baby is one of those images. The original print is on patterned paper. The pattern imparts a quality that the restoration lacks. Ansel Adams once wrote that the negative is the score and the print is the performance. For restorers, the scan is the score and the restoration is the performance. Sometimes the music is glorious and clear and sometimes it's rap – rhymes with crap!" width="584" height="434" /></a> For some restorations, the ones that please or annoy me, I create a before and after diptych. I want to convince myself that my restoration work was worthwhile. Most of the time the restored image is better but in more cases than I would like the original scan is superior. And, now and then, I cannot decide which one I like the best. This rendering of an old faded patterned print of my mother as a baby is one of those images. The original print is on patterned paper. The pattern imparts a quality that the restoration lacks. Ansel Adams once wrote that the negative is the score and the print is the performance. For restorers, the scan is the score and the restoration is the performance. Sometimes the music is glorious and clear and sometimes it's rap – rhymes with crap![/caption]
+
+<h1 id="affinity-conclusion">Affinity Conclusion</h1>
+
+Affinity, like PWP, is a great value. The first Windows version is already superior to every version of Photoshop Elements I’ve ever used. It’s not as comprehensive as full Photoshop, but if you subtract the marginal features of Photoshop and keep the essential core elements, you’ve basically described Affinity’s feature set. Affinity is a layer editor but it’s not a Photoshop clone. The UI is completely modern, RAW development is built in, sixteen-bit layers are the default, and useful stack operations like automatic alignment are a click away. Affinity also supports <a href="https://vimeo.com/192633552">thirty-two-bit HDR</a> file formats and high dynamic range composites. There’s a lot of bang for the buck: strongly recommended!
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">If you remember what happened to Goliath siding with David doesn’t seem like much of a risk.<a href="#fnref1">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5317</wp:post_id>
+  <wp:post_date>2017-01-22 17:40:20</wp:post_date>
+  <wp:post_date_gmt>2017-01-22 23:40:20</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>affinity-photo-review</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="affinity-photo"><![CDATA[Affinity Photo]]></category>
+  <category domain="post_tag" nicename="image-editors"><![CDATA[image editors]]></category>
+  <category domain="category" nicename="image-processing"><![CDATA[Image Processing]]></category>
+  <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+  <category domain="post_tag" nicename="photography"><![CDATA[Photography]]></category>
+  <category domain="post_tag" nicename="photoshop"><![CDATA[Photoshop]]></category>
+  <category domain="post_tag" nicename="picture-window-pro"><![CDATA[Picture Window Pro]]></category>
+  <category domain="category" nicename="restoration"><![CDATA[Restoration]]></category>
+  <category domain="post_tag" nicename="restoration"><![CDATA[Restoration]]></category>
+  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <category domain="post_tag" nicename="thumbsplus"><![CDATA[ThumbsPlus]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[1046328522]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5315]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1690</wp:comment_id>
+    <wp:comment_author><![CDATA[steven]]></wp:comment_author>
+    <wp:comment_author_email>stevensurprenant@att.net</wp:comment_author_email>
+    <wp:comment_author_url>http://stevensurprenant.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>99.23.214.4</wp:comment_author_IP>
+    <wp:comment_date>2017-01-31 09:57:46</wp:comment_date>
+    <wp:comment_date_gmt>2017-01-31 15:57:46</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[I just recently got back into photography.  I've owned camera's on and off for many years, but I never did much.  Digital with it's post processing software has really changed the game for me.  It's become more fun and very interesting.  Cameras have come a long way too.  Every few years a person can upgrade to a new camera that betters top of the line consumer cameras of a few years earlier for a modest price.  
+
+I recently bought Affinity Photo and I am very impressed.  I've mostly used Lightroom and Photoshop was priced out of my reach.  Since they've decided to go to the cloud on a paid subscription, It's even worse for people like myself, a hobbyists.  Affinity Photo has brought everything back into perspective.  I've limited my post processing to Lightroom which in itself is a very good program, but Affinity Photo opens ups a whole new world. 
+
+To say the least, I'm actually giddy about this software.  It's fantastic, especially given the price.  I wish the developers well and hope they continue keeping the price within a realistic realm.  As for Photoshop, I think they shot themselves in the foot on this one.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>43350123</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1485878267.3555240631103515625;s:5:"event";s:9:"check-ham";s:4:"user";s:16:"stevensurprenant";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1485901048</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1485883590.38883304595947265625;s:5:"event";s:9:"check-ham";s:4:"user";s:16:"stevensurprenant";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1485901048</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1485901049.309382915496826171875;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
   </channel>
 </rss>
