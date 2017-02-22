@@ -3,8 +3,6 @@ wp2epub/bm.epub
 wp2epub/bm.mobi
 wp2epub/bm.markdown
 *.pdf
-wp2epub/bm.epub
-wp2epub/bm.mobi
 wp2latex/bm.pdf
 jl*.markdown
 Thumbs.db
