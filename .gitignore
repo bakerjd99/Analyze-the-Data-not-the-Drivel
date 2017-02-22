@@ -1,6 +1,4 @@
 ## latex/markdown files to ignore
-wp2epub/bm.epub
-wp2epub/bm.mobi
 wp2epub/bm.markdown
 *.pdf
 wp2latex/bm.pdf
