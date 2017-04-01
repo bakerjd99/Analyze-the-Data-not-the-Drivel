@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-03-26 16:59"-->
+<!-- generator="WordPress.com" created="2017-04-01 17:44"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sun, 26 Mar 2017 16:59:54 +0000</pubDate>
+<pubDate>Sat, 01 Apr 2017 17:44:06 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1348,6 +1348,11 @@
   <wp:tag_name><![CDATA[fascism]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>34447</wp:term_id>
+  <wp:tag_slug>fcc</wp:tag_slug>
+  <wp:tag_name><![CDATA[FCC]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>6631</wp:term_id>
   <wp:tag_slug>federal-reserve</wp:tag_slug>
   <wp:tag_name><![CDATA[Federal Reserve]]></wp:tag_name>
@@ -1756,6 +1761,11 @@
   <wp:term_id>22</wp:term_id>
   <wp:tag_slug>internet</wp:tag_slug>
   <wp:tag_name><![CDATA[internet]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>1101785</wp:term_id>
+  <wp:tag_slug>internet-privacy</wp:tag_slug>
+  <wp:tag_name><![CDATA[Internet Privacy]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>3896164</wp:term_id>
@@ -2333,6 +2343,11 @@
   <wp:tag_name><![CDATA[money creation]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>568089755</wp:term_id>
+  <wp:tag_slug>monkey-browsing</wp:tag_slug>
+  <wp:tag_name><![CDATA[Monkey Browsing]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>5878520</wp:term_id>
   <wp:tag_slug>moon-madness</wp:tag_slug>
   <wp:tag_name><![CDATA[moon madness]]></wp:tag_name>
@@ -2798,6 +2813,11 @@
   <wp:tag_name><![CDATA[report]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>42727</wp:term_id>
+  <wp:tag_slug>resistance</wp:tag_slug>
+  <wp:tag_name><![CDATA[resistance]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>140469</wp:term_id>
   <wp:tag_slug>restoration</wp:tag_slug>
   <wp:tag_name><![CDATA[Restoration]]></wp:tag_name>
@@ -3051,6 +3071,11 @@
   <wp:term_id>5960758</wp:term_id>
   <wp:tag_slug>space-treaty</wp:tag_slug>
   <wp:tag_name><![CDATA[space treaty]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>2061471</wp:term_id>
+  <wp:tag_slug>spambots</wp:tag_slug>
+  <wp:tag_name><![CDATA[spambots]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>67</wp:term_id>
@@ -34206,7 +34231,7 @@ A proper Hybrid Book, or <em>hyBook</em>, will look, smell, and taste like a pri
 
 hyBooks, like their conventional printed cousins, would be durable and <em>human-readable</em> over long periods. This sharply contrasts with eBooks. <em>eBooks, with their lamentable DRM policies, geographic restrictions, user monitoring, oligopolistic pricing, and built in obsolescence are essentially self-burning books.</em> You cannot depend on eBook longevity because you don't control them; they can be conveniently <a href="https://en.wikipedia.org/wiki/Memory_hole">memory-holed</a> without warning. With hyBooks you are in control.
 
-Finally, hyBooks mitigate the most important limitation of printed works: duplication difficulty. As we move into an increasing DRM'ed and censored future with every aggrieved party screaming for limitations on free speech it will become increasingly important to preserve, duplicate, and distribute offensive, blasphemous, pornographic, and opprobrious <em>wrongthink</em>! With well-distributed and hidden hyBooks functioning as highly redundant off-line backups it will be extremely difficult for authorities to suppress ideas. Whenever some twad<a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a> forces the content of a hyBook off-line it will pop up again somewhere else. To memory-holing censors everywhere hyBooks will be like floating turds; one flush will never suffice. Is there any better recommendation than that?
+Finally, hyBooks mitigate the most important limitation of printed works: duplication difficulty. As we move into an increasing DRM'ed and censored future with every aggrieved party screaming for limitations on free speech it will become more important to preserve, duplicate, and distribute offensive, blasphemous, pornographic, and opprobrious <em>wrongthink</em>! With well-distributed and hidden hyBooks functioning as highly redundant off-line backups it will be extremely difficult for authorities to suppress ideas. Whenever some <em>twad<a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a> </em>forces the content of a hyBook off-line it will pop up again somewhere else. To memory-holing censors everywhere hyBooks will be like floating turds; one flush will never suffice. Is there any better recommendation than that?
 
 <div class="footnotes">
 
@@ -34215,7 +34240,7 @@ Finally, hyBooks mitigate the most important limitation of printed works: duplic
 <ol>
     <li id="fn1">This only applies to non-DRM'ed eBooks. <a href="https://en.wikipedia.org/wiki/Digital_rights_management">DRM</a>'ed eBooks are broken. They should be avoided at all costs and their publishers should be tarred and feathered and stuffed head first into septic tanks.<a href="#fnref1">↩</a></li>
     <li id="fn2">Currently, (March 2017), there is no cost-effective <em>durable and passive</em> technology that can store a digital image of a book within its covers for two centuries.<a href="#fnref2">↩</a></li>
-    <li id="fn3">Twit asshole and dolt: pejorative invention is one of my many specialties.<a href="#fnref3">↩</a></li>
+    <li id="fn3"><strong>Tw</strong>it <strong>a</strong>sshole and <strong>d</strong>olt: pejorative invention is one of my many specialties.<a href="#fnref3">↩</a></li>
 </ol>
 </div>]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -34252,6 +34277,252 @@ Finally, hyBooks mitigate the most important limitation of printed works: duplic
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[3265430828]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>FCC Follies and Monkey Browsing</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/</link>
+  <pubDate>Fri, 31 Mar 2017 04:03:15 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5358</guid>
+  <description/>
+  <content:encoded><![CDATA[There is much wailing on the <a href="http://www.urbandictionary.com/define.php?term=intertubes"><em>intertubes</em> </a>about proposed changes to FCC Internet privacy rules. That horrible orange Russian stooge is desecrating the Lightbringer's enlightened decrees and the <a href="https://www.washingtonpost.com/news/the-switch/wp/2017/03/28/republicans-are-poised-to-roll-back-landmark-fcc-privacy-rules-heres-what-you-need-to-know/">usual suspects</a> are having boringly predictable conniption fits. Apparently, our Internet privacy is <em>now</em> under attack and horrible things will ensue. You poor dumb fucks. You have no Internet privacy; you never did! I'm amused by Obama worshippers wetting their pants over Internet privacy; didn't that entire Snowden thing happen while The One was pushing back the seas? Isn't it a tad hypocritical to whine about the FCC, a very little fish, when great whites, the NSA, CIA, et cetera, are feasting on fools?
+
+Now pay attention, I am only going to explain this once. If you are concerned about Internet privacy you have to look out for yourself. The FCC is not going to help you. Congress will not rush to your aid. The President, orange or black, will not defend your interests. <em>Government, as it is currently constipated, only serves the donor class.</em> Unless you are injecting large bribes into "the political system" you do not have effective representation. I realize it sucks to be a peon but all is not lost. You don't have any Internet privacy but you are not powerless.
+
+<em>The proposed change in FCC rules is predicated on the assumption that your browsing history is valuable?</em> It seems there are profit driven corporations out there that care about how many cat videos you watch and whether you swipe left or right. They presume that with enough data mining of your clicks, tweets, and pokes they can craft cruise missile adds that will fly under your bullshit radar and score direct hits on your "buy our shit buttons." This entire shaky premise can be trivially undermined by simple cheap peon countermeasures.
+
+There are two basic approaches: VPN and Dirty Data.
+
+If you want to stop Verizon, CenturyLink, Charter, Comcast or some other evil mega-corp ISP from recording your browsing history start using a VPN service. There are many VPN providers available now and this FCC ruling will probably encourage the formation of even more. See, the FCC is making VPN great again!
+
+VPN prevents the man-the-middle from being able to view your browsing history but unfortunately, all this does is transfer your browsing history from a mega-corp ISP to a mega-corp VPN. If your VPN is in the good old fuck-You-S-A it could still sell your porn rights to the highest bidder. If you go with a VPN provider choose one that's based outside the US.
+
+I'm a fan of VPN but if many peons start bypassing their mega-corp ISPs with VPN our ever-helpful government will probably amend the <a href="https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act">abominable DMCA act</a> and declare the personal use of VPN an act of domestic terrorism! I know this sounds crazy but these days it's a criminal act in the United States for farmers <a href="http://modernfarmer.com/2016/07/right-to-repair/">to fix their own damn tractors</a> if the repairs bypass or replace embedded device software. Yes, intellectual property rights are that screwed up!
+
+VPN is a viable countermeasure <em>for now</em> but Dirty Data is a countermeasure for the ages. Dirty Data works by sabotaging data. The idea is simple, cheap and extremely effective. Before data miners can extract digital gold they have to purge the garbage in their databases. For most corporations cleaning data is an ongoing struggle. It's always time-consuming, expensive, and it always threatens the <a href="http://www.investopedia.com/terms/r/returnoninvestment.asp">ROI</a> of analytic projects. If there's too much shit in the ice cream the mixture tastes more like shit than ice cream. So how do you mix browsing history shit into mega-corp ISP ice cream?
+
+If you have lots of free time and you really, really, hate your ISP, you can strike back with <em>monkey browsing</em>. Monkey browsing is an updated version of that famous monkey on the typewriter. To monkey browse, visit random websites and randomly click crap on each site. With judicious keystroke timing, it will be a royal pain for your ISP to extract your real browsing history from your monkey browsing.
+
+Of course, most of us can't devote a few hours a day to monkey browsing but fear not; the <em>monkey-browser-bots</em> are coming! It wouldn't be all that hard to automate monkey browsing. Many techniques would work. Trust me, in short order, an army of monkey-browser-bots will be delicately stirring shit into mega-corp ISP ice cream. When the signal to noise ratio exceeds mega-corp ISP ROI thresholds they'll stop trying to filter shit out of ice cream and move to the next corporate delusion. <em>Peon poop is powerful people!</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5358</wp:post_id>
+  <wp:post_date>2017-03-30 23:03:15</wp:post_date>
+  <wp:post_date_gmt>2017-03-31 04:03:15</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>fcc-follies-and-monkey-browsing</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="fcc"><![CDATA[FCC]]></category>
+  <category domain="post_tag" nicename="internet-privacy"><![CDATA[Internet Privacy]]></category>
+  <category domain="post_tag" nicename="monkey-browsing"><![CDATA[Monkey Browsing]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="post_tag" nicename="resistance"><![CDATA[resistance]]></category>
+  <category domain="post_tag" nicename="spambots"><![CDATA[spambots]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_bd9225f70c0795495b9e445c283ca2e2</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3467468757]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_41c4e9c2be381a877200239d3410b266</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1694</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>203.218.9.40</wp:comment_author_IP>
+    <wp:comment_date>2017-03-31 03:29:07</wp:comment_date>
+    <wp:comment_date_gmt>2017-03-31 08:29:07</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[So John, nice idea. Write the code, patent it (you can get very cost effective help at Invent4free.com), turn it into an App and make a great steaming pile of money. I will expect at least 5 percent of the shares when you IPO.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1490948949</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1490948948</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1490948949.017436981201171875;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1695</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>203.218.9.40</wp:comment_author_IP>
+    <wp:comment_date>2017-03-31 03:31:25</wp:comment_date>
+    <wp:comment_date_gmt>2017-03-31 08:31:25</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Oh, and as for the effectiveness of data mining, read the March 27 New Yorker article "Trump's Money Man'.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1490949086</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1490949086.752028942108154296875;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1490949087</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>3473748435</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1696</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>203.218.9.40</wp:comment_author_IP>
+    <wp:comment_date>2017-03-31 03:35:57</wp:comment_date>
+    <wp:comment_date_gmt>2017-03-31 08:35:57</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[And no mention of PGP?]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>3473863241</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1490949358</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1490949358.4857089519500732421875;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1490949359</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1697</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>207.170.246.243</wp:comment_author_IP>
+    <wp:comment_date>2017-03-31 09:15:48</wp:comment_date>
+    <wp:comment_date_gmt>2017-03-31 14:15:48</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Thanks Ian,
+
+Yes PGP is an oversight. The release of PGP was one of the most inportant Internet privacy events in the last twenty years. The authorities were incensed and tried to lock the leaker up. Unfortunately, once code escapes into the wild it is beyond the reach of even powerful governments. 
+
+As for monkey browser bots they probably already exist and this latest round of idiocy is just a free marketinhg campaign for them. Big Brother like most bullies isn't very smart.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>1696</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>3483402752</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1490969751</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1490969749</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1490969750.5396120548248291015625;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1698</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>207.170.246.243</wp:comment_author_IP>
+    <wp:comment_date>2017-03-31 10:05:56</wp:comment_date>
+    <wp:comment_date_gmt>2017-03-31 15:05:56</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Ian, 
+
+You can check out:
+
+https://www.wired.com/2017/03/wanna-protect-online-privacy-open-tab-make-noise/#article-comments
+
+Monkey Browsing is already here!]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>1697</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1490972758</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1490972758.15557003021240234375;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>3484992637</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1490972757</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
   </channel>
 </rss>
