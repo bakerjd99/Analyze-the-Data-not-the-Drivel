@@ -98,7 +98,7 @@ images. It didn’t take me long to find PWP.
 This early experience shaped my entire image processing approach.
 Instead of adopting a single monolithic “industry standard” program and
 joining the *nerd herd* I decided to go my way and use many small
-programs. Instead of a Goliath, I went with many Davids.[^1] When you
+programs. Instead of a Goliath, I went with many Davids.[^5317a] When you
 take the David approach interoperability moves to the top of the stack.
 The output of one program must effortlessly become the input of another.
 How programs play together matters. Additionally, when you apply the
@@ -284,5 +284,5 @@ also supports [thirty-two-bit HDR](https://vimeo.com/192633552) file
 formats and high dynamic range composites. There’s a lot of bang for the
 buck: strongly recommended!
 
-[^1]: If you remember what happened to Goliath siding with David doesn’t
+[^5317a]: If you remember what happened to Goliath siding with David doesn’t
     seem like much of a risk.
