@@ -26,8 +26,12 @@ want to be guilty of plagiarizing my blog?
 
 If you don't want to wade through hundreds of `LaTeX` files
 you can download a complete consolidated `pdf` version of my 
-blog by [clicking here](https://app.box.com/s/8yvm27ag9agtm32nfahd)
-[or here.](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf)
+blog by [clicking here.](https://app.box.com/s/8yvm27ag9agtm32nfahd)
+
+The same large PDF file is 
+available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf)
+**Warning**: GitHub does not handle rendering of large PDF files well (April 2017).  If you use this
+link download the file and ignore the ever spinning busy circle.
 
 John Baker
 April 8, 2017
