@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-04-01 17:44"-->
+<!-- generator="WordPress.com" created="2017-04-15 18:24"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sat, 01 Apr 2017 17:44:06 +0000</pubDate>
+<pubDate>Sat, 15 Apr 2017 18:24:20 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -7758,65 +7758,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 </item>
 <item>
   <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4160/</link>
-  <pubDate>Thu, 08 Aug 2013 14:48:29 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4160</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4160</wp:post_id>
-  <wp:post_date>2013-08-08 09:48:29</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:48:29</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>4160</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>9</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[436]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
   <link>http://analyzethedatanotthedrivel.org/2013/08/08/4164/</link>
   <pubDate>Thu, 08 Aug 2013 14:48:25 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
@@ -9401,6 +9342,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/02/jod2.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>idognow</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/idognow/</link>
+  <pubDate>Tue, 11 Apr 2017 21:49:55 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/idognow.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5362</wp:post_id>
+  <wp:post_date>2017-04-11 16:49:55</wp:post_date>
+  <wp:post_date_gmt>2017-04-11 21:49:55</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>idognow</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5358</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/idognow.png</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -18378,185 +18342,6 @@ Explosive growth attracts armies of sinners and saints. Every two-bit whore chas
   </wp:comment>
 </item>
 <item>
-  <title>The Instagram Metadata Massacre</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/12/14/the-instagram-metadata-massacre/</link>
-  <pubDate>Wed, 14 Dec 2011 23:19:45 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2287</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="168" caption="Instagram Fingers"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class="     " title="Instagram Fingers" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-zS3BH5h/0/S/fingers-instagram-S.jpg" alt="Instagram Fingers" width="168" height="168" /></a>[/caption]
-
-I've been playing around with the iPhone app <a href="http://itunes.apple.com/us/app/instagram/id389801252?mt=8">Instagram</a>.  I decided to give this freebie a try after a gaggle of soulless self promoting Apple marketing zombies declared it "imaging<a href="http://articles.businessinsider.com/2011-12-08/tech/30489467_1_android-apps-ipad"> app of the year</a>."  Instagram, like <a href="http://hipstamatic.com/the_app.html">Hipstamatic</a>,  (which incidentally stopped working after the last update), crops iPhone images to squares, applies hokey filters and then offers you the opportunity to "share"  or print your masterpieces on related websites.  Apparently Instagram is already one of the words largest online photo libraries. Considering Instagram images are filtered iPhone shots it's almost certainly <em>the world's second largest online collection of crappy throw-away shots.  Facebook is the largest if you're wondering!</em>
-
-You probably sense that I am not drinking the Instagram cool-aid. Instagram is a fine fun freebie but it strips EXIF data from the images it drops in the iPhone camera roll. This is the second<a href="http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/"> iPhone EXIF exterminator</a> I have encountered.  I have this thing about EXIF data; it annoys me when software massacres it.
-
-Here's a little poem:
-<p style="text-align:center;"><em>Exterminate EXIF - <strong>NOT</strong></em></p>
-<p style="text-align:center;"><em>Let it be</em></p>
-<p style="text-align:center;"><em>Set your fricking EXIF free</em></p>
-<p style="text-align:center;"><strong><em>Alas, with Instagram, it's not to be!</em></strong></p>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2287</wp:post_id>
-  <wp:post_date>2011-12-14 17:19:45</wp:post_date>
-  <wp:post_date_gmt>2011-12-14 23:19:45</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>the-instagram-metadata-massacre</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="apple-marketing"><![CDATA[apple marketing]]></category>
-  <category domain="post_tag" nicename="exif"><![CDATA[Exif]]></category>
-  <category domain="post_tag" nicename="exif-data"><![CDATA[exif data]]></category>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
-  <category domain="post_tag" nicename="instagram"><![CDATA[Instagram]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="post_tag" nicename="photo-libraries"><![CDATA[photo libraries]]></category>
-  <category domain="post_tag" nicename="photography"><![CDATA[Photography]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>geo_public</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_7349825</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>206</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
-    <wp:comment_date>2011-12-16 10:38:49</wp:comment_date>
-    <wp:comment_date_gmt>2011-12-16 16:38:49</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Lordy be! The lastest (Dec 15, 2011) update of Hipstamatic restores this app. It now functions on my iPhone. Give yourselves one big Attaboy!]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1324053531</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1324053532.0601";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-12-16 16:38:49</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>498</wp:comment_id>
-    <wp:comment_author><![CDATA[Paco Hope (@pacohope)]]></wp:comment_author>
-    <wp:comment_author_email>pacohope@twitter.example.com</wp:comment_author_email>
-    <wp:comment_author_url>http://twitter.com/pacohope</wp:comment_author_url>
-    <wp:comment_author_IP>88.211.1.242</wp:comment_author_IP>
-    <wp:comment_date>2013-02-22 10:13:11</wp:comment_date>
-    <wp:comment_date_gmt>2013-02-22 16:13:11</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Although I'm OCD about my metadata, I am also OCD about privacy. Sharing services like Instagram and Facebook and Tumblr and such should have EXIF data stripped off by default. You should need to consciously turn on sharing of that data.
-
-Think of the GPS metadata that's in the EXIF. If you knew exactly where someone was at a certain time, that could have implications. I suppose it might serve someone right if they post a picture on Instagram of themselves doing drugs or committing some other crime. The police could go round them up and charge them with reckless stupidity.
-
-But then famous people who might be the target of stalkers need to be sure that when they post pictures from their phones (arguably a wonderful thing that the modern web allows them to do—if it is done right), they don't get their exact GPS coordinates revealed to the world. People deserve privacy and sharing EXIF widely threatens that.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1361549592.05313396453857421875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_post_as</wp:meta_key>
-      <wp:meta_value>twitter</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_avatar</wp:meta_key>
-      <wp:meta_value>http://a0.twimg.com/profile_images/2814636806/917969922fbedbbebb6d3f44a56aa8ad_normal.jpeg</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>hc_foreign_user_id</wp:meta_key>
-      <wp:meta_value>16702643</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1361561817</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-02-22 16:13:11</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>499</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
-    <wp:comment_date>2013-02-22 13:41:22</wp:comment_date>
-    <wp:comment_date_gmt>2013-02-22 19:41:22</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[I agree the no EXIF by default is reasonable provided you can turn it on when you want EXIF data. The last time I looked you could not do this with Instagram.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>498</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1361562082</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1361562082.95256900787353515625;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2013-02-22 19:41:22</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>Download this Blog</title>
   <link>http://analyzethedatanotthedrivel.org/download-this-blog/</link>
   <pubDate>Thu, 23 Feb 2012 05:12:59 +0000</pubDate>
@@ -18570,7 +18355,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/02/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/02/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -18586,7 +18371,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX$ and <code>markdown</code> source.</li>
 </ol>
 
-<strong>Note:</strong> You can find these and related files in the files side bar in the <strong>WordPress to LaTeX</strong> directory.]]></content:encoded>
+<strong>Note:</strong> You can find these and related files in the files sidebar in the <strong>WordPress to LaTeX</strong> directory.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>2507</wp:post_id>
   <wp:post_date>2012-02-22 23:12:59</wp:post_date>
@@ -18895,6 +18680,65 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
     <wp:meta_value><![CDATA[4283]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4160/</link>
+  <pubDate>Thu, 08 Aug 2013 14:48:29 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4160</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4160</wp:post_id>
+  <wp:post_date>2013-08-08 09:48:29</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:48:29</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4160</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4526</wp:post_parent>
+  <wp:menu_order>9</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[436]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
@@ -20308,6 +20152,185 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>The Instagram Metadata Massacre</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/12/14/the-instagram-metadata-massacre/</link>
+  <pubDate>Wed, 14 Dec 2011 23:19:45 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2287</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="168" caption="Instagram Fingers"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class="     " title="Instagram Fingers" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-zS3BH5h/0/S/fingers-instagram-S.jpg" alt="Instagram Fingers" width="168" height="168" /></a>[/caption]
+
+I've been playing around with the iPhone app <a href="http://itunes.apple.com/us/app/instagram/id389801252?mt=8">Instagram</a>.  I decided to give this freebie a try after a gaggle of soulless self promoting Apple marketing zombies declared it "imaging<a href="http://articles.businessinsider.com/2011-12-08/tech/30489467_1_android-apps-ipad"> app of the year</a>."  Instagram, like <a href="http://hipstamatic.com/the_app.html">Hipstamatic</a>,  (which incidentally stopped working after the last update), crops iPhone images to squares, applies hokey filters and then offers you the opportunity to "share"  or print your masterpieces on related websites.  Apparently Instagram is already one of the words largest online photo libraries. Considering Instagram images are filtered iPhone shots it's almost certainly <em>the world's second largest online collection of crappy throw-away shots.  Facebook is the largest if you're wondering!</em>
+
+You probably sense that I am not drinking the Instagram cool-aid. Instagram is a fine fun freebie but it strips EXIF data from the images it drops in the iPhone camera roll. This is the second<a href="http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/"> iPhone EXIF exterminator</a> I have encountered.  I have this thing about EXIF data; it annoys me when software massacres it.
+
+Here's a little poem:
+<p style="text-align:center;"><em>Exterminate EXIF - <strong>NOT</strong></em></p>
+<p style="text-align:center;"><em>Let it be</em></p>
+<p style="text-align:center;"><em>Set your fricking EXIF free</em></p>
+<p style="text-align:center;"><strong><em>Alas, with Instagram, it's not to be!</em></strong></p>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2287</wp:post_id>
+  <wp:post_date>2011-12-14 17:19:45</wp:post_date>
+  <wp:post_date_gmt>2011-12-14 23:19:45</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-instagram-metadata-massacre</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="apple-marketing"><![CDATA[apple marketing]]></category>
+  <category domain="post_tag" nicename="exif"><![CDATA[Exif]]></category>
+  <category domain="post_tag" nicename="exif-data"><![CDATA[exif data]]></category>
+  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="post_tag" nicename="instagram"><![CDATA[Instagram]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="post_tag" nicename="photo-libraries"><![CDATA[photo libraries]]></category>
+  <category domain="post_tag" nicename="photography"><![CDATA[Photography]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_7349825</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_2529595</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>206</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
+    <wp:comment_date>2011-12-16 10:38:49</wp:comment_date>
+    <wp:comment_date_gmt>2011-12-16 16:38:49</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Lordy be! The lastest (Dec 15, 2011) update of Hipstamatic restores this app. It now functions on my iPhone. Give yourselves one big Attaboy!]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1324053531</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1324053532.0601";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-12-16 16:38:49</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>498</wp:comment_id>
+    <wp:comment_author><![CDATA[Paco Hope (@pacohope)]]></wp:comment_author>
+    <wp:comment_author_email>pacohope@twitter.example.com</wp:comment_author_email>
+    <wp:comment_author_url>http://twitter.com/pacohope</wp:comment_author_url>
+    <wp:comment_author_IP>88.211.1.242</wp:comment_author_IP>
+    <wp:comment_date>2013-02-22 10:13:11</wp:comment_date>
+    <wp:comment_date_gmt>2013-02-22 16:13:11</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Although I'm OCD about my metadata, I am also OCD about privacy. Sharing services like Instagram and Facebook and Tumblr and such should have EXIF data stripped off by default. You should need to consciously turn on sharing of that data.
+
+Think of the GPS metadata that's in the EXIF. If you knew exactly where someone was at a certain time, that could have implications. I suppose it might serve someone right if they post a picture on Instagram of themselves doing drugs or committing some other crime. The police could go round them up and charge them with reckless stupidity.
+
+But then famous people who might be the target of stalkers need to be sure that when they post pictures from their phones (arguably a wonderful thing that the modern web allows them to do—if it is done right), they don't get their exact GPS coordinates revealed to the world. People deserve privacy and sharing EXIF widely threatens that.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1361549592.05313396453857421875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_post_as</wp:meta_key>
+      <wp:meta_value>twitter</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_avatar</wp:meta_key>
+      <wp:meta_value>http://a0.twimg.com/profile_images/2814636806/917969922fbedbbebb6d3f44a56aa8ad_normal.jpeg</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_foreign_user_id</wp:meta_key>
+      <wp:meta_value>16702643</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1361561817</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2013-02-22 16:13:11</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>499</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
+    <wp:comment_date>2013-02-22 13:41:22</wp:comment_date>
+    <wp:comment_date_gmt>2013-02-22 19:41:22</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[I agree the no EXIF by default is reasonable provided you can turn it on when you want EXIF data. The last time I looked you could not do this with Instagram.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>498</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1361562082</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1361562082.95256900787353515625;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2013-02-22 19:41:22</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Blogging off for Christmas</title>
@@ -34303,7 +34326,9 @@ VPN is a viable countermeasure <em>for now</em> but Dirty Data is a countermeasu
 
 If you have lots of free time and you really, really, hate your ISP, you can strike back with <em>monkey browsing</em>. Monkey browsing is an updated version of that famous monkey on the typewriter. To monkey browse, visit random websites and randomly click crap on each site. With judicious keystroke timing, it will be a royal pain for your ISP to extract your real browsing history from your monkey browsing.
 
-Of course, most of us can't devote a few hours a day to monkey browsing but fear not; the <em>monkey-browser-bots</em> are coming! It wouldn't be all that hard to automate monkey browsing. Many techniques would work. Trust me, in short order, an army of monkey-browser-bots will be delicately stirring shit into mega-corp ISP ice cream. When the signal to noise ratio exceeds mega-corp ISP ROI thresholds they'll stop trying to filter shit out of ice cream and move to the next corporate delusion. <em>Peon poop is powerful people!</em>]]></content:encoded>
+Of course, most of us can't devote a few hours a day to monkey browsing but fear not; the <em>monkey-browser-bots</em> are coming! It wouldn't be all that hard to automate monkey browsing. Many techniques would work. Trust me, in short order, an army of monkey-browser-bots will be delicately stirring shit into mega-corp ISP ice cream. When the signal to noise ratio exceeds mega-corp ISP ROI thresholds they'll stop trying to filter shit out of ice cream and move to the next corporate delusion. <em>Peon poop is powerful people!</em>
+
+[caption id="attachment_5362" align="aligncenter" width="584"]<a href="http://www.geekculture.com/joyoftech/joyarchives/1862.html"><img class="wp-image-5362 size-large" src="https://bakerjd99.files.wordpress.com/2017/04/idognow.png?w=584" alt="" width="584" height="364" /></a> Only cartoons and comedians are allowed, to tell the truth in our grievance seeking culture. It’s not your grandmother’s Internet anymore. Surveillance is a fact of life, and as sad as this sorry fact is cheer up! Half the idiots monitoring you are barely capable of locating their own buttholes with both hands and a flashlight. American intelligence agencies have been so wrong, so often, that it’s a good idea to always discount whatever they’re saying until there is overwhelming independent corroborating evidence. In the meanwhile, you can cheaply punk the “data” they are collecting. Remember, you can whine or undermine![/caption]]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>5358</wp:post_id>
   <wp:post_date>2017-03-30 23:03:15</wp:post_date>
