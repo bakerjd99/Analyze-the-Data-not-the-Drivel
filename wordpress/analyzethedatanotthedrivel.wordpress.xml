@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-04-15 18:24"-->
+<!-- generator="WordPress.com" created="2017-05-05 03:36"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sat, 15 Apr 2017 18:24:20 +0000</pubDate>
+<pubDate>Fri, 05 May 2017 03:36:14 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -858,6 +858,11 @@
   <wp:tag_name><![CDATA[cinema]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>607605</wp:term_id>
+  <wp:tag_slug>citizen-science</wp:tag_slug>
+  <wp:tag_name><![CDATA[citizen-science]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>10941</wp:term_id>
   <wp:tag_slug>civil-rights</wp:tag_slug>
   <wp:tag_name><![CDATA[Civil-Rights]]></wp:tag_name>
@@ -1153,6 +1158,11 @@
   <wp:tag_name><![CDATA[driver's licences]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>137903</wp:term_id>
+  <wp:tag_slug>drones</wp:tag_slug>
+  <wp:tag_name><![CDATA[drones]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>5663255</wp:term_id>
   <wp:tag_slug>dumb-government</wp:tag_slug>
   <wp:tag_name><![CDATA[dumb government]]></wp:tag_name>
@@ -1221,6 +1231,16 @@
   <wp:term_id>384</wp:term_id>
   <wp:tag_slug>entertainment</wp:tag_slug>
   <wp:tag_name><![CDATA[entertainment]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>184</wp:term_id>
+  <wp:tag_slug>environment</wp:tag_slug>
+  <wp:tag_name><![CDATA[environment]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>113127</wp:term_id>
+  <wp:tag_slug>epa</wp:tag_slug>
+  <wp:tag_name><![CDATA[EPA]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>396254</wp:term_id>
@@ -1378,6 +1398,11 @@
   <wp:tag_name><![CDATA[fiction]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>247037207</wp:term_id>
+  <wp:tag_slug>fight-club-rule</wp:tag_slug>
+  <wp:tag_name><![CDATA[Fight Club Rule]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>524</wp:term_id>
   <wp:tag_slug>film</wp:tag_slug>
   <wp:tag_name><![CDATA[film]]></wp:tag_name>
@@ -1531,6 +1556,11 @@
   <wp:term_id>202972451</wp:term_id>
   <wp:tag_slug>global-transaction-history</wp:tag_slug>
   <wp:tag_name><![CDATA[global transaction history]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>349714</wp:term_id>
+  <wp:tag_slug>goodreads</wp:tag_slug>
+  <wp:tag_name><![CDATA[Goodreads]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>16429</wp:term_id>
@@ -2873,6 +2903,11 @@
   <wp:tag_name><![CDATA[sales]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>59322</wp:term_id>
+  <wp:tag_slug>sampling</wp:tag_slug>
+  <wp:tag_name><![CDATA[sampling]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>67737</wp:term_id>
   <wp:tag_slug>santa-fe</wp:tag_slug>
   <wp:tag_name><![CDATA[Santa Fe]]></wp:tag_name>
@@ -2881,6 +2916,11 @@
   <wp:term_id>31099</wp:term_id>
   <wp:tag_slug>sap</wp:tag_slug>
   <wp:tag_name><![CDATA[SAP]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>1904606</wp:term_id>
+  <wp:tag_slug>scalzi</wp:tag_slug>
+  <wp:tag_name><![CDATA[Scalzi]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>26037</wp:term_id>
@@ -2971,6 +3011,11 @@
   <wp:term_id>38616</wp:term_id>
   <wp:tag_slug>smartphones</wp:tag_slug>
   <wp:tag_name><![CDATA[smartphones]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>303838</wp:term_id>
+  <wp:tag_slug>smuggling</wp:tag_slug>
+  <wp:tag_name><![CDATA[smuggling]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>217420</wp:term_id>
@@ -7525,356 +7570,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2012/09/20/3251/</link>
-  <pubDate>Thu, 20 Sep 2012 20:51:07 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3251</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3251</wp:post_id>
-  <wp:post_date>2012-09-20 15:51:07</wp:post_date>
-  <wp:post_date_gmt>2012-09-20 20:51:07</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>3251</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>14</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2012/11/18/3394/</link>
-  <pubDate>Mon, 19 Nov 2012 04:58:51 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3394</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3394</wp:post_id>
-  <wp:post_date>2012-11-18 22:58:51</wp:post_date>
-  <wp:post_date_gmt>2012-11-19 04:58:51</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>3394</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>47</wp:post_parent>
-  <wp:menu_order>20</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[3072]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2137]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2012/12/04/3528/</link>
-  <pubDate>Wed, 05 Dec 2012 05:11:22 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3528</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3528</wp:post_id>
-  <wp:post_date>2012-12-04 23:11:22</wp:post_date>
-  <wp:post_date_gmt>2012-12-05 05:11:22</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>3528</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>16</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[457]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4154/</link>
-  <pubDate>Thu, 08 Aug 2013 14:42:33 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4154</guid>
-  <description/>
-  <content:encoded><![CDATA[Post categories]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4154</wp:post_id>
-  <wp:post_date>2013-08-08 09:42:33</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:42:33</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>4154</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>4</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[4526]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4164/</link>
-  <pubDate>Thu, 08 Aug 2013 14:48:25 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4164</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4164</wp:post_id>
-  <wp:post_date>2013-08-08 09:48:25</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:48:25</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>4164</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>5</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[90]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4165/</link>
-  <pubDate>Thu, 08 Aug 2013 14:48:27 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4165</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>4165</wp:post_id>
-  <wp:post_date>2013-08-08 09:48:27</wp:post_date>
-  <wp:post_date_gmt>2013-08-08 14:48:27</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>4165</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>90</wp:post_parent>
-  <wp:menu_order>6</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[3128]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_pending</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>http://analyzethedatanotthedrivel.org/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -9365,6 +9060,144 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/idognow.png</wp:attachment_url>
+</item>
+<item>
+  <title>flame-drone</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/flame-drone/</link>
+  <pubDate>Fri, 21 Apr 2017 21:31:18 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/flame-drone.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5366</wp:post_id>
+  <wp:post_date>2017-04-21 16:31:18</wp:post_date>
+  <wp:post_date_gmt>2017-04-21 21:31:18</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>flame-drone</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5375</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/flame-drone.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>orange-river</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/orange-river/</link>
+  <pubDate>Fri, 21 Apr 2017 21:31:19 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/orange-river.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5367</wp:post_id>
+  <wp:post_date>2017-04-21 16:31:19</wp:post_date>
+  <wp:post_date_gmt>2017-04-21 21:31:19</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>orange-river</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5375</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/orange-river.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>cescalzi</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/cescalzi/</link>
+  <pubDate>Wed, 26 Apr 2017 17:11:23 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/cescalzi.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5370</wp:post_id>
+  <wp:post_date>2017-04-26 12:11:23</wp:post_date>
+  <wp:post_date_gmt>2017-04-26 17:11:23</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>cescalzi</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5368</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/cescalzi.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>meridian terra cotta statue-Th</title>
+  <link>http://analyzethedatanotthedrivel.org/meridian-terra-cotta-statue-th/</link>
+  <pubDate>Mon, 01 May 2017 00:49:34 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/meridian-terra-cotta-statue-th.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[You dont expect Terra Cotta statues in Meridian. This is a test of the iPhone fake bokeh effect. Basically software isolated the primary subject and applies a blur to the background.]]></excerpt:encoded>
+  <wp:post_id>5383</wp:post_id>
+  <wp:post_date>2017-04-30 19:49:34</wp:post_date>
+  <wp:post_date_gmt>2017-05-01 00:49:34</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>meridian-terra-cotta-statue-th</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/meridian-terra-cotta-statue-th.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>tree brunea dune-Th</title>
+  <link>http://analyzethedatanotthedrivel.org/tree-brunea-dune-th/</link>
+  <pubDate>Mon, 01 May 2017 00:57:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/tree-brunea-dune-th.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5384</wp:post_id>
+  <wp:post_date>2017-04-30 19:57:00</wp:post_date>
+  <wp:post_date_gmt>2017-05-01 00:57:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>tree-brunea-dune-th</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/tree-brunea-dune-th.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>brunea dunes observatory sundial-Th</title>
+  <link>http://analyzethedatanotthedrivel.org/brunea-dunes-observatory-sundial-th/</link>
+  <pubDate>Mon, 01 May 2017 01:00:45 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/04/brunea-dunes-observatory-sundial-th.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[I drove out to Bruneau Dunes State Park on Saturday to catch the last day of the Boise Astronomical Societys Messier Marathon.  Unfortunately, it was very windy all day and the sky clouded over in the late afternoon. I was planning on camping but I didnt have any tent pegs so I packed it up and drove back home. I will be back to volunteer at the observatory seen here. The Boise Astronomical Society has cut a deal with the observatory and the state park. In exchange for two hundred volunteer hours, the state does not charge the society for taking over the campgrounds for the Idaho Star Party that is coming up in September. Apparently, there is a 25-inch telescope in this building that the public is allowed, even encouraged to look through it.  25 inches is enough to see Pluto, the only planet I have yet to see. I tracked all the others down with 7x50 binoculars.]]></excerpt:encoded>
+  <wp:post_id>5385</wp:post_id>
+  <wp:post_date>2017-04-30 20:00:45</wp:post_date>
+  <wp:post_date_gmt>2017-05-01 01:00:45</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>brunea-dunes-observatory-sundial-th</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/brunea-dunes-observatory-sundial-th.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -17871,477 +17704,6 @@ A =: createHistogramArg '' NB. perhaps this takes a lot of time
   </wp:comment>
 </item>
 <item>
-  <title>Typesetting UTF8 APL code with the LaTeX lstlisting package</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/</link>
-  <pubDate>Tue, 16 Aug 2011 02:27:57 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1837</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="attachment_1908" align="alignright" width="298" caption="UTF8 APL characters within a LaTeX lstlisting environment. Click for *.tex source code"]<a href="http://www.box.net/shared/62x2208x56lrjy5vkesz"><img class="size-full wp-image-1908 " title="aplbadboys" src="http://bakerjd99.files.wordpress.com/2011/08/aplbadboys.png" alt="" width="298" height="124" /></a>[/caption]
-
-Typesetting <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> source code has always been a pain in the ass! In the dark ages, (<a href="http://www.google.com/search?tbm=isch&amp;hl=en&amp;source=hp&amp;biw=994&amp;bih=584&amp;q=the+seventies&amp;gbv=2&amp;oq=the+seventi">the 1970's</a>), you had to fiddle with APL type-balls and live without luxuries like <em>lower case letters</em>. With the advent of general outline fonts it became <em>technically possible</em> to render APL <a href="http://www.merriam-webster.com/dictionary/glyph">glyphs </a>on standard display devices provided you:
-<ol>
-	<li>Designed your own APL font.</li>
-	<li>Mapped the <em><a href="http://aplwiki.com/AtomicVector">atomic vector</a></em> of your APL to whatever encoding your font demanded.</li>
-	<li>Wrote <span style="font-family:Courier;">WSFULL</span>'s of junk transliteration functions to dump your APL objects as font encoded text.</li>
-</ol>
-It's a testament to either the talent, or pig headedness of APL programmers, that many actually did this. We all hated it! We still hate it! But, like an abused spouse, we kept going back for more.  <em>It's our fault; if we loved APL more it would stop hitting us!</em>
-
-When Unicode appeared APL'ers cheered --- our long ASCII nightmare was ending. The more politically astute worked to include the <a href="http://aplwiki.com/UnicodeForAplers">APL characters in the Unicode standard.</a> Hey if <a href="http://www.evertype.com/standards/csur/klingon.html">Klingon </a>is there why not APL? Everyone thought it was just a matter of time until APL vendors abandoned their nonstandard atomic vectors and fully embraced Unicode. With a few notable exceptions we are still waiting. <em>While we wait the problem of typesetting APL source code festers.</em>
-
-My preferred source code listing tool is the $latex \LaTeX$ <a href="http://en.wikibooks.org/wiki/LaTeX/Packages/Listings">lstlisting package</a>. <span style="font-family:Courier;">lstlisting</span> works well for standard ANSI source code.  I use it for <span style="font-family:Courier;">J, C#, SQL, C, XML, Ocaml, Mathematica, F#,</span> shell scripts and $latex \LaTeX$ source code, i.e. everything except APL! <span style="font-family:Courier;">lstlisting</span> is an eight bit package; it will not handle arbitrary Unicode out of the box.  I didn't know how to get around this so I handled APL by enclosing UTF8 APL text in plain <span style="font-family:Courier;">\begin{verbatim} ... \end{verbatim}</span> environments. This works for <span style="font-family:Courier;">XeLaTeX</span> and <span style="font-family:Courier;">LuaLaTeX</span> but you lose all the <span style="font-family:Courier;">lstlisting</span> goodies. Then I saw an interesting <a href="http://tex.stackexchange.com/">tex.stackexchange.com</a> posting about <a href="http://tex.stackexchange.com/questions/25391/the-listings-package-and-utf-8">The 'listings' package and UTF-8</a>. One solution to the post's "French ligature problem" showed how to force Unicode down <span style="font-family:Courier;">lstlisting</span>'s throat. I wondered if the same method would work for APL. It turns out that it does!
-
-If you insert the following snippet of <span style="font-family:Courier;">TeX</span> code in your document preamble <span style="font-family:Courier;">LuaLaTeX</span> and <span style="font-family:Courier;">XeLaTeX</span> will properly process UTF8 APL text in <span style="font-family:Courier;">lstlisting</span> environments. You will need to download and install the <a href="http://v4.vector.org.uk/resource/">APL385 Unicode</a> font if it's not on your system.  <strong>A test $latex \LaTeX$ document illustrating this hack is available <a href="https://www.box.net/shared/62x2208x56lrjy5vkesz">here</a>. The compiled PDF is available <a href="https://www.box.net/shared/bnl3n4sqt2h3bhn8bb79">here</a>.</strong> As always these files can be accessed in the files sidebar.
-
-[sourcecode wraplines="false" gutter="true" autolinks="false"]
-% set lstlisting to accept UTF8 APL text
-\makeatletter
-\lst@InputCatcodes
-\def\lst@DefEC{%
- \lst@CCECUse \lst@ProcessLetter
-  ^^80^^81^^82^^83^^84^^85^^86^^87^^88^^89^^8a^^8b^^8c^^8d^^8e^^8f%
-  ^^90^^91^^92^^93^^94^^95^^96^^97^^98^^99^^9a^^9b^^9c^^9d^^9e^^9f%
-  ^^a0^^a1^^a2^^a3^^a4^^a5^^a6^^a7^^a8^^a9^^aa^^ab^^ac^^ad^^ae^^af%
-  ^^b0^^b1^^b2^^b3^^b4^^b5^^b6^^b7^^b8^^b9^^ba^^bb^^bc^^bd^^be^^bf%
-  ^^c0^^c1^^c2^^c3^^c4^^c5^^c6^^c7^^c8^^c9^^ca^^cb^^cc^^cd^^ce^^cf%
-  ^^d0^^d1^^d2^^d3^^d4^^d5^^d6^^d7^^d8^^d9^^da^^db^^dc^^dd^^de^^df%
-  ^^e0^^e1^^e2^^e3^^e4^^e5^^e6^^e7^^e8^^e9^^ea^^eb^^ec^^ed^^ee^^ef%
-  ^^f0^^f1^^f2^^f3^^f4^^f5^^f6^^f7^^f8^^f9^^fa^^fb^^fc^^fd^^fe^^ff%
-  ^^^^20ac^^^^0153^^^^0152%
-  ^^^^20a7^^^^2190^^^^2191^^^^2192^^^^2193^^^^2206^^^^2207^^^^220a%
-  ^^^^2218^^^^2228^^^^2229^^^^222a^^^^2235^^^^223c^^^^2260^^^^2261%
-  ^^^^2262^^^^2264^^^^2265^^^^2282^^^^2283^^^^2296^^^^22a2^^^^22a3%
-  ^^^^22a4^^^^22a5^^^^22c4^^^^2308^^^^230a^^^^2336^^^^2337^^^^2339%
-  ^^^^233b^^^^233d^^^^233f^^^^2340^^^^2342^^^^2347^^^^2348^^^^2349%
-  ^^^^234b^^^^234e^^^^2350^^^^2352^^^^2355^^^^2357^^^^2359^^^^235d%
-  ^^^^235e^^^^235f^^^^2361^^^^2362^^^^2363^^^^2364^^^^2365^^^^2368%
-  ^^^^236a^^^^236b^^^^236c^^^^2371^^^^2372^^^^2373^^^^2374^^^^2375%
-  ^^^^2377^^^^2378^^^^237a^^^^2395^^^^25af^^^^25ca^^^^25cb%
-  ^^00}
-\lst@RestoreCatcodes
-\makeatother
-[/sourcecode]]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1837</wp:post_id>
-  <wp:post_date>2011-08-15 21:27:57</wp:post_date>
-  <wp:post_date_gmt>2011-08-16 02:27:57</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>typesetting-utf8-apl-code-with-the-latex-lstlisting-package</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="apl"><![CDATA[APL]]></category>
-  <category domain="post_tag" nicename="apl-syntax-coloring"><![CDATA[apl syntax coloring]]></category>
-  <category domain="post_tag" nicename="aplwin"><![CDATA[APL+WIN]]></category>
-  <category domain="post_tag" nicename="apl385"><![CDATA[APL385]]></category>
-  <category domain="post_tag" nicename="latex"><![CDATA[LaTeX]]></category>
-  <category domain="post_tag" nicename="latex2e"><![CDATA[LaTeX2e]]></category>
-  <category domain="post_tag" nicename="lstlisting"><![CDATA[lstlisting]]></category>
-  <category domain="post_tag" nicename="lualatex"><![CDATA[LuaLaTeX]]></category>
-  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
-  <category domain="post_tag" nicename="unicode"><![CDATA[unicode]]></category>
-  <category domain="post_tag" nicename="utf-8"><![CDATA[UTF-8]]></category>
-  <category domain="post_tag" nicename="xelatex"><![CDATA[XeLaTeX]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>New Conan not as Philosophical as Old Conan</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/09/18/new-conan-not-as-philosophical-as-old-conan/</link>
-  <pubDate>Mon, 19 Sep 2011 01:48:35 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1919</guid>
-  <description/>
-  <content:encoded><![CDATA[Bad news philosophers, our preeminent social critic, our font of wisdom, our modern Socrates has succumbed to the malignant Hollywood poisons of <a href="http://www.youjustmademylist.com/?p=562">reality TV</a>, <a href="http://www.spike.com/articles/0xugni/the-top-10-whore-rific-female-celebrities">celebrity whoring</a>, <a href="http://www.bizjournals.com/seattle/blog/2011/09/scant-improvement-in-nations.html">financial ennui</a> and <a href="http://www.whitehouse.gov/">hopeless incompetent governance</a>. Given the forces arrayed against our philosopher king only Vegas bookies on crack would favor his chances. I knew all this when I sat down to view the latest <a href="http://www.imdb.com/video/screenplay/vi3994852377/">Conan the Barbarian</a> movie but I let hope trump reason --- sound familiar. If I wasn't a <a href="http://staff.rio.edu/miket/attitude.htm">mainly-manly-man</a> I would cry for no longer will we ponder religious dissertations like:
-<p style="text-align:left;"><em>"Crom! I have never prayed to you before. I have no tongue for it. No one, not even you, will remember if we were good men or bad. Why we fought, or why we died. All that matters is that today, two stood against many. That's what's important! Valor pleases you, Crom; so grant me this one request. Grant me revenge! <strong>And if you do not listen, then to hell with you!</strong>"</em></p>
-Or learn about what's good in life:
-
-[youtube=http://www.youtube.com/watch?v=6PQ6335puOc]
-
-My friends that golden Apollonic age is past! Now we must content ourselves with <a href="http://bakerjd99.wordpress.com/2010/08/16/binge-pretend-boink/">eat, pray, love</a> travesties like:
-<p style="text-align:left;"><em>"I live, I love, I slay, I am content."</em></p>
-<strong>When did Conan the Barbarian decide to come out?</strong>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1919</wp:post_id>
-  <wp:post_date>2011-09-18 20:48:35</wp:post_date>
-  <wp:post_date_gmt>2011-09-19 01:48:35</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>new-conan-not-as-philosophical-as-old-conan</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="conan"><![CDATA[Conan]]></category>
-  <category domain="post_tag" nicename="conan-movie"><![CDATA[Conan movie]]></category>
-  <category domain="post_tag" nicename="conan-the-barbarian"><![CDATA[Conan the Barbarian]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
-  <category domain="category" nicename="nostalgia"><![CDATA[Nostalgia]]></category>
-  <category domain="post_tag" nicename="philosopher-king"><![CDATA[Philosopher King]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Iranian Regime Justice is pathetic Sharia Savagery.</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/</link>
-  <pubDate>Fri, 30 Sep 2011 16:17:02 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1952</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="attachment_1971" align="alignleft" width="198"]<a href="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg"><img class="size-full wp-image-1971 " title="Yousef Nadarkhani" src="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg" alt="Yousef Nadarkhani" width="198" height="161" /></a> Yousef Nadarkhani[/caption]
-
-I rarely comment on the "news" but the planned execution of <a href="http://michellemalkin.com/2011/09/29/iranian-pastor-yousef-nadarkhani-faces-execution-for-refusing-to-renounce-christianity-where-are-the-hollyweirdos-and-euroweenies-now/">Yousef Nadarkhani</a> for the<a href="http://bakerjd99.wordpress.com/2009/10/26/counting-gods/"> make-believe</a> crime of Islamic apostasy has really pissed me off. Once again the Iranian branch of the "religion of peace" shows its primitive, ass-backwards, subhuman side to a stunned world that finds it hard to believe that <em>changing your mind about fictitious religious nonsense is punishable by death! </em>It's rubbish like this that turned me into a hardcore atheist. If this is Sharia then Sharia is shit!
-
-Let's be perfectly clear. I am not condemning Iranians. I am married to an Iranian!  I have many lovely Iranian in-laws, and not a single one of them approves of this atavistic <a href="http://www.urbandictionary.com/define.php?term=Assinity">assinity</a>. Like civilized people everywhere their feelings alternate between disgust, shame and rage. While I forgive the Iranian people I condemn the Iranian regime. The government courts that imposed this sentence are pathetic throwbacks. They don't belong in the modern world and one day they won't.
-
-Savages always assume they can bully and terrorize people forever. At first people are easily cowed but even the most egregious assaults fail to deter in the long run. The next time the Iranian masses take to the streets the regime will fall and with the exception of a few <em>islaminals </em>nobody is going to miss it!
-
-<em>P.S.  Before you go all brave fatwa waving kafir killing jihad warrior on me keep in mind that Missouri is a concealed carry state.</em>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1952</wp:post_id>
-  <wp:post_date>2011-09-30 11:17:02</wp:post_date>
-  <wp:post_date_gmt>2011-09-30 16:17:02</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>iranian-regime-justice-is-pathetic-sharia-savagery</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="apostasy"><![CDATA[apostasy]]></category>
-  <category domain="post_tag" nicename="death-sentence"><![CDATA[death sentence]]></category>
-  <category domain="post_tag" nicename="iran"><![CDATA[Iran]]></category>
-  <category domain="post_tag" nicename="islam"><![CDATA[Islam]]></category>
-  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="religion"><![CDATA[Religion]]></category>
-  <category domain="post_tag" nicename="religion-of-peace"><![CDATA[religion of peace]]></category>
-  <category domain="post_tag" nicename="sharia"><![CDATA[Sharia]]></category>
-  <category domain="post_tag" nicename="yousef-nadarkhani"><![CDATA[Yousef Nadarkhani]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_external</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005820342835661";}}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>geo_public</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_job_id</wp:meta_key>
-    <wp:meta_value><![CDATA[21916358660]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>I lose another battle with Gravity</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/09/i-lose-another-battle-with-gravity/</link>
-  <pubDate>Wed, 09 Nov 2011 17:08:05 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2045</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="280" caption="24 Hour Fitness"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class=" " title="24 Hour Fitness" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-6z3xBXn/0/S/chesterfield-gym-S.jpg" alt="24 Hour Fitness" width="280" height="209" /></a>[/caption]
-
-Yesterday I found myself back in Saint Luke's emergency department being asked what day it was. An hour before I had stepped into the shower at 24 Hour Fitness over on Clayton,  I had just finished my noon hour workout.  I try to force myself to the gym at least four times a week.  It's one of my many delusional projects. I've always wanted the lithe, lean muscular body of Spider Man but since I cannot cling to walls I've never managed the trick. As I stepped into the shower I suddenly felt sick to my stomach, it was a good pre-vomit feeling, I briefly thought about sitting down but then I stepped into the hot water and then ... the next thing I remember  ...  I was lying on my back on the shower floor with a few nude guys looking down at me.  A guy off to my side said, "you were out for bit,"  another added,  "you hit your head when you fell."  Apparently,  if the news could be believed,  I had fallen out of the shower stall on my back.  I couldn't remember a thing. <em>I had passed out in the freaking shower! </em> My first thought,  "oh goody one concussion coming up,"  I oddly didn't care about my naked body inelegantly sprawled over harsh shower floor tiles for all to admire.  See you can get over gym shower shyness.
-
-Of course this alarmed the gym staff, we live in a litigious, sue on the drop of --- in this case my body --- age.  They dutifully took notes and advised me to ride the ambulance to emergency.  "It wouldn't be a good idea to drive away and pass out on the highway.''  They had me there!  The EMT guys arrived, strapped me up to an electrocardiogram,  started an IV and then hauled my ass over to Saint Luke's where I am almost on first name basis with the staff.  One of the nurses said,  "I remember you, weren't you <a href="http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/">the guy that tore his quadriceps</a>?''  I enjoy being  recognized if only it was somewhere other than emergency.   Emergency staff plugged me into electric doo-dads,  drew my blood, measured my oxygen levels measured and shined lights into my eyes.  An earnest and very nice resident carefully interviewed me and declared I had experienced a <a href="http://www.medicineonline.com/topics/S/2/Syncopal-Episode/Fainting.html">syncopal episode</a>.  Google it,  it doesn't sound good,  I may be a dead man walking or I could have just overdone it at the gym.  Time will certainly tell.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2045</wp:post_id>
-  <wp:post_date>2011-11-09 11:08:05</wp:post_date>
-  <wp:post_date_gmt>2011-11-09 17:08:05</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>i-lose-another-battle-with-gravity</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="emergency"><![CDATA[emergency]]></category>
-  <category domain="post_tag" nicename="exercise"><![CDATA[exercise]]></category>
-  <category domain="post_tag" nicename="fall"><![CDATA[fall]]></category>
-  <category domain="post_tag" nicename="gym"><![CDATA[gym]]></category>
-  <category domain="post_tag" nicename="syncopal-episode"><![CDATA[syncopal episode]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>184</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
-    <wp:comment_date>2011-11-09 13:26:18</wp:comment_date>
-    <wp:comment_date_gmt>2011-11-09 19:26:18</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Thanks Brianna,
-
-I guess I will have to add getting into the shower to my every expanding list of dangerous activities.
-
-Uncle John]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1320866780</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1320866780.9129";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-11-09 19:26:18</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>183</wp:comment_id>
-    <wp:comment_author><![CDATA[Brianna]]></wp:comment_author>
-    <wp:comment_author_email>briannavb@hotmail.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>24.253.84.250</wp:comment_author_IP>
-    <wp:comment_date>2011-11-09 11:25:33</wp:comment_date>
-    <wp:comment_date_gmt>2011-11-09 17:25:33</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Better to be safe then sorry!! Glad you are okay! BTW syncopal episodes run in our family I have passed out 4 or 5 times, so far no permanent damage!]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1320859533</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1320859533.8657";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-11-09 17:25:33</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
-  <title>Old white guys look at the sky!</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/20/old-white-guys-look-at-the-sky/</link>
-  <pubDate>Sun, 20 Nov 2011 22:35:44 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2151</guid>
-  <description/>
-  <content:encoded><![CDATA[<a href="http://www.slasonline.org/"><img class="alignleft" style="margin-left:6px;margin-right:6px;" src="http://conceptcontrol.smugmug.com/photos/i-6wpcfgH/0/S/i-6wpcfgH-S.jpg" alt="" width="124" height="130" /></a>Last Friday I joined the <a href="http://www.slasonline.org/">Saint Louis Astronomical Society</a> (SLAS). In the last twenty years I have been a member of two chapters of the <a href="http://www.rasc.ca/">Royal Astronomical Society of Canada</a>, <a href="http://kingston.rasc.ca/">Kingston</a> and <a href="http://www.ottawa.rasc.ca/">Ottawa</a>, the <a href="http://www.fortworthastro.com">Forth Worth Astronomical Society</a> in Texas, the <a href="http://www.mnastro.org/">Minnesota Astronomical Society</a> in Saint Paul and the <a href="http://www.ocastronomers.org/">Orange County Astronomers</a> in southern California. No matter where I go I can see the sky and I can find people who share my interest in it. The SLAS is very similar to other clubs. If you were to walk into a typical astronomy club meeting your overwhelming impression would be: <em>old white guys like looking at the sky!  </em>
-
-<em></em>The undeniable old whiteness of astronomy clubs is a concern because it tells you something about the health of our culture.  If you think I am pulling your leg or being sarcastic consider the following.
-<ol>
-	<li><strong>Club members have strong <em>noncommercial </em>or <em>unprofessional</em> interests in science.</strong>  Most are not professional astronomers or even scientists. Few derive any income from their interests in astronomy and many spend insane amounts of time and money building telescopes, observing  the sky and keeping up with findings in astronomy and related sciences. What's the point? Wouldn't these people be better off devoting the time they "waste" on astronomy to more productive pursuits?  Mind you the same applies to <em>unprofessional</em> artists and hobbyists of all types that "waste" comparable amounts of time on their own "pointless" pursuits.  Astronomy club members love what they do, and, in my experience, it's a constant and enduring love that never dims or goes away. Anyone with a real passion knows what I'm talking about.</li>
-	<li><strong>Astronomy club members respect, understand and value scientific arguments. </strong>We are constantly reading depressing assessments of the public's dismal understanding of science. For example, 44% of the US public accepts that, "<a href="http://www.religioustolerance.org/ev_publia.htm">God created man pretty much in his present form at one time within the last 10,000 years.</a>"  Only 5% of scientists accept this nonsense and <a href="http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/">even 5% seems to high for my skeptical ass.</a>  Astronomy club members will poll more like scientists than the general public on this question. A society that depends on science yet harbors ignorant masses that do not grasp or appreciate basic scientific findings will not hold.</li>
-	<li><strong>Club members welcome anyone with an interest in astronomy. </strong>I have belonged to half a dozen astronomy clubs and without exception they welcome anyone with an interest in the subject. I have never seen somebody turned away, or discouraged, for reasons of race, age, sex, sexual orientation, political or religious affiliations, or social class. Astronomy clubs are about as egalitarian as it gets! It gets better. Most clubs nurture and cherish the youngsters in their midst's. This is partly because we don't see a lot of youngsters and by youngster I mean anyone under thirty!</li>
-</ol>
-So why are astronomy clubs in North America old and white? Do people think you need expensive telescopes and other pricey gadgets to enjoy amateur astronomy?  I've looked at the sky for decades primarily with binoculars. They are still the best way to learn the sky. Has the public's interest in science declined during the last forty years? Is elementary science education worse than it was when I was a child? Is the XBox'ed and Avatar'ed generation bored with looking at faint smudges in the sky? <em>Finally, do we smell?</em>  I don't know why astronomy clubs are old and white but I do know that I will probably be associated with one until the day I die.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2151</wp:post_id>
-  <wp:post_date>2011-11-20 16:35:44</wp:post_date>
-  <wp:post_date_gmt>2011-11-20 22:35:44</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>old-white-guys-look-at-the-sky</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
-  <category domain="post_tag" nicename="clubs"><![CDATA[clubs]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="science-2"><![CDATA[science]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Revenge of the PhD Camera</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/12/04/revenge-of-the-phd-camera/</link>
-  <pubDate>Mon, 05 Dec 2011 05:01:51 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2215</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignright" width="216" caption="Hipstamatic water meter"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img style="margin-left:10px;margin-right:10px;" title="Hipstamatic water meter" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-7kRRKBL/0/S/water-main-cove-hipstamatic-S.jpg" alt="Hipstamatic water meter" width="216" height="216" /></a>[/caption]
-
-Cameras come in two flavors. There are expensive <em>serious </em>cameras used by serious photographers to take serious photographs and then there are PhD, (<strong>P</strong>ush <strong>h</strong>ere <strong>D</strong>ummy), cameras. Serious cameras meet the highest technical standards, lenses are diffraction limited, chromatic aberration approaches zero, pixel counts match <a href="http://www.normankoren.com/Tutorials/MTF2.html">Nyquist limits</a>, ISO's exceed retinal sensitivity, auto-focus is instantaneous, color spaces are wide, calibrated and range into the infra-red and ultra-violet. <em>PhD cameras don't go there! PhD cameras provide a button for dummies to push.</em> Over the years I've ying'ed and yang'ed from serious to PhD cameras. It's not that I cannot make up my mind. Camera choice is another eternal struggle sort of like that squabble between good and evil or light and regular beers.
-
-When I'm on a serious photography kick I put time, expertise and money into my pictures. For me serious photography is exhausting. I  seek out worthy subjects, wait for the <em>right light</em>, agonize over composition, experiment with lenses, tweak f-stops, adjust shutter speeds and take as many exposures as light and time allow. Then the post shutter ordeal begins. Digital imaging processing makes anything possible. You can take your exposures and like some mad photo-shopping Rumpelstiltskin spin straw into gold.  But, as in the fairy tale, there is a high price, perfect images will suck years out of you. Photographers often talk about <em>workflow</em> and they aren't kidding. When I start tweaking my workflow I know I'm reaching the end of my serious rope. Photography is one of my hobbies and I never ruin hobbies by turning them into jobs!
-
-<a href="http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox"><img class="alignleft" style="margin-left:8px;margin-right:8px;" title="The World's largest Photo Libraries 2011  1000memories.com" src="http://conceptcontrol.smugmug.com/photos/i-JV33FXZ/0/M/i-JV33FXZ-M.png" alt="The World's largest Photo Libraries 2011  1000memories.com" width="233" height="180" /></a>
-
-Eventually I snap out of it and resume PhD'ing. Unlike serious photography PhD'ing is effortless and fun. It's always been fun, remember <a href="http://www.brownie-camera.com/">Brownies</a> and <a href="http://camerapedia.wikia.com/wiki/Instamatic">Instamatics</a>, but this <em>is the golden age of PhD photography!</em> In the last decade PhD cameras have evolved and mutated from cheap plastic boxes filled with grainy high-speed ISO film to sophisticated little internet photo-shopping engines that ride around in our pockets as cell phones. I don't even know why they are called cell phones. My iPhone takes hundreds of images for every <em>phone call</em> it processes. It's really more of an iCamera+iBrowser that can, on rare occasions, be used as a phone. Based on <a href="http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox">surveys of web image sites</a> I am not the only iCamera user. PhD photography is growing faster than the national debt.
-
-[caption id="" align="alignright" width="108" caption="Mixing up cell phone color channels"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class=" " title="Mixing up cell phone color channels" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-vSstmnN/0/S/bird-shoulder-statue-forest-S.jpg" alt="Mixing up cell phone color channels" width="108" height="180" /></a>[/caption]
-
-Explosive growth attracts armies of sinners and saints. Every two-bit whore chasing a buck is now writing image processing software for cell phones. In the last two years we've seen apps that <a href="http://itunes.apple.com/us/app/360-panorama/id377342622?mt=8">stitch panoramas on the fly</a>, apply <a href="http://www.appbrain.com/app/camera-360/vStudio.Android.GPhoto">cheesy photo-shop effects</a> and automatically create <a href="http://en.wikipedia.org/wiki/High_dynamic_range_imaging">HDR</a> images by blending two or more exposures.  As <a href="http://en.wikipedia.org/wiki/Sturgeon's_Law">Sturgeon's law</a> predicts most of these apps are crap but that's not a problem for PhD photography. The goal is to offer a fun button for dummies. My favorite PhD app is a great little toy called <a href="http://hipstamatic.com/the_app.html">Hipstamatic</a>. Hipstamatic simulates crappy old PhD film cameras loaded with expired film. You can choose a lens, a film and a flash or you can just shake your iPhone and let it randomly select these parameters. Shake and shoot; it's the revenge of the PhD camera.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2215</wp:post_id>
-  <wp:post_date>2011-12-04 23:01:51</wp:post_date>
-  <wp:post_date_gmt>2011-12-05 05:01:51</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>revenge-of-the-phd-camera</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="camera"><![CDATA[camera]]></category>
-  <category domain="post_tag" nicename="cell-phone"><![CDATA[cell-phone]]></category>
-  <category domain="post_tag" nicename="hipstamatic"><![CDATA[Hipstamatic]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>272</wp:comment_id>
-    <wp:comment_author><![CDATA[The Wahweap Wow &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/</wp:comment_author_url>
-    <wp:comment_author_IP>69.170.134.165</wp:comment_author_IP>
-    <wp:comment_date>2012-05-22 16:28:22</wp:comment_date>
-    <wp:comment_date_gmt>2012-05-22 21:28:22</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] up and went to plan B. Plan B consisted of covering the lens of my  iPhone with eclipse shades and Phd’ing it.  I took a few frames and managed to catch the ring. It was a minor triumph of iPhoneography. [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:14:"1337722102.455";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1337723019</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1337723019.5268";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-05-22 21:28:22</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>Download this Blog</title>
   <link>http://analyzethedatanotthedrivel.org/download-this-blog/</link>
   <pubDate>Thu, 23 Feb 2012 05:12:59 +0000</pubDate>
@@ -18469,6 +17831,238 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
       <wp:meta_value>2012-03-05 02:45:12</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2012/09/20/3251/</link>
+  <pubDate>Thu, 20 Sep 2012 20:51:07 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3251</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3251</wp:post_id>
+  <wp:post_date>2012-09-20 15:51:07</wp:post_date>
+  <wp:post_date_gmt>2012-09-20 20:51:07</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>3251</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>14</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[37144]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2012/11/18/3394/</link>
+  <pubDate>Mon, 19 Nov 2012 04:58:51 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3394</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3394</wp:post_id>
+  <wp:post_date>2012-11-18 22:58:51</wp:post_date>
+  <wp:post_date_gmt>2012-11-19 04:58:51</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>3394</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>47</wp:post_parent>
+  <wp:menu_order>20</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3072]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2137]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2012/12/04/3528/</link>
+  <pubDate>Wed, 05 Dec 2012 05:11:22 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3528</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3528</wp:post_id>
+  <wp:post_date>2012-12-04 23:11:22</wp:post_date>
+  <wp:post_date_gmt>2012-12-05 05:11:22</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>3528</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>16</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[457]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4154/</link>
+  <pubDate>Thu, 08 Aug 2013 14:42:33 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4154</guid>
+  <description/>
+  <content:encoded><![CDATA[Post categories]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4154</wp:post_id>
+  <wp:post_date>2013-08-08 09:42:33</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:42:33</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4154</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>4</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4526]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -18916,6 +18510,124 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
     <wp:meta_value><![CDATA[178]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4164/</link>
+  <pubDate>Thu, 08 Aug 2013 14:48:25 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4164</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4164</wp:post_id>
+  <wp:post_date>2013-08-08 09:48:25</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:48:25</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4164</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4526</wp:post_parent>
+  <wp:menu_order>5</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4154]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[90]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2013/08/08/4165/</link>
+  <pubDate>Thu, 08 Aug 2013 14:48:27 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4165</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4165</wp:post_id>
+  <wp:post_date>2013-08-08 09:48:27</wp:post_date>
+  <wp:post_date_gmt>2013-08-08 14:48:27</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>4165</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>90</wp:post_parent>
+  <wp:menu_order>6</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4164]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[3128]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_object</wp:meta_key>
@@ -20152,6 +19864,477 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Typesetting UTF8 APL code with the LaTeX lstlisting package</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/</link>
+  <pubDate>Tue, 16 Aug 2011 02:27:57 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1837</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="attachment_1908" align="alignright" width="298" caption="UTF8 APL characters within a LaTeX lstlisting environment. Click for *.tex source code"]<a href="http://www.box.net/shared/62x2208x56lrjy5vkesz"><img class="size-full wp-image-1908 " title="aplbadboys" src="http://bakerjd99.files.wordpress.com/2011/08/aplbadboys.png" alt="" width="298" height="124" /></a>[/caption]
+
+Typesetting <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> source code has always been a pain in the ass! In the dark ages, (<a href="http://www.google.com/search?tbm=isch&amp;hl=en&amp;source=hp&amp;biw=994&amp;bih=584&amp;q=the+seventies&amp;gbv=2&amp;oq=the+seventi">the 1970's</a>), you had to fiddle with APL type-balls and live without luxuries like <em>lower case letters</em>. With the advent of general outline fonts it became <em>technically possible</em> to render APL <a href="http://www.merriam-webster.com/dictionary/glyph">glyphs </a>on standard display devices provided you:
+<ol>
+	<li>Designed your own APL font.</li>
+	<li>Mapped the <em><a href="http://aplwiki.com/AtomicVector">atomic vector</a></em> of your APL to whatever encoding your font demanded.</li>
+	<li>Wrote <span style="font-family:Courier;">WSFULL</span>'s of junk transliteration functions to dump your APL objects as font encoded text.</li>
+</ol>
+It's a testament to either the talent, or pig headedness of APL programmers, that many actually did this. We all hated it! We still hate it! But, like an abused spouse, we kept going back for more.  <em>It's our fault; if we loved APL more it would stop hitting us!</em>
+
+When Unicode appeared APL'ers cheered --- our long ASCII nightmare was ending. The more politically astute worked to include the <a href="http://aplwiki.com/UnicodeForAplers">APL characters in the Unicode standard.</a> Hey if <a href="http://www.evertype.com/standards/csur/klingon.html">Klingon </a>is there why not APL? Everyone thought it was just a matter of time until APL vendors abandoned their nonstandard atomic vectors and fully embraced Unicode. With a few notable exceptions we are still waiting. <em>While we wait the problem of typesetting APL source code festers.</em>
+
+My preferred source code listing tool is the $latex \LaTeX$ <a href="http://en.wikibooks.org/wiki/LaTeX/Packages/Listings">lstlisting package</a>. <span style="font-family:Courier;">lstlisting</span> works well for standard ANSI source code.  I use it for <span style="font-family:Courier;">J, C#, SQL, C, XML, Ocaml, Mathematica, F#,</span> shell scripts and $latex \LaTeX$ source code, i.e. everything except APL! <span style="font-family:Courier;">lstlisting</span> is an eight bit package; it will not handle arbitrary Unicode out of the box.  I didn't know how to get around this so I handled APL by enclosing UTF8 APL text in plain <span style="font-family:Courier;">\begin{verbatim} ... \end{verbatim}</span> environments. This works for <span style="font-family:Courier;">XeLaTeX</span> and <span style="font-family:Courier;">LuaLaTeX</span> but you lose all the <span style="font-family:Courier;">lstlisting</span> goodies. Then I saw an interesting <a href="http://tex.stackexchange.com/">tex.stackexchange.com</a> posting about <a href="http://tex.stackexchange.com/questions/25391/the-listings-package-and-utf-8">The 'listings' package and UTF-8</a>. One solution to the post's "French ligature problem" showed how to force Unicode down <span style="font-family:Courier;">lstlisting</span>'s throat. I wondered if the same method would work for APL. It turns out that it does!
+
+If you insert the following snippet of <span style="font-family:Courier;">TeX</span> code in your document preamble <span style="font-family:Courier;">LuaLaTeX</span> and <span style="font-family:Courier;">XeLaTeX</span> will properly process UTF8 APL text in <span style="font-family:Courier;">lstlisting</span> environments. You will need to download and install the <a href="http://v4.vector.org.uk/resource/">APL385 Unicode</a> font if it's not on your system.  <strong>A test $latex \LaTeX$ document illustrating this hack is available <a href="https://www.box.net/shared/62x2208x56lrjy5vkesz">here</a>. The compiled PDF is available <a href="https://www.box.net/shared/bnl3n4sqt2h3bhn8bb79">here</a>.</strong> As always these files can be accessed in the files sidebar.
+
+[sourcecode wraplines="false" gutter="true" autolinks="false"]
+% set lstlisting to accept UTF8 APL text
+\makeatletter
+\lst@InputCatcodes
+\def\lst@DefEC{%
+ \lst@CCECUse \lst@ProcessLetter
+  ^^80^^81^^82^^83^^84^^85^^86^^87^^88^^89^^8a^^8b^^8c^^8d^^8e^^8f%
+  ^^90^^91^^92^^93^^94^^95^^96^^97^^98^^99^^9a^^9b^^9c^^9d^^9e^^9f%
+  ^^a0^^a1^^a2^^a3^^a4^^a5^^a6^^a7^^a8^^a9^^aa^^ab^^ac^^ad^^ae^^af%
+  ^^b0^^b1^^b2^^b3^^b4^^b5^^b6^^b7^^b8^^b9^^ba^^bb^^bc^^bd^^be^^bf%
+  ^^c0^^c1^^c2^^c3^^c4^^c5^^c6^^c7^^c8^^c9^^ca^^cb^^cc^^cd^^ce^^cf%
+  ^^d0^^d1^^d2^^d3^^d4^^d5^^d6^^d7^^d8^^d9^^da^^db^^dc^^dd^^de^^df%
+  ^^e0^^e1^^e2^^e3^^e4^^e5^^e6^^e7^^e8^^e9^^ea^^eb^^ec^^ed^^ee^^ef%
+  ^^f0^^f1^^f2^^f3^^f4^^f5^^f6^^f7^^f8^^f9^^fa^^fb^^fc^^fd^^fe^^ff%
+  ^^^^20ac^^^^0153^^^^0152%
+  ^^^^20a7^^^^2190^^^^2191^^^^2192^^^^2193^^^^2206^^^^2207^^^^220a%
+  ^^^^2218^^^^2228^^^^2229^^^^222a^^^^2235^^^^223c^^^^2260^^^^2261%
+  ^^^^2262^^^^2264^^^^2265^^^^2282^^^^2283^^^^2296^^^^22a2^^^^22a3%
+  ^^^^22a4^^^^22a5^^^^22c4^^^^2308^^^^230a^^^^2336^^^^2337^^^^2339%
+  ^^^^233b^^^^233d^^^^233f^^^^2340^^^^2342^^^^2347^^^^2348^^^^2349%
+  ^^^^234b^^^^234e^^^^2350^^^^2352^^^^2355^^^^2357^^^^2359^^^^235d%
+  ^^^^235e^^^^235f^^^^2361^^^^2362^^^^2363^^^^2364^^^^2365^^^^2368%
+  ^^^^236a^^^^236b^^^^236c^^^^2371^^^^2372^^^^2373^^^^2374^^^^2375%
+  ^^^^2377^^^^2378^^^^237a^^^^2395^^^^25af^^^^25ca^^^^25cb%
+  ^^00}
+\lst@RestoreCatcodes
+\makeatother
+[/sourcecode]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1837</wp:post_id>
+  <wp:post_date>2011-08-15 21:27:57</wp:post_date>
+  <wp:post_date_gmt>2011-08-16 02:27:57</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>typesetting-utf8-apl-code-with-the-latex-lstlisting-package</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="apl"><![CDATA[APL]]></category>
+  <category domain="post_tag" nicename="apl-syntax-coloring"><![CDATA[apl syntax coloring]]></category>
+  <category domain="post_tag" nicename="aplwin"><![CDATA[APL+WIN]]></category>
+  <category domain="post_tag" nicename="apl385"><![CDATA[APL385]]></category>
+  <category domain="post_tag" nicename="latex"><![CDATA[LaTeX]]></category>
+  <category domain="post_tag" nicename="latex2e"><![CDATA[LaTeX2e]]></category>
+  <category domain="post_tag" nicename="lstlisting"><![CDATA[lstlisting]]></category>
+  <category domain="post_tag" nicename="lualatex"><![CDATA[LuaLaTeX]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="post_tag" nicename="unicode"><![CDATA[unicode]]></category>
+  <category domain="post_tag" nicename="utf-8"><![CDATA[UTF-8]]></category>
+  <category domain="post_tag" nicename="xelatex"><![CDATA[XeLaTeX]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>New Conan not as Philosophical as Old Conan</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/09/18/new-conan-not-as-philosophical-as-old-conan/</link>
+  <pubDate>Mon, 19 Sep 2011 01:48:35 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1919</guid>
+  <description/>
+  <content:encoded><![CDATA[Bad news philosophers, our preeminent social critic, our font of wisdom, our modern Socrates has succumbed to the malignant Hollywood poisons of <a href="http://www.youjustmademylist.com/?p=562">reality TV</a>, <a href="http://www.spike.com/articles/0xugni/the-top-10-whore-rific-female-celebrities">celebrity whoring</a>, <a href="http://www.bizjournals.com/seattle/blog/2011/09/scant-improvement-in-nations.html">financial ennui</a> and <a href="http://www.whitehouse.gov/">hopeless incompetent governance</a>. Given the forces arrayed against our philosopher king only Vegas bookies on crack would favor his chances. I knew all this when I sat down to view the latest <a href="http://www.imdb.com/video/screenplay/vi3994852377/">Conan the Barbarian</a> movie but I let hope trump reason --- sound familiar. If I wasn't a <a href="http://staff.rio.edu/miket/attitude.htm">mainly-manly-man</a> I would cry for no longer will we ponder religious dissertations like:
+<p style="text-align:left;"><em>"Crom! I have never prayed to you before. I have no tongue for it. No one, not even you, will remember if we were good men or bad. Why we fought, or why we died. All that matters is that today, two stood against many. That's what's important! Valor pleases you, Crom; so grant me this one request. Grant me revenge! <strong>And if you do not listen, then to hell with you!</strong>"</em></p>
+Or learn about what's good in life:
+
+[youtube=http://www.youtube.com/watch?v=6PQ6335puOc]
+
+My friends that golden Apollonic age is past! Now we must content ourselves with <a href="http://bakerjd99.wordpress.com/2010/08/16/binge-pretend-boink/">eat, pray, love</a> travesties like:
+<p style="text-align:left;"><em>"I live, I love, I slay, I am content."</em></p>
+<strong>When did Conan the Barbarian decide to come out?</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1919</wp:post_id>
+  <wp:post_date>2011-09-18 20:48:35</wp:post_date>
+  <wp:post_date_gmt>2011-09-19 01:48:35</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>new-conan-not-as-philosophical-as-old-conan</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="conan"><![CDATA[Conan]]></category>
+  <category domain="post_tag" nicename="conan-movie"><![CDATA[Conan movie]]></category>
+  <category domain="post_tag" nicename="conan-the-barbarian"><![CDATA[Conan the Barbarian]]></category>
+  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="nostalgia"><![CDATA[Nostalgia]]></category>
+  <category domain="post_tag" nicename="philosopher-king"><![CDATA[Philosopher King]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Iranian Regime Justice is pathetic Sharia Savagery.</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/</link>
+  <pubDate>Fri, 30 Sep 2011 16:17:02 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1952</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="attachment_1971" align="alignleft" width="198"]<a href="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg"><img class="size-full wp-image-1971 " title="Yousef Nadarkhani" src="http://bakerjd99.files.wordpress.com/2011/09/yousefnadarkhani.jpg" alt="Yousef Nadarkhani" width="198" height="161" /></a> Yousef Nadarkhani[/caption]
+
+I rarely comment on the "news" but the planned execution of <a href="http://michellemalkin.com/2011/09/29/iranian-pastor-yousef-nadarkhani-faces-execution-for-refusing-to-renounce-christianity-where-are-the-hollyweirdos-and-euroweenies-now/">Yousef Nadarkhani</a> for the<a href="http://bakerjd99.wordpress.com/2009/10/26/counting-gods/"> make-believe</a> crime of Islamic apostasy has really pissed me off. Once again the Iranian branch of the "religion of peace" shows its primitive, ass-backwards, subhuman side to a stunned world that finds it hard to believe that <em>changing your mind about fictitious religious nonsense is punishable by death! </em>It's rubbish like this that turned me into a hardcore atheist. If this is Sharia then Sharia is shit!
+
+Let's be perfectly clear. I am not condemning Iranians. I am married to an Iranian!  I have many lovely Iranian in-laws, and not a single one of them approves of this atavistic <a href="http://www.urbandictionary.com/define.php?term=Assinity">assinity</a>. Like civilized people everywhere their feelings alternate between disgust, shame and rage. While I forgive the Iranian people I condemn the Iranian regime. The government courts that imposed this sentence are pathetic throwbacks. They don't belong in the modern world and one day they won't.
+
+Savages always assume they can bully and terrorize people forever. At first people are easily cowed but even the most egregious assaults fail to deter in the long run. The next time the Iranian masses take to the streets the regime will fall and with the exception of a few <em>islaminals </em>nobody is going to miss it!
+
+<em>P.S.  Before you go all brave fatwa waving kafir killing jihad warrior on me keep in mind that Missouri is a concealed carry state.</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1952</wp:post_id>
+  <wp:post_date>2011-09-30 11:17:02</wp:post_date>
+  <wp:post_date_gmt>2011-09-30 16:17:02</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>iranian-regime-justice-is-pathetic-sharia-savagery</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="apostasy"><![CDATA[apostasy]]></category>
+  <category domain="post_tag" nicename="death-sentence"><![CDATA[death sentence]]></category>
+  <category domain="post_tag" nicename="iran"><![CDATA[Iran]]></category>
+  <category domain="post_tag" nicename="islam"><![CDATA[Islam]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="religion"><![CDATA[Religion]]></category>
+  <category domain="post_tag" nicename="religion-of-peace"><![CDATA[religion of peace]]></category>
+  <category domain="post_tag" nicename="sharia"><![CDATA[Sharia]]></category>
+  <category domain="post_tag" nicename="yousef-nadarkhani"><![CDATA[Yousef Nadarkhani]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_external</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"facebook";a:1:{i:5415134;s:37:"https://facebook.com/1005820342835661";}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21916358660]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_done_5454303</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_5415134</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>I lose another battle with Gravity</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/09/i-lose-another-battle-with-gravity/</link>
+  <pubDate>Wed, 09 Nov 2011 17:08:05 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2045</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="280" caption="24 Hour Fitness"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class=" " title="24 Hour Fitness" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-6z3xBXn/0/S/chesterfield-gym-S.jpg" alt="24 Hour Fitness" width="280" height="209" /></a>[/caption]
+
+Yesterday I found myself back in Saint Luke's emergency department being asked what day it was. An hour before I had stepped into the shower at 24 Hour Fitness over on Clayton,  I had just finished my noon hour workout.  I try to force myself to the gym at least four times a week.  It's one of my many delusional projects. I've always wanted the lithe, lean muscular body of Spider Man but since I cannot cling to walls I've never managed the trick. As I stepped into the shower I suddenly felt sick to my stomach, it was a good pre-vomit feeling, I briefly thought about sitting down but then I stepped into the hot water and then ... the next thing I remember  ...  I was lying on my back on the shower floor with a few nude guys looking down at me.  A guy off to my side said, "you were out for bit,"  another added,  "you hit your head when you fell."  Apparently,  if the news could be believed,  I had fallen out of the shower stall on my back.  I couldn't remember a thing. <em>I had passed out in the freaking shower! </em> My first thought,  "oh goody one concussion coming up,"  I oddly didn't care about my naked body inelegantly sprawled over harsh shower floor tiles for all to admire.  See you can get over gym shower shyness.
+
+Of course this alarmed the gym staff, we live in a litigious, sue on the drop of --- in this case my body --- age.  They dutifully took notes and advised me to ride the ambulance to emergency.  "It wouldn't be a good idea to drive away and pass out on the highway.''  They had me there!  The EMT guys arrived, strapped me up to an electrocardiogram,  started an IV and then hauled my ass over to Saint Luke's where I am almost on first name basis with the staff.  One of the nurses said,  "I remember you, weren't you <a href="http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/">the guy that tore his quadriceps</a>?''  I enjoy being  recognized if only it was somewhere other than emergency.   Emergency staff plugged me into electric doo-dads,  drew my blood, measured my oxygen levels measured and shined lights into my eyes.  An earnest and very nice resident carefully interviewed me and declared I had experienced a <a href="http://www.medicineonline.com/topics/S/2/Syncopal-Episode/Fainting.html">syncopal episode</a>.  Google it,  it doesn't sound good,  I may be a dead man walking or I could have just overdone it at the gym.  Time will certainly tell.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2045</wp:post_id>
+  <wp:post_date>2011-11-09 11:08:05</wp:post_date>
+  <wp:post_date_gmt>2011-11-09 17:08:05</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>i-lose-another-battle-with-gravity</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="emergency"><![CDATA[emergency]]></category>
+  <category domain="post_tag" nicename="exercise"><![CDATA[exercise]]></category>
+  <category domain="post_tag" nicename="fall"><![CDATA[fall]]></category>
+  <category domain="post_tag" nicename="gym"><![CDATA[gym]]></category>
+  <category domain="post_tag" nicename="syncopal-episode"><![CDATA[syncopal episode]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>184</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>12.198.205.9</wp:comment_author_IP>
+    <wp:comment_date>2011-11-09 13:26:18</wp:comment_date>
+    <wp:comment_date_gmt>2011-11-09 19:26:18</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Thanks Brianna,
+
+I guess I will have to add getting into the shower to my every expanding list of dangerous activities.
+
+Uncle John]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1320866780</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1320866780.9129";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-11-09 19:26:18</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>183</wp:comment_id>
+    <wp:comment_author><![CDATA[Brianna]]></wp:comment_author>
+    <wp:comment_author_email>briannavb@hotmail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>24.253.84.250</wp:comment_author_IP>
+    <wp:comment_date>2011-11-09 11:25:33</wp:comment_date>
+    <wp:comment_date_gmt>2011-11-09 17:25:33</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Better to be safe then sorry!! Glad you are okay! BTW syncopal episodes run in our family I have passed out 4 or 5 times, so far no permanent damage!]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1320859533</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1320859533.8657";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-11-09 17:25:33</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Old white guys look at the sky!</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/20/old-white-guys-look-at-the-sky/</link>
+  <pubDate>Sun, 20 Nov 2011 22:35:44 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2151</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://www.slasonline.org/"><img class="alignleft" style="margin-left:6px;margin-right:6px;" src="http://conceptcontrol.smugmug.com/photos/i-6wpcfgH/0/S/i-6wpcfgH-S.jpg" alt="" width="124" height="130" /></a>Last Friday I joined the <a href="http://www.slasonline.org/">Saint Louis Astronomical Society</a> (SLAS). In the last twenty years I have been a member of two chapters of the <a href="http://www.rasc.ca/">Royal Astronomical Society of Canada</a>, <a href="http://kingston.rasc.ca/">Kingston</a> and <a href="http://www.ottawa.rasc.ca/">Ottawa</a>, the <a href="http://www.fortworthastro.com">Forth Worth Astronomical Society</a> in Texas, the <a href="http://www.mnastro.org/">Minnesota Astronomical Society</a> in Saint Paul and the <a href="http://www.ocastronomers.org/">Orange County Astronomers</a> in southern California. No matter where I go I can see the sky and I can find people who share my interest in it. The SLAS is very similar to other clubs. If you were to walk into a typical astronomy club meeting your overwhelming impression would be: <em>old white guys like looking at the sky!  </em>
+
+<em></em>The undeniable old whiteness of astronomy clubs is a concern because it tells you something about the health of our culture.  If you think I am pulling your leg or being sarcastic consider the following.
+<ol>
+	<li><strong>Club members have strong <em>noncommercial </em>or <em>unprofessional</em> interests in science.</strong>  Most are not professional astronomers or even scientists. Few derive any income from their interests in astronomy and many spend insane amounts of time and money building telescopes, observing  the sky and keeping up with findings in astronomy and related sciences. What's the point? Wouldn't these people be better off devoting the time they "waste" on astronomy to more productive pursuits?  Mind you the same applies to <em>unprofessional</em> artists and hobbyists of all types that "waste" comparable amounts of time on their own "pointless" pursuits.  Astronomy club members love what they do, and, in my experience, it's a constant and enduring love that never dims or goes away. Anyone with a real passion knows what I'm talking about.</li>
+	<li><strong>Astronomy club members respect, understand and value scientific arguments. </strong>We are constantly reading depressing assessments of the public's dismal understanding of science. For example, 44% of the US public accepts that, "<a href="http://www.religioustolerance.org/ev_publia.htm">God created man pretty much in his present form at one time within the last 10,000 years.</a>"  Only 5% of scientists accept this nonsense and <a href="http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/">even 5% seems to high for my skeptical ass.</a>  Astronomy club members will poll more like scientists than the general public on this question. A society that depends on science yet harbors ignorant masses that do not grasp or appreciate basic scientific findings will not hold.</li>
+	<li><strong>Club members welcome anyone with an interest in astronomy. </strong>I have belonged to half a dozen astronomy clubs and without exception they welcome anyone with an interest in the subject. I have never seen somebody turned away, or discouraged, for reasons of race, age, sex, sexual orientation, political or religious affiliations, or social class. Astronomy clubs are about as egalitarian as it gets! It gets better. Most clubs nurture and cherish the youngsters in their midst's. This is partly because we don't see a lot of youngsters and by youngster I mean anyone under thirty!</li>
+</ol>
+So why are astronomy clubs in North America old and white? Do people think you need expensive telescopes and other pricey gadgets to enjoy amateur astronomy?  I've looked at the sky for decades primarily with binoculars. They are still the best way to learn the sky. Has the public's interest in science declined during the last forty years? Is elementary science education worse than it was when I was a child? Is the XBox'ed and Avatar'ed generation bored with looking at faint smudges in the sky? <em>Finally, do we smell?</em>  I don't know why astronomy clubs are old and white but I do know that I will probably be associated with one until the day I die.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2151</wp:post_id>
+  <wp:post_date>2011-11-20 16:35:44</wp:post_date>
+  <wp:post_date_gmt>2011-11-20 22:35:44</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>old-white-guys-look-at-the-sky</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
+  <category domain="post_tag" nicename="clubs"><![CDATA[clubs]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="science-2"><![CDATA[science]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Revenge of the PhD Camera</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/12/04/revenge-of-the-phd-camera/</link>
+  <pubDate>Mon, 05 Dec 2011 05:01:51 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2215</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignright" width="216" caption="Hipstamatic water meter"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img style="margin-left:10px;margin-right:10px;" title="Hipstamatic water meter" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-7kRRKBL/0/S/water-main-cove-hipstamatic-S.jpg" alt="Hipstamatic water meter" width="216" height="216" /></a>[/caption]
+
+Cameras come in two flavors. There are expensive <em>serious </em>cameras used by serious photographers to take serious photographs and then there are PhD, (<strong>P</strong>ush <strong>h</strong>ere <strong>D</strong>ummy), cameras. Serious cameras meet the highest technical standards, lenses are diffraction limited, chromatic aberration approaches zero, pixel counts match <a href="http://www.normankoren.com/Tutorials/MTF2.html">Nyquist limits</a>, ISO's exceed retinal sensitivity, auto-focus is instantaneous, color spaces are wide, calibrated and range into the infra-red and ultra-violet. <em>PhD cameras don't go there! PhD cameras provide a button for dummies to push.</em> Over the years I've ying'ed and yang'ed from serious to PhD cameras. It's not that I cannot make up my mind. Camera choice is another eternal struggle sort of like that squabble between good and evil or light and regular beers.
+
+When I'm on a serious photography kick I put time, expertise and money into my pictures. For me serious photography is exhausting. I  seek out worthy subjects, wait for the <em>right light</em>, agonize over composition, experiment with lenses, tweak f-stops, adjust shutter speeds and take as many exposures as light and time allow. Then the post shutter ordeal begins. Digital imaging processing makes anything possible. You can take your exposures and like some mad photo-shopping Rumpelstiltskin spin straw into gold.  But, as in the fairy tale, there is a high price, perfect images will suck years out of you. Photographers often talk about <em>workflow</em> and they aren't kidding. When I start tweaking my workflow I know I'm reaching the end of my serious rope. Photography is one of my hobbies and I never ruin hobbies by turning them into jobs!
+
+<a href="http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox"><img class="alignleft" style="margin-left:8px;margin-right:8px;" title="The World's largest Photo Libraries 2011  1000memories.com" src="http://conceptcontrol.smugmug.com/photos/i-JV33FXZ/0/M/i-JV33FXZ-M.png" alt="The World's largest Photo Libraries 2011  1000memories.com" width="233" height="180" /></a>
+
+Eventually I snap out of it and resume PhD'ing. Unlike serious photography PhD'ing is effortless and fun. It's always been fun, remember <a href="http://www.brownie-camera.com/">Brownies</a> and <a href="http://camerapedia.wikia.com/wiki/Instamatic">Instamatics</a>, but this <em>is the golden age of PhD photography!</em> In the last decade PhD cameras have evolved and mutated from cheap plastic boxes filled with grainy high-speed ISO film to sophisticated little internet photo-shopping engines that ride around in our pockets as cell phones. I don't even know why they are called cell phones. My iPhone takes hundreds of images for every <em>phone call</em> it processes. It's really more of an iCamera+iBrowser that can, on rare occasions, be used as a phone. Based on <a href="http://1000memories.com/blog/94-number-of-photos-ever-taken-digital-and-analog-in-shoebox">surveys of web image sites</a> I am not the only iCamera user. PhD photography is growing faster than the national debt.
+
+[caption id="" align="alignright" width="108" caption="Mixing up cell phone color channels"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/17756793_PfCsJz"><img class=" " title="Mixing up cell phone color channels" src="http://conceptcontrol.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-vSstmnN/0/S/bird-shoulder-statue-forest-S.jpg" alt="Mixing up cell phone color channels" width="108" height="180" /></a>[/caption]
+
+Explosive growth attracts armies of sinners and saints. Every two-bit whore chasing a buck is now writing image processing software for cell phones. In the last two years we've seen apps that <a href="http://itunes.apple.com/us/app/360-panorama/id377342622?mt=8">stitch panoramas on the fly</a>, apply <a href="http://www.appbrain.com/app/camera-360/vStudio.Android.GPhoto">cheesy photo-shop effects</a> and automatically create <a href="http://en.wikipedia.org/wiki/High_dynamic_range_imaging">HDR</a> images by blending two or more exposures.  As <a href="http://en.wikipedia.org/wiki/Sturgeon's_Law">Sturgeon's law</a> predicts most of these apps are crap but that's not a problem for PhD photography. The goal is to offer a fun button for dummies. My favorite PhD app is a great little toy called <a href="http://hipstamatic.com/the_app.html">Hipstamatic</a>. Hipstamatic simulates crappy old PhD film cameras loaded with expired film. You can choose a lens, a film and a flash or you can just shake your iPhone and let it randomly select these parameters. Shake and shoot; it's the revenge of the PhD camera.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2215</wp:post_id>
+  <wp:post_date>2011-12-04 23:01:51</wp:post_date>
+  <wp:post_date_gmt>2011-12-05 05:01:51</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>revenge-of-the-phd-camera</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="camera"><![CDATA[camera]]></category>
+  <category domain="post_tag" nicename="cell-phone"><![CDATA[cell-phone]]></category>
+  <category domain="post_tag" nicename="hipstamatic"><![CDATA[Hipstamatic]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>272</wp:comment_id>
+    <wp:comment_author><![CDATA[The Wahweap Wow &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/</wp:comment_author_url>
+    <wp:comment_author_IP>69.170.134.165</wp:comment_author_IP>
+    <wp:comment_date>2012-05-22 16:28:22</wp:comment_date>
+    <wp:comment_date_gmt>2012-05-22 21:28:22</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] up and went to plan B. Plan B consisted of covering the lens of my  iPhone with eclipse shades and Phd’ing it.  I took a few frames and managed to catch the ring. It was a minor triumph of iPhoneography. [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:14:"1337722102.455";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1337723019</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1337723019.5268";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-05-22 21:28:22</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>The Instagram Metadata Massacre</title>
@@ -34548,6 +34731,138 @@ Monkey Browsing is already here!]]></wp:comment_content>
       <wp:meta_value>1490972757</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title>The Collapsing Empire: Goodreads Review</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/</link>
+  <pubDate>Wed, 26 Apr 2017 17:13:27 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5368</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="https://www.goodreads.com/book/show/29939160-the-collapsing-empire"><img class="alignleft wp-image-5370" src="https://bakerjd99.files.wordpress.com/2017/04/cescalzi.jpg?w=198" alt="" width="167" height="246" /></a>The Collapsing Empire (CE) is a breezy fun to read space opera. Because I rate books on Goodreads mostly on how much I enjoyed them I gave CE a solid four. If you're looking for a few hours away from planet moron (Earth) CE is worth the time. While I enjoyed CE it's unlikely I will be following this series as it unfolds in however many books the author and his publisher manage to flog in the future. I've reached the point in my life where entertainment is no longer sufficient. I demand new ideas and different ways of looking at things from what I read. By this standard CE barely rates a one.
+
+The only moderately new notion here is that of "The Flow." The Flow is CE's magic element. It's the story element that enables a human interstellar civilization. The Flow plays the same role in CE that the ocean does in Moby Dick. The ocean is not considered a character in Moby Dick but try imagining the novel without it! Remove The Flow from CE and you are left with stock characters, stock court politics, stock predictable disputes, and a tiny little universe that, trust me, feels more stunted than a night spent under a clear dark sky looking at real stars.
+
+As a final note: I'd advise the author to refrain from dispensing his opinions about real-world politics. Nothing ruins a book faster than conflating actual authors with their fictional characters. Many years ago I was on the verge of reading Anne Rice's vampire books but then I had the good luck to see an interview of Anne Rice going on about how her characters were her lovers. She wasn't being metaphorical; the woman is nuts. I decided right on the spot that it was unlikely such a delusional nitwit was worthy of my sustained attention. Authors labor under an unspoken Fight Club rule. “The first rule of fiction writing is: stay the Hell out of your fiction writing!"]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5368</wp:post_id>
+  <wp:post_date>2017-04-26 12:13:27</wp:post_date>
+  <wp:post_date_gmt>2017-04-26 17:13:27</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-collapsing-empire-goodreads-review</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="books"><![CDATA[Books]]></category>
+  <category domain="post_tag" nicename="fight-club-rule"><![CDATA[Fight Club Rule]]></category>
+  <category domain="post_tag" nicename="goodreads"><![CDATA[Goodreads]]></category>
+  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
+  <category domain="post_tag" nicename="scalzi"><![CDATA[Scalzi]]></category>
+  <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4422735065]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>What is Required: Citizen Environment Sampling Drones</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/</link>
+  <pubDate>Mon, 01 May 2017 00:34:14 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5375</guid>
+  <description/>
+  <content:encoded><![CDATA[We are well into the drone age. Not long ago drones served only deep-pocketed governments and corporations. This is still the case. Whenever you hear about drone strikes on wedding parties, oops terrorist gatherings, the “responsible” drone is probably a standard overpriced multimillion dollar product of the military industrial crony complex. Why dispatch terrorists with a few bullets when you can spend millions of newly created and freshly taxed dollars instead? War may be hell but business is business.
+
+If things had been left to the druthers of the crony crowd the cozy world of cost-plus drones would have lasted forever but then technology happened. Remember those annoying toy quadcopters that flew around the atriums of shopping malls just a few years ago. You probably thought, “That’s a cute toy” Well those cheap little toys have grown up and are now <a href="http://www.popularmechanics.com/flight/drones/a25282/flame-throwing-drones/">cleaning power lines with flame throwers</a>, <a href="http://dailycaller.com/2016/03/30/narco-drones-the-cartels-newest-tech-savvy-smuggling-sop-spooks-security-experts/">carrying drugs across borders</a>,<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> <a href="https://www.washingtonpost.com/local/prisons-try-to-stop-drones-from-delivering-drugs-porn-and-cellphones-to-inmates/2016/10/12/645fb102-800c-11e6-8d0c-fb6c00c90481_story.html">smuggling contraband into prisons</a>, <a href="https://www.youtube.com/watch?v=vdgvlHH3JSA">annoying eagles</a>, <a href="http://nypost.com/2017/03/16/war-against-isis-now-involves-shuttlecock-grenades-dropped-by-drones/">dropping grenades on ISIS</a>, and <a href="https://www.youtube.com/watch?v=FZOgy5V9imI">taking really great selfies</a>.
+
+[caption id="attachment_5366" align="aligncenter" width="300"]<a href="w.popularmechanics.com/flight/drones/a25282/flame-throwing-drones/"><img class="wp-image-5366 size-medium" src="https://bakerjd99.files.wordpress.com/2017/04/flame-drone.jpg?w=300" alt="" width="300" height="150" /></a> It's an airborne "Drone-cue."  The age of the drone is just getting started. These gadgets will be put to all sorts of uses. Monitoring the environment, with or without the permission of authorities, is an excellent use of drones.[/caption]
+
+Small inexpensive drones are being put to so many creative uses that it’s beginning to worry our self-appointed overlords. You don’t need crony connections and millions of dollars to launch drone attacks. Any moron with an iPhone and a drone can declare war on the ruling classes. Not many see it but we’re entering a golden age of drone assassins. Small drones will continue to improve and diversify. They will fly further, faster and quieter. They will creep, climb, tunnel and bore through any obstacle. Whatever silly government legislation and anti-drone measures authorities concoct will be quickly countered and worked around. The drone genie, like strong encryption before it, is out of the bottle and it isn’t going back in. <em>Basically, if you’re somebody that needs killing a drone is being assigned your number right now.</em>
+
+As much as I enjoy drone enabled asshole termination that’s not what I am requiring today. If you’ve been paying attention to what’s precisely labeled “fake news” you’ve probably noticed that a strange tweeting orange ogre has moved into the White House. Yes, it’s the end of the world. One of the ogre’s first outrages was to appoint like-minded ogres to allegedly important government posts. Imagine that!
+
+Of great concern to “so-called” environmentalists is the ogre appointed to behead the <a href="https://www.epa.gov/">EPA</a>. This cruel EPA slayer is not drinking the Earth first Kool-Aid and appears determined to end the cushy pensioned sinecures of all the left-thinking, environment protecting, comrades. Like I said before, it’s the end of the world. Apparently, after a few, and I mean a very few, underperforming EPA comrades are purged this critical government agency will become deaf, dumb and blind.<a id="fnref2" class="footnoteRef" href="#fn2"><sup>2</sup></a> All that wonderful EPA air and water quality data will no longer be collected. Only large infusions of newly created and freshly taxed money can prevent this apocalypse.
+
+For Christ sakes, cry me an orange river!
+
+[caption id="attachment_5367" align="aligncenter" width="400"]<a href="https://www.wired.com/2015/08/epa-accidentally-turned-river-toxicand-orange/"><img class="wp-image-5367" src="https://bakerjd99.files.wordpress.com/2017/04/orange-river.jpg?w=584" alt="" width="400" height="266" /></a> Critics of Trump's appointment of Scott Pruitt to head the EPA should keep in mind that the bar for "wrecking" the EPA has been set very low by the Obama administration. It was the EPA that turned the Animas River orange. Yes, it was an unfortunate accident, and sometimes you have to destroy the river in order to save it. Two states and the Navajo Nation are suing the EPA for gross negligence and incompetence and based on images like this I'm guessing they have a case.[/caption]
+
+If you really care about the environment get off your fat corn syrup enlarged ass and collect your own data with drones. I’ve listened to <em>cis-lefties</em> insist they are smarter, fitter and better looking than their evil <em>cis-righty</em> counterparts for years. Well, here’s an opportunity to prove it. Instead of marching for science why don’t you modify or build drones that can actually do science.
+
+One of my favorite scenes in the movie <a href="https://en.wikipedia.org/wiki/Erin_Brockovich_(film)"><em>Erin Brockovich</em></a> shows our spunky girl-power heroine played by Julia Roberts<a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a> sneaking onto the grounds of a power plant to clandestinely sample waste water ponds. She was caught and shooed away but not before she snagged water samples that contained Hexavalent Chromium: the same, <em>unnaturally occurring</em>, compound that also turned up in the drinking water of people living near the plant. What a coincidence? Erin may have been a spunky go getter but chemistry was the real hero.
+
+Erin was taking a real risk sneaking onto "private property." In many parts of the world, she would have been shot and dumped into the wastewater ponds. How many of us would take such a risk? If only there was a way to reduce the risks of clandestine sampling. If only there was a small, hard to detect, quiet, remote-controlled device that could fly into “forbidden zones”, sample areas of interest, and then fly out with physical evidence.
+
+It wouldn’t be all that difficult to modify existing drones to do this. It would make a great science fair project. Think of how much better things would be if pinheaded SJWs stopped <a href="http://ageofshitlords.com/complete-list-of-all-tumblr-sexualities-so-far">enumerating new imaginary genders</a> and devoted their time and energy to mastering the technology required to build and operate sampling drones. Instead of being an embarrassing stain on humanity they might actually do some good.
+
+Finally, combine clandestine drone sampling with <a href="https://lbry.io/learn">blockchain based unbannable binary file distribution</a> and it’s possible to create the type of “transparency” political buttheads are always blathering about but never actually provide.
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">The advent of drones highlights the utter stupidity of Trump’s border wall. How high will the wall have to be to stop drones from flying over it? How many anti-drone-drones will need to be stationed along the wall to secure the border?<a href="#fnref1">↩</a></li>
+    <li id="fn2">Considering that the EPA is already deaf and dumb how bad can blind be?<a href="#fnref2">↩</a></li>
+    <li id="fn3">I admit it; I've seen too many Julia Roberts movies. Like many mainly manly men, I have a thing for nice smiles and boobs and no amount of feminist nagging will change that.<a href="#fnref3">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5375</wp:post_id>
+  <wp:post_date>2017-04-30 19:34:14</wp:post_date>
+  <wp:post_date_gmt>2017-05-01 00:34:14</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>what-is-required-citizen-environment-sampling-drones</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="citizen-science"><![CDATA[citizen-science]]></category>
+  <category domain="post_tag" nicename="drones"><![CDATA[drones]]></category>
+  <category domain="post_tag" nicename="environment"><![CDATA[environment]]></category>
+  <category domain="post_tag" nicename="epa"><![CDATA[EPA]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="sampling"><![CDATA[sampling]]></category>
+  <category domain="post_tag" nicename="smuggling"><![CDATA[smuggling]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4566004548]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5366]]></wp:meta_value>
+  </wp:postmeta>
 </item>
   </channel>
 </rss>
