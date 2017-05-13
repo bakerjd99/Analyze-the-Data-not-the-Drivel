@@ -1,0 +1,37 @@
+
+[The Collapsing 
+Empire: Goodreads Review](http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+*Posted: 26 Apr 2017 17:13:27*
+
+The Collapsing Empire (CE) is a breezy fun to read space opera. Because
+I rate books on Goodreads mostly on how much I enjoyed them I gave CE a
+solid four. If you’re looking for a few hours away from planet moron
+(Earth) CE is worth the time. While I enjoyed CE it’s unlikely I will be
+following this series as it unfolds in however many books the author and
+his publisher manage to flog in the future. I’ve reached the point in my
+life where entertainment is no longer sufficient. I demand new ideas and
+different ways of looking at things from what I read. By this standard
+CE barely rates a one.
+
+The only moderately new notion here is that of “The Flow.” The Flow is
+CE’s magic element. It’s the story element that enables a human
+interstellar civilization. The Flow plays the same role in CE that the
+ocean does in Moby Dick. The ocean is not considered a character in Moby
+Dick but try imagining the novel without it! Remove The Flow from CE and
+you are left with stock characters, stock court politics, stock
+predictable disputes, and a tiny little universe that, trust me, feels
+more stunted than a night spent under a clear dark sky looking at real
+stars.
+
+As a final note: I’d advise the author to refrain from dispensing his
+opinions about real-world politics. Nothing ruins a book faster than
+conflating actual authors with their fictional characters. Many years
+ago I was on the verge of reading Anne Rice’s vampire books but then I
+had the good luck to see an interview of Anne Rice going on about how
+her characters were her lovers. She wasn’t being metaphorical; the woman
+is nuts. I decided right on the spot that it was unlikely such a
+delusional nitwit was worthy of my sustained attention. Authors labor
+under an unspoken Fight Club rule. “The first rule of fiction writing
+is: stay the Hell out of your fiction writing!”
