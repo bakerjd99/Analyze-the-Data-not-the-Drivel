@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-05-05 03:36"-->
+<!-- generator="WordPress.com" created="2017-05-21 17:16"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Fri, 05 May 2017 03:36:14 +0000</pubDate>
+<pubDate>Sun, 21 May 2017 17:16:02 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1041,6 +1041,11 @@
   <wp:term_id>9273</wp:term_id>
   <wp:tag_slug>customer-service</wp:tag_slug>
   <wp:tag_name><![CDATA[customer service]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>6148720</wp:term_id>
+  <wp:tag_slug>cyberattack</wp:tag_slug>
+  <wp:tag_name><![CDATA[cyberattack]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>191283</wp:term_id>
@@ -2793,6 +2798,11 @@
   <wp:tag_name><![CDATA[Raju]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>192933</wp:term_id>
+  <wp:tag_slug>ransomware</wp:tag_slug>
+  <wp:tag_name><![CDATA[ransomware]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>224963</wp:term_id>
   <wp:tag_slug>ravenna</wp:tag_slug>
   <wp:tag_name><![CDATA[Ravenna]]></wp:tag_name>
@@ -3421,6 +3431,11 @@
   <wp:term_id>185494</wp:term_id>
   <wp:tag_slug>walker</wp:tag_slug>
   <wp:tag_name><![CDATA[walker]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>576612204</wp:term_id>
+  <wp:tag_slug>wannacry</wp:tag_slug>
+  <wp:tag_name><![CDATA[WannaCry]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>497623</wp:term_id>
@@ -9108,7 +9123,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/orange-river.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>cescalzi</title>
+  <title/>
   <link>http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/cescalzi/</link>
   <pubDate>Wed, 26 Apr 2017 17:11:23 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
@@ -34862,6 +34877,99 @@ Finally, combine clandestine drone sampling with <a href="https://lbry.io/learn"
   <wp:postmeta>
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[5366]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>I WannaCry about the Plunging Quality of Evil Geniuses</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/</link>
+  <pubDate>Thu, 18 May 2017 04:23:12 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5387</guid>
+  <description/>
+  <content:encoded><![CDATA[I have something to confess; I have no patience or sympathy for idiots. When imbeciles impale themselves on reality I smirk and guffaw. With such a nasty attitude it won’t surprise you to learn that I really enjoyed the recent <a href="https://en.wikipedia.org/wiki/WannaCry_ransomware_attack">WannaCry Ransomware</a> cyber attack. Judging from the mewling soiled diaper press you might conclude civilization was dealt a death-blow and that idiot Trump is to blame.
+
+What really happened?
+
+<ol style="list-style-type:decimal;">
+    <li>The NSA "cataloged"<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> a security flaw in Windows XP and didn’t inform anyone.</li>
+    <li>The flaw was leaked.</li>
+    <li>Hackers exploited the flaw to infect old Windows XP computers.</li>
+    <li>They encrypted files and tried to ransom victims using Bitcoin.</li>
+</ol>
+
+<em>It’s stupid all the way down! </em>
+
+To begin, Windows XP is ancient. Microsoft spent years warning people to upgrade to more current versions of Windows. The warnings went on for years and years and years. Yet despite this relentless nagging an army of morons refused to upgrade. Now these shiftless dolts are blaming others.
+
+“Microsoft should support obsolete crap forever for free.”
+
+“Teresa May didn’t give us enough money to upgrade our computers.”
+
+“What’s the point of rudimentary computer security when Trump is going to nuke us?”
+
+Most WannaCry victims are suffering self-inflicted wounds. Let’s hope some of them bleed to death.
+
+As for the NSA, that festering hive of evil geniuses, you would think they would have learned something from the strong encryption battles and the Snowden affair but apparently not. Judging from recent history the NSA stands for NOT SECURE AGENCY. They're leaking more than a menstruating woman without sanitary napkins. The entire notion of stockpiling software defects to use at a later date is cosmically stupid because it presumes software is static. Software is always changing: sometimes for good reasons. Your backdoor will probably close with the next compiler or OS release. Some quality assurance drone may notice your favorite backdoor and release a patch. This happens all the time, just read the notices that accompany standard updates and patches. At best stockpiling defects is a short-term tactical gimmick. Frankly, I expect more from the deep thinkers at the NSA.
+
+It’s sad but evil hacking geniuses still depend on dumb users. The odds of obsolete, unsupported, and unpatched software being able to fend off NSA hacks is low but it rapidly approaches zero when dimwitted dolts respond to <a href="https://kb.iu.edu/d/arsf">phishing attacks</a>. How many “don’t click on unsolicited links” warnings must be issued before corporate cubicle warmers smarten up?
+
+“But if I don’t click on this link I might miss consuming more useless crap?”
+
+Finally, using Bitcoin for ransom purposes is unbelievably stupid.
+
+WannaCry hackers you’re using the wrong <a href="https://getmonero.org/home">cryptocurrency</a>!
+
+The Bitcoin blockchain is darn close to a perfect forensic tool. Once a transaction is recorded on the chain it can never be altered, erased, denied or fudged. You’re dropping indestructible breadcrumbs. It’s an audit trail on steroids. It’s like the idiot WannaCry hackers want to be caught!
+
+Many feeble minds still think Bitcoin is anonymous. This was sort of true in the very early days of Bitcoin when nobody gave a shit about it and no serious money was changing hands. The world has changed. Bitcoin has been outperforming all fiat currencies for the last two years. A single coin is now worth more the $1,700 US – more than an ounce of gold. Serious money is now changing hands in the Bitcoin universe and when serious money is present the usual financial rapists and apex predators, your local taxation authorities, descend like vultures on a carcass.
+
+Because the blockchain is immutable and open it’s relatively easy to de-anonymize. An entire <a href="https://www.engadget.com/2016/07/06/startups-seek-to-de-anonymize-bitcoin-to-fight-crime/">software industry</a> has sprung up to do just this. Once you associate a person with a Bitcoin address you can easily and reliably follow the money. De-anonymizing Bitcoin has been going on for years. I just assume the entire blockchain is already de-anonymized which makes Bitcoin just about the worst possible choice for ransoms.
+
+Despite all the amusing stupidity on display here, the WannaCry hack has inadvertently established a proper baseline test for an advanced privacy preserving cryptocurrency. <em>A proper private and secure cryptocurrency should be a nearly perfect money laundering tool!</em> I’m looking forward to the day when real evil geniuses, not WannaCry wannabes, stage a massive ransomware attack, collect a massive <a href="http://www.urbandictionary.com/define.php?term=buttload">butload </a>of untraceable coin, and then spend it right under the noses of the word’s taxation and intelligence agencies. When this glorious day arrives we, the little wage slaves, the deplorables, the lumpen-proletariat, will finally have some financial privacy! Remember, if your money isn’t free then neither are you!
+
+Until then I just WannaCry!
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">It’s not clear they discovered the flaw but however it was found they withheld it.<a href="#fnref1">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5387</wp:post_id>
+  <wp:post_date>2017-05-17 23:23:12</wp:post_date>
+  <wp:post_date_gmt>2017-05-18 04:23:12</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>i-wannacry-about-the-plunging-quality-of-evil-geniuses</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="bitcoin"><![CDATA[Bitcoin]]></category>
+  <category domain="post_tag" nicename="cyberattack"><![CDATA[cyberattack]]></category>
+  <category domain="post_tag" nicename="ransomware"><![CDATA[ransomware]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="wannacry"><![CDATA[WannaCry]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5167935445]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
