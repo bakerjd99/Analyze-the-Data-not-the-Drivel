@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-05-21 17:16"-->
+<!-- generator="WordPress.com" created="2017-08-13 17:34"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>I will resort to logic when all else fails.</description>
-<pubDate>Sun, 21 May 2017 17:16:02 +0000</pubDate>
+<pubDate>Sun, 13 Aug 2017 17:34:38 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1578,6 +1578,11 @@
   <wp:tag_name><![CDATA[Google Maps]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>4909952</wp:term_id>
+  <wp:tag_slug>goolag</wp:tag_slug>
+  <wp:tag_name><![CDATA[Goolag]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>5560112</wp:term_id>
   <wp:tag_slug>government-id</wp:tag_slug>
   <wp:tag_name><![CDATA[Government ID]]></wp:tag_name>
@@ -1606,6 +1611,11 @@
   <wp:term_id>177699</wp:term_id>
   <wp:tag_slug>gtk</wp:tag_slug>
   <wp:tag_name><![CDATA[GTK]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>180389</wp:term_id>
+  <wp:tag_slug>guam</wp:tag_slug>
+  <wp:tag_name><![CDATA[Guam]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>24363706</wp:term_id>
@@ -2043,6 +2053,11 @@
   <wp:tag_name><![CDATA[Koran]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>3956</wp:term_id>
+  <wp:tag_slug>korea</wp:tag_slug>
+  <wp:tag_name><![CDATA[Korea]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>24078</wp:term_id>
   <wp:tag_slug>korean-tv</wp:tag_slug>
   <wp:tag_name><![CDATA[Korean TV]]></wp:tag_name>
@@ -2221,6 +2236,11 @@
   <wp:term_id>197376445</wp:term_id>
   <wp:tag_slug>lydia-jane-ayres</wp:tag_slug>
   <wp:tag_name><![CDATA[Lydia Jane Ayres]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>7921</wp:term_id>
+  <wp:tag_slug>mad</wp:tag_slug>
+  <wp:tag_name><![CDATA[MAD]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>10027605</wp:term_id>
@@ -2496,6 +2516,11 @@
   <wp:term_id>139503</wp:term_id>
   <wp:tag_slug>nuclear-weapons</wp:tag_slug>
   <wp:tag_name><![CDATA[Nuclear weapons]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>84859</wp:term_id>
+  <wp:tag_slug>nukes</wp:tag_slug>
+  <wp:tag_name><![CDATA[Nukes]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>583429</wp:term_id>
@@ -3536,7 +3561,7 @@
 </wp:term>
 <generator>http://wordpress.com/</generator>
 <image>
-		<url>https://secure.gravatar.com/blavatar/a4c78b8f24ac17d7472c9822a119b2ec?s=96&#038;d=https%3A%2F%2Fs2.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<url>https://s2.wp.com/i/buttonw-com.png</url>
 		<title>Analyze the Data not the Drivel.</title>
 		<link>http://analyzethedatanotthedrivel.org</link>
 	</image>
@@ -7475,116 +7500,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2012/06/03/2889/</link>
-  <pubDate>Sun, 03 Jun 2012 18:11:28 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2889</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2889</wp:post_id>
-  <wp:post_date>2012-06-03 13:11:28</wp:post_date>
-  <wp:post_date_gmt>2012-06-03 18:11:28</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2889</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>26</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2130]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[462]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2012/07/13/3069/</link>
-  <pubDate>Sat, 14 Jul 2012 00:22:33 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3069</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>3069</wp:post_id>
-  <wp:post_date>2012-07-13 19:22:33</wp:post_date>
-  <wp:post_date_gmt>2012-07-14 00:22:33</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>3069</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>90</wp:post_parent>
-  <wp:menu_order>5</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2116]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[17903]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>http://analyzethedatanotthedrivel.org/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -8939,29 +8854,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/01/beirutsouthcoast.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Wed, 22 Feb 2017 00:59:38 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/02/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5340</wp:post_id>
-  <wp:post_date>2017-02-21 18:59:38</wp:post_date>
-  <wp:post_date_gmt>2017-02-22 00:59:38</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/02/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>old-faithful-winter-eruption-yellowstone-th</title>
   <link>http://analyzethedatanotthedrivel.org/old-faithful-winter-eruption-yellowstone-th/</link>
   <pubDate>Wed, 22 Feb 2017 01:08:43 +0000</pubDate>
@@ -9213,6 +9105,75 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/04/brunea-dunes-observatory-sundial-th.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Sun, 21 May 2017 18:08:53 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/05/bm.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5392</wp:post_id>
+  <wp:post_date>2017-05-21 13:08:53</wp:post_date>
+  <wp:post_date_gmt>2017-05-21 18:08:53</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/05/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 85</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/creator-gd-jpeg-v1-0-using-ijg-jpeg-v62-quality-85/</link>
+  <pubDate>Sun, 13 Aug 2017 01:18:58 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/08/thinkdiff2.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[CREATOR: gd-jpeg v1.0 (using IJG JPEG v62), quality = 85]]></excerpt:encoded>
+  <wp:post_id>5403</wp:post_id>
+  <wp:post_date>2017-08-12 20:18:58</wp:post_date>
+  <wp:post_date_gmt>2017-08-13 01:18:58</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>creator-gd-jpeg-v1-0-using-ijg-jpeg-v62-quality-85</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5395</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/thinkdiff2.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>launchlunch</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/launchlunch/</link>
+  <pubDate>Sun, 13 Aug 2017 01:33:40 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/08/launchlunch.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5405</wp:post_id>
+  <wp:post_date>2017-08-12 20:33:40</wp:post_date>
+  <wp:post_date_gmt>2017-08-13 01:33:40</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>launchlunch</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5395</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/launchlunch.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -17314,411 +17275,6 @@ William]]></wp:comment_content>
   </wp:comment>
 </item>
 <item>
-  <title>1421: The Crank History of Gavin Menzies</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/08/11/1421-the-crank-history-of-gavin-menzies/</link>
-  <pubDate>Thu, 11 Aug 2011 05:09:12 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1742</guid>
-  <description/>
-  <content:encoded><![CDATA[<a href="http://www.goodreads.com/book/show/4813.1421"><img class="alignleft" style="border-width:5px;margin:5px;" src="http://conceptcontrol.smugmug.com/photos/i-QMZfvjP/0/S/i-QMZfvjP-S.jpg" alt="" width="160" height="240" /></a>Crank history is big business and it's getting bigger. For reasons that infuriate skeptics there is a never-ending parade of pseudo-historians spouting rubbish that is eagerly devoured by a credulous pig ignorant public. Gavin Menzies' ludicrous tome, <a href="http://www.1421exposed.com/html/1421_and_all_that_junk.html">1421: The Year China Discovered America</a>, (also titled 1421: The Year China Discovered the World), is the finest example of delusional sophistry I've encountered since Graham Hancock's insane <a href="http://www.csicop.org/si/show/tracing_graham_hancockrsquos_shifting_cataclysm/">Finger Prints of the Gods</a>.
-
-About  the only thing you can say for Gavin's fantasy is that, (unlike Hancock's Finger Prints -- the "<a href="http://en.wikipedia.org/wiki/Fingerprints_of_the_Gods">science</a>" behind the movie <a href="http://blog.moviefone.com/2011/01/03/nasa-names-most-realistic-and-unrealistic-sci-fi-films-of-all-ti/">2012</a>), 1421 is remotely plausible. It's to bad that <em>remotely plausible</em> does not make your case! Skeptics are <a href="http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/">hard-asses</a> we demand rigorous and repeatedly verified evidence before deeming suppositions <em>possibly not crap</em>!  By this standard Gavin falls way short. I'm not going to catalog Gavin's many errors, omissions and deceptions. That task has already been done by an army of critics. You can look <a href="http://www.csicop.org/sb/show/zheng_he_in_the_americas_and_other_unlikely_tales_of_exploration_and_discov/">here</a> and <a href="https://docs.google.com/viewer?url=http://www.e-perimetron.org/Vol_2_4/Wade.pdf&amp;pli=1">here</a> and <a href="http://www.asianreviewofbooks.com/new/?revID=201">here</a> and <a href="http://badarchaeology.wordpress.com/tag/gavin-menzies/">here</a>. In particular <a href="http://www.dightonrock.com/gavinsfantalyland.htm">Bill Hartz's exhaustive demolition</a> is a bracing tonic for Gavin's numbing elixir.
-
-To get the gist of Gavin's arguments let's look at one of his claims. On page 241, (paperback edition), Gavin first mentions the <em>Sacramento Junk</em>. The Sacramento Junk is <em>allegedly</em> the remains of a large wooden ship entombed under a sand bank in the Sacramento river of California. Ok, so far so good! We have a wooden wreck in a river. The Chinese junks Gavin imagined sailing around the world had unique characteristics that would easily distinguish them from plain old Pacific west coast wrecks. For example:
-<ol>
-	<li>They had 15th century teak hulls.</li>
-	<li>Metal bins bolted hull compartments together.</li>
-	<li>They used silk sails.</li>
-	<li>They often carried porcelain, seeds and trade goods.</li>
-</ol>
-If the Sacramento Junk is the remains of a 15th century junk it looks like identifying it would be an archaeological no-brainer! All we have to do is sample the site, collect some 15th century teak wood for carbon dating, and bingo the case for the Chinese reaching the west coast of the America's before Columbus is looking promising.  Gavin describes drilling into the sand bank, extracting some wood and carbon dating it to 1410. <em> Isn't science wonderful?</em>
-
-<strong>Here are a few questions.</strong>
-<ul>
-	<li>Where the hell is the Sacramento Junk?</li>
-</ul>
-Your impressive end-notes mention collecting samples in 2002 and 2003. I believe GPS was up and running. Could we have exact coordinates please?
-<ul>
-	<li>Was the wood teak?</li>
-</ul>
-If you're looking for teak ships you might want to consult a wood expert. Teak, even old rotting teak, is easily identified. Look into it.
-<ul>
-	<li>How many samples were carbon dated?</li>
-	<li>Where the hell are the lab reports, sample photographs  and other documents?</li>
-	<li>Did you notify the historic relic Nazi's of your amazing Chinese wreck?</li>
-</ul>
-You almost need a permit to weed your own damn garden in California for fear of disturbing native artifacts yet somehow you pillaged an ultra-historic wreck without the <em>save our culture</em> weenies whining ---  yeah I once lived in California. With so many simple facts omitted you wonder if the Sacramento Junk is a figment of Gavin's lurid imagination.
-
-Gavin repeats this pattern of building a case for the <em>Chinese Stopped Here </em>over and over again and,<em> without exception</em>, always omits basic information that would lend credence to his claims. <em>You need to set your bullshit detector on maximum when sailing with Gavin!</em>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1742</wp:post_id>
-  <wp:post_date>2011-08-11 00:09:12</wp:post_date>
-  <wp:post_date_gmt>2011-08-11 05:09:12</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>1421-the-crank-history-of-gavin-menzies</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="bad-archaeology"><![CDATA[bad archaeology]]></category>
-  <category domain="category" nicename="books"><![CDATA[Books]]></category>
-  <category domain="post_tag" nicename="bullshit"><![CDATA[Bullshit]]></category>
-  <category domain="post_tag" nicename="crank"><![CDATA[crank]]></category>
-  <category domain="post_tag" nicename="gavin-menzies"><![CDATA[Gavin Menzies]]></category>
-  <category domain="category" nicename="history"><![CDATA[History]]></category>
-  <category domain="post_tag" nicename="pseudo-history"><![CDATA[pseudo-history]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="revisionist"><![CDATA[revisionist]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>1086</wp:comment_id>
-    <wp:comment_author><![CDATA[Vikings in Memphis! - Page 2]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://www.arrowheadology.com/forums/arrowheads-news/48716-vikings-memphis-2.html#post433559</wp:comment_author_url>
-    <wp:comment_author_IP>199.102.228.154</wp:comment_author_IP>
-    <wp:comment_date>2014-08-19 12:35:36</wp:comment_date>
-    <wp:comment_date_gmt>2014-08-19 17:35:36</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[&#8230;] comprehensively debunked numerous times. There are several links to the errors in his works here:  1421: The Crank History of Gavin Menzies | Analyze the Data not the Drivel.  &#8230; including some comprehensive destruction of the myths by Bill Hartz here:  [&#8230;]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2014-08-19 17:35:36</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1408475558</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1408475558.759707927703857421875;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1408469736.6211459636688232421875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>1496</wp:comment_id>
-    <wp:comment_author><![CDATA[Rena Moretti]]></wp:comment_author>
-    <wp:comment_author_email>renamoretti@dcemail.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>69.71.193.130</wp:comment_author_IP>
-    <wp:comment_date>2014-11-29 15:24:57</wp:comment_date>
-    <wp:comment_date_gmt>2014-11-29 21:24:57</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[While you make interesting points, they are diminished by the name-calling.  If it is so obvious the 1421 theory is false, calling it names should not be necessary.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417302444.178472042083740234375;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_notqueued</wp:meta_key>
-      <wp:meta_value>1417302443</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1417302443</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417301341.474948883056640625;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1417296298.2412559986114501953125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>1313</wp:comment_id>
-    <wp:comment_author><![CDATA[steve]]></wp:comment_author>
-    <wp:comment_author_email>ross_39@msn.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>207.34.115.64</wp:comment_author_IP>
-    <wp:comment_date>2014-10-12 13:21:34</wp:comment_date>
-    <wp:comment_date_gmt>2014-10-12 18:21:34</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Why are so Irate?]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>email_notification_notqueued</wp:meta_key>
-      <wp:meta_value>1413142013</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2014-10-12 18:21:35</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1413141943.4252350330352783203125;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1413138094.80797100067138671875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1413142013</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";d:1413142014.1113989353179931640625;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
-  <title>Common Table Expression (CTE) SQLServer Queries with J</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/08/13/common-table-expression-cte-sqlserver-queries-with-j/</link>
-  <pubDate>Sat, 13 Aug 2011 22:01:10 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1795</guid>
-  <description/>
-  <content:encoded><![CDATA[I've been blogging long enough to observe that your<em> awesome posts are often ignored</em> while your little "one-offs" sometimes strike <a href="http://www.webopedia.com/TERM/H/hit.html">hit</a> gold. This is particularly true for "code example" posts. When I'm trolling for code --- the geek equivalent of trolling for babes --- I don't want to read about the author's programming philosophy or what the hell he thinks about the idiot in the White House. <strong>Just show me the code and shut up!</strong>
-
-So, taking my own advice,  the following is an example of a SQLSever <a href="http://msdn.microsoft.com/en-us/library/ms190766.aspx">Common Table Expression</a> (CTE) query.
-
-[sourcecode language="sql" wraplines="false" gutter="false" autolinks="false"]
-WITH cte1
-     AS (SELECT c.obj_id                            AS obj_id,
-                a.created                           AS creation_date,
-                Datediff(DAY, a.created, Getdate()) AS day_cnt
-         FROM   [HIST].[dbo].[History] a
-                JOIN [HIST].[dbo].[HistorySummary] b
-                  ON a.rowid = b.rowid
-                JOIN [HIST].[dbo].[ObjectNames] c
-                  ON c.obj_name = b.obj_name),
-     cte2
-     AS (SELECT cte1.obj_id AS obj_id,
-                CASE
-                  WHEN cte1.day_cnt &lt;= 30 THEN 1
-                  ELSE 0
-                END         AS d0,
-                CASE
-                  WHEN ( cte1.day_cnt &gt; 30 )
-                       AND ( cte1.day_cnt &lt;= 60 ) THEN 1
-                  ELSE 0
-                END         AS d1,
-                CASE
-                  WHEN ( cte1.day_cnt &gt; 60 )
-                       AND ( cte1.day_cnt &lt;= 90 ) THEN 1
-                  ELSE 0
-                END         AS d2,
-                CASE
-                  WHEN ( cte1.day_cnt &gt; 90 ) THEN 1
-                  ELSE 0
-                END         AS d3
-         FROM   cte1)
-SELECT obj_id,
-       SUM(d0) AS OneMonth,
-       SUM(d1) AS TwoMonths,
-       SUM(d2) AS ThreeMonths,
-       SUM(d3) AS Overdue
-FROM   cte2
-GROUP  BY obj_id
-[/sourcecode]
-
-CTE queries <em>essentially</em> create temporary virtual tables during query execution. They are similar to nested SQL queries but are easier to code, more general, (see <a href="http://msdn.microsoft.com/en-us/library/ms186243.aspx">recursive CTE queries</a>), and often perform better than their convoluted equivalents. This example creates two virtual tables <span style="font-family:Courier;">cte1</span> and <span style="font-family:Courier;">cte2</span> that are then used to compute a quick histogram.
-
-You can call CTE queries with the <a href="http://www.jsoftware.com/jwiki/ODBC">J ODBC</a> interface. The following assumes a SQLServer ODBC connection <a href="http://www.geeksengine.com/article/mysql-odbc.html">dsn</a> <span style="font-family:Courier;">history.</span>
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-NB. odbc interface
-require 'dd'
-
-NB. read CTE query
-HistoryAgeSQL=. read 'c:/temp/HistoryAge.sql'
-
-NB. connect sqlserver database
-ch =. ddcon 'dsn=history'
-
-NB. select with CTE query
-sh =. HistoryAgeSQL ddsel ch
-
-NB. fetch results
-data=. ddfet sh,_1
-[/sourcecode]
-
-As a final note it's worth comparing the SQL CTE histogram code with J equivalents.  The two following J verbs taken from the <a href="http://www.jsoftware.com/jwiki/FrontPage">J wiki</a>, (<a href="http://www.jsoftware.com/jwiki/Essays/Histogram">here</a> and <a href="http://www.jsoftware.com/jwiki/BrianSchott/Histogram">here</a>), compute histograms.
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-NB. computes histograms uses right open intervals
-histogram=:&lt;:@(#/.~)@(i.@#@[ , I.)
-
-NB. variation on (histogram) uses left open intervals
-histogram2=:&lt;:@(#/.~)@(i.@&gt;:@#@[ , |.@[ (#@[ - I.) ])
-[/sourcecode]
-
-They scale to tens of millions of data points; returning results in a few seconds on my laptop. The SQL CTE, shown above, takes about three seconds running on 180,000 row tables on my employer's <a href="http://www.trekmania.net/science/warp_scale.htm">full warp</a> servers.  If I could convince the masses to adopt languages like J a large part of my job would disappear. Fortunately, <em>the world is hostile to terse elegance!</em>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1795</wp:post_id>
-  <wp:post_date>2011-08-13 17:01:10</wp:post_date>
-  <wp:post_date_gmt>2011-08-13 22:01:10</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>common-table-expression-cte-sqlserver-queries-with-j</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="common-table-expression"><![CDATA[common table expression]]></category>
-  <category domain="post_tag" nicename="cte"><![CDATA[CTE]]></category>
-  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
-  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
-  <category domain="post_tag" nicename="odbc"><![CDATA[ODBC]]></category>
-  <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="post_tag" nicename="queries"><![CDATA[queries]]></category>
-  <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="post_tag" nicename="source-code"><![CDATA[Source Code]]></category>
-  <category domain="post_tag" nicename="sql"><![CDATA[SQL]]></category>
-  <category domain="post_tag" nicename="sqlserver"><![CDATA[SQLServer]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>228</wp:comment_id>
-    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
-    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
-    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
-    <wp:comment_author_IP>156.34.67.241</wp:comment_author_IP>
-    <wp:comment_date>2012-01-29 08:29:45</wp:comment_date>
-    <wp:comment_date_gmt>2012-01-29 14:29:45</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[having the WITH _ AS _ can prevent deep nesting of queries, actually a prime use for the 'variable' concept, although the setting of a variable that is only used once doesn't really add much of a time savings.
-
-I suspect measurements of the J verbs histogram and histogram2 do not include the creation of the arguments to each, something the SQL seems to include.
-
-A =: createHistogramArg '' NB. perhaps this takes a lot of time
-]histogram A NB.  'a few seconds' ... maybe so]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1327857636</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1327847385.9962";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1327857637.2322";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-01-29 14:29:45</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>229</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>24.107.10.21</wp:comment_author_IP>
-    <wp:comment_date>2012-01-29 12:28:27</wp:comment_date>
-    <wp:comment_date_gmt>2012-01-29 18:28:27</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[You may be right about the timings if you consider the final <code>SELECT</code> the equivalent of the J expressions. Will you be at the J conference this summer?]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1327861708</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1327861708.1885";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-01-29 18:28:27</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>230</wp:comment_id>
-    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
-    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
-    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
-    <wp:comment_author_IP>156.34.67.241</wp:comment_author_IP>
-    <wp:comment_date>2012-01-29 16:11:48</wp:comment_date>
-    <wp:comment_date_gmt>2012-01-29 22:11:48</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Given that I am currently in the Maritimes, not London, it will be more difficult getting to Toronto, but who knows?]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>229</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1327875114</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1327875114.7452";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-01-29 22:11:48</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>Download this Blog</title>
   <link>http://analyzethedatanotthedrivel.org/download-this-blog/</link>
   <pubDate>Thu, 23 Feb 2012 05:12:59 +0000</pubDate>
@@ -17732,7 +17288,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/02/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/05/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -17846,6 +17402,116 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
       <wp:meta_value>2012-03-05 02:45:12</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2012/06/03/2889/</link>
+  <pubDate>Sun, 03 Jun 2012 18:11:28 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2889</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2889</wp:post_id>
+  <wp:post_date>2012-06-03 13:11:28</wp:post_date>
+  <wp:post_date_gmt>2012-06-03 18:11:28</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2889</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>26</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2130]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[462]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2012/07/13/3069/</link>
+  <pubDate>Sat, 14 Jul 2012 00:22:33 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=3069</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3069</wp:post_id>
+  <wp:post_date>2012-07-13 19:22:33</wp:post_date>
+  <wp:post_date_gmt>2012-07-14 00:22:33</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>3069</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>90</wp:post_parent>
+  <wp:menu_order>5</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2116]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[17903]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -19879,6 +19545,411 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>1421: The Crank History of Gavin Menzies</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/08/11/1421-the-crank-history-of-gavin-menzies/</link>
+  <pubDate>Thu, 11 Aug 2011 05:09:12 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1742</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://www.goodreads.com/book/show/4813.1421"><img class="alignleft" style="border-width:5px;margin:5px;" src="http://conceptcontrol.smugmug.com/photos/i-QMZfvjP/0/S/i-QMZfvjP-S.jpg" alt="" width="160" height="240" /></a>Crank history is big business and it's getting bigger. For reasons that infuriate skeptics there is a never-ending parade of pseudo-historians spouting rubbish that is eagerly devoured by a credulous pig ignorant public. Gavin Menzies' ludicrous tome, <a href="http://www.1421exposed.com/html/1421_and_all_that_junk.html">1421: The Year China Discovered America</a>, (also titled 1421: The Year China Discovered the World), is the finest example of delusional sophistry I've encountered since Graham Hancock's insane <a href="http://www.csicop.org/si/show/tracing_graham_hancockrsquos_shifting_cataclysm/">Finger Prints of the Gods</a>.
+
+About  the only thing you can say for Gavin's fantasy is that, (unlike Hancock's Finger Prints -- the "<a href="http://en.wikipedia.org/wiki/Fingerprints_of_the_Gods">science</a>" behind the movie <a href="http://blog.moviefone.com/2011/01/03/nasa-names-most-realistic-and-unrealistic-sci-fi-films-of-all-ti/">2012</a>), 1421 is remotely plausible. It's to bad that <em>remotely plausible</em> does not make your case! Skeptics are <a href="http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/">hard-asses</a> we demand rigorous and repeatedly verified evidence before deeming suppositions <em>possibly not crap</em>!  By this standard Gavin falls way short. I'm not going to catalog Gavin's many errors, omissions and deceptions. That task has already been done by an army of critics. You can look <a href="http://www.csicop.org/sb/show/zheng_he_in_the_americas_and_other_unlikely_tales_of_exploration_and_discov/">here</a> and <a href="https://docs.google.com/viewer?url=http://www.e-perimetron.org/Vol_2_4/Wade.pdf&amp;pli=1">here</a> and <a href="http://www.asianreviewofbooks.com/new/?revID=201">here</a> and <a href="http://badarchaeology.wordpress.com/tag/gavin-menzies/">here</a>. In particular <a href="http://www.dightonrock.com/gavinsfantalyland.htm">Bill Hartz's exhaustive demolition</a> is a bracing tonic for Gavin's numbing elixir.
+
+To get the gist of Gavin's arguments let's look at one of his claims. On page 241, (paperback edition), Gavin first mentions the <em>Sacramento Junk</em>. The Sacramento Junk is <em>allegedly</em> the remains of a large wooden ship entombed under a sand bank in the Sacramento river of California. Ok, so far so good! We have a wooden wreck in a river. The Chinese junks Gavin imagined sailing around the world had unique characteristics that would easily distinguish them from plain old Pacific west coast wrecks. For example:
+<ol>
+	<li>They had 15th century teak hulls.</li>
+	<li>Metal bins bolted hull compartments together.</li>
+	<li>They used silk sails.</li>
+	<li>They often carried porcelain, seeds and trade goods.</li>
+</ol>
+If the Sacramento Junk is the remains of a 15th century junk it looks like identifying it would be an archaeological no-brainer! All we have to do is sample the site, collect some 15th century teak wood for carbon dating, and bingo the case for the Chinese reaching the west coast of the America's before Columbus is looking promising.  Gavin describes drilling into the sand bank, extracting some wood and carbon dating it to 1410. <em> Isn't science wonderful?</em>
+
+<strong>Here are a few questions.</strong>
+<ul>
+	<li>Where the hell is the Sacramento Junk?</li>
+</ul>
+Your impressive end-notes mention collecting samples in 2002 and 2003. I believe GPS was up and running. Could we have exact coordinates please?
+<ul>
+	<li>Was the wood teak?</li>
+</ul>
+If you're looking for teak ships you might want to consult a wood expert. Teak, even old rotting teak, is easily identified. Look into it.
+<ul>
+	<li>How many samples were carbon dated?</li>
+	<li>Where the hell are the lab reports, sample photographs  and other documents?</li>
+	<li>Did you notify the historic relic Nazi's of your amazing Chinese wreck?</li>
+</ul>
+You almost need a permit to weed your own damn garden in California for fear of disturbing native artifacts yet somehow you pillaged an ultra-historic wreck without the <em>save our culture</em> weenies whining ---  yeah I once lived in California. With so many simple facts omitted you wonder if the Sacramento Junk is a figment of Gavin's lurid imagination.
+
+Gavin repeats this pattern of building a case for the <em>Chinese Stopped Here </em>over and over again and,<em> without exception</em>, always omits basic information that would lend credence to his claims. <em>You need to set your bullshit detector on maximum when sailing with Gavin!</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1742</wp:post_id>
+  <wp:post_date>2011-08-11 00:09:12</wp:post_date>
+  <wp:post_date_gmt>2011-08-11 05:09:12</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>1421-the-crank-history-of-gavin-menzies</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="bad-archaeology"><![CDATA[bad archaeology]]></category>
+  <category domain="category" nicename="books"><![CDATA[Books]]></category>
+  <category domain="post_tag" nicename="bullshit"><![CDATA[Bullshit]]></category>
+  <category domain="post_tag" nicename="crank"><![CDATA[crank]]></category>
+  <category domain="post_tag" nicename="gavin-menzies"><![CDATA[Gavin Menzies]]></category>
+  <category domain="category" nicename="history"><![CDATA[History]]></category>
+  <category domain="post_tag" nicename="pseudo-history"><![CDATA[pseudo-history]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="revisionist"><![CDATA[revisionist]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1086</wp:comment_id>
+    <wp:comment_author><![CDATA[Vikings in Memphis! - Page 2]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://www.arrowheadology.com/forums/arrowheads-news/48716-vikings-memphis-2.html#post433559</wp:comment_author_url>
+    <wp:comment_author_IP>199.102.228.154</wp:comment_author_IP>
+    <wp:comment_date>2014-08-19 12:35:36</wp:comment_date>
+    <wp:comment_date_gmt>2014-08-19 17:35:36</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[&#8230;] comprehensively debunked numerous times. There are several links to the errors in his works here:  1421: The Crank History of Gavin Menzies | Analyze the Data not the Drivel.  &#8230; including some comprehensive destruction of the myths by Bill Hartz here:  [&#8230;]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2014-08-19 17:35:36</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1408475558</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1408475558.759707927703857421875;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1408469736.6211459636688232421875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1496</wp:comment_id>
+    <wp:comment_author><![CDATA[Rena Moretti]]></wp:comment_author>
+    <wp:comment_author_email>renamoretti@dcemail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>69.71.193.130</wp:comment_author_IP>
+    <wp:comment_date>2014-11-29 15:24:57</wp:comment_date>
+    <wp:comment_date_gmt>2014-11-29 21:24:57</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[While you make interesting points, they are diminished by the name-calling.  If it is so obvious the 1421 theory is false, calling it names should not be necessary.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1417302444.178472042083740234375;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1417302443</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1417302443</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1417301341.474948883056640625;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1417296298.2412559986114501953125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1313</wp:comment_id>
+    <wp:comment_author><![CDATA[steve]]></wp:comment_author>
+    <wp:comment_author_email>ross_39@msn.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>207.34.115.64</wp:comment_author_IP>
+    <wp:comment_date>2014-10-12 13:21:34</wp:comment_date>
+    <wp:comment_date_gmt>2014-10-12 18:21:34</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Why are so Irate?]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1413142013</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2014-10-12 18:21:35</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1413141943.4252350330352783203125;s:7:"message";s:43:"Akismet re-checked and cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1413138094.80797100067138671875;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1413142013</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";d:1413142014.1113989353179931640625;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Common Table Expression (CTE) SQLServer Queries with J</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/08/13/common-table-expression-cte-sqlserver-queries-with-j/</link>
+  <pubDate>Sat, 13 Aug 2011 22:01:10 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1795</guid>
+  <description/>
+  <content:encoded><![CDATA[I've been blogging long enough to observe that your<em> awesome posts are often ignored</em> while your little "one-offs" sometimes strike <a href="http://www.webopedia.com/TERM/H/hit.html">hit</a> gold. This is particularly true for "code example" posts. When I'm trolling for code --- the geek equivalent of trolling for babes --- I don't want to read about the author's programming philosophy or what the hell he thinks about the idiot in the White House. <strong>Just show me the code and shut up!</strong>
+
+So, taking my own advice,  the following is an example of a SQLSever <a href="http://msdn.microsoft.com/en-us/library/ms190766.aspx">Common Table Expression</a> (CTE) query.
+
+[sourcecode language="sql" wraplines="false" gutter="false" autolinks="false"]
+WITH cte1
+     AS (SELECT c.obj_id                            AS obj_id,
+                a.created                           AS creation_date,
+                Datediff(DAY, a.created, Getdate()) AS day_cnt
+         FROM   [HIST].[dbo].[History] a
+                JOIN [HIST].[dbo].[HistorySummary] b
+                  ON a.rowid = b.rowid
+                JOIN [HIST].[dbo].[ObjectNames] c
+                  ON c.obj_name = b.obj_name),
+     cte2
+     AS (SELECT cte1.obj_id AS obj_id,
+                CASE
+                  WHEN cte1.day_cnt &lt;= 30 THEN 1
+                  ELSE 0
+                END         AS d0,
+                CASE
+                  WHEN ( cte1.day_cnt &gt; 30 )
+                       AND ( cte1.day_cnt &lt;= 60 ) THEN 1
+                  ELSE 0
+                END         AS d1,
+                CASE
+                  WHEN ( cte1.day_cnt &gt; 60 )
+                       AND ( cte1.day_cnt &lt;= 90 ) THEN 1
+                  ELSE 0
+                END         AS d2,
+                CASE
+                  WHEN ( cte1.day_cnt &gt; 90 ) THEN 1
+                  ELSE 0
+                END         AS d3
+         FROM   cte1)
+SELECT obj_id,
+       SUM(d0) AS OneMonth,
+       SUM(d1) AS TwoMonths,
+       SUM(d2) AS ThreeMonths,
+       SUM(d3) AS Overdue
+FROM   cte2
+GROUP  BY obj_id
+[/sourcecode]
+
+CTE queries <em>essentially</em> create temporary virtual tables during query execution. They are similar to nested SQL queries but are easier to code, more general, (see <a href="http://msdn.microsoft.com/en-us/library/ms186243.aspx">recursive CTE queries</a>), and often perform better than their convoluted equivalents. This example creates two virtual tables <span style="font-family:Courier;">cte1</span> and <span style="font-family:Courier;">cte2</span> that are then used to compute a quick histogram.
+
+You can call CTE queries with the <a href="http://www.jsoftware.com/jwiki/ODBC">J ODBC</a> interface. The following assumes a SQLServer ODBC connection <a href="http://www.geeksengine.com/article/mysql-odbc.html">dsn</a> <span style="font-family:Courier;">history.</span>
+
+[sourcecode wraplines="false" gutter="false" autolinks="false"]
+NB. odbc interface
+require 'dd'
+
+NB. read CTE query
+HistoryAgeSQL=. read 'c:/temp/HistoryAge.sql'
+
+NB. connect sqlserver database
+ch =. ddcon 'dsn=history'
+
+NB. select with CTE query
+sh =. HistoryAgeSQL ddsel ch
+
+NB. fetch results
+data=. ddfet sh,_1
+[/sourcecode]
+
+As a final note it's worth comparing the SQL CTE histogram code with J equivalents.  The two following J verbs taken from the <a href="http://www.jsoftware.com/jwiki/FrontPage">J wiki</a>, (<a href="http://www.jsoftware.com/jwiki/Essays/Histogram">here</a> and <a href="http://www.jsoftware.com/jwiki/BrianSchott/Histogram">here</a>), compute histograms.
+
+[sourcecode wraplines="false" gutter="false" autolinks="false"]
+NB. computes histograms uses right open intervals
+histogram=:&lt;:@(#/.~)@(i.@#@[ , I.)
+
+NB. variation on (histogram) uses left open intervals
+histogram2=:&lt;:@(#/.~)@(i.@&gt;:@#@[ , |.@[ (#@[ - I.) ])
+[/sourcecode]
+
+They scale to tens of millions of data points; returning results in a few seconds on my laptop. The SQL CTE, shown above, takes about three seconds running on 180,000 row tables on my employer's <a href="http://www.trekmania.net/science/warp_scale.htm">full warp</a> servers.  If I could convince the masses to adopt languages like J a large part of my job would disappear. Fortunately, <em>the world is hostile to terse elegance!</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1795</wp:post_id>
+  <wp:post_date>2011-08-13 17:01:10</wp:post_date>
+  <wp:post_date_gmt>2011-08-13 22:01:10</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>common-table-expression-cte-sqlserver-queries-with-j</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="common-table-expression"><![CDATA[common table expression]]></category>
+  <category domain="post_tag" nicename="cte"><![CDATA[CTE]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="post_tag" nicename="odbc"><![CDATA[ODBC]]></category>
+  <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="post_tag" nicename="queries"><![CDATA[queries]]></category>
+  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <category domain="post_tag" nicename="source-code"><![CDATA[Source Code]]></category>
+  <category domain="post_tag" nicename="sql"><![CDATA[SQL]]></category>
+  <category domain="post_tag" nicename="sqlserver"><![CDATA[SQLServer]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>228</wp:comment_id>
+    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
+    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
+    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
+    <wp:comment_author_IP>156.34.67.241</wp:comment_author_IP>
+    <wp:comment_date>2012-01-29 08:29:45</wp:comment_date>
+    <wp:comment_date_gmt>2012-01-29 14:29:45</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[having the WITH _ AS _ can prevent deep nesting of queries, actually a prime use for the 'variable' concept, although the setting of a variable that is only used once doesn't really add much of a time savings.
+
+I suspect measurements of the J verbs histogram and histogram2 do not include the creation of the arguments to each, something the SQL seems to include.
+
+A =: createHistogramArg '' NB. perhaps this takes a lot of time
+]histogram A NB.  'a few seconds' ... maybe so]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1327857636</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1327847385.9962";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1327857637.2322";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-01-29 14:29:45</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>229</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>24.107.10.21</wp:comment_author_IP>
+    <wp:comment_date>2012-01-29 12:28:27</wp:comment_date>
+    <wp:comment_date_gmt>2012-01-29 18:28:27</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[You may be right about the timings if you consider the final <code>SELECT</code> the equivalent of the J expressions. Will you be at the J conference this summer?]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1327861708</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1327861708.1885";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-01-29 18:28:27</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>230</wp:comment_id>
+    <wp:comment_author><![CDATA[Randy A MacDonald]]></wp:comment_author>
+    <wp:comment_author_email>arraymac@ns.sympatico.ca</wp:comment_author_email>
+    <wp:comment_author_url>http://www.facebook.com/arraymac</wp:comment_author_url>
+    <wp:comment_author_IP>156.34.67.241</wp:comment_author_IP>
+    <wp:comment_date>2012-01-29 16:11:48</wp:comment_date>
+    <wp:comment_date_gmt>2012-01-29 22:11:48</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Given that I am currently in the Maritimes, not London, it will be more difficult getting to Toronto, but who knows?]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>229</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1327875114</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1327875114.7452";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-01-29 22:11:48</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Typesetting UTF8 APL code with the LaTeX lstlisting package</title>
@@ -34893,7 +34964,7 @@ What really happened?
 <ol style="list-style-type:decimal;">
     <li>The NSA "cataloged"<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> a security flaw in Windows XP and didn’t inform anyone.</li>
     <li>The flaw was leaked.</li>
-    <li>Hackers exploited the flaw to infect old Windows XP computers.</li>
+    <li>Hackers exploited the flaw to infect old Windows computers.</li>
     <li>They encrypted files and tried to ransom victims using Bitcoin.</li>
 </ol>
 
@@ -34970,6 +35041,81 @@ Until then I just WannaCry!
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[5167935445]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>I Help Fat Little Kim Pick Nuke Targets</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/</link>
+  <pubDate>Sun, 13 Aug 2017 01:41:56 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5395</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://picphotos.net/kim-jong-un-fat-meme/"><img class="alignright wp-image-5405 size-medium" src="https://bakerjd99.files.wordpress.com/2017/08/launchlunch.jpg?w=300" alt="" width="300" height="240" /></a>Guam?
+
+Guam?
+
+Kim, you can't be serious! I realize you live in a self-imposed hermit kingdom where questioning your fat headed notions results in <a href="http://www.nydailynews.com/news/world/kim-jong-executed-uncle-feeding-pack-starving-dogs-article-1.1565299">being thrown to actual dogs</a> but surely you're aware of <em>Baker's Law of American Cluelessness.</em>
+
+<em>No matter what the topic of conversation roughly one-third of the American public won't have a freaking clue what you're talking about.</em>
+
+I can assure you that an embarrassingly large percentage of the American public has no idea where, or what, Guam is and, even more disturbingly, even if they know it's an island somewhere out in the Pacific they may think <a href="http://www.snopes.com/politics/quotes/guamtip.asp">it's in danger of tipping over</a> if too many people stand on one end.
+
+Let's suppose you lose your mind, (I'm being sarcastic Kim), and nuke Guam. If we don't immediately destroy you can expect this from the American public.
+
+<ol style="list-style-type:decimal;">
+    <li>Eco-morons and Green-twits will start worrying about nuclear fallout drifting ashore in California and write earnest ignorant Internet screeds about isotopes of Iodine. Kim, as a devoted Korean hater of all things Japanese, I'm sure you remember the great Japanese earthquake and tsunami of 2011. Isn't it great when nature kills your enemies for free? More than 15,000 Japanese citizens died and, oh yeah, the tsunami also wrecked a nuclear power plant: Fukushima. American eco-imbeciles quickly forgot about the earthquake and the thousands of dead bodies scattered by the tsunami and started worrying about <a href="https://www.forbes.com/sites/timworstall/2013/11/16/fukushima-radiation-in-pacific-tuna-is-equal-to-one-twentieth-of-a-banana/#3b3cfee6fe61">traces of Fukushima radiation</a> polluting their <a href="https://www.youtube.com/watch?v=N1KvgtEnABY">pure bodily fluids</a>. If you blow up Guam these idiots will ignore your glorious Guam body count and start agonizing about radioactive kale and the impact of fallout on the transgendered.</li>
+    <li>Old school American commies, (yes Kim we still have them and they're even more delusional than your commies), will look past your selecting Guam as a target, issuing orders to attack it, and them calmly murdering thousands of innocents and find some way to blame a white capitalist guy. <em>You see Kim, as a nonwhite Asian dude, you have no moral agency</em>. Even if you think you are making choices it's really just a reaction to what some white capitalist guy did to you, or your bat-shit crazy dad, or some distant ancestor, at some unspecified time in the past. <em>Nothing is ever your fault.</em> This is good news for professional western victims but kind of tarnishes your great Asian conqueror image. For western commies, there are no Asian Genghis Khan's.</li>
+    <li>Our uniformly imbecilic <em>fake-news-ers</em>, also known as the media, will finally have a topic worthy of 24/7 bloviating. They'll be thrilled that an atomic emergency might result in people watching them again. Of course, they'll quickly sabotage their transient relevance by staging talking-head-a-thons about "proportional responses" to being nuked. If a misunderstood adversary uses a forty kiloton nuke on your civilians is it a crime to retaliate with a megaton?</li>
+    <li>Finally, most of the American public will be deeply pissed. They'll cheer when a submarine pops a thermonuclear cap in your fat ass.</li>
+</ol>
+
+Kim nuking Guam is a big suicidal mistake. Don't get me wrong. I enjoy grand gestures and heroic deaths. Achilles didn't garner eternal glory by coming home from the Trojan War and growing olives. I know you're under pressure to live up to dear dead old dad and to dearer older deader granddad. I know you feel inadequate and will never be worthy of the aggrandizing bullshit you force feed your people. So let me help you by selecting nuke worthy American targets. Don't misconstrue my help. If you hit any of the following we will still exterminate you and your comrades.
+
+Instead of Guam consider:
+
+<ol style="list-style-type:decimal;">
+    <li><strong>Washington D.C</strong>: I can't think of a more nuke worthy target. I know D.C. may be a long shot for your tiny-penis-ICBMs but if you can hit D.C. please have a whack. Trump's swamp draining hasn’t been going very well. Maybe a swamp nuking would be more effective. The downside of nuking D.C. is that many Americans would secretly cheer it on. We’ll appreciate the irradiated swamp but we'll still nuke you in return.</li>
+    <li><strong>Los Angeles, especially the Hollywood'ey bits</strong>: Americans love their vacuous entertainments and the empty-headed narcissistic preening nitwits that make them. You can't imagine what a death-blow it would be to forego the next Marvel movie or another <a href="https://www.youtube.com/watch?v=xf69EEL3WBk">ManBearPig</a> lecture. We'll miss the Hollywood Sign and the Griffith Observatory but eagerly look forward to next years <a href="http://www.legacy.com/memorial-sites/oscars/">Dead Celebrity Roll</a> at the <em>relocated</em> Oscars. Oh, we'll still nuke your ass, even for Hollywood.</li>
+    <li><strong>Silicon Valley</strong>: Recent <a href="http://www.businessinsider.com/anti-google-ads-pop-up-outside-office-criticizing-ceo-sundar-pichai-2017-8">Goolag'ey events</a> have many Americans wondering if the hubris infused innovators of Silicon Valley have lost their mojo. Detonating nukes will take their powerful minds off disturbing notions of gender based intellectual differences and focus them on finding blast proof safe spaces. <em>Great minds need real problems.</em> Kim, about the only downside of nuking Silicon Valley, is that Facebook won't be able to tally your "Likes." It sucks to be radioactive rubble. Oh, and we still nuke you.<a href="http://www.hollywoodreporter.com/news/google-mocked-street-art-office-1028914"><img class="aligncenter wp-image-5403 size-medium" src="https://bakerjd99.files.wordpress.com/2017/08/thinkdiff2.jpg?w=300" alt="" width="300" height="140" /></a></li>
+    <li><strong>Portland Oregon and Seattle Washington</strong>: Oregon and Washington would be relatively sane states if these tumors were excised: just saying. Oh, we still nuke your ass.</li>
+</ol>
+
+Kim, you can't win but with judicious target selection, you can <em>make a difference</em>. As a wise shoe maker once said: "Just do it!"]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5395</wp:post_id>
+  <wp:post_date>2017-08-12 20:41:56</wp:post_date>
+  <wp:post_date_gmt>2017-08-13 01:41:56</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>i-help-fat-little-kim-pick-nuke-targets</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="goolag"><![CDATA[Goolag]]></category>
+  <category domain="post_tag" nicename="guam"><![CDATA[Guam]]></category>
+  <category domain="post_tag" nicename="korea"><![CDATA[Korea]]></category>
+  <category domain="post_tag" nicename="mad"><![CDATA[MAD]]></category>
+  <category domain="post_tag" nicename="nukes"><![CDATA[Nukes]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="category" nicename="trolling"><![CDATA[Trolling]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[8208885696]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
