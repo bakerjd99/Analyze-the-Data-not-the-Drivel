@@ -7,11 +7,12 @@
 \noindent\emph{Posted: 18 Aug 2017 01:53:53}
 \vspace{6pt}
 
+
 The other day while eating lunch in my employer's cafeteria I picked up
 the fish wrap version of the \emph{Idaho Statesman}. My employer kindly
 subscribes to the Statesman and scatters copies around the office so I
 don't have to spend my money on what is usually a slightly left of
-center, sane, and boring publication. The Statesman is constrained by
+center, sane, and boring publication. The \textit{Statesman} is constrained by
 the decidedly right of center leanings of Idaho but on some days they
 let their inner left-wing freak fly and boy did it fly when they boldly
 reported:
@@ -41,7 +42,7 @@ done.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\tightlist
+%\tightlist
 \item
   The \href{https://www.splcenter.org/}{South Poverty Law Center} (SPLC)
   has developed a precise scientific instrument that determines
@@ -57,18 +58,21 @@ done.
   State hate rankings are expressed as hate groups per million. For
   example, Idaho's ranking is 7.1/million. This value is computed by the
   simple formula.
-\end{enumerate}
 
-\emph{(one million/state population) * (SPLC hate group count)}
+\[(1000000/StatePopulation) * (SPLCHateGroupCount)\]
 
-~ ~ ~ ~ ~ Plugging in the SPLC values for Idaho we get:
+Plugging in the SPLC values for Idaho we get:
 
-\emph{(1000000/1695178) * 12 = 7.078902629}
+\[(1000000/1695178) * 12 = 7.078902629\]
 
-Which, when rounded up\protect\hyperlink{fn1}{\textsuperscript{1}} to
+Which, when rounded up\footnote{The SPLC is a left-wing organization so they will round-up. White
+  supremacists and other \emph{wrong-thinkers} will round
+  down.
+} to
 one decimal, equals 7.1; this matches the value reported by
 \href{http://247wallst.com/special-report/2017/08/14/10-states-with-the-most-hate-groups-3/4/}{24/7
-Wall Street}: the primary source cited by the Statesman.
+Wall Street}: the primary source cited by the \textit{Statesman}.
+\end{enumerate}
 
 I put together a little spreadsheet that applies this naive calculation
 to the ten most hateful states and it completely replicates the 24/7
@@ -76,142 +80,25 @@ hate ranking. The recalculated values are shown below and if you really
 must check my calculations you can download my spreadsheet
 \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/5381f7a91b7614b0de1cc5343eb097e20653de64/wp2latex/inclusions/hfc.xlsx}{from
 here}.
-
-State
-
-Population
-
-HateGroups
-
-PerMillionRatio
-
-CalcHateFactor
-
-RepHateFactor
-
-Montana
-
-1,052,343
-
-10
-
-0.950260514
-
-9.502605139
-
-9.6
-
-Idaho
-
-1,695,178
-
-12
-
-0.589908552
-
-7.078902629
-
-7.1
-
-Mississippi
-
-2,990,113
-
-18
-
-0.334435521
-
-6.019839384
-
-6
-
-Tennessee
-
-6,705,339
-
-38
-
-0.149134891
-
-5.667125853
-
-5.7
-
-Alabama
-
-4,884,115
-
-27
-
-0.204745384
-
-5.528125362
-
-5.6
-
-Arkansas
-
-3,000,942
-
-16
-
-0.3332287
-
-5.331659192
-
-5.4
-
-Kentucky
-
-4,450,042
-
-23
-
-0.22471698
-
-5.168490545
-
-5.2
-
-Virginia
-
-8,492,783
-
-39
-
-0.117747033
-
-4.592134286
-
-4.6
-
-Missouri
-
-6,123,362
-
-24
-
-0.16330898
-
-3.919415511
-
-3.9
-
-Indiana
-
-6,663,280
-
-26
-
-0.150076239
-
-3.901982207
-
-3.9
-
-reference
-
-~\url{http://worldpopulationreview.com/states/}
+\scriptsize
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|l|} \hline
+\textbf{State} & \textbf{Population} & \textbf{HateGroups} & \textbf{PerMillionRatio} & \textbf{CalcHateFactor} & \textbf{RepHateFactor} \\ \hline
+Montana	       & 1,052,343           & 10                  & 0.950260514              & 9.502605139             & 9.6 \\ \hline
+Idaho	       & 1,695,178           & 12                  & 0.589908552              & 7.078902629             & 7.1 \\ \hline
+Mississippi	   & 2,990,113           & 18                  & 0.334435521              & 6.019839384             & 6   \\ \hline
+Tennessee	   & 6,705,339           & 38                  & 0.149134891              & 5.667125853             & 5.7 \\ \hline
+Alabama	       & 4,884,115           & 27                  & 0.204745384              & 5.528125362             & 5.6 \\ \hline
+Arkansas	   & 3,000,942           & 16                  & 0.3332287                & 5.331659192             & 5.4 \\ \hline
+Kentucky	   & 4,450,042           & 23                  & 0.22471698               & 5.168490545             & 5.2 \\ \hline
+Virginia	   & 8,492,783           & 39                  & 0.117747033              & 4.592134286             & 4.6 \\ \hline
+Missouri	   & 6,123,362           & 24                  & 0.16330898               & 3.919415511             & 3.9 \\ \hline
+Indiana	       & 6,663,280           & 26                  & 0.150076239              & 3.901982207             & 3.9 \\ \hline
+\multicolumn{6}{c}{} \\
+\multicolumn{6}{c}{\href{http://worldpopulationreview.com/states/}{http://worldpopulationreview.com/states/}}
+\end{tabular}
+\end{center}
+\normalsize
 
 Now, for extra credit, what is wrong with this calculation? Remember, I
 am assuming SPLC's dubious and entirely subjective hate group counts are
@@ -230,25 +117,14 @@ people to keep off their property. \emph{You need to know how many
 people are in the ``hate groups'' to calculate a meaningful per capita
 statistic. \textbf{Group hate is not a thing but individual hate is!}}
 
-I suspect the 24/7 authors and the Statesman know that ratio ranking is,
+I suspect the 24/7 authors and the \textit{Statesman} know that ratio ranking is,
 to use a millennial word, ``problematic'', but we all know the primary
 purpose of such facile reports (fake news) is to provide a seemingly
 credible reference that can be re-tweeted, and linked, \emph{ad
 infinitum} by innumerate partisan dolts when they're enjoying their
 five-minute social media hates.
 
-\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
 
-\begin{enumerate}
-\item
-  \hypertarget{fn1}{}
-
-  The SPLC is a left-wing organization so they will round-up. White
-  supremacists and other \emph{wrong-thinkers} will round
-  down.\protect\hyperlink{fnref1}{↩}
-\end{enumerate}
-
-%%% HTML table in source - edits required
 
 %\end{document}
  
