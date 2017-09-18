@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-08-27 21:11"-->
+<!-- generator="WordPress.com" created="2017-09-18 00:03"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
-<description>I will resort to logic when all else fails.</description>
-<pubDate>Sun, 27 Aug 2017 21:11:28 +0000</pubDate>
+<description>Trust is for imbeciles.</description>
+<pubDate>Mon, 18 Sep 2017 00:03:35 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -818,6 +818,16 @@
   <wp:tag_name><![CDATA[cashflow]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>431</wp:term_id>
+  <wp:tag_slug>cassini</wp:tag_slug>
+  <wp:tag_name><![CDATA[Cassini]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>247377097</wp:term_id>
+  <wp:tag_slug>cassini-grand-finale</wp:tag_slug>
+  <wp:tag_name><![CDATA[Cassini Grand Finale]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>20576</wp:term_id>
   <wp:tag_slug>cell-phone</wp:tag_slug>
   <wp:tag_name><![CDATA[cell-phone]]></wp:tag_name>
@@ -1076,6 +1086,11 @@
   <wp:term_id>1122171</wp:term_id>
   <wp:tag_slug>data-plans</wp:tag_slug>
   <wp:tag_name><![CDATA[data plans]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>2190319</wp:term_id>
+  <wp:tag_slug>dead-tree</wp:tag_slug>
+  <wp:tag_name><![CDATA[dead tree]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>40012</wp:term_id>
@@ -1993,6 +2008,11 @@
   <wp:tag_name><![CDATA[Joseph Smith]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>11970</wp:term_id>
+  <wp:tag_slug>jpl</wp:tag_slug>
+  <wp:tag_name><![CDATA[JPL]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>25570186</wp:term_id>
   <wp:tag_slug>jqt</wp:tag_slug>
   <wp:tag_name><![CDATA[JQT]]></wp:tag_name>
@@ -2161,6 +2181,11 @@
   <wp:term_id>66225</wp:term_id>
   <wp:tag_slug>lens</wp:tag_slug>
   <wp:tag_name><![CDATA[lens]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>8994</wp:term_id>
+  <wp:tag_slug>letters</wp:tag_slug>
+  <wp:tag_name><![CDATA[letters]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>4516</wp:term_id>
@@ -2508,6 +2533,11 @@
   <wp:tag_name><![CDATA[New Mexico]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>2698</wp:term_id>
+  <wp:tag_slug>newspapers</wp:tag_slug>
+  <wp:tag_name><![CDATA[newspapers]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>90149275</wp:term_id>
   <wp:tag_slug>nick-lomb</wp:tag_slug>
   <wp:tag_name><![CDATA[Nick Lomb]]></wp:tag_name>
@@ -2738,6 +2768,11 @@
   <wp:tag_name><![CDATA[Pluto]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>797643</wp:term_id>
+  <wp:tag_slug>plutonium</wp:tag_slug>
+  <wp:tag_name><![CDATA[plutonium]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>13217</wp:term_id>
   <wp:tag_slug>policy</wp:tag_slug>
   <wp:tag_name><![CDATA[policy]]></wp:tag_name>
@@ -2958,6 +2993,11 @@
   <wp:tag_name><![CDATA[roosevelt arch]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>367041</wp:term_id>
+  <wp:tag_slug>rtg</wp:tag_slug>
+  <wp:tag_name><![CDATA[RTG]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>263432246</wp:term_id>
   <wp:tag_slug>sagan-unit</wp:tag_slug>
   <wp:tag_name><![CDATA[Sagan Unit]]></wp:tag_name>
@@ -2981,6 +3021,11 @@
   <wp:term_id>31099</wp:term_id>
   <wp:tag_slug>sap</wp:tag_slug>
   <wp:tag_name><![CDATA[SAP]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>222</wp:term_id>
+  <wp:tag_slug>saturn</wp:tag_slug>
+  <wp:tag_name><![CDATA[saturn]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>1904606</wp:term_id>
@@ -3368,6 +3413,11 @@
   <wp:tag_name><![CDATA[ThumbsPlus]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>2051</wp:term_id>
+  <wp:tag_slug>titan</wp:tag_slug>
+  <wp:tag_name><![CDATA[Titan]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>14745</wp:term_id>
   <wp:tag_slug>tolkien</wp:tag_slug>
   <wp:tag_name><![CDATA[Tolkien]]></wp:tag_name>
@@ -3426,6 +3476,11 @@
   <wp:term_id>67677</wp:term_id>
   <wp:tag_slug>ufo</wp:tag_slug>
   <wp:tag_name><![CDATA[UFO]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>44178</wp:term_id>
+  <wp:tag_slug>ufos</wp:tag_slug>
+  <wp:tag_name><![CDATA[UFOs]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>22735</wp:term_id>
@@ -6990,61 +7045,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2132/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:47 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2132</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2132</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:47</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:47</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2132</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>24</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2130]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[21571]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>http://analyzethedatanotthedrivel.org/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -8702,29 +8702,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/launchlunch.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Sun, 13 Aug 2017 21:29:10 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/08/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5411</wp:post_id>
-  <wp:post_date>2017-08-13 16:29:10</wp:post_date>
-  <wp:post_date_gmt>2017-08-13 21:29:10</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>eclipse_review</title>
   <link>http://analyzethedatanotthedrivel.org/2017/08/27/still-totally-awesome/eclipse_review/</link>
   <pubDate>Sun, 27 Aug 2017 18:46:09 +0000</pubDate>
@@ -8930,6 +8907,52 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/sunset-above-swan-falls-dam-th.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Wed, 30 Aug 2017 04:35:56 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/08/bm1.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5457</wp:post_id>
+  <wp:post_date>2017-08-29 23:35:56</wp:post_date>
+  <wp:post_date_gmt>2017-08-30 04:35:56</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/bm1.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>cassini-saturn</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/cassini-saturn/</link>
+  <pubDate>Fri, 15 Sep 2017 17:08:12 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/09/cassini-saturn.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5465</wp:post_id>
+  <wp:post_date>2017-09-15 12:08:12</wp:post_date>
+  <wp:post_date_gmt>2017-09-15 17:08:12</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>cassini-saturn</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5466</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/cassini-saturn.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -15794,86 +15817,6 @@ Cheers, bob]]></wp:comment_content>
   </wp:comment>
 </item>
 <item>
-  <title>Hospital Staff Training</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/03/27/hospital-staff-training/</link>
-  <pubDate>Sun, 27 Mar 2011 21:24:16 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1241</guid>
-  <description/>
-  <content:encoded><![CDATA[Yesterday I transferred from Surreyplace to St. John's rehabilitation hospital.  St. John's is a mainstream rehab hospital and is better equipped to deal with my situation. Now that I am allowed active leg movements the therapy will get more intense. To be honest I am not looking forward to longer and more painful sessions. Yes, I am a complete girly man when it comes to searing pain! I will have a better idea of what's in store for me after tomorrow.
- 
-Whatever happens in therapy they will not be waking me up at 4:30 am to draw blood! You can imagine my delight at being roused from a crappy nights sleep, (try sleeping in python tight leg braces), and then being poked by a zealous staff vampire that took singular delight in telling me this little suck would be a daily ritual. Whoa cowboy: there had better be really good medical reasons for waking me up!
-
-Half an hour later another nurse came in and tried to make me take a stomach lining pill. People it's 5:00 am I am not going to start pointless drugs at such an hour.  Then, shortly after refusing the stomach pill another nurse was back to administer an EKG. Clearly sleep was not on the agenda.
-
-I've been told all these tests were part of a baseline workup and that I will not be subjected to many of them tomorrow. The vampire will have to suck elsewhere. 
-
-I went through the same thing at St. Luke's and Surreyplace. I don't want to train hospital staff in the delicate art of me maintenance but it appears unavoidable.
-
-<br /><br /><a href="http://bakerjd99.files.wordpress.com/2011/03/20110327-090236.jpg"><img src="http://bakerjd99.files.wordpress.com/2011/03/20110327-090236.jpg" alt="20110327-090236.jpg" class="alignnone size-full" /></a>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1241</wp:post_id>
-  <wp:post_date>2011-03-27 16:24:16</wp:post_date>
-  <wp:post_date_gmt>2011-03-27 21:24:16</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>hospital-staff-training</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
-  <category domain="post_tag" nicename="st-johns"><![CDATA[St. Johns]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_done_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>101</wp:comment_id>
-    <wp:comment_author><![CDATA[Brianna]]></wp:comment_author>
-    <wp:comment_author_email>briannavb@hotmail.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>24.253.84.250</wp:comment_author_IP>
-    <wp:comment_date>2011-03-28 11:09:01</wp:comment_date>
-    <wp:comment_date_gmt>2011-03-28 16:09:01</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Hi Uncle John,
-Little known fact, you can refuse.... no one likesto admit it, because its messes up their routine but you can. Explain nicely, no lab draws before breakfast, (they aren't drawing anything critical, probably just a coagulation panel since I assume your on blood thinners since u can't move like you used to.) Also the stomach lining pill....not terribly necessary in your case. Tell them bring it with morning pill pass at 9 or not at all. Guidelines stipulate docs have to write for GI prophalysis, and it does work better before breakfast but..... a healthy (injured) but healthy person, doesn't truly need it. As for the EKG, that one I am at a loss with. Why are they doing ekgs at rehab facility, did you have an abnormal one? 
-
-Aren't hospitals fun?
-Love ya
-Nurse Bri]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1301335171.3525";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1301328541.8714";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-03-28 16:09:01</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>About Me</title>
   <link>http://analyzethedatanotthedrivel.org/about-me/</link>
   <pubDate>Tue, 02 Aug 2011 00:38:11 +0000</pubDate>
@@ -16148,6 +16091,61 @@ William]]></wp:comment_content>
       <wp:meta_value>a:3:{s:4:"time";d:1478180030.4602530002593994140625;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"grothendieckfan";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2132/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:47 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2132</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2132</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:47</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:47</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2132</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>309</wp:post_parent>
+  <wp:menu_order>24</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2130]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[21571]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -16603,7 +16601,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/08/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/08/bm1.pdf">bm.pdf  (PDF version) </a>This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -18915,6 +18913,86 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Hospital Staff Training</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/03/27/hospital-staff-training/</link>
+  <pubDate>Sun, 27 Mar 2011 21:24:16 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1241</guid>
+  <description/>
+  <content:encoded><![CDATA[Yesterday I transferred from Surreyplace to St. John's rehabilitation hospital.  St. John's is a mainstream rehab hospital and is better equipped to deal with my situation. Now that I am allowed active leg movements the therapy will get more intense. To be honest I am not looking forward to longer and more painful sessions. Yes, I am a complete girly man when it comes to searing pain! I will have a better idea of what's in store for me after tomorrow.
+ 
+Whatever happens in therapy they will not be waking me up at 4:30 am to draw blood! You can imagine my delight at being roused from a crappy nights sleep, (try sleeping in python tight leg braces), and then being poked by a zealous staff vampire that took singular delight in telling me this little suck would be a daily ritual. Whoa cowboy: there had better be really good medical reasons for waking me up!
+
+Half an hour later another nurse came in and tried to make me take a stomach lining pill. People it's 5:00 am I am not going to start pointless drugs at such an hour.  Then, shortly after refusing the stomach pill another nurse was back to administer an EKG. Clearly sleep was not on the agenda.
+
+I've been told all these tests were part of a baseline workup and that I will not be subjected to many of them tomorrow. The vampire will have to suck elsewhere. 
+
+I went through the same thing at St. Luke's and Surreyplace. I don't want to train hospital staff in the delicate art of me maintenance but it appears unavoidable.
+
+<br /><br /><a href="http://bakerjd99.files.wordpress.com/2011/03/20110327-090236.jpg"><img src="http://bakerjd99.files.wordpress.com/2011/03/20110327-090236.jpg" alt="20110327-090236.jpg" class="alignnone size-full" /></a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1241</wp:post_id>
+  <wp:post_date>2011-03-27 16:24:16</wp:post_date>
+  <wp:post_date_gmt>2011-03-27 21:24:16</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>hospital-staff-training</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
+  <category domain="post_tag" nicename="st-johns"><![CDATA[St. Johns]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_done_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>101</wp:comment_id>
+    <wp:comment_author><![CDATA[Brianna]]></wp:comment_author>
+    <wp:comment_author_email>briannavb@hotmail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>24.253.84.250</wp:comment_author_IP>
+    <wp:comment_date>2011-03-28 11:09:01</wp:comment_date>
+    <wp:comment_date_gmt>2011-03-28 16:09:01</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Hi Uncle John,
+Little known fact, you can refuse.... no one likesto admit it, because its messes up their routine but you can. Explain nicely, no lab draws before breakfast, (they aren't drawing anything critical, probably just a coagulation panel since I assume your on blood thinners since u can't move like you used to.) Also the stomach lining pill....not terribly necessary in your case. Tell them bring it with morning pill pass at 9 or not at all. Guidelines stipulate docs have to write for GI prophalysis, and it does work better before breakfast but..... a healthy (injured) but healthy person, doesn't truly need it. As for the EKG, that one I am at a loss with. Why are they doing ekgs at rehab facility, did you have an abnormal one? 
+
+Aren't hospitals fun?
+Love ya
+Nurse Bri]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1301335171.3525";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1301328541.8714";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-03-28 16:09:01</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>SmugShot Metadata Mess</title>
@@ -35786,13 +35864,13 @@ I suspect the 24/7 authors and the Statesman know that ratio ranking is, to use 
   <description/>
   <content:encoded><![CDATA[The total solar eclipse of August 21, 2017, was my fourth complete solar eclipse. I've seen two annular eclipses, 1994 and 2012, and two total eclipses, 2001 and 2017. Annular eclipses, or rings of fire, are worthy spectacles but nothing compares to a total solar eclipse. Some things have to be experienced to be fully appreciated. Unless you have stood under the Moon's shadow you don't really know what it's like. Pictures and recordings all miss the mark. Maybe one day, when virtual reality directly hooks into all our senses, it may be possible to record totality but until then you have to get under the Moon's shadow and, this is absolutely crucial, <em>only totality counts!</em>
 
-Here in the Boise Idaho area, many people decided 99% was good enough. This is not even wrong! The August 21<sup>st</sup> eclipse took place right in the middle of Western Idaho State Fair and like all make a buck opportunists the fair promoted an "enjoy the eclipse with us event." There was only one problem: Boise wasn’t in the totality zone so advertising dollars were spent reassuring fair-goers that 99% was close enough; that a measly 1% difference was no big deal; that it wasn't worth refraining from shoveling junk food down your obese pie-hole on the overpriced midway. Cosmic spectacles cannot be allowed to suppress the bottom line.
+Here in the Boise Idaho area, many people decided 99% was good enough. This is not even wrong! The August 21<sup>st</sup> eclipse took place right in the middle of Western Idaho State Fair and like all make a buck opportunists the fair promoted an "enjoy the eclipse with us event." There was only one problem: Boise wasn’t in the totality zone so advertising dollars were spent reassuring fair-goers that 99% was close enough; that a measly 1% difference was no big deal; that it wasn't worth refraining from shoveling junk food down your obese pie-hole on the overpriced midway for a few hours. Cosmic spectacles cannot be allowed to suppress the bottom line.
 
-Fortunately, I knew better. The difference between 99% and 100% is vast. Solar eclipse awesomeness is not linear! It's actually more like a logarithmic step function with a really big step at totality. XKCD accurately summarized this his with recent eclipse cartoon. He correctly notes that total solar eclipses are off the scale.
+Fortunately, I knew better. The difference between 99% and 100% is vast. Solar eclipse awesomeness is not linear! It's actually more like a logarithmic step function with a really big step at totality. XKCD accurately summarized this with his with recent eclipse cartoon. He correctly notes that total solar eclipses are off the scale.
 
 [caption id="attachment_5435" align="aligncenter" width="237"]<a href="https://xkcd.com/1880/"><img class="wp-image-5435 size-medium" src="https://bakerjd99.files.wordpress.com/2017/08/eclipse_review.png?w=237" alt="" width="237" height="300" /></a> XKCD accurately notes that total solar eclipse "coolness" is off the scale. Totality in on an entirely different plane than partial or annular eclipses.[/caption]
 
-There was no way I was going to miss totality, especially when it was almost in my backyard, so we got up at 4:00 am on the 21<sup>st</sup> and headed east to Mackay Idaho. I'd already driven around southern Idaho and Oregon scouting eclipse watching locations. My preferred location was on Sunset Peak in the Lost River mountain range of Idaho. Unfortunately, Sunset Peak required that we climb the mountain the night before, camp out near the summit, and then wait for the eclipse the next morning. It would have been cool. Sunset Peak is slightly over 3,050 meters with nice views to the west and east. It would have been possible to watch the Moon's shadow race over the Boise and Sawtooth mountains, blacking out one peak after another. I was all ready to pack up and go but my wife no longer camps out in tents. This is a problem I am still working on.
+There was no way I was going to miss totality, especially when it was in my backyard, so we got up at 4:00 am on the 21<sup>st</sup> and headed east to Mackay Idaho. I'd already driven around southern Idaho and Oregon scouting eclipse watching locations. My preferred location was on Sunset Peak in the Lost River mountain range of Idaho. Unfortunately, Sunset Peak required that we climb the mountain the night before, camp out near the summit, and then wait for the eclipse the next morning. It would have been cool. Sunset Peak is slightly over 3,050 meters with nice views to the west and east. It would have been possible to watch the Moon's shadow race over the Boise and Sawtooth mountains, blacking out one peak after another. I was all ready to pack up and go but my wife no longer camps out in tents. This is a problem I am still working on.
 
 With the mountain summit vetoed we checked out the Snake River Valley near Huntington Oregon and Stanley Idaho. Both locations are very scenic but both required traversing easily congested roads. To ensure totality we would have had to go the night before. So we were right back to camping in tents. My third option Mackay Idaho was a nice mixture of, easily reached on good roads, large enough to find parking on public lands, and far enough out-of-the-way to avoid big crowds.
 
@@ -35859,6 +35937,208 @@ The next total solar eclipse is in 2019. The greatest eclipse is in the Pacific,
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[8693697270]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Stop Writing Dead Tree Letters to the Editor</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/09/13/stop-writing-dead-tree-letters-to-the-editor/</link>
+  <pubDate>Wed, 13 Sep 2017 18:21:01 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5463</guid>
+  <description/>
+  <content:encoded><![CDATA[I don't pay for newspapers anymore and neither should you. The dead tree media is truly and absolutely dead. It serves no function in the modern world and like the <a href="https://www.youtube.com/watch?v=yzDHHMWDC_k">What Happened Hildabeast</a>, it needs to <a href="https://www.acronymfinder.com/FOAD.html">FOAD</a>. The collapse of print media and the incontinent wailing of unemployed <a href="http://smallestminority.blogspot.com/2015/07/quote-of-day-democratic-operatives-with.html">political operatives with bylines</a> has been duly noted by many and, as much as I love flogging dead horses, that is not why I <em>blogforth</em> today. There is one anachronistic section of dead tree newspapers that still amuses me: letters to the editor.
+
+<em>Who the hell writes letters to the editor these days?</em>
+
+Did these letter writers just wake from a long Rip Van Winkle nap and take up where they left off in the 1960s? Oh, and it definitely is the 1960s. The overwhelming majority of dead tree letters clearly come from the fat furrowed brows of retired old boomer farts that mistake constipation for thought.
+
+As I have said before, even though I am a boomer, nobody hates them more than me.
+
+There's no point in rehashing the infinitely rehashed. Modern letters to the editor lack the intelligence of blog posts, the pithiness of tweets, the sublimity of poetry or the seriousness of books. They're vain displays. Look at me; I've bamboozled an idiot newspaper editor. Congratulations, you've surmounted a bar low enough for Conga champions.
+
+I think I speak for all of us when I say that we've had enough of your letter antics. Please find your way to the nearest online comments section and unleash your inner troll. And, if you must debase yourself to a larger audience <em>start a blog!</em>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5463</wp:post_id>
+  <wp:post_date>2017-09-13 13:21:01</wp:post_date>
+  <wp:post_date_gmt>2017-09-13 18:21:01</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>stop-writing-dead-tree-letters-to-the-editor</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="boomers"><![CDATA[boomers]]></category>
+  <category domain="post_tag" nicename="dead-tree"><![CDATA[dead tree]]></category>
+  <category domain="post_tag" nicename="hildabeast"><![CDATA[Hildabeast]]></category>
+  <category domain="post_tag" nicename="letters"><![CDATA[letters]]></category>
+  <category domain="post_tag" nicename="newspapers"><![CDATA[newspapers]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="category" nicename="trolling"><![CDATA[Trolling]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[9255853610]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Don't be a Weenie Launch Cassini</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/</link>
+  <pubDate>Fri, 15 Sep 2017 17:27:15 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5466</guid>
+  <description/>
+  <content:encoded><![CDATA[<img class="wp-image-5465 size-thumbnail alignright" src="https://bakerjd99.files.wordpress.com/2017/09/cassini-saturn.jpg?w=150" alt="" width="150" height="100" />Future generations will remember Bill Clinton for two things, not having sex with that woman and authorizing the launch of Cassini. I was working in Dallas Texas in the months before Cassini's launch. It was 1997 and the Internet was just beginning to disrupt everyday life. Google was morphing from a thesis to a company and abominations like Facebook, Twitter and smartphones were years away. It was a time of CD-ROM games, 56K dial-up modems, bulletin boards, hand crafted HTML websites, and Netscape Navigator.  Even in its primitive state the Internet already exhibited many of things I value and detest about it today. Two events made this abundantly clear. The inane shenanigans that preceded Cassini's launch and the death of Carl Sagan.
+
+I had a few beefs with Sagan. Like all science popularizers he often dumbed things down to misleading levels and, like most <em>western</em> academics, he was naive about vicious authoritarian regimes. In Sagan's mind, a handful of exemplary Soviet scientists went a long way toward excusing the Gulag and purges. I overlooked his good-natured naivety. It was, and still is, a common delusion. Many intelligent people fall victim to the belief that their superior accomplishments endow them with universal wisdom. This is pure classic hubris.
+
+Sagan had flaws but he was also the real scientific deal. He predicted the surface temperature of Venus before it was measured and contributed both scientifically and politically to the success of some of the 20<sup>th</sup> century's most spectacular space missions like the Martian Viking landers and the epic Voyagers. Even his popular stunts like the <a href="https://www.space.com/17651-pioneer-10.html">Pioneer plaque</a> and the <a href="https://voyager.jpl.nasa.gov/golden-record/">Voyager gold records</a> were classy and compelling. For me, Sagan's most enduring quality was his very public and relentless refusal to buy into irrational bullshit. He rhetorically dismembered idiots that saw faces on Mars and skies full of alien bearing UFOs. The Martian face turned out to an <a href="https://science.nasa.gov/science-news/science-at-nasa/2001/ast24may_1/">eroded mesa</a>, just like Sagan said it was, and we are still waiting for genuine rigorously authenticated evidence of real UFOs. Sagan's often said, "Extraordinary claims require extraordinary evidence!"  It's a maxim I apply every single day and you should too.
+
+The day Sagan died I connected to the Internet with my trusty 56K dial-up modem. I was looking for unofficial Sagan obituaries and boy did I find them. It turns out that UFO cultists did not appreciate Sagan's precise and correct analysis of their unsubstantiated nonsense. Clearly, he was part of the vast centuries old global cover-up. Everyone knows that the Illuminati, the Masons, the Rothschilds, the Jews, and the Jewish aliens in the UFOs, are suppressing UFO evidence: presumably to facilitate draining our precious bodily fluids. <em>I exaggerate but not by much!</em> It was my first encounter with unhinged Internet trolls. My already low opinion of the people's intelligence dipped lower. Of course, trolls come in all flavors. There are good trolls, the ones I agree with, and evil trolls, the ones I disagree with. Overall, a free Internet with hate mongering vicious trolls is vastly better than a censored Internet that's been reduced to a giant empty echoing, ruling-class-approved, safe space. “Sticks and stones will break my bones but words will never hurt me.”
+
+No matter what you think of the boorish behavior of UFO cultists celebrating Sagan's death it's clear to all, including the UFO cultists themselves that they are, in Douglass Adam's exquisite words, "mostly harmless."  No one gives a crap what ufologists (yeah it’s a word) think and nobody will pay attention to their ravings until they meet well-defined standards of proof. Sorry guys it’s a skeptic's world and we won't be lowering standards of scientific validation for you.
+
+Unfortunately, anti-nuclear don't launch Cassini, nitwits almost aborted what turned out to be an undisputed marvel of our age. I remember these 1997 loons and until they crawl out from their troglodyte caves, prostrate themselves before the great and powerful Internet, and publicly admit that they were completely wrong about Cassini, that launching the probe was the right thing to do, and that some tiny risks are very much worth taking, I will forever curse, mock, belittle, and remind others of their appalling judgment and sniveling cowardice.
+
+The Cassini launch hysterics began when a pack of dolts noticed the word "Plutonium" in Cassini's press material. Plutonium, oh my god! What are those privileged white devils in JPL up to? The JPL white devils tried to explain how <a href="https://saturn.jpl.nasa.gov/radioisotope-thermoelectric-generator/">RTG generators</a> work and that a safe reliable compact long-lasting power source was required for operations at Saturn where sunlight is around 0.011 Earth's intensity but math is hard. Way too hard for ideologues triggered by visions of Plutonium saturated Challenger like explosions spreading deadly radiation over a wide area. It was all over hyped rubbish. As of 2017, it's not clear that RTGs have killed a single person in over fifty years of use let alone the tens of thousands the Cassini Cassandras were picturing. The white devils lost patience and did a little back of the envelope calculation that assumed a major Cassini crash that uniformly spread the probe's "deadly Plutonium" over the entire Earth. Given this absurd worst case scenario, how many excessive cancer deaths could we expect?  The calculation <a href="https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens">estimated about 5,000</a> spread over a lifetime: <em>not enough to worry about!</em> Michio Kaku called bullshit on this absurd scenario and quickly concocted his own absurd scenario that had Cassini crashing into a dense urban area with laser guided bomb casualty maximizing effectiveness. This bumped the dark wet dream body count to 200,000. Both calculations were ridiculous. This entire episode is neatly summarized in this <a href="http://www.motherjones.com/politics/1997/09/cassini-controversy/">Mother Jones</a> (can you believe it) article.
+
+The launch of Cassini and its Earth flyby imposed miniscule risks. Even if things went horribly, <em>but realistically wrong</em>, it's unlikely the probe would have killed more than a thousand people. Whenever I hear projected death tolls I convert the statistic into one I care about. <em>What are my chances of dying?</em> The Earth's population was roughly six billion in 1997. The chances of Cassini killing me was at most one in million and probably much less. What type of whiny cowardly snowflake would give up the glories of Cassini for one in million odds of something bad happening? I would have accepted much worse odds.
+
+I wasn't the only one willing to take an infinitesimal risk to advance human knowledge. Just before Cassini's launch the anti-Cassini mob planned a march in Washington to screech, wave banners, and go full incontinent leftist ape. In their bush baby brains Cassini had to be stopped. Before 1997 protesters rarely faced counter protesters but Cassini touched a deep nerdy nerve and <a href="http://www.animatedsoftware.com/cassini/nltrs/nltr0050.htm">a small band of</a> pro-Cassini protesters showed up shouting "Don't be a weenie, launch Cassini,” and like the Greeks at Marathon, they drove the stunted grunting anti-Cassini beasts from the rhetorical field.  I like to imagine the “don’t be a weenie, launch Cassini” ruckus stirred Bill to take a break from dipping cigars in intern vaginas and get on the phone to authorize Cassini’s launch.
+
+Today the pro-Cassini protesters would be erroneously described as "alt-right." <em>Actually, they were simply and absolutely right</em> as hundreds of thousands of stunning Cassini images, thousands of scientific papers, and dozens of unexpected discoveries about Saturn and its Moons attest. Cassini exceeded everybody's expectations. The Voyagers were the greatest space probes of the 20<sup>th</sup> century and Cassini is the greatest of the 21<sup>st</sup> so far.  If we're lucky we'll see Cassini surpassed and that is something to look forward to.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5466</wp:post_id>
+  <wp:post_date>2017-09-15 12:27:15</wp:post_date>
+  <wp:post_date_gmt>2017-09-15 17:27:15</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>dont-be-a-weenie-launch-cassini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="carl-sagan"><![CDATA[Carl Sagan]]></category>
+  <category domain="post_tag" nicename="cassini"><![CDATA[Cassini]]></category>
+  <category domain="post_tag" nicename="cassini-grand-finale"><![CDATA[Cassini Grand Finale]]></category>
+  <category domain="category" nicename="history"><![CDATA[History]]></category>
+  <category domain="post_tag" nicename="jpl"><![CDATA[JPL]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="plutonium"><![CDATA[plutonium]]></category>
+  <category domain="post_tag" nicename="rtg"><![CDATA[RTG]]></category>
+  <category domain="post_tag" nicename="saturn"><![CDATA[saturn]]></category>
+  <category domain="post_tag" nicename="titan"><![CDATA[Titan]]></category>
+  <category domain="post_tag" nicename="ufos"><![CDATA[UFOs]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5465]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[9323803081]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_caa860650dd2ccead26a6b1919d4196f</wp:meta_key>
+    <wp:meta_value><![CDATA[<div class="embed-amazon"><iframe type="text/html" width="500" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?preview=inline&linkCode=kpd&ref_=k4w_oembed_SArGvLiBYDjOYh&asin=B000FCKKXU&tag=kpembed-20"></iframe></div>]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_time_caa860650dd2ccead26a6b1919d4196f</wp:meta_key>
+    <wp:meta_value><![CDATA[1505577080]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_6815aa9bc5818d9eed0e704d17cad50b</wp:meta_key>
+    <wp:meta_value><![CDATA[<div class="embed-amazon"><iframe type="text/html" width="584" height="550" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?preview=inline&linkCode=kpd&ref_=k4w_oembed_YiIHPf8Y2MfDoB&asin=B000FCKKXU&tag=kpembed-20"></iframe></div>]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_time_6815aa9bc5818d9eed0e704d17cad50b</wp:meta_key>
+    <wp:meta_value><![CDATA[1505583496]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1770</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>203.218.9.40</wp:comment_author_IP>
+    <wp:comment_date>2017-09-15 17:44:21</wp:comment_date>
+    <wp:comment_date_gmt>2017-09-15 22:44:21</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Good post, as usual John, and as usual, although not evident for some time, your ignorance of the UFO phenomenon shines through. 
+
+'Unsubstantiated nonsense' indeed. Have you read my post at https://iandubin.wordpress.com/2015/10/05/keep-your-eyes-on-the-skies/? Please explain the Twining memo, the Travis Walton Case, the 2011 Jerusalem UFO, the 2014 Puerto Rico FLIR footage, Trinidade, Malmstrom airforce base, Rendlesham Forest. the Hessdalen Lights or in fact my own 2015 sighting. 
+
+I admit, it is very difficult to gather rigorous repeatable evidence on ephemeral phenomena that refuse to submit to being placed in test tubes although Dr. Steven Greer is having pretty good success getting 'them' (whoever they may be) to respond to his attempts at contact. He has repeatedly demonstrated Close Encounters of the Fifth Kind - human initiated. UFOLOGY is an extremely broad field and yes, it throws up it's share of crackpots, as well as dishonest charlatans with their own agendas to push, but it also includes a core of scientifically trained investigators (like me in my small way), Stanton Friedman (Nuclear Physicist), Bruce Maccabee (retired US Navy Optical Physicist), the late Dr. James MacDonald (U of Arizona Atmospheric Physicist), the late Dr. Alan Hynek and many others. 
+
+Many of the best Ufologists are former skeptics (like Hynek) who were eventually overwhelmed by the sheer weight of the evidence that something unknown is going on in our skies. FYI UFO does not automatically mean 'Alien Space Craft'. Pros prefer the term Anomalous Aerial Phenomenon or Unknown Aerial Phenomenon.
+
+As Dr. Colm Kelleher put “At its most basic level, science is supposed to represent the investigation of the unexplained, not the explanation of the uninvestigated. Yet few scientists are willing to risk the criticism of their peers (or the withdrawal of their research grants) if it means pursuing the subjects that are deemed by unofficial acclamation to be unworthy tabloid fodder, the rants of disturbed minds, or the folklore of drunken trailer park lowlifes.”
+
+You embarrass yourself with that attitude John. Go read Dr. Kelleher's book on the investigations at the Skinwalker Ranch in UTAH
+
+https://www.amazon.com/Hunt-Skinwalker-Science-Confronts-Unexplained/dp/1416505210 
+
+And you should really stop ridiculing a subject you clearly know nothing whatsoever about.  It detracts from the otherwise rational and well written content of your posts.
+
+Cheers. After reading your eclipse post it is pretty clear I am gonna have to go see one.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>9352465547</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1505520374.806849956512451171875;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1505577078</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1505577078</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1505577079.1222450733184814453125;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1505515461.7721960544586181640625;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
   </channel>
 </rss>
