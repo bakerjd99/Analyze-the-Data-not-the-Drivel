@@ -1,4 +1,4 @@
- 4ded49cd1e3c6637c1ee828ec0cfd7ce481b179f bm.pdf
+ ac3423be50c706937700751806d21beef68192b5 bm.pdf
  1eda69b6a5ed4990a67a7a259d72b23650c111ab ablackswansong985.tex
  e2e56d16f37257f9a6797b8fbb2e8a2951e928bd abloggychristmaslett5275.tex
  a9e495713835eb6b1950f7aa9d96790bb6f97ad0 acnetclassforcalling537.tex
@@ -23,7 +23,7 @@
  44e689bf9ea654b89a473418f5e3d44355952ecc blogrobotreview3653.tex
  df25a1dba3a69e2e1778989252253927014e68a8 bloodmorons4643.tex
  fd795019c52935b6cef1464adc58fdb342f23dde blurbnicklombstransi2744.tex
- 73439ea1d188fa1325eadecb95f358a0c01f47bd bm.tex
+ cc80d4a9d277ab2432c262e07306a0167a402b54 bm.tex
  9369e7c88f4ae043d8084bde0d2023b8c01f3635 bmamble.tex
  e531313dc2e823e8aa164319bfe306987844a267 bmtitlepage.tex
  80579d33fbf62b2d8c1401d88160b0e1f7223c55 bookstoignore3612.tex
@@ -44,6 +44,7 @@
  92c0122f7ae34c0521968cc3c777c326959a85d2 debtdoltsdiddleanddr1681.tex
  c47b37b5f82703a087c663b7135933194c5b5f60 dontbeaweenielaunchc5466.tex
  6e2d6bba0a58110cf559dc0837ce36c1c40467ba electionreflections3337.tex
+ 0f4573b6c87901296f7321675b11c3b94b3653c7 equifucked5477.tex
  c8ad74994ddaea013a41375683c3dcc2d10470fe euphoriareview5103.tex
  2376c44408ddf53a61352a2c5d59b01f44f863af evelynseulogy4027.tex
  3423f7bfbd43e930ea018bb5f01aaf0c9f44fffb everybodyabandonface521.tex
