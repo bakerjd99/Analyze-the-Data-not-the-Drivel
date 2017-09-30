@@ -22,7 +22,7 @@ Lake](http://www.youtube.com/watch?v=3bYTomI-Uiw) just to cool down.
 I was expecting a
 [euroweenie](http://www.urbandictionary.com/define.php?term=euroweenie)
 art film but the Swan exceeded my expectations by being — what’s that
-word — *entertaining*. I particularly enjoyed being fooled until last
+word — *entertaining*. I particularly enjoyed being fooled until the last
 scene. There is nothing I hate more than figuring out what’s going on in
 a movie. I demand that lovely confused state of mind before all is
 revealed. And for the denouement, I expect coherence and logic. I was
