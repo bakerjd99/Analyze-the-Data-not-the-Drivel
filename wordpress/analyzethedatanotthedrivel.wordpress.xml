@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-09-30 01:06"-->
+<!-- generator="WordPress.com" created="2017-10-11 04:07"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Sat, 30 Sep 2017 01:06:55 +0000</pubDate>
+<pubDate>Wed, 11 Oct 2017 04:07:25 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1668,6 +1668,11 @@
   <wp:tag_name><![CDATA[gui applications]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>4761</wp:term_id>
+  <wp:tag_slug>gun-control</wp:tag_slug>
+  <wp:tag_name><![CDATA[gun control]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>203449</wp:term_id>
   <wp:tag_slug>gun-rights</wp:tag_slug>
   <wp:tag_name><![CDATA[gun rights]]></wp:tag_name>
@@ -2148,6 +2153,11 @@
   <wp:tag_name><![CDATA[LAPD]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>591873993</wp:term_id>
+  <wp:tag_slug>las-vegas-massacre</wp:tag_slug>
+  <wp:tag_name><![CDATA[Las Vegas massacre]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>8800</wp:term_id>
   <wp:tag_slug>latex</wp:tag_slug>
   <wp:tag_name><![CDATA[LaTeX]]></wp:tag_name>
@@ -2366,6 +2376,11 @@
   <wp:term_id>1895352</wp:term_id>
   <wp:tag_slug>martin-gardner</wp:tag_slug>
   <wp:tag_name><![CDATA[Martin-Gardner]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>24756971</wp:term_id>
+  <wp:tag_slug>mass-killers</wp:tag_slug>
+  <wp:tag_name><![CDATA[mass killers]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>247007</wp:term_id>
@@ -8912,29 +8927,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/cassini-saturn.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Mon, 18 Sep 2017 01:13:42 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/09/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5473</wp:post_id>
-  <wp:post_date>2017-09-17 20:13:42</wp:post_date>
-  <wp:post_date_gmt>2017-09-18 01:13:42</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>equifucked</title>
   <link>http://analyzethedatanotthedrivel.org/2017/09/26/equifucked/equifucked/</link>
   <pubDate>Mon, 25 Sep 2017 22:20:12 +0000</pubDate>
@@ -8956,6 +8948,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/equifucked.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Sat, 30 Sep 2017 19:07:19 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/09/bm1.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5485</wp:post_id>
+  <wp:post_date>2017-09-30 14:07:19</wp:post_date>
+  <wp:post_date_gmt>2017-09-30 19:07:19</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/bm1.pdf</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -16659,7 +16674,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/09/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/09/bm1.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -36382,6 +36397,156 @@ Sending EquiFucks to prison, while gratifying – their agony will be delicious 
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[9700238027]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>The Mass Kill as Performance Art</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/10/08/the-mass-kill-as-performance-art/</link>
+  <pubDate>Sun, 08 Oct 2017 20:50:08 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5487</guid>
+  <description/>
+  <content:encoded><![CDATA[It’s been almost a week since the Las Vegas Mandalay Bay massacre and the idiot media is still looking for “a motive.” They remind me of O.J.’s fruitless search for the “real killer.” I don’t watch the alphabets, except when trapped in airports or, with increasing annoyance, in my employer’s cafeteria so I’ve missed days of mindless speculation but my limited TV sampling confirms what’s easily gleaned from more efficient news sources. The killers “motive” is still unknown and the authorities are still looking.
+
+In all the blather about the mysterious highly organized and thoughtful killer, it's never occurred to anyone (on TV anyway), that the lack of an apparent motive is exactly what the killer hoped to achieve.
+
+Consider the usual mass media slaughter script. An individual, or group of individuals, attack and murder a sufficiently<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> large number of “innocents.”
+
+If, as is often the case, the attackers are well-known terrorists they will typically gloat and issue more threats. Public threats trigger the idiot media's "analysis."
+
+If the terrorists are Jihadis the idiot media will downplay the attack while issuing stern warnings about not jumping to racist conclusions about an “entire religion.” Then, when forced by competing news organizations like Fox or right-leaning bloggers, they will join the fray and condemn the killers while searching for a way to blame Trump.
+
+If the killer is black and the victims are black --- well this isn’t news! Press the ignore button and complain about anything that can be plausibly blamed on Trump. And, fortunately for the idiot media, that well will never run dry.
+
+If the killer is white and the victims are <em>mostly white</em> (bingo for Las Vegas), spend a day or two glorifying the murderer. Review his<a id="fnref2" class="footnoteRef" href="#fn2"><sup>2</sup></a> typically pathetic and meaningless life while running candlelight vigils, peace garden plantings, and out-of-tune <em>Kumbaya-a-thons</em> in the background. In more sober moments touch on the <em>“</em>known motive” for the mayhem. Tut-tut the violence, reassure moronic viewers that violence is never the answer. Play a few bars of <em>Imagine</em> then, when appropriate mourning turns to anger, use the “known motive” to pivot to what the idiot media wanted to talk about from the beginning: <em>gun</em> <em>confiscation.</em><a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a>
+
+The sooner the idiot media can get “the motive” out of the way the sooner they can get down to one of their favorite topics. Sadly, the Vegas killer, being an intelligent and detail oriented psychopath, anticipated this and left no clear motive forcing the idiot media to fixate, like a dog licking its ass, on “the motive” for day, after day, after day. Every day spent discussing “the motive” inflates the killer’s infamy. He’s already the most famous mass killer in recent history.
+
+Real villainy requires incomprehensible dread and clear motives eliminate dread. When Jihadis kill it's no big deal. Their sky fairy manual exhorts true believers to behead, enslave and tax infidels. It's hard to imagine a violence-free way to realize such goals. When black hating psychopaths open fire in churches the idiot media have ready-made dread dispelling explanations. If you can quickly explain an atrocity it almost ceases being atrocious. But, if the horror can never be explained, if it sticks in your existential craw, it remains a source of terror forever. This is what the killer was really aiming for.
+
+I view the Las Vegas massacre as deadly performance art. The killer has more in common with "artists" that drop their pants in public and pee on crucifixes than cause-driven revolutionaries or garden variety psychopaths. What exactly motivates public "performance" crucifix urination? To even ask the question is to mock it. For one deadly night the Vegas killer staged a performance that upstaged all the other Vegas shows and unlike another showing of <em>Cirque du Soleil</em> or <em>Menopause the Musical</em> his performance will be remembered forever. <em>The mass kill is a new art form and the idiot media is its biggest patron</em>.
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">Sufficiently large is an ever-increasing natural number that is now greater than ten.<a href="#fnref1">↩</a></li>
+    <li id="fn2">The overwhelming majority of mass killers are male.<a href="#fnref2">↩</a></li>
+    <li id="fn3">It's impossible to have an intelligent debate about guns in the US is because neither side is willing to discuss their ultimate goals or take responsibility for their positions. Gun controllers secretly want the second amendment appealed and all existing guns confiscated. Nothing else will satisfy them. They naively think an unarmed society will never be abused by the state. Gun holders often point out that the second amendment was never about creating a safe and secure society but about erecting deadly barriers to government tyranny. Unfortunately, they're unwilling to admit that a heavily armed populace will result in large numbers of firearm deaths. US gun deaths are an order of magnitude greater than comparable western societies: that tree of liberty is more bloodthirsty than expected.<a href="#fnref3">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5487</wp:post_id>
+  <wp:post_date>2017-10-08 15:50:08</wp:post_date>
+  <wp:post_date_gmt>2017-10-08 20:50:08</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-mass-kill-as-performance-art</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="gun-control"><![CDATA[gun control]]></category>
+  <category domain="post_tag" nicename="guns"><![CDATA[guns]]></category>
+  <category domain="post_tag" nicename="las-vegas-massacre"><![CDATA[Las Vegas massacre]]></category>
+  <category domain="post_tag" nicename="mass-killers"><![CDATA[mass killers]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="post_tag" nicename="second-amendment"><![CDATA[Second Amendment]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[10109698317]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1789</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>42.2.219.172</wp:comment_author_IP>
+    <wp:comment_date>2017-10-09 08:30:15</wp:comment_date>
+    <wp:comment_date_gmt>2017-10-09 13:30:15</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Good rant John. 
+
+A couple of quick quite disconnected comments. The idiot media does what it does for one reason only - money. It sells what used to be called newspapers. They have to generate content to keep people glued to their idiot-screens. 
+
+US Gun laws are indeed idiotic. No one can buy a car without a driver's license. Why should some twit who has learned how to operate a firearm from movies and TV be allowed to have one? In Canada you require a two day course in weapons handling and safety for a license for a long gun and two more days for a handgun. Plus you can't acquire a handgun unless you are a member of a Gun Club or a 'collector' (an ill defined term). 
+
+Since I've let my Gun Club membership in Kingston expire I am no longer legally entitled to do anything with my six or seven handguns than open the gunsafe and  fondle them in the guise of cleaning and checking them for functionality. I can get away with popping off a few subsonic .22 rounds in the basement, but that's technically illegal too.  
+
+If you want a Hollywood star who demonstrates good firearms handling watch Keanu Reeves in either of the John Wick movies. He's an IPSC Black Shield holder as am I and he really knows how to handle a firearm. 
+
+Where the US has got it right is in the concealed carry 'shall issue' permit laws which came into place after 9-11. More and more street violence in the US is being deterred by legally armed and mostly well trained individuals carrying handguns (in Utah you can get a CC license by sitting through a couple of days of lectures - no range work required and that is just stupid). Remember how hard it was for me to get you to keep your finger off the trigger until you were on target that time we went to the Kingston range about 5 years ago? 
+
+Nonetheless, with 7 million legal CC people in the US the rates of muggings and violent attacks on law abiding citizens have fallen quite dramatically. Check the FBI statistics if you don't believe me. 
+
+One unfortunate corollary has been that in Florida, most carjackings now involve Canadian license plates since a Snowbird can't legally acquire a firearm in the US. Only citizens. 
+
+Your performance art theory strikes a chord with me. Solution? Get the US to pass a law stating that the names of suspected mass killers will be redacted for 75 years. Hard to enforce I admit. 
+
+I think from memory there are about 1500 accidental discharge deaths in the US per year. That could be cut down drastically by enacting simple safe storage laws (as in Canada) to keep kids and the curious idiots away from the arsenal. If the NRA says 'we need instant access for defense' I point to the gunsafe in my upstairs bedroom at SDM. I can key in the code and have a loaded firearm in my hands within 15 seconds or so. More modern gunsafes work on a biometric gadget and open instantly when the registered palmprint is slapped onto the device. You can keep a locked and loaded pistol next to your bed that only you can get to. 
+
+https://www.youtube.com/watch?v=a2gCFOtaZPo
+
+BTW, she violated a basic tenet of firearms handling when she pulled the piece from her gunsafe. She didn't check the weapon. Drop the mag, slap it back in, crack the slide to see brass in the chamber.  Lock the slide again, Good to go. 
+
+!! Fail !! on the Lord Dubin Firearms handling course. If you enjoyed that there are a heap more Glock ads that will pop up, all starring 'Gunny' R Lee Emerson and a lot of them ignoring this basic rule of good firearms handling.
+
+ It can be excused by the producers by saying you never store a 'ready' pistol without it being 'cocked and locked' like the old Colt 1911, which is usually holstered with a round up the spout, hammer back - cocked - and the safety on - locked - to do otherwise would be stupid as the old ones without a grip safety are prone to accidental discharge if jarred hard enough. 
+
+I never like mechanical safeties and was not fond of the 1911 platform until I acquired an airsoft version and practiced with it. After a thousand or so dry fires it becomes automatic (pun intended) to drop the safety off with your thumb when you present the piece. I may need to get one once I can afford to renew my Gun Club membership. 
+
+And a Glock doesn't need to be 'cocked and locked'. It has no external safety (but has three internal trigger related safeties - part of the 'striker' safe-fire system that made it so revolutionary that it is neither a single action - like the 1911 - or a double action - like my Sigs and my Jericho,  so when you holster it, with a round in the chamber, it is always ready to go instantly. Like my double action Jericho 941. But I digress  
+
+Finally, on Jihadis, there is a simple solution, to suicide bombings at least, often attributed  (falsely) to General 'Black Jack' Pershing when he fought the Muslim Moro Insurrection in the Philippines in the early part of the last Century. It is said that he controlled it by burying dead insurrectionists in pigskins. Didn't happen. But the insurrection did result in the development of the .45 ACP cartridge and the John Browning designed Colt 1911 pistol (the .38 S&amp;W didn't have the stopping power to put a hopped up madman down instantly). But I digress again
+
+However, the idea is applicable in present times. 
+
+When a suicide bomber, often high on drugs, detonates his 20 kilos of Semtex in his vest (big bang), his head separates from his body in one piece, flies up a couple of hundred yards or so and lands near ground zero. 
+
+So you scrape what's left of him up with a shovel and with great fanfare in the idiot media bury him wrapped in a pigskin, or even an old Tom Brady under-inflated football. 
+
+He's Hareem. Doesn't get to Paradise. No 72 virgins for him. Therefore no more volunteer suicide bombers. 
+
+I floated this idea with two Muslim friends of mine a couple of years ago (yes I have Muslim friends), both very secular and moderate guys, over dinner at a certain 'Society with Secrets' that I belong to. 
+
+They looked at each other, Father and Son, and Dad turned back to me and said 'Yeah, that would  work'. Son nodded. 
+
+Cheers, keep thinking John]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1507555817</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1507555816</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1507555816.818274021148681640625;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
   </channel>
 </rss>
