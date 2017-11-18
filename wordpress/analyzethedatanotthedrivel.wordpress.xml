@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-10-11 04:07"-->
+<!-- generator="WordPress.com" created="2017-11-18 18:17"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Wed, 11 Oct 2017 04:07:25 +0000</pubDate>
+<pubDate>Sat, 18 Nov 2017 18:17:18 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1103,6 +1103,11 @@
   <wp:tag_name><![CDATA[dead tree]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>8437</wp:term_id>
+  <wp:tag_slug>death</wp:tag_slug>
+  <wp:tag_name><![CDATA[death]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>40012</wp:term_id>
   <wp:tag_slug>death-penalty</wp:tag_slug>
   <wp:tag_name><![CDATA[death penalty]]></wp:tag_name>
@@ -1203,6 +1208,11 @@
   <wp:tag_name><![CDATA[dumb government]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>11124</wp:term_id>
+  <wp:tag_slug>dying</wp:tag_slug>
+  <wp:tag_name><![CDATA[dying]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>34514088</wp:term_id>
   <wp:tag_slug>eat-pay-love</wp:tag_slug>
   <wp:tag_name><![CDATA[Eat Pay Love]]></wp:tag_name>
@@ -1256,6 +1266,11 @@
   <wp:term_id>51460</wp:term_id>
   <wp:tag_slug>end-of-the-world</wp:tag_slug>
   <wp:tag_name><![CDATA[End of the World]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>1268198</wp:term_id>
+  <wp:tag_slug>end-of-life</wp:tag_slug>
+  <wp:tag_name><![CDATA[end-of-life]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>99155</wp:term_id>
@@ -2628,6 +2643,11 @@
   <wp:tag_name><![CDATA[nursing home]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>7934555</wp:term_id>
+  <wp:tag_slug>omahony</wp:tag_slug>
+  <wp:tag_name><![CDATA[O'Mahony]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>376320</wp:term_id>
   <wp:tag_slug>obama</wp:tag_slug>
   <wp:tag_name><![CDATA[Obama]]></wp:tag_name>
@@ -3443,6 +3463,11 @@
   <wp:tag_name><![CDATA[The Road to Wellville]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>10564261</wp:term_id>
+  <wp:tag_slug>the-way-we-die-now</wp:tag_slug>
+  <wp:tag_name><![CDATA[The Way We Die Now]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>33180</wp:term_id>
   <wp:tag_slug>therapy</wp:tag_slug>
   <wp:tag_name><![CDATA[therapy]]></wp:tag_name>
@@ -3705,12 +3730,15 @@
   <wp:term_name><![CDATA[Secondary]]></wp:term_name>
 </wp:term>
 <generator>http://wordpress.com/</generator>
+
 <image>
-		<url>https://s2.wp.com/i/buttonw-com.png</url>
-		<title>Analyze the Data not the Drivel.</title>
-		<link>http://analyzethedatanotthedrivel.org</link>
-	</image>
-	<item>
+	<url>https://bakerjd99.files.wordpress.com/2017/11/cropped-adndsymbolurl.png?w=32</url>
+	<title>Analyze the Data not the Drivel.</title>
+	<link>http://analyzethedatanotthedrivel.org</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<item>
   <title>J/graphviz Generated Planning Model Diagram</title>
   <link>http://analyzethedatanotthedrivel.org/2009/09/09/fake-progamming/modeldiagram/</link>
   <pubDate>Wed, 09 Sep 2009 20:55:54 +0000</pubDate>
@@ -6875,171 +6903,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2128/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:41 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2128</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2128</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:41</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:41</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2128</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>17</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2129/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:42 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2129</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2129</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:42</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:42</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2129</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>18</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[4283]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2130/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:44 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2130</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2130</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:44</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:44</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2130</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>22</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[0]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[309]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>http://analyzethedatanotthedrivel.org/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -8952,15 +8815,15 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 <item>
   <title>bm</title>
   <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Sat, 30 Sep 2017 19:07:19 +0000</pubDate>
+  <pubDate>Sun, 22 Oct 2017 18:05:10 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/09/bm1.pdf</guid>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/10/bm.pdf</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5485</wp:post_id>
-  <wp:post_date>2017-09-30 14:07:19</wp:post_date>
-  <wp:post_date_gmt>2017-09-30 19:07:19</wp:post_date_gmt>
+  <wp:post_id>5493</wp:post_id>
+  <wp:post_date>2017-10-22 13:05:10</wp:post_date>
+  <wp:post_date_gmt>2017-10-22 18:05:10</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>bm</wp:post_name>
@@ -8970,7 +8833,76 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/bm1.pdf</wp:attachment_url>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/10/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>cropped-adndlbanner00</title>
+  <link>http://analyzethedatanotthedrivel.org/cropped-adndlbanner00/</link>
+  <pubDate>Mon, 13 Nov 2017 23:19:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/11/cropped-adndlbanner00.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5495</wp:post_id>
+  <wp:post_date>2017-11-13 17:19:03</wp:post_date>
+  <wp:post_date_gmt>2017-11-13 23:19:03</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>cropped-adndlbanner00</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/cropped-adndlbanner00.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>cropped-adndsymbolurl</title>
+  <link>http://analyzethedatanotthedrivel.org/cropped-adndsymbolurl/</link>
+  <pubDate>Wed, 15 Nov 2017 16:58:31 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/11/cropped-adndsymbolurl.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5496</wp:post_id>
+  <wp:post_date>2017-11-15 09:58:31</wp:post_date>
+  <wp:post_date_gmt>2017-11-15 16:58:31</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>cropped-adndsymbolurl</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/cropped-adndsymbolurl.png</wp:attachment_url>
+</item>
+<item>
+  <title>waywedienow</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/11/18/review-the-way-we-die-now/waywedienow/</link>
+  <pubDate>Sat, 18 Nov 2017 17:59:07 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/11/waywedienow.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5499</wp:post_id>
+  <wp:post_date>2017-11-18 10:59:07</wp:post_date>
+  <wp:post_date_gmt>2017-11-18 17:59:07</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>waywedienow</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5497</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/waywedienow.jpg</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -15639,202 +15571,6 @@ The nursing home lacks Internet access so my wife, to cheer me up, got me an iPh
   </wp:postmeta>
 </item>
 <item>
-  <title>Top Ten Invalid Annoyances</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/03/07/top-ten-invalid-annoyances/</link>
-  <pubDate>Mon, 07 Mar 2011 23:18:36 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1191</guid>
-  <description/>
-  <content:encoded><![CDATA[<a href="http://bakerjd99.files.wordpress.com/2011/03/20110307-0511101.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110307-0511101.jpg" alt="" /></a>
-
-I have been in the rehab/old-folks home for eight days: long enough to adjust to the routine. It's amazing how quickly we get on with a new normal. This doesn't mean I am comfortable or thrilled with my circumstances. I have a list of invalid annoyances.
-
-Let's do this from least to most annoying.
-<ol>
-	<li>Call bells that ring for hours on end.</li>
-	<li>Marginal cable package: cripples don't need HBO.</li>
-	<li>Late night nurse chats; I had forgotten about noisy hospitals.</li>
-	<li>Butt-plugging food. They have been trying to give me stool softeners since my arrival. If my wife wasn't bringing food I would need them.</li>
-	<li>Locked courtyards. It's winter and the courtyards are locked to protect the elderly. This should be a weather dependent rather than seasonal policy.</li>
-	<li>Inability to put on my socks.</li>
-	<li>Unable to get in or out of my wheelchair without assistance.</li>
-	<li>Cannot shower or bathe until my cuts heal</li>
-	<li>Peeing into a plastic bottle.</li>
-	<li>And the number one annoyance: <strong>cannot wipe my ass. </strong>I suspect my nurses concur.</li>
-</ol>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1191</wp:post_id>
-  <wp:post_date>2011-03-07 17:18:36</wp:post_date>
-  <wp:post_date_gmt>2011-03-07 23:18:36</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>top-ten-invalid-annoyances</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="surreyplace"><![CDATA[Surreyplace]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413288633;}]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Cripple Chronicles Continue</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/03/15/cripple-chronicles-continue-2/</link>
-  <pubDate>Tue, 15 Mar 2011 23:53:21 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1202</guid>
-  <description/>
-  <content:encoded><![CDATA[<a href="http://bakerjd99.files.wordpress.com/2011/03/20110315-065116.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110315-065116.jpg" alt="" /></a>
-
-It's coming up on three weeks since I fell and ripped my quadriceps. I am now cleared for passive, gravity assisted, flexing of my knees. This morning I managed a seventy-five degree bend. I would like to reach a full ninety degrees before the end of the week. I suspect my days of greater than ninety degrees are done. The next step is to get up in a walker. I hope this is sooner rather than later. Moving my butt from bed to wheelchair and back is wearing thin. I honestly don't know how some of the elderly residents here stand it. Unlike myself many of them will be in wheelchairs until they die. Getting old isn't for pussies!
-
-I'm not the only one "suffering" from my freaky fall. My poor wife is working hard bringing me meals, (hospital food did not impress her) and pitching in with everyday invalid care. She really is the best wife in the world.
-
-I wish I could say the same about my insurance companies. Today we mailed my application for short-term disability. I will qualify; mine is a classic total temporary disability. They cannot deny coverage without facing a slam-dunk lawsuit but they will be able to impose inflexible rules.
-
-For example, when I am on disability I cannot work and if I work, even a few hours per day, I cannot collect disability. If I had Wi-Fi and my office laptop I could put in a few remote hours even now but I cannot manage a full schedule. I expect I will end up putting in unpaid remote hours unless that is also forbidden. I cannot be out of circulation for long or my little walk in the park might end in unemployment.
-
-<a href="http://bakerjd99.files.wordpress.com/2011/03/20110315-064742.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110315-064742.jpg" alt="" /></a>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1202</wp:post_id>
-  <wp:post_date>2011-03-15 18:53:21</wp:post_date>
-  <wp:post_date_gmt>2011-03-15 23:53:21</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>cripple-chronicles-continue-2</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
-  <category domain="post_tag" nicename="therapy"><![CDATA[therapy]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Walking: It's not Overrated</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/03/23/walking-its-not-overrated/</link>
-  <pubDate>Wed, 23 Mar 2011 19:54:00 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/2011/03/23/walking-its-not-overrated/</guid>
-  <description/>
-  <content:encoded><![CDATA[Rehab has taught me that I really don't like pain! I wish I could report that I am a tough guy; that I can happily take a beating and then ask for more. Alas, that's not me. I've always considered the downside of stupid stunts and, with a few notable lapses of judgement, managed to avoid the self-inflicted injuries of my peers. 
-
-I've been more of, "an ounce of prevention is worth a pound of cure," than a, "no pain no gain," guy. Most of the time this is sensible but when you are going through rehab the opposite holds. When your torturers, (therapists),    insist on bending your broken body this way and that way, over and over again, I can assure you it's not pain-free.
-
-Of course there is an upside. You do improve and things get better. Today I "walked" twenty-five meters in my braces using a walker. It was a post accident record. Every day the distance and time will increase and in no time I hope to be hiking again. Walking: it's not overrated.
-
-<br /><br /><a href="http://bakerjd99.files.wordpress.com/2011/03/20110323-031746.jpg"><img src="http://bakerjd99.files.wordpress.com/2011/03/20110323-031746.jpg" alt="20110323-031746.jpg" class="alignnone size-full" /></a>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1207</wp:post_id>
-  <wp:post_date>2011-03-23 14:54:00</wp:post_date>
-  <wp:post_date_gmt>2011-03-23 19:54:00</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>walking-its-not-overrated</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
-  <category domain="post_tag" nicename="walker"><![CDATA[walker]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>98</wp:comment_id>
-    <wp:comment_author><![CDATA[bobtherriault]]></wp:comment_author>
-    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bobtherriault.wordpress.com/</wp:comment_author_url>
-    <wp:comment_author_IP>70.67.253.145</wp:comment_author_IP>
-    <wp:comment_date>2011-03-24 08:50:49</wp:comment_date>
-    <wp:comment_date_gmt>2011-03-24 13:50:49</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Good for you John,
-
-That is excellent progress! Celebrate each step along the way.
-
-Cheers, bob]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>348962</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1300974649.1854";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:13:"bobtherriault";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-03-24 13:50:49</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>99</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url/>
-    <wp:comment_author_IP>70.242.68.126</wp:comment_author_IP>
-    <wp:comment_date>2011-03-24 09:27:31</wp:comment_date>
-    <wp:comment_date_gmt>2011-03-24 14:27:31</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Thanks Bob. I hope to get back to my old self bit by bit]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>98</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1300976853.5886";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-03-24 14:27:31</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>About Me</title>
   <link>http://analyzethedatanotthedrivel.org/about-me/</link>
   <pubDate>Tue, 02 Aug 2011 00:38:11 +0000</pubDate>
@@ -16109,6 +15845,171 @@ William]]></wp:comment_content>
       <wp:meta_value>a:3:{s:4:"time";d:1478180030.4602530002593994140625;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"grothendieckfan";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2128/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:41 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2128</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2128</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:41</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:41</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2128</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>17</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[10346]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2129/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:42 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2129</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2129</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:42</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:42</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2129</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>18</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[4283]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2130/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:44 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2130</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2130</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:44</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:44</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2130</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>22</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[309]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -16674,7 +16575,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/09/bm1.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/10/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -18955,6 +18856,202 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>Top Ten Invalid Annoyances</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/03/07/top-ten-invalid-annoyances/</link>
+  <pubDate>Mon, 07 Mar 2011 23:18:36 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1191</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://bakerjd99.files.wordpress.com/2011/03/20110307-0511101.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110307-0511101.jpg" alt="" /></a>
+
+I have been in the rehab/old-folks home for eight days: long enough to adjust to the routine. It's amazing how quickly we get on with a new normal. This doesn't mean I am comfortable or thrilled with my circumstances. I have a list of invalid annoyances.
+
+Let's do this from least to most annoying.
+<ol>
+	<li>Call bells that ring for hours on end.</li>
+	<li>Marginal cable package: cripples don't need HBO.</li>
+	<li>Late night nurse chats; I had forgotten about noisy hospitals.</li>
+	<li>Butt-plugging food. They have been trying to give me stool softeners since my arrival. If my wife wasn't bringing food I would need them.</li>
+	<li>Locked courtyards. It's winter and the courtyards are locked to protect the elderly. This should be a weather dependent rather than seasonal policy.</li>
+	<li>Inability to put on my socks.</li>
+	<li>Unable to get in or out of my wheelchair without assistance.</li>
+	<li>Cannot shower or bathe until my cuts heal</li>
+	<li>Peeing into a plastic bottle.</li>
+	<li>And the number one annoyance: <strong>cannot wipe my ass. </strong>I suspect my nurses concur.</li>
+</ol>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1191</wp:post_id>
+  <wp:post_date>2011-03-07 17:18:36</wp:post_date>
+  <wp:post_date_gmt>2011-03-07 23:18:36</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>top-ten-invalid-annoyances</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="surreyplace"><![CDATA[Surreyplace]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413288633;}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Cripple Chronicles Continue</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/03/15/cripple-chronicles-continue-2/</link>
+  <pubDate>Tue, 15 Mar 2011 23:53:21 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1202</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://bakerjd99.files.wordpress.com/2011/03/20110315-065116.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110315-065116.jpg" alt="" /></a>
+
+It's coming up on three weeks since I fell and ripped my quadriceps. I am now cleared for passive, gravity assisted, flexing of my knees. This morning I managed a seventy-five degree bend. I would like to reach a full ninety degrees before the end of the week. I suspect my days of greater than ninety degrees are done. The next step is to get up in a walker. I hope this is sooner rather than later. Moving my butt from bed to wheelchair and back is wearing thin. I honestly don't know how some of the elderly residents here stand it. Unlike myself many of them will be in wheelchairs until they die. Getting old isn't for pussies!
+
+I'm not the only one "suffering" from my freaky fall. My poor wife is working hard bringing me meals, (hospital food did not impress her) and pitching in with everyday invalid care. She really is the best wife in the world.
+
+I wish I could say the same about my insurance companies. Today we mailed my application for short-term disability. I will qualify; mine is a classic total temporary disability. They cannot deny coverage without facing a slam-dunk lawsuit but they will be able to impose inflexible rules.
+
+For example, when I am on disability I cannot work and if I work, even a few hours per day, I cannot collect disability. If I had Wi-Fi and my office laptop I could put in a few remote hours even now but I cannot manage a full schedule. I expect I will end up putting in unpaid remote hours unless that is also forbidden. I cannot be out of circulation for long or my little walk in the park might end in unemployment.
+
+<a href="http://bakerjd99.files.wordpress.com/2011/03/20110315-064742.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110315-064742.jpg" alt="" /></a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1202</wp:post_id>
+  <wp:post_date>2011-03-15 18:53:21</wp:post_date>
+  <wp:post_date_gmt>2011-03-15 23:53:21</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>cripple-chronicles-continue-2</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
+  <category domain="post_tag" nicename="therapy"><![CDATA[therapy]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Walking: It's not Overrated</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/03/23/walking-its-not-overrated/</link>
+  <pubDate>Wed, 23 Mar 2011 19:54:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/2011/03/23/walking-its-not-overrated/</guid>
+  <description/>
+  <content:encoded><![CDATA[Rehab has taught me that I really don't like pain! I wish I could report that I am a tough guy; that I can happily take a beating and then ask for more. Alas, that's not me. I've always considered the downside of stupid stunts and, with a few notable lapses of judgement, managed to avoid the self-inflicted injuries of my peers. 
+
+I've been more of, "an ounce of prevention is worth a pound of cure," than a, "no pain no gain," guy. Most of the time this is sensible but when you are going through rehab the opposite holds. When your torturers, (therapists),    insist on bending your broken body this way and that way, over and over again, I can assure you it's not pain-free.
+
+Of course there is an upside. You do improve and things get better. Today I "walked" twenty-five meters in my braces using a walker. It was a post accident record. Every day the distance and time will increase and in no time I hope to be hiking again. Walking: it's not overrated.
+
+<br /><br /><a href="http://bakerjd99.files.wordpress.com/2011/03/20110323-031746.jpg"><img src="http://bakerjd99.files.wordpress.com/2011/03/20110323-031746.jpg" alt="20110323-031746.jpg" class="alignnone size-full" /></a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1207</wp:post_id>
+  <wp:post_date>2011-03-23 14:54:00</wp:post_date>
+  <wp:post_date_gmt>2011-03-23 19:54:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>walking-its-not-overrated</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="post_tag" nicename="rehab"><![CDATA[rehab]]></category>
+  <category domain="post_tag" nicename="walker"><![CDATA[walker]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>98</wp:comment_id>
+    <wp:comment_author><![CDATA[bobtherriault]]></wp:comment_author>
+    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bobtherriault.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP>70.67.253.145</wp:comment_author_IP>
+    <wp:comment_date>2011-03-24 08:50:49</wp:comment_date>
+    <wp:comment_date_gmt>2011-03-24 13:50:49</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Good for you John,
+
+That is excellent progress! Celebrate each step along the way.
+
+Cheers, bob]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>348962</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1300974649.1854";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:13:"bobtherriault";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-03-24 13:50:49</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>99</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>70.242.68.126</wp:comment_author_IP>
+    <wp:comment_date>2011-03-24 09:27:31</wp:comment_date>
+    <wp:comment_date_gmt>2011-03-24 14:27:31</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Thanks Bob. I hope to get back to my old self bit by bit]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>98</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1300976853.5886";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-03-24 14:27:31</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Hospital Staff Training</title>
@@ -34831,49 +34928,6 @@ We did have a Merry Christmas.]]></wp:comment_content>
 </item>
 <item>
   <title>My Final Facebook Fuckoff</title>
-  <link>http://analyzethedatanotthedrivel.org/2017/01/07/__trashed/</link>
-  <pubDate>Sun, 08 Jan 2017 00:24:44 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5294</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5294</wp:post_id>
-  <wp:post_date>2017-01-07 18:24:44</wp:post_date>
-  <wp:post_date_gmt>2017-01-08 00:24:44</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>__trashed</wp:post_name>
-  <wp:status>trash</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-    <wp:meta_value><![CDATA[draft]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-    <wp:meta_value><![CDATA[1506378051]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>My Final Facebook Fuckoff</title>
   <link>http://analyzethedatanotthedrivel.org/2017/01/07/my-final-facebook-fuckoff/</link>
   <pubDate>Sun, 08 Jan 2017 01:41:28 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
@@ -35112,6 +35166,79 @@ To say the least, I'm actually giddy about this software.  It's fantastic, espec
     <wp:commentmeta>
       <wp:meta_key>akismet_history</wp:meta_key>
       <wp:meta_value>a:3:{s:4:"time";d:1485901049.309382915496826171875;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1803</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://analyzethedatanotthedrivel.org</wp:comment_author_url>
+    <wp:comment_author_IP>75.174.154.105</wp:comment_author_IP>
+    <wp:comment_date>2017-10-20 08:42:56</wp:comment_date>
+    <wp:comment_date_gmt>2017-10-20 13:42:56</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Thanks Robert, 
+
+Most of the slides I have from Beirut during the 1960s are of people at school. I might have a few more like the one you are referring to.
+
+Please feel free to us the image.  
+
+
+Thanks]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>1802</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1508506979</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1508506977</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1508506978.465568065643310546875;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1802</wp:comment_id>
+    <wp:comment_author><![CDATA[ROBERT ZEBIB]]></wp:comment_author>
+    <wp:comment_author_email>zebibrob@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>108.247.2.59</wp:comment_author_IP>
+    <wp:comment_date>2017-10-20 07:24:22</wp:comment_date>
+    <wp:comment_date_gmt>2017-10-20 12:24:22</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[i saw the photo of beirut you posted from the 60's for the continental hotel i was wondering if you have anymore slides like it for beirut .i edit a page about the lebanese heritage if let us post them on our facebook page credited to your name 
+Robert Zebib
+thank you]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1508506822</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1508506822</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1508506822.640820026397705078125;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1508502263.94180202484130859375;s:5:"event";s:9:"check-ham";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
 </item>
@@ -36547,6 +36674,71 @@ Cheers, keep thinking John]]></wp:comment_content>
       <wp:meta_value>a:3:{s:4:"time";d:1507555816.818274021148681640625;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title>Review: The Way We Die Now</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/11/18/review-the-way-we-die-now/</link>
+  <pubDate>Sat, 18 Nov 2017 18:11:53 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5497</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="https://www.goodreads.com/book/show/31450674-the-way-we-die-now"><img class="alignleft wp-image-5499" src="https://bakerjd99.files.wordpress.com/2017/11/waywedienow.jpg?w=99" alt="" width="95" height="143" /></a>The <em>Way We Die Now</em> is not the best book I’ve read this year but it may be the most important. In Seamus O'Mahony’s opinion, modern society has forgotten how to deal with death. There are many reasons for this, the collapse of religious belief, the demolition of the extended family, the triumph of the scientific and rational worldview, even our delusions of curing death “real soon now” contribute to our collective denial. Yet death persists. Death remains absolute, sovereign, implacable, terrifying, “majestic and cruel.” Even if we realize our <em>singularity fantasies</em> and greatly extend life death will never be banished. Even the gods die! We must face death, but must we turn it into a carnival of “medical excess?”
+
+I have seen medical excess. My mother was diagnosed with Stage IV Glioblastoma: a form of brain cancer that is so deadly it's been nicknamed the terminator. Actually, the terminator is flattered by the comparison. Some survived their encounter with fictional terminators. Nobody survives stage IV Glioblastoma: “there is no stage V.” When I heard mom’s diagnosis I looked for actuarial survival statistics. Credible statistics for common fatal diseases are harder to track down than you might expect. I eventually found a paper that cast survival times in a useful form. Median survival was less than three months for younger and healthier patients than my mother. She died about two months after her diagnosis - right on statistical schedule. The universe does not make personal exemptions.
+
+Her death was inevitable, but the expensive, futile, painful and isolating medical gauntlet she endured was not. She just wanted to go home, perhaps to “turn her head to the wall,” perhaps to binge on <em>The Big Bang Theory</em> - she still enjoyed a few silly shows. It doesn’t matter what the dying choose to do with their remaining hours, but it sure as hell matters that we honor their choices and the <em>Way We Die Now</em> makes a compelling case that we are failing “to be brave.” I know I acquiesced to the <em>medial default</em> for my mother; I still feel I should have fought harder for <em>what she wanted</em>.
+
+According to O'Mahony, the <em>medical default is full intervention</em> even when it’s pointless and wasteful. He also notes that doctors are in a no-win situation. If they suggest doing nothing they’re accused of euthanizing patients. If they go full interventionist Rambo they’re inflicting needless suffering and profiting from the dying. Both extremes often end up in court, as if we could fix death with more litigation. Obviously, something in the middle is the best course and O'Mahony argues that doctors should not set the middle course.
+
+Our infantile society needs to grow up and face death like adults. Nothing makes our magical thinking about death clearer than Somerset Maugham’s<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> observations about a “dog’s death.” Maugham hoped he was lucky enough to die a dog’s death! A dog’s death is meant to be a horrible thing but is it really worse than human medical excess? When it comes to sick animals we are clear-headed and compassionate. We don’t subject them to futile treatments, we make them comfortable and take away their pain. I once had a cat that came down with pancreatitis. She wasted away on the top of our fridge until one day we took her to the vet. Her death was calm and without terror. My cat had a better death than my mother. I suspect many pets die with greater dignity than their owners. This is fundamentally wrong and we all know it.
+
+There are no easy answers; it sucks to be mortal. We can’t say until we face it ourselves how we should die so how can we dictate to others? I only hope that when my time comes I have it within me to follow the one bit of advice O'Mahony offers that may apply to all us – “be brave.’
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">The Way We Die Now relates many stories about “celebrity” deaths.<a href="#fnref1">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5497</wp:post_id>
+  <wp:post_date>2017-11-18 11:11:53</wp:post_date>
+  <wp:post_date_gmt>2017-11-18 18:11:53</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>review-the-way-we-die-now</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="books"><![CDATA[Books]]></category>
+  <category domain="post_tag" nicename="death"><![CDATA[death]]></category>
+  <category domain="post_tag" nicename="dying"><![CDATA[dying]]></category>
+  <category domain="post_tag" nicename="end-of-life"><![CDATA[end-of-life]]></category>
+  <category domain="post_tag" nicename="omahony"><![CDATA[O'Mahony]]></category>
+  <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
+  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+  <category domain="post_tag" nicename="the-way-we-die-now"><![CDATA[The Way We Die Now]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[11582224606]]></wp:meta_value>
+  </wp:postmeta>
 </item>
   </channel>
 </rss>
