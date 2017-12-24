@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-11-18 18:17"-->
+<!-- generator="WordPress.com" created="2017-12-24 21:27"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Sat, 18 Nov 2017 18:17:18 +0000</pubDate>
+<pubDate>Sun, 24 Dec 2017 21:27:20 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -47,6 +47,12 @@
   <wp:category_nicename>programming</wp:category_nicename>
   <wp:category_parent>posts</wp:category_parent>
   <wp:cat_name><![CDATA[Programming]]></wp:cat_name>
+</wp:category>
+<wp:category>
+  <wp:term_id>832</wp:term_id>
+  <wp:category_nicename>python</wp:category_nicename>
+  <wp:category_parent>programming</wp:category_parent>
+  <wp:cat_name><![CDATA[Python]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>47</wp:term_id>
@@ -175,6 +181,12 @@
   <wp:category_nicename>javascript</wp:category_nicename>
   <wp:category_parent>programming</wp:category_parent>
   <wp:cat_name><![CDATA[JavaScript]]></wp:cat_name>
+</wp:category>
+<wp:category>
+  <wp:term_id>259233</wp:term_id>
+  <wp:category_nicename>jupyter</wp:category_nicename>
+  <wp:category_parent>programming</wp:category_parent>
+  <wp:cat_name><![CDATA[Jupyter]]></wp:cat_name>
 </wp:category>
 <wp:category>
   <wp:term_id>3582</wp:term_id>
@@ -2078,6 +2090,16 @@
   <wp:tag_name><![CDATA[Julia Roberts]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>259233</wp:term_id>
+  <wp:tag_slug>jupyter</wp:tag_slug>
+  <wp:tag_name><![CDATA[Jupyter]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>336731046</wp:term_id>
+  <wp:tag_slug>jupyter-notebook</wp:tag_slug>
+  <wp:tag_name><![CDATA[Jupyter notebook]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>257468</wp:term_id>
   <wp:tag_slug>jury-duty</wp:tag_slug>
   <wp:tag_name><![CDATA[jury duty]]></wp:tag_name>
@@ -2923,6 +2945,11 @@
   <wp:tag_name><![CDATA[Pussydent Hildabeast]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>832</wp:term_id>
+  <wp:tag_slug>python</wp:tag_slug>
+  <wp:tag_name><![CDATA[Python]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>7101627</wp:term_id>
   <wp:tag_slug>quadraceps</wp:tag_slug>
   <wp:tag_name><![CDATA[quadraceps]]></wp:tag_name>
@@ -3196,6 +3223,16 @@
   <wp:term_id>217420</wp:term_id>
   <wp:tag_slug>smugmug</wp:tag_slug>
   <wp:tag_name><![CDATA[SmugMug]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>600617410</wp:term_id>
+  <wp:tag_slug>smugmug-captions</wp:tag_slug>
+  <wp:tag_name><![CDATA[SmugMug captions]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>600617411</wp:term_id>
+  <wp:tag_slug>smugpyter</wp:tag_slug>
+  <wp:tag_name><![CDATA[SmugPyter]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>30146992</wp:term_id>
@@ -6259,7 +6296,7 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_name>2112</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>35</wp:menu_order>
+  <wp:menu_order>37</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -6837,61 +6874,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:postmeta>
     <wp:meta_key>_menu_item_object_id</wp:meta_key>
     <wp:meta_value><![CDATA[2426]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2126/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:39 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2126</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2126</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:39</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:39</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2126</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>15</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[10181]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
@@ -8813,29 +8795,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/09/equifucked.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Sun, 22 Oct 2017 18:05:10 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/10/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5493</wp:post_id>
-  <wp:post_date>2017-10-22 13:05:10</wp:post_date>
-  <wp:post_date_gmt>2017-10-22 18:05:10</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/10/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>cropped-adndlbanner00</title>
   <link>http://analyzethedatanotthedrivel.org/cropped-adndlbanner00/</link>
   <pubDate>Mon, 13 Nov 2017 23:19:03 +0000</pubDate>
@@ -8903,6 +8862,52 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/waywedienow.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Sat, 18 Nov 2017 20:22:11 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/11/bm.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5506</wp:post_id>
+  <wp:post_date>2017-11-18 13:22:11</wp:post_date>
+  <wp:post_date_gmt>2017-11-18 20:22:11</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>jupytersmugmug</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/12/24/downloading-smugmug-captions-with-python-and-jupyter/jupytersmugmug/</link>
+  <pubDate>Sun, 24 Dec 2017 06:29:18 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/12/jupytersmugmug1.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5516</wp:post_id>
+  <wp:post_date>2017-12-23 23:29:18</wp:post_date>
+  <wp:post_date_gmt>2017-12-24 06:29:18</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>jupytersmugmug</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5512</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/12/jupytersmugmug1.png</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -13843,154 +13848,6 @@ If you have to pay off all of mankind (#1, #2) your compelling business case eva
   </wp:comment>
 </item>
 <item>
-  <title>J 7.01 Now Playing in your Browser</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/02/12/j-7-01-now-playing-in-your-browser/</link>
-  <pubDate>Sat, 12 Feb 2011 22:01:31 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1070</guid>
-  <description/>
-  <content:encoded><![CDATA[Big changes are afoot for J programmers.  With the release of <a href="http://www.jsoftware.com/docs/help701/user/relhigh.htm">J 7.01</a> <a href="http://www.jsoftware.com/">JSOFTWARE</a> has taken the risky step of <a href="http://en.wikipedia.org/wiki/Deprecation">deprecating</a> two well established user <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE’s</a> and replacing them with brand new <a href="http://www.gtk.org/">GTK</a> and Web browser-based interfaces.  As we all know new software is not necessarily better software, (remember that risky bit), but in this case the changes make sense.
-
-[caption id="" align="aligncenter" width="482" caption="J 7.01 running JHS on Chrome"]<a href="http://bakerjd99.files.wordpress.com/2011/02/j701chrome.png"><img style="display:block;margin-left:auto;margin-right:auto;border:0 initial initial;" title="J 7.01 running JHS on Chrome" src="http://bakerjd99.files.wordpress.com/2011/02/j701chrome_thumb.png" alt="J 7.01 running JHS on Chrome" width="482" height="387" border="0" /></a>[/caption]
-
-Early J systems were largely Windows-Centric.  Yes, J has run perfectly well on strains of UNIX/Linux and the Mac for over a decade but I think it’s fair to say that J IDE’s were biased toward Windows.  JSOFTWARE was well aware of this and tried to offer the features of their Windows IDE with a portable Java based IDE. Unfortunately the Java IDE, like Java itself, failed to live up to expectations.
-
-Now that the many, if not the majority of  J programmers, run J on non-Windows, (mostly Linux and the Mac), systems it makes no sense to treat them like second class citizens.  So how do you provide a <em>state of the art portable user IDE </em>that runs well on Windows, Linux, the Mac, smart phones and various <a href="http://pinoytutorial.com/techtorial/iboard-and-imat-future-of-apple-products/">IGadgets</a>.  There is no single answer so JSOFTWARE wisely decided to offer two IDEs: JHS and <a href="http://www.jsoftware.com/jwiki/System/Installation/J701/Gtk">JGTK</a>.
-
-The JGTK IDE is a desktop application that is similar to the older Windows IDE.  JGTK is somewhat biased toward Linux  but this his doesn’t mean it doesn’t work well on other systems.  I run it on WinXP and Win7 machines all the time.  JGTK takes longer to load than the older Windows IDE but once it’s up and running I don’t see significant performance differences.  The JGTK editor is superior to the older Windows editor and I love the side bar and UNIX style code tagging.  For a first version JGTK is a nice bit of work that will only improve as J programmers and users pound away on it.
-
-JGTK is nice but JHS is radical.  JHS abandons the desktop and turns your favorite web browser into a stripped down J programming environment.  I was skeptical when I first heard about JHS but it has won me over.  JHS is amazingly effective under Google’s Chrome browser.   It comes up in a flash and is as zippy or faster than the older Windows IDE.  Even better this webby goodness imposes minimal burdens. The JHS web server is often one of the smaller processes running on my machines.  I have been doing the bulk of my <a href="https://docs.google.com/View?docID=dhnms2p5_80f4nj56c5&amp;revision=_latest">JOD</a> update  work with JHS and I frequently forget I’m using a browser!  <em>Good user interfaces, </em><em><a href="http://www.nationalreview.com/articles/225959/coming-obama-thugocracy/michael-barone">unlike politicians</a></em><em>, get out of your face!</em>
-
-As for my <a href="http://www.jsoftware.com/jwiki/Addons/general/jod">J addon JOD</a>: J 7.01 introduced a number of system script changes that break JOD 0.8.0.  I am working on JOD 0.9.0, (a beta version is available in the files box sidebar of this blog), that fixes these problems and implements some planned changes.  The biggest change so far: I have moved the JOD interface out of the <strong>z</strong> locale into it’s own <strong>ijod</strong> interface locale.  How’s this for a marketing slogan?  <strong>JOD 0.9.x – now with less z stomping!</strong>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1070</wp:post_id>
-  <wp:post_date>2011-02-12 16:01:31</wp:post_date>
-  <wp:post_date_gmt>2011-02-12 22:01:31</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>j-7-01-now-playing-in-your-browser</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="gtk"><![CDATA[GTK]]></category>
-  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
-  <category domain="post_tag" nicename="jgtk"><![CDATA[JGTK]]></category>
-  <category domain="post_tag" nicename="jhs"><![CDATA[JHS]]></category>
-  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
-  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
-  <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>86</wp:comment_id>
-    <wp:comment_author><![CDATA[Tweets that mention J 7.01 Now Playing in your Browser « Analyze the Data not the Drivel. -- Topsy.com]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://topsy.com/bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/?utm_source=pingback&amp;utm_campaign=L2</wp:comment_author_url>
-    <wp:comment_author_IP>208.74.66.43</wp:comment_author_IP>
-    <wp:comment_date>2011-02-15 09:36:33</wp:comment_date>
-    <wp:comment_date_gmt>2011-02-15 15:36:33</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] This post was mentioned on Twitter by Y Combinator Newest!, newsery1. newsery1 said: J 7.01 Now Playing in your Browser - http://bit.ly/h5q3UQ - [Hacker News FH] [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1297790838.8467";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1297784194.1751";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-02-15 15:36:33</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>85</wp:comment_id>
-    <wp:comment_author><![CDATA[bobtherriault]]></wp:comment_author>
-    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bobtherriault.wordpress.com/</wp:comment_author_url>
-    <wp:comment_author_IP>70.67.255.193</wp:comment_author_IP>
-    <wp:comment_date>2011-02-14 11:10:54</wp:comment_date>
-    <wp:comment_date_gmt>2011-02-14 17:10:54</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[Nice work John,
-
-I tend to agree with you regarding the radical approach of the JHS option. It is quick and flexible. The real power may become more apparent as HTML5 code becomes incorporated. I was a little surprised that JSoftware did not go all the way to make the JHS an HTML5 from the start, but perhaps we shall see that in a future version. It is not a difficult step from what I have seen so far.
-
-Cheers, bob]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>348962</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1297703455.5183";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:13:"bobtherriault";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:13:"1297710509.81";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-02-14 17:10:54</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>124</wp:comment_id>
-    <wp:comment_author><![CDATA[JOD comes to Linux &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/06/10/jod-comes-to-linux/</wp:comment_author_url>
-    <wp:comment_author_IP>72.233.69.25</wp:comment_author_IP>
-    <wp:comment_date>2011-06-11 13:41:03</wp:comment_date>
-    <wp:comment_date_gmt>2011-06-11 18:41:03</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] the release of J 7.01 it’s become clear that Windows is no longer the preeminent J platform. The new JGTK interface [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1307831009</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1307831009.2296";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1307817663.4731";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-06-11 18:41:03</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>The JOD Page</title>
   <link>http://analyzethedatanotthedrivel.org/the-jod-page/</link>
   <pubDate>Sun, 20 Feb 2011 02:21:43 +0000</pubDate>
@@ -15321,256 +15178,6 @@ Bill]]></wp:comment_content>
   </wp:comment>
 </item>
 <item>
-  <title>Anathem: Plato’s Parallel World</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/02/20/anathem-platos-parallel-world/</link>
-  <pubDate>Mon, 21 Feb 2011 01:02:08 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1124</guid>
-  <description/>
-  <content:encoded><![CDATA[<a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096"><img style="display:inline;border:0 initial initial;margin:0 7px 0 0;" title="anathem" src="http://bakerjd99.files.wordpress.com/2011/02/anathem_thumb.jpg" alt="anathem" width="163" height="244" align="left" border="0" /></a> About the best thing anyone can do for you is to suggest a <em>good book.</em> When I was in my teens my aunt pointed me at Tolkien: a shrewd call.  I was at the perfect age for a romp in Middle Earth.  In the 1990’s a consulting client introduced me to <a href="http://www.nealstephenson.com/">Neal Stephenson</a>. I started with <a href="http://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958">Snow Crash</a> and Hiro Protagonist. How can you not love a character named Hiro Protagonist? I went on to <a href="http://www.amazon.com/Diamond-Age-Neal-Stephenson/dp/0553573314">The Diamond Age</a>,  <a href="http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380973464">Cryptonomicon</a>, (Stephenson’s best work), <a href="http://en.wikipedia.org/wiki/The_Baroque_Cycle">The Baroque Cycle</a> and now <a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096">Anathem</a>.
-
-All authors get in ruts. Since Cryptonomicon Stephenson has been in a <em>books about very smart characters rut. </em>Fictional intelligent characters, particularly software types, scientists, mathematicians and so forth are often cut from the same cloth. This is why <a href="http://www.cbs.com/primetime/big_bang_theory/">The Big Bang Theory</a> works!
-
-This is not a literary flaw! Speaking as a bona fide software type I can assure you that smart tech types <em>are</em> alike. Logic drives capable minds down adjacent roads. The history of mathematics and science is littered with tales of brilliant individuals independently coming up with similar, if not identical, ideas. It’s almost as if mathematical ideas exist <em>outside</em> the minds that <em>discover</em> them. This is one of the major themes of Anathem.
-
-The world of Anathem is Arbre. Arbre is eerily similar to Earth. Arbre is <a href="http://en.wikipedia.org/wiki/Habitable_zone">Goldilocking</a> around a Sun like star. It has a moon, large oceans, a “nitrogen oxygen” atmosphere and even enjoys plate tectonics. Plate tectonics is probably not that common for Earth sized rocky worlds. The Earth lucked out because a large chunk of the Earth’s crust is orbiting us in the form of the Moon. Venus wasn’t so lucky, or unlucky, depending on how you feel about <a href="http://www.lpl.arizona.edu/outreach/origin/">crust stripping planetary impacts</a>. Arbre is also inhabited by “people” that could be our neighbors.
-
-Arbre’s history seems a few thousand years longer than ours; they’ve repeatedly wreaked their planet with catastrophes like ethnic pogroms, global warming and nuclear war things we’re only working on. Stephenson works his magic building up Arbre in our imaginations. The result is a solid real world. I applaud the authors achievement. Arbre, like Dune and Middle Earth, will stick with you.
-
-There are big cultural differences between Arbre and Earth. On Arbre society divides into the Secular and Mathic worlds. Arbre's secular world is familiar. It has brain-dead TV, (just like MSNBC), highways, gas stations, suburbs, tacky tourists, wacko religious cults and even big box stores --- <em>they’re  not called Arbre-Marts.</em> It’s the Mathic world that needs elaboration.
-
-The Mathic world consists of a large number of walled, self isolated institutions called maths. The maths are populated by avout.  A math is a cross between an Earth monastery, university and scientific society. Each math voluntarily cuts itself off from the secular world on one, ten, hundred and thousand-year cycles. Our <a href="http://en.wikipedia.org/wiki/Paul_Krugman">preening public intellectuals</a> might see themselves as avout. They flatter themselves. The avout have all taken a vow of material poverty. They are allowed three possessions. There are no <a href="http://www.canadafreepress.com/index.php/article/32367">tenured Mercedes driving poseurs</a> among the avout. Stephenson makes it clear that not all avout are intellectually gifted or suited for a life of the mind. Many of them become gardeners. If only our <a href="http://www.algore.com/">second raters</a> did the same.
-
-Stephenson devotes many pages to the details of mathic life. We learn about their rituals, clock winding is central, they're distinct philosophical orders, avout fashion trends, (challenging with only two articles of clothing), their diet and sex lives. By the time Stephenson is ready to release the avout you feel like you've been holed up in a math. I won't ruin Anathem by summarizing. Let's just say that a young Frau Erasmas and many of his friends and mentors will suddenly find themselves outside the gates of their math to deal with a historic emergency. After the avout leave the maths it's a great ride: very much in the mold of the Waterhouse's adventures in Cryptonomicon and The Baroque Cycle. Along the way Stephenson wows us with countless philosophical allusions and micro <em>in-plot</em> seminars. Remember, the at large avout are uniformly brilliant; they're not going to chat about reality TV. Imagine Plato as a Kung Fu star. Between ass-kickings the characters calmly entertain ideas like Plato's world of pure mathematical forms, (known as the Hylaen Theoric World on Arbre), is an actual parallel quantum cosmos that somehow leaks information into receptive minds in "neighboring" cosmii. Somehow Stephenson makes these lectures riveting.
-
-Anathem is excellent on many levels but one flaw bars it from the pantheon of great books. <em>The characters are insufficiently distinct.</em> You can tell them apart when absorbed by the novel but they quickly merge into each other. Smart tech types share many <em>correct </em>ideas but they do not share the same character. Read <a href="http://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507">Brighter than a Thousand Suns</a> there is no mistaking Oppenheimer for Bohr, or Fermi, or Von Neumann, or Teller. In the real world brilliance exaggerates character. Stephenson exploited this in Cyptonomicon and The Baroque Cycle by casting the very real Turing,  Newton and Leibniz as characters. Anathem is not a Dickens novel. There are no Scrooge's, Pip's, or Miss Havisham's, characters that live outside their novels, running around. I fear that it is not even an Ayn Rand novel. <a href="http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145">Altas Shrugged</a> is a pondering pretentious beast of a book and Ayn Rand couldn't sharpen Neal Stephenson's pencils but here I am, almost thirty years after reading Atlas Shrugged, recalling Dagny Taggart, Hank Rearden and John Galt right off the top of my head. Read Anathem for the world, the ideas and the great ride but if you're looking for memorable characters stick with Hiro Protagonist.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1124</wp:post_id>
-  <wp:post_date>2011-02-20 19:02:08</wp:post_date>
-  <wp:post_date_gmt>2011-02-21 01:02:08</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>anathem-platos-parallel-world</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="anathem"><![CDATA[Anathem]]></category>
-  <category domain="category" nicename="books"><![CDATA[Books]]></category>
-  <category domain="post_tag" nicename="neal-stephenson"><![CDATA[Neal Stephenson]]></category>
-  <category domain="post_tag" nicename="novel"><![CDATA[novel]]></category>
-  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
-  <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>A Walk in the Park</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/02/25/a-walk-in-the-park/</link>
-  <pubDate>Fri, 25 Feb 2011 21:47:04 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1159</guid>
-  <description/>
-  <content:encoded><![CDATA[At noon on February 23, 2011 I decided to get out of the office and take a little walk in nearby Faust Park.  What could go wrong? Lots apparently. Faust park is in western St. Louis. It's distinguished by an <a href="http://www.butterflyhouse.org/">absolutely charming butterfly conservatory.</a> The conservatory is a greenhouse that's maintained at 85F year round. Inside the greenhouse thousands of large iridescent butterflies are flying about, alighting on bowls of fruit, visiting feeders and gently touching blooming flowers. I had never seen so many butterflies in one place. Unlike most bugs butterflies are not annoying. As they flitted about they raised the spirits of everyone in the greenhouse. It was delightful; I could have spent my entire lunch break with the butterflies but I wanted to see the rest of the park.
-
-Leaving the conservatory I walked east to check out some historical buildings on the far eastern side of the park. On the way I looked in the carousel building. It was closed so I proceeded to a small white wooden one room school-house. I stayed on the gravel path as I approached the school. When I arrived I could see the building was locked and it looked like all the adjacent buildings were also locked.
-
-My lunch break was coming to an end so I decided to walk across the park lawn back to the parking lot. I stepped on the grass. It gently sloped away from the path. Nothing seemed dangerous and the footing appeared firm.
-
-It wasn't. The grass gave way and I fell. I fell straight down on my heels and then pitched forward. As I went down I heard two soft pops in both knees. I ended up facedown with my hands in muddy grass and both of my legs literally bent out of shape. The pain in my thighs was excruciating. I moaned and cursed and then tried to get up. <em>I couldn't get up! </em>I couldn't even straighten my legs. I was beginning to feel I was screwed!
-<p style="text-align:center;"></p>
-
-
-[caption id="" align="aligncenter" width="480" caption="Faust Park fall location: 38.666526, -90.540996"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/SmugShots/16038397_4tPwa"><img class="  " title="Faust Park fall location: 38.666526, -90.540996" src="http://conceptcontrol.smugmug.com/photos/1238990419_FZkcz-M.png" alt="Faust Park fall location: 38.666526, -90.540996" width="480" height="272" /></a>[/caption]
-
-I yelled for help but the school building blocked the view of the parking lot and a children's play area about 100 meters away. I started crawling on what was left of my knees toward the parking lot yelling help, help, help. The ground was cold and muddy and I wasn't making great headway. Fortunately a fellow named Dennis spotted me from the parking lot. He scooted over and phoned 911. He stayed with me until the 911 ambulance arrived. I didn't catch Dennis's last name so if by some remote chance  you read this Dennis thanks again. You may have saved my life.
-
-The 911 crew had trouble straightening my legs and dragging me on a wheeled stretcher over the lawn back towards the ambulance. They managed to get me in the ambulance and then drove me to St. Luke's hospital.
-
-I was triaged, x-rayed and MRI'ed. Around 4:00pm the emergency room doctor told me I had completely severed both quadriceps above my knees. He also said it was extremely rare to injure both legs. Hey I've always been an outlier. They admitted me and scheduled surgery early next morning. I've had the surgery and I am now sitting in a wheelchair with both legs up.  I'm writing this on my wife's Mac.  I am looking at six or more weeks of painful rehab.  I will bore you all with more cripple blogs because it takes my mind off the pain.]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1159</wp:post_id>
-  <wp:post_date>2011-02-25 15:47:04</wp:post_date>
-  <wp:post_date_gmt>2011-02-25 21:47:04</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>a-walk-in-the-park</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="i"><![CDATA[I]]></category>
-  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
-  <category domain="post_tag" nicename="quadraceps"><![CDATA[quadraceps]]></category>
-  <category domain="post_tag" nicename="surgery"><![CDATA[surgery]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423194554;}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>89</wp:comment_id>
-    <wp:comment_author><![CDATA[bob therriault]]></wp:comment_author>
-    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bobtherriault.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>70.66.135.154</wp:comment_author_IP>
-    <wp:comment_date>2011-02-26 22:54:26</wp:comment_date>
-    <wp:comment_date_gmt>2011-02-27 04:54:26</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[My goodness John, 
-
-Take care of yourself over the next weeks and heal well.
-
-Cheers, bob]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1298782466.2905";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:14:"1298832143.395";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-02-27 04:54:26</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>182</wp:comment_id>
-    <wp:comment_author><![CDATA[I lose another battle with Gravity &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/</wp:comment_author_url>
-    <wp:comment_author_IP>76.74.254.32</wp:comment_author_IP>
-    <wp:comment_date>2011-11-09 11:08:19</wp:comment_date>
-    <wp:comment_date_gmt>2011-11-09 17:08:19</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] name basis with the staff.  One of the nurses said,  ”I remember you, weren’t you the guy that tore his quadriceps?”  I enjoy being  recognized if only it was somewhere other than emergency.   Emergency [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1320858499.7683";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1320860489</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-11-09 17:08:19</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-  <wp:comment>
-    <wp:comment_id>108</wp:comment_id>
-    <wp:comment_author><![CDATA[SmugShot Metadata Mess &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/</wp:comment_author_url>
-    <wp:comment_author_IP>72.233.127.214</wp:comment_author_IP>
-    <wp:comment_date>2011-04-06 13:42:40</wp:comment_date>
-    <wp:comment_date_gmt>2011-04-06 18:42:40</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] languishing in a series of hospitals and rehab centers recovering from a bad fall I have been amusing myself by taking iPhone pictures and posting them to SmugMug with [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:14:"1302115361.547";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1302122423</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1302122423.6355";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2011-04-06 18:42:40</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
-  <title>iPhoning It In</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/03/03/iphoning-it-in/</link>
-  <pubDate>Fri, 04 Mar 2011 03:23:58 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1184</guid>
-  <description/>
-  <content:encoded><![CDATA[Last week I fell in Faust park and tore the quadriceps muscles above both knees. Right now I am in a skilled nursing home waiting for a change in my "weight-bearing" status. For the time being I cannot stand or even bend my knees. An outing consists of being helped into a wheelchair and rolling around the halls.
-
-The nursing home lacks Internet access so my wife, to cheer me up, got me an iPhone with a good data plan. The iPhone is an awesome little gadget but it's not easy to type on it. I am pecking this blog entry in bed one little character at a time. I know I won't have the energy to revise my iPhone blog entries so you get what I peck.
-
-<a href="http://bakerjd99.files.wordpress.com/2011/03/20110303-091541.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110303-091541.jpg" alt="" /></a>]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1184</wp:post_id>
-  <wp:post_date>2011-03-03 21:23:58</wp:post_date>
-  <wp:post_date_gmt>2011-03-04 03:23:58</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>iphoning-it-in</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
-  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
-  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
-  <category domain="post_tag" nicename="surreyplace"><![CDATA[Surreyplace]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413413936;}]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>About Me</title>
   <link>http://analyzethedatanotthedrivel.org/about-me/</link>
   <pubDate>Tue, 02 Aug 2011 00:38:11 +0000</pubDate>
@@ -15845,6 +15452,61 @@ William]]></wp:comment_content>
       <wp:meta_value>a:3:{s:4:"time";d:1478180030.4602530002593994140625;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"grothendieckfan";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2126/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:39 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2126</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2126</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:39</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:39</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2126</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>15</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[10181]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -16575,7 +16237,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/10/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/11/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -16707,7 +16369,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>2515</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>34</wp:menu_order>
+  <wp:menu_order>36</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -17104,7 +16766,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4156</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>23</wp:menu_order>
+  <wp:menu_order>25</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -17281,7 +16943,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4159</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>22</wp:menu_order>
+  <wp:menu_order>24</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -17399,7 +17061,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4161</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>26</wp:menu_order>
+  <wp:menu_order>28</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -17458,7 +17120,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4162</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>29</wp:menu_order>
+  <wp:menu_order>31</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -17517,7 +17179,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4163</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>27</wp:menu_order>
+  <wp:menu_order>29</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18343,7 +18005,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4178</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>21</wp:menu_order>
+  <wp:menu_order>23</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18402,7 +18064,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4180</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>47</wp:post_parent>
-  <wp:menu_order>24</wp:menu_order>
+  <wp:menu_order>26</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18461,7 +18123,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4181</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>47</wp:post_parent>
-  <wp:menu_order>25</wp:menu_order>
+  <wp:menu_order>27</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18520,7 +18182,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4182</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>30</wp:menu_order>
+  <wp:menu_order>32</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18579,7 +18241,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4183</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>173</wp:post_parent>
-  <wp:menu_order>32</wp:menu_order>
+  <wp:menu_order>34</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18638,7 +18300,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4184</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>173</wp:post_parent>
-  <wp:menu_order>33</wp:menu_order>
+  <wp:menu_order>35</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18697,7 +18359,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4185</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>4526</wp:post_parent>
-  <wp:menu_order>31</wp:menu_order>
+  <wp:menu_order>33</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18756,7 +18418,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:post_name>4896</wp:post_name>
   <wp:status>publish</wp:status>
   <wp:post_parent>309</wp:post_parent>
-  <wp:menu_order>28</wp:menu_order>
+  <wp:menu_order>30</wp:menu_order>
   <wp:post_type>nav_menu_item</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
@@ -18806,7 +18468,7 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5312</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <excerpt:encoded><![CDATA[GitHub repositories.]]></excerpt:encoded>
   <wp:post_id>5312</wp:post_id>
   <wp:post_date>2017-01-17 13:53:37</wp:post_date>
   <wp:post_date_gmt>2017-01-17 19:53:37</wp:post_date_gmt>
@@ -18855,6 +18517,553 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   <wp:postmeta>
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Downloading Smugmug Captions with Python and Jupyter</title>
+  <link>http://analyzethedatanotthedrivel.org/?p=5511</link>
+  <pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5511</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5511</wp:post_id>
+  <wp:post_date>2017-12-23 22:54:35</wp:post_date>
+  <wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name/>
+  <wp:status>draft</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2017/12/24/5544/</link>
+  <pubDate>Sun, 24 Dec 2017 21:07:34 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5544</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5544</wp:post_id>
+  <wp:post_date>2017-12-24 14:07:34</wp:post_date>
+  <wp:post_date_gmt>2017-12-24 21:07:34</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>5544</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>22</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[832]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2017/12/24/5545/</link>
+  <pubDate>Sun, 24 Dec 2017 21:21:19 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5545</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5545</wp:post_id>
+  <wp:post_date>2017-12-24 14:21:19</wp:post_date>
+  <wp:post_date_gmt>2017-12-24 21:21:19</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>5545</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>21</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[4157]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[259233]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_pending</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>J 7.01 Now Playing in your Browser</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/02/12/j-7-01-now-playing-in-your-browser/</link>
+  <pubDate>Sat, 12 Feb 2011 22:01:31 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1070</guid>
+  <description/>
+  <content:encoded><![CDATA[Big changes are afoot for J programmers.  With the release of <a href="http://www.jsoftware.com/docs/help701/user/relhigh.htm">J 7.01</a> <a href="http://www.jsoftware.com/">JSOFTWARE</a> has taken the risky step of <a href="http://en.wikipedia.org/wiki/Deprecation">deprecating</a> two well established user <a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE’s</a> and replacing them with brand new <a href="http://www.gtk.org/">GTK</a> and Web browser-based interfaces.  As we all know new software is not necessarily better software, (remember that risky bit), but in this case the changes make sense.
+
+[caption id="" align="aligncenter" width="482" caption="J 7.01 running JHS on Chrome"]<a href="http://bakerjd99.files.wordpress.com/2011/02/j701chrome.png"><img style="display:block;margin-left:auto;margin-right:auto;border:0 initial initial;" title="J 7.01 running JHS on Chrome" src="http://bakerjd99.files.wordpress.com/2011/02/j701chrome_thumb.png" alt="J 7.01 running JHS on Chrome" width="482" height="387" border="0" /></a>[/caption]
+
+Early J systems were largely Windows-Centric.  Yes, J has run perfectly well on strains of UNIX/Linux and the Mac for over a decade but I think it’s fair to say that J IDE’s were biased toward Windows.  JSOFTWARE was well aware of this and tried to offer the features of their Windows IDE with a portable Java based IDE. Unfortunately the Java IDE, like Java itself, failed to live up to expectations.
+
+Now that the many, if not the majority of  J programmers, run J on non-Windows, (mostly Linux and the Mac), systems it makes no sense to treat them like second class citizens.  So how do you provide a <em>state of the art portable user IDE </em>that runs well on Windows, Linux, the Mac, smart phones and various <a href="http://pinoytutorial.com/techtorial/iboard-and-imat-future-of-apple-products/">IGadgets</a>.  There is no single answer so JSOFTWARE wisely decided to offer two IDEs: JHS and <a href="http://www.jsoftware.com/jwiki/System/Installation/J701/Gtk">JGTK</a>.
+
+The JGTK IDE is a desktop application that is similar to the older Windows IDE.  JGTK is somewhat biased toward Linux  but this his doesn’t mean it doesn’t work well on other systems.  I run it on WinXP and Win7 machines all the time.  JGTK takes longer to load than the older Windows IDE but once it’s up and running I don’t see significant performance differences.  The JGTK editor is superior to the older Windows editor and I love the side bar and UNIX style code tagging.  For a first version JGTK is a nice bit of work that will only improve as J programmers and users pound away on it.
+
+JGTK is nice but JHS is radical.  JHS abandons the desktop and turns your favorite web browser into a stripped down J programming environment.  I was skeptical when I first heard about JHS but it has won me over.  JHS is amazingly effective under Google’s Chrome browser.   It comes up in a flash and is as zippy or faster than the older Windows IDE.  Even better this webby goodness imposes minimal burdens. The JHS web server is often one of the smaller processes running on my machines.  I have been doing the bulk of my <a href="https://docs.google.com/View?docID=dhnms2p5_80f4nj56c5&amp;revision=_latest">JOD</a> update  work with JHS and I frequently forget I’m using a browser!  <em>Good user interfaces, </em><em><a href="http://www.nationalreview.com/articles/225959/coming-obama-thugocracy/michael-barone">unlike politicians</a></em><em>, get out of your face!</em>
+
+As for my <a href="http://www.jsoftware.com/jwiki/Addons/general/jod">J addon JOD</a>: J 7.01 introduced a number of system script changes that break JOD 0.8.0.  I am working on JOD 0.9.0, (a beta version is available in the files box sidebar of this blog), that fixes these problems and implements some planned changes.  The biggest change so far: I have moved the JOD interface out of the <strong>z</strong> locale into it’s own <strong>ijod</strong> interface locale.  How’s this for a marketing slogan?  <strong>JOD 0.9.x – now with less z stomping!</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1070</wp:post_id>
+  <wp:post_date>2011-02-12 16:01:31</wp:post_date>
+  <wp:post_date_gmt>2011-02-12 22:01:31</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>j-7-01-now-playing-in-your-browser</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="gtk"><![CDATA[GTK]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jgtk"><![CDATA[JGTK]]></category>
+  <category domain="post_tag" nicename="jhs"><![CDATA[JHS]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>86</wp:comment_id>
+    <wp:comment_author><![CDATA[Tweets that mention J 7.01 Now Playing in your Browser « Analyze the Data not the Drivel. -- Topsy.com]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://topsy.com/bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/?utm_source=pingback&amp;utm_campaign=L2</wp:comment_author_url>
+    <wp:comment_author_IP>208.74.66.43</wp:comment_author_IP>
+    <wp:comment_date>2011-02-15 09:36:33</wp:comment_date>
+    <wp:comment_date_gmt>2011-02-15 15:36:33</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] This post was mentioned on Twitter by Y Combinator Newest!, newsery1. newsery1 said: J 7.01 Now Playing in your Browser - http://bit.ly/h5q3UQ - [Hacker News FH] [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1297790838.8467";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1297784194.1751";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-02-15 15:36:33</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>85</wp:comment_id>
+    <wp:comment_author><![CDATA[bobtherriault]]></wp:comment_author>
+    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bobtherriault.wordpress.com/</wp:comment_author_url>
+    <wp:comment_author_IP>70.67.255.193</wp:comment_author_IP>
+    <wp:comment_date>2011-02-14 11:10:54</wp:comment_date>
+    <wp:comment_date_gmt>2011-02-14 17:10:54</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Nice work John,
+
+I tend to agree with you regarding the radical approach of the JHS option. It is quick and flexible. The real power may become more apparent as HTML5 code becomes incorporated. I was a little surprised that JSoftware did not go all the way to make the JHS an HTML5 from the start, but perhaps we shall see that in a future version. It is not a difficult step from what I have seen so far.
+
+Cheers, bob]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>348962</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1297703455.5183";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:13:"bobtherriault";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:13:"1297710509.81";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-02-14 17:10:54</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>124</wp:comment_id>
+    <wp:comment_author><![CDATA[JOD comes to Linux &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/06/10/jod-comes-to-linux/</wp:comment_author_url>
+    <wp:comment_author_IP>72.233.69.25</wp:comment_author_IP>
+    <wp:comment_date>2011-06-11 13:41:03</wp:comment_date>
+    <wp:comment_date_gmt>2011-06-11 18:41:03</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] the release of J 7.01 it’s become clear that Windows is no longer the preeminent J platform. The new JGTK interface [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1307831009</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1307831009.2296";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1307817663.4731";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-06-11 18:41:03</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Anathem: Plato’s Parallel World</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/02/20/anathem-platos-parallel-world/</link>
+  <pubDate>Mon, 21 Feb 2011 01:02:08 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1124</guid>
+  <description/>
+  <content:encoded><![CDATA[<a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096"><img style="display:inline;border:0 initial initial;margin:0 7px 0 0;" title="anathem" src="http://bakerjd99.files.wordpress.com/2011/02/anathem_thumb.jpg" alt="anathem" width="163" height="244" align="left" border="0" /></a> About the best thing anyone can do for you is to suggest a <em>good book.</em> When I was in my teens my aunt pointed me at Tolkien: a shrewd call.  I was at the perfect age for a romp in Middle Earth.  In the 1990’s a consulting client introduced me to <a href="http://www.nealstephenson.com/">Neal Stephenson</a>. I started with <a href="http://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958">Snow Crash</a> and Hiro Protagonist. How can you not love a character named Hiro Protagonist? I went on to <a href="http://www.amazon.com/Diamond-Age-Neal-Stephenson/dp/0553573314">The Diamond Age</a>,  <a href="http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380973464">Cryptonomicon</a>, (Stephenson’s best work), <a href="http://en.wikipedia.org/wiki/The_Baroque_Cycle">The Baroque Cycle</a> and now <a href="http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096">Anathem</a>.
+
+All authors get in ruts. Since Cryptonomicon Stephenson has been in a <em>books about very smart characters rut. </em>Fictional intelligent characters, particularly software types, scientists, mathematicians and so forth are often cut from the same cloth. This is why <a href="http://www.cbs.com/primetime/big_bang_theory/">The Big Bang Theory</a> works!
+
+This is not a literary flaw! Speaking as a bona fide software type I can assure you that smart tech types <em>are</em> alike. Logic drives capable minds down adjacent roads. The history of mathematics and science is littered with tales of brilliant individuals independently coming up with similar, if not identical, ideas. It’s almost as if mathematical ideas exist <em>outside</em> the minds that <em>discover</em> them. This is one of the major themes of Anathem.
+
+The world of Anathem is Arbre. Arbre is eerily similar to Earth. Arbre is <a href="http://en.wikipedia.org/wiki/Habitable_zone">Goldilocking</a> around a Sun like star. It has a moon, large oceans, a “nitrogen oxygen” atmosphere and even enjoys plate tectonics. Plate tectonics is probably not that common for Earth sized rocky worlds. The Earth lucked out because a large chunk of the Earth’s crust is orbiting us in the form of the Moon. Venus wasn’t so lucky, or unlucky, depending on how you feel about <a href="http://www.lpl.arizona.edu/outreach/origin/">crust stripping planetary impacts</a>. Arbre is also inhabited by “people” that could be our neighbors.
+
+Arbre’s history seems a few thousand years longer than ours; they’ve repeatedly wreaked their planet with catastrophes like ethnic pogroms, global warming and nuclear war things we’re only working on. Stephenson works his magic building up Arbre in our imaginations. The result is a solid real world. I applaud the authors achievement. Arbre, like Dune and Middle Earth, will stick with you.
+
+There are big cultural differences between Arbre and Earth. On Arbre society divides into the Secular and Mathic worlds. Arbre's secular world is familiar. It has brain-dead TV, (just like MSNBC), highways, gas stations, suburbs, tacky tourists, wacko religious cults and even big box stores --- <em>they’re  not called Arbre-Marts.</em> It’s the Mathic world that needs elaboration.
+
+The Mathic world consists of a large number of walled, self isolated institutions called maths. The maths are populated by avout.  A math is a cross between an Earth monastery, university and scientific society. Each math voluntarily cuts itself off from the secular world on one, ten, hundred and thousand-year cycles. Our <a href="http://en.wikipedia.org/wiki/Paul_Krugman">preening public intellectuals</a> might see themselves as avout. They flatter themselves. The avout have all taken a vow of material poverty. They are allowed three possessions. There are no <a href="http://www.canadafreepress.com/index.php/article/32367">tenured Mercedes driving poseurs</a> among the avout. Stephenson makes it clear that not all avout are intellectually gifted or suited for a life of the mind. Many of them become gardeners. If only our <a href="http://www.algore.com/">second raters</a> did the same.
+
+Stephenson devotes many pages to the details of mathic life. We learn about their rituals, clock winding is central, they're distinct philosophical orders, avout fashion trends, (challenging with only two articles of clothing), their diet and sex lives. By the time Stephenson is ready to release the avout you feel like you've been holed up in a math. I won't ruin Anathem by summarizing. Let's just say that a young Frau Erasmas and many of his friends and mentors will suddenly find themselves outside the gates of their math to deal with a historic emergency. After the avout leave the maths it's a great ride: very much in the mold of the Waterhouse's adventures in Cryptonomicon and The Baroque Cycle. Along the way Stephenson wows us with countless philosophical allusions and micro <em>in-plot</em> seminars. Remember, the at large avout are uniformly brilliant; they're not going to chat about reality TV. Imagine Plato as a Kung Fu star. Between ass-kickings the characters calmly entertain ideas like Plato's world of pure mathematical forms, (known as the Hylaen Theoric World on Arbre), is an actual parallel quantum cosmos that somehow leaks information into receptive minds in "neighboring" cosmii. Somehow Stephenson makes these lectures riveting.
+
+Anathem is excellent on many levels but one flaw bars it from the pantheon of great books. <em>The characters are insufficiently distinct.</em> You can tell them apart when absorbed by the novel but they quickly merge into each other. Smart tech types share many <em>correct </em>ideas but they do not share the same character. Read <a href="http://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507">Brighter than a Thousand Suns</a> there is no mistaking Oppenheimer for Bohr, or Fermi, or Von Neumann, or Teller. In the real world brilliance exaggerates character. Stephenson exploited this in Cyptonomicon and The Baroque Cycle by casting the very real Turing,  Newton and Leibniz as characters. Anathem is not a Dickens novel. There are no Scrooge's, Pip's, or Miss Havisham's, characters that live outside their novels, running around. I fear that it is not even an Ayn Rand novel. <a href="http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145">Altas Shrugged</a> is a pondering pretentious beast of a book and Ayn Rand couldn't sharpen Neal Stephenson's pencils but here I am, almost thirty years after reading Atlas Shrugged, recalling Dagny Taggart, Hank Rearden and John Galt right off the top of my head. Read Anathem for the world, the ideas and the great ride but if you're looking for memorable characters stick with Hiro Protagonist.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1124</wp:post_id>
+  <wp:post_date>2011-02-20 19:02:08</wp:post_date>
+  <wp:post_date_gmt>2011-02-21 01:02:08</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>anathem-platos-parallel-world</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="anathem"><![CDATA[Anathem]]></category>
+  <category domain="category" nicename="books"><![CDATA[Books]]></category>
+  <category domain="post_tag" nicename="neal-stephenson"><![CDATA[Neal Stephenson]]></category>
+  <category domain="post_tag" nicename="novel"><![CDATA[novel]]></category>
+  <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
+  <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>A Walk in the Park</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/02/25/a-walk-in-the-park/</link>
+  <pubDate>Fri, 25 Feb 2011 21:47:04 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1159</guid>
+  <description/>
+  <content:encoded><![CDATA[At noon on February 23, 2011 I decided to get out of the office and take a little walk in nearby Faust Park.  What could go wrong? Lots apparently. Faust park is in western St. Louis. It's distinguished by an <a href="http://www.butterflyhouse.org/">absolutely charming butterfly conservatory.</a> The conservatory is a greenhouse that's maintained at 85F year round. Inside the greenhouse thousands of large iridescent butterflies are flying about, alighting on bowls of fruit, visiting feeders and gently touching blooming flowers. I had never seen so many butterflies in one place. Unlike most bugs butterflies are not annoying. As they flitted about they raised the spirits of everyone in the greenhouse. It was delightful; I could have spent my entire lunch break with the butterflies but I wanted to see the rest of the park.
+
+Leaving the conservatory I walked east to check out some historical buildings on the far eastern side of the park. On the way I looked in the carousel building. It was closed so I proceeded to a small white wooden one room school-house. I stayed on the gravel path as I approached the school. When I arrived I could see the building was locked and it looked like all the adjacent buildings were also locked.
+
+My lunch break was coming to an end so I decided to walk across the park lawn back to the parking lot. I stepped on the grass. It gently sloped away from the path. Nothing seemed dangerous and the footing appeared firm.
+
+It wasn't. The grass gave way and I fell. I fell straight down on my heels and then pitched forward. As I went down I heard two soft pops in both knees. I ended up facedown with my hands in muddy grass and both of my legs literally bent out of shape. The pain in my thighs was excruciating. I moaned and cursed and then tried to get up. <em>I couldn't get up! </em>I couldn't even straighten my legs. I was beginning to feel I was screwed!
+<p style="text-align:center;"></p>
+
+
+[caption id="" align="aligncenter" width="480" caption="Faust Park fall location: 38.666526, -90.540996"]<a href="http://conceptcontrol.smugmug.com/Themes/Diaries/SmugShots/16038397_4tPwa"><img class="  " title="Faust Park fall location: 38.666526, -90.540996" src="http://conceptcontrol.smugmug.com/photos/1238990419_FZkcz-M.png" alt="Faust Park fall location: 38.666526, -90.540996" width="480" height="272" /></a>[/caption]
+
+I yelled for help but the school building blocked the view of the parking lot and a children's play area about 100 meters away. I started crawling on what was left of my knees toward the parking lot yelling help, help, help. The ground was cold and muddy and I wasn't making great headway. Fortunately a fellow named Dennis spotted me from the parking lot. He scooted over and phoned 911. He stayed with me until the 911 ambulance arrived. I didn't catch Dennis's last name so if by some remote chance  you read this Dennis thanks again. You may have saved my life.
+
+The 911 crew had trouble straightening my legs and dragging me on a wheeled stretcher over the lawn back towards the ambulance. They managed to get me in the ambulance and then drove me to St. Luke's hospital.
+
+I was triaged, x-rayed and MRI'ed. Around 4:00pm the emergency room doctor told me I had completely severed both quadriceps above my knees. He also said it was extremely rare to injure both legs. Hey I've always been an outlier. They admitted me and scheduled surgery early next morning. I've had the surgery and I am now sitting in a wheelchair with both legs up.  I'm writing this on my wife's Mac.  I am looking at six or more weeks of painful rehab.  I will bore you all with more cripple blogs because it takes my mind off the pain.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1159</wp:post_id>
+  <wp:post_date>2011-02-25 15:47:04</wp:post_date>
+  <wp:post_date_gmt>2011-02-25 21:47:04</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>a-walk-in-the-park</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="i"><![CDATA[I]]></category>
+  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
+  <category domain="post_tag" nicename="quadraceps"><![CDATA[quadraceps]]></category>
+  <category domain="post_tag" nicename="surgery"><![CDATA[surgery]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423194554;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>89</wp:comment_id>
+    <wp:comment_author><![CDATA[bob therriault]]></wp:comment_author>
+    <wp:comment_author_email>bobtherriault@mac.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bobtherriault.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>70.66.135.154</wp:comment_author_IP>
+    <wp:comment_date>2011-02-26 22:54:26</wp:comment_date>
+    <wp:comment_date_gmt>2011-02-27 04:54:26</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[My goodness John, 
+
+Take care of yourself over the next weeks and heal well.
+
+Cheers, bob]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1298782466.2905";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:14:"1298832143.395";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-02-27 04:54:26</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>182</wp:comment_id>
+    <wp:comment_author><![CDATA[I lose another battle with Gravity &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/</wp:comment_author_url>
+    <wp:comment_author_IP>76.74.254.32</wp:comment_author_IP>
+    <wp:comment_date>2011-11-09 11:08:19</wp:comment_date>
+    <wp:comment_date_gmt>2011-11-09 17:08:19</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] name basis with the staff.  One of the nurses said,  ”I remember you, weren’t you the guy that tore his quadriceps?”  I enjoy being  recognized if only it was somewhere other than emergency.   Emergency [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1320858499.7683";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1320860489</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-11-09 17:08:19</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>108</wp:comment_id>
+    <wp:comment_author><![CDATA[SmugShot Metadata Mess &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/</wp:comment_author_url>
+    <wp:comment_author_IP>72.233.127.214</wp:comment_author_IP>
+    <wp:comment_date>2011-04-06 13:42:40</wp:comment_date>
+    <wp:comment_date_gmt>2011-04-06 18:42:40</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] languishing in a series of hospitals and rehab centers recovering from a bad fall I have been amusing myself by taking iPhone pictures and posting them to SmugMug with [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:14:"1302115361.547";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1302122423</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1302122423.6355";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2011-04-06 18:42:40</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>iPhoning It In</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/03/03/iphoning-it-in/</link>
+  <pubDate>Fri, 04 Mar 2011 03:23:58 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1184</guid>
+  <description/>
+  <content:encoded><![CDATA[Last week I fell in Faust park and tore the quadriceps muscles above both knees. Right now I am in a skilled nursing home waiting for a change in my "weight-bearing" status. For the time being I cannot stand or even bend my knees. An outing consists of being helped into a wheelchair and rolling around the halls.
+
+The nursing home lacks Internet access so my wife, to cheer me up, got me an iPhone with a good data plan. The iPhone is an awesome little gadget but it's not easy to type on it. I am pecking this blog entry in bed one little character at a time. I know I won't have the energy to revise my iPhone blog entries so you get what I peck.
+
+<a href="http://bakerjd99.files.wordpress.com/2011/03/20110303-091541.jpg"><img class="alignnone size-full" src="http://bakerjd99.files.wordpress.com/2011/03/20110303-091541.jpg" alt="" /></a>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1184</wp:post_id>
+  <wp:post_date>2011-03-03 21:23:58</wp:post_date>
+  <wp:post_date_gmt>2011-03-04 03:23:58</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>iphoning-it-in</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="cripple"><![CDATA[cripple]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="injury"><![CDATA[Injury]]></category>
+  <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
+  <category domain="category" nicename="observations"><![CDATA[Observations]]></category>
+  <category domain="post_tag" nicename="surreyplace"><![CDATA[Surreyplace]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413413936;}]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -36738,6 +36947,66 @@ There are no easy answers; it sucks to be mortal. We can’t say until we face i
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[11582224606]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Downloading SmugMug Captions with Python and Jupyter</title>
+  <link>http://analyzethedatanotthedrivel.org/2017/12/24/downloading-smugmug-captions-with-python-and-jupyter/</link>
+  <pubDate>Sun, 24 Dec 2017 20:38:48 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5512</guid>
+  <description/>
+  <content:encoded><![CDATA[<em>This blog post started out as an experimental rendering of a <a href="https://jupyter.org/">Jupyter</a> notebook. I wanted to see how difficult it would be to convert a notebook to a WordPress.com blog post. Even though Jupyter exports notebooks in HTML and Markdown they do not display well "out of the box." No doubt one could craft CSS that would help but the entire point of Jupyter exports is to cut down on pointless format thrashing. This post is a teaser. If you want to get to the source notebook follow <a href="https://github.com/bakerjd99/smugpyter">this link to my GitHub repositories</a>.</em>
+
+<h2 id="why-am-i-doing-this" style="text-align:left;">Why am I doing this?</h2>
+
+<img class="wp-image-5516 alignright" src="https://bakerjd99.files.wordpress.com/2017/12/jupytersmugmug1.png?w=300" alt="" width="242" height="143" />My <a href="https://conceptcontrol.smugmug.com">photo captions</a> have evolved into a form of <em>milliblogging</em>. <em>Milliposts</em> (milliblog posts) are terse and tiny; many are single sentences or paragraphs. Taken one-at-a-time milliposts seldom impress but when gathered in hundreds or thousands accidental epics emerge. So, to prevent "epic loss" I want a simple way of downloading and archiving my captions off-line.
+
+<h2 id="if-you-dont-control-it-you-cannot-trust-it">If you don't control it you cannot trust it!</h2>
+
+When I started blogging I knew that you could not depend on blogging websites to archive and preserve your documents. We had already seen cases of websites mangling content, shutting down without warning, and even worse, <em>censoring</em> bloggers. It was a classic case of, “If you don't control it you cannot trust it." I resolved to keep complete off-line <em>version controlled</em> copies of my blog posts.
+
+Maintaining off-line copies was made easier by <a href="https://wordpress.com/">WordPress.com</a>'s excellent <a href="https://en.blog.wordpress.com/2006/06/12/xml-import-export/">blog export utility</a>. A simple button push downloads a large XML file that has all your blog posts with embedded references to images and other inclusions. XML is not my preferred archive format. I am a huge fan of LaTeX and Markdown: two text formats that are directly supported in Jupyter Notebooks. I wrote a little system that parses the WordPress XML file and <a href="https://analyzethedatanotthedrivel.org/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">generates LaTeX and Markdown</a> files. Yet, despite milliblogging long before blogging, I don't have a similar system for downloading and archiving SmugMug <em>metadata</em>. <a href="https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Downloading%20Smugmug%20Captions%20with%20Jupyter.ipynb">This Jupyter notebook addresses this omission</a> and shows how you can use Python and the SmugMug API to extract gallery and image metadata and store it in version controlled local directories as CSV files.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5512</wp:post_id>
+  <wp:post_date>2017-12-24 13:38:48</wp:post_date>
+  <wp:post_date_gmt>2017-12-24 20:38:48</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>downloading-smugmug-captions-with-python-and-jupyter</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="api"><![CDATA[API]]></category>
+  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="post_tag" nicename="jupyter"><![CDATA[Jupyter]]></category>
+  <category domain="post_tag" nicename="jupyter-notebook"><![CDATA[Jupyter notebook]]></category>
+  <category domain="category" nicename="python"><![CDATA[Python]]></category>
+  <category domain="post_tag" nicename="smugmug"><![CDATA[SmugMug]]></category>
+  <category domain="post_tag" nicename="smugmug-captions"><![CDATA[SmugMug captions]]></category>
+  <category domain="post_tag" nicename="smugpyter"><![CDATA[SmugPyter]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5516]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[12855188308]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
