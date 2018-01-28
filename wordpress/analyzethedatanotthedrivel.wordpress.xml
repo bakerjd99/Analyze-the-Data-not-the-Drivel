@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2017-12-26 18:24"-->
+<!-- generator="WordPress.com" created="2018-01-28 07:41"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Tue, 26 Dec 2017 18:24:48 +0000</pubDate>
+<pubDate>Sun, 28 Jan 2018 07:41:13 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1670,6 +1670,11 @@
   <wp:tag_name><![CDATA[Government ID]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>1399173</wp:term_id>
+  <wp:tag_slug>government-shutdown</wp:tag_slug>
+  <wp:tag_name><![CDATA[government shutdown]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>3169</wp:term_id>
   <wp:tag_slug>gps</wp:tag_slug>
   <wp:tag_name><![CDATA[GPS]]></wp:tag_name>
@@ -2630,6 +2635,11 @@
   <wp:tag_name><![CDATA[New Mexico]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>29743</wp:term_id>
+  <wp:tag_slug>new-year</wp:tag_slug>
+  <wp:tag_name><![CDATA[New Year]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>2698</wp:term_id>
   <wp:tag_slug>newspapers</wp:tag_slug>
   <wp:tag_name><![CDATA[newspapers]]></wp:tag_name>
@@ -2910,6 +2920,11 @@
   <wp:tag_name><![CDATA[presidential assassination]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>1087235</wp:term_id>
+  <wp:tag_slug>prime-factors</wp:tag_slug>
+  <wp:tag_name><![CDATA[prime factors]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>395390150</wp:term_id>
   <wp:tag_slug>print-captions</wp:tag_slug>
   <wp:tag_name><![CDATA[print captions]]></wp:tag_name>
@@ -3005,6 +3020,11 @@
   <wp:tag_name><![CDATA[ransomware]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>212129</wp:term_id>
+  <wp:tag_slug>rapture</wp:tag_slug>
+  <wp:tag_name><![CDATA[rapture]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>224963</wp:term_id>
   <wp:tag_slug>ravenna</wp:tag_slug>
   <wp:tag_name><![CDATA[Ravenna]]></wp:tag_name>
@@ -3063,6 +3083,11 @@
   <wp:term_id>42727</wp:term_id>
   <wp:tag_slug>resistance</wp:tag_slug>
   <wp:tag_name><![CDATA[resistance]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>5531053</wp:term_id>
+  <wp:tag_slug>rest-api</wp:tag_slug>
+  <wp:tag_name><![CDATA[REST API]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>140469</wp:term_id>
@@ -3240,6 +3265,11 @@
   <wp:tag_name><![CDATA[skimming scum]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>163729384</wp:term_id>
+  <wp:tag_slug>sky-fairies</wp:tag_slug>
+  <wp:tag_name><![CDATA[sky fairies]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>38616</wp:term_id>
   <wp:tag_slug>smartphones</wp:tag_slug>
   <wp:tag_name><![CDATA[smartphones]]></wp:tag_name>
@@ -3258,6 +3288,11 @@
   <wp:term_id>600617410</wp:term_id>
   <wp:tag_slug>smugmug-captions</wp:tag_slug>
   <wp:tag_name><![CDATA[SmugMug captions]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>603984970</wp:term_id>
+  <wp:tag_slug>smugmug-patch-request</wp:tag_slug>
+  <wp:tag_name><![CDATA[SmugMug PATCH request]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>600617411</wp:term_id>
@@ -8894,29 +8929,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/waywedienow.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Sat, 18 Nov 2017 20:22:11 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/11/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5506</wp:post_id>
-  <wp:post_date>2017-11-18 13:22:11</wp:post_date>
-  <wp:post_date_gmt>2017-11-18 20:22:11</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/11/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>jupytersmugmug</title>
   <link>http://analyzethedatanotthedrivel.org/2017/12/24/downloading-smugmug-captions-with-python-and-jupyter/jupytersmugmug/</link>
   <pubDate>Sun, 24 Dec 2017 06:29:18 +0000</pubDate>
@@ -8938,6 +8950,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/12/jupytersmugmug1.png</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Wed, 27 Dec 2017 18:05:10 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/12/bm.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5550</wp:post_id>
+  <wp:post_date>2017-12-27 11:05:10</wp:post_date>
+  <wp:post_date_gmt>2017-12-27 18:05:10</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/12/bm.pdf</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -16267,7 +16302,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/11/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2017/12/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -36986,7 +37021,11 @@ There are no easy answers; it sucks to be mortal. We can’t say until we face i
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5512</guid>
   <description/>
-  <content:encoded><![CDATA[<em>This blog post started out as an experimental rendering of a <a href="https://jupyter.org/">Jupyter</a> notebook. I wanted to see how difficult it would be to convert a notebook to a WordPress.com blog post. Even though Jupyter exports notebooks in HTML and Markdown they do not display well "out of the box." No doubt one could craft CSS that would help but the entire point of Jupyter exports is to cut down on pointless format thrashing. This post is a teaser. If you want to get to the source notebook follow <a href="https://github.com/bakerjd99/smugpyter">this link to my GitHub repositories</a>.</em>
+  <content:encoded><![CDATA[<em>This blog post started out as an experimental rendering of a <a href="https://jupyter.org/">Jupyter</a> notebook. I wanted to see how difficult it would be to convert a notebook to a WordPress.com blog post. Even though Jupyter exports notebooks in HTML and Markdown they do not display well "out of the box." No doubt one could craft CSS that would help but the entire point of Jupyter exports is to cut down on pointless format thrashing. </em>
+
+<em>This post is a teaser. If you want to get to the source notebook follow <a href="https://github.com/bakerjd99/smugpyter">this link to my GitHub repositories</a>.</em>
+
+<em>If you only want to read the notebook <a href="https://nbviewer.jupyter.org/github/bakerjd99/smugpyter/blob/master/notebooks/Downloading%20Smugmug%20Captions%20with%20Jupyter%20and%20Python.ipynb">use this nbviewer link</a>.</em>
 
 <h2 id="why-am-i-doing-this" style="text-align:left;">Why am I doing this?</h2>
 
@@ -37097,6 +37136,161 @@ Don’t ever darken my day with another “activate Apple Pay now” message aga
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[12910187737]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Government Shutdown and Rapture 2018</title>
+  <link>http://analyzethedatanotthedrivel.org/2018/01/21/government-shutdown-and-rapture-2018/</link>
+  <pubDate>Sun, 21 Jan 2018 21:43:58 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5552</guid>
+  <description/>
+  <content:encoded><![CDATA[It’s 2018. 2018 has prime factors of 2 and 1009, e.g. 2018 = 2 * 1009.
+
+Did anything happen in the years 2 and 1009?
+
+<ol style="list-style-type:decimal;">
+    <li><a href="https://www.onthisday.com/events/date/2">In the year 2</a> Venus and Jupiter were in conjunction. Some speculate this may have been the “Star of Bethlehem.”</li>
+    <li><a href="https://www.onthisday.com/events/october/18">In 1009</a> the Church of Holy Sepulcher was destroyed.</li>
+</ol>
+
+How odd, the prime factors of 2018 yield two Jesus related events, separated by over a thousand years that are mysteriously tied to his birthplace. Evidently, the Star of Bethlehem marked the beginning, 1009 marked the middle, and 2018 is the end! <em>Repent, the rapture is upon us!</em> Better buckle up non-gender specific bovine control officers (cowboys) 2018 is going to be rough.
+
+Just how rough you ask? Imagine hordes of underachieving and mostly useless bureaucrats forced to take an impromptu paid holiday<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> because even more useless legislators cannot agree on how to spend other people’s money. Let’s hope the government stays shutdown down until the imminent rapture renders it redundant.
+
+My calculations cannot pinpoint the exact time and date of the rapture. My guess would be the first<a id="fnref2" class="footnoteRef" href="#fn2"><sup>2</sup></a> <a href="https://eclipse.gsfc.nasa.gov/LEplot/LEplot2001/LE2018Jan31T.pdf">blood moon of the year, January 31, 2018</a>. Get your affairs in order and divest yourself of your worldly bitcoins.<a id="fnref3" class="footnoteRef" href="#fn3"><sup>3</sup></a> Use the address encoded in the QR graphic of this blog.
+
+<em>Hey: If you think this micro-epiphany is batshit crazy</em> <a href="https://endtimesforecaster.blogspot.com/2018/01/the-rapture-theorem-proving-blood-moon.html"><em>take a look at this!</em></a> <em>It’s getting to the point where it’s no longer possible to be satirical because somewhere on the intertubes you’ll find true believers that go way beyond satire.</em>
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">None of the furiously furloughed will miss a single damn paycheck. Where can I get a job that pays me to sit on my ass and whine about whatever the idiot talking point of the day is?<a href="#fnref1">↩</a></li>
+    <li id="fn2">2018 has two total lunar - blood moon - eclipses. If we’re not raptured on January 31<sup>st</sup> wait until <a href="https://eclipse.gsfc.nasa.gov/LEplot/LEplot2001/LE2018Jul27T.pdf">July 27<sup>th</sup></a><a href="#fnref2">↩</a></li>
+    <li id="fn3">Sky Fairy consultants, also known as prophets, have high overhead and need substantial donations to maintain their close connections with the divine.<a href="#fnref3">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5552</wp:post_id>
+  <wp:post_date>2018-01-21 14:43:58</wp:post_date>
+  <wp:post_date_gmt>2018-01-21 21:43:58</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>government-shutdown-and-rapture-2018</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="blood-moons"><![CDATA[blood moons]]></category>
+  <category domain="post_tag" nicename="government-shutdown"><![CDATA[government shutdown]]></category>
+  <category domain="post_tag" nicename="new-year"><![CDATA[New Year]]></category>
+  <category domain="post_tag" nicename="prime-factors"><![CDATA[prime factors]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="rapture"><![CDATA[rapture]]></category>
+  <category domain="post_tag" nicename="sky-fairies"><![CDATA[sky fairies]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[13872257787]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1516571042]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Setting SmugMug Print Size Keywords with Jupyter and Python</title>
+  <link>http://analyzethedatanotthedrivel.org/2018/01/28/setting-smugmug-print-size-keywords-with-jupyter-and-python/</link>
+  <pubDate>Sun, 28 Jan 2018 07:27:10 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5555</guid>
+  <description/>
+  <content:encoded><![CDATA[For the last few weeks, my normal hobbies have been preempted by my obsessive <em>refactoring</em> of an old SmugMug keyword setting program. Many years ago I wrote a small application that helped me maintain meaningful SmugMug keywords. I used this application for years until inevitable software changes broke it. Replacing it with something better has been on my to-do list for ages.
+
+I kept putting it off because I knew the tools I used in the past, mostly J and VB, were not well suited to REST API programming. Yes, I know just about any programming tool can be forced to serve, Turning completeness guarantees it, but I have grown weary of programming to prove tiresome points. If a tool makes something more difficult or tedious than it should be then change tools!
+
+The downside of changing tools is that it usually results in learning yet another programming language. I always try to avoid this! I briefly considered languages with decent REST support that I already <em>sort-of-know</em><a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a>, C#, JavaScript, VB.Net and decided that proper 64 bit versions were either too expensive (C#, VB.Net) or that I didn’t want to stare at ugly bracket infested syntax for weeks. I’m talking about you JavaScript. Even your fanboys admit that you’re an ugly duckling.
+
+I eventually decided to go with Python. I’ve always found Python code more readable than many other programming languages. This is a widespread opinion. Python is free, open source, and comes with a large diverse set of tools. One of the best tools to come out of the Python world is Jupyter. <a href="https://jupyter.org/">Jupyter</a> is the first public domain open source <a href="https://en.wikipedia.org/wiki/Literate_programming">literate programming</a> tool that has gained a large following.
+
+I’ve been a fan of literate programming ever since I read <a href="https://en.wikipedia.org/wiki/Literate_programming">Knuth’s seminal book</a>. He used the technique to create some of the <a href="https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489">best program documentation ever created</a>. I always wondered why literate programming never caught on. I suspected the basic problem was simply that many programmers are not particularly literate. Well, Jupyter is proving me wrong.
+
+<em>Jupyter is certainly helping me write and program with such clarity that all my ideas seem trivial.</em>
+
+Compare this notebook, (use the first link for the best layout), to my <a href="https://analyzethedatanotthedrivel.org/2010/02/21/assigning-smugmug-print-size-keys/">earlier blog post</a> about setting SmugMug print size keywords.
+
+<ol style="list-style-type:decimal;">
+    <li><strong>Nbviewer</strong>: <a href="https://nbviewer.jupyter.org/github/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size Keywords with Jupyter and Python</a></li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size Keywords with Jupyter and Python</a></li>
+</ol>
+
+<div class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">Be highly suspicious of people who claim to fully understand any programming language. Only delusional nitwits would make such a claim for any natural language. Does anybody, even luminaries like Shakespeare, truly understand English? We all <em>sort-of-know</em> our mother tongues and if we’re honest, we’re continually surprised by how others make use of it. <em>Literature, it’s a thing.</em> The same holds for programming languages. Every day I’m surprised, by unusual, stupid, silly, clever and freaking brilliant code fragments in programming languages that I have used for decades.<a href="#fnref1">↩</a></li>
+</ol>
+</div>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5555</wp:post_id>
+  <wp:post_date>2018-01-28 00:27:10</wp:post_date>
+  <wp:post_date_gmt>2018-01-28 07:27:10</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>setting-smugmug-print-size-keywords-with-jupyter-and-python</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="post_tag" nicename="jupyter"><![CDATA[Jupyter]]></category>
+  <category domain="post_tag" nicename="jupyter-notebook"><![CDATA[Jupyter notebook]]></category>
+  <category domain="category" nicename="python"><![CDATA[Python]]></category>
+  <category domain="post_tag" nicename="rest-api"><![CDATA[REST API]]></category>
+  <category domain="post_tag" nicename="smugmug"><![CDATA[SmugMug]]></category>
+  <category domain="post_tag" nicename="smugmug-captions"><![CDATA[SmugMug captions]]></category>
+  <category domain="post_tag" nicename="smugmug-patch-request"><![CDATA[SmugMug PATCH request]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[14114119806]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1517124434]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_thumbnail_id</wp:meta_key>
+    <wp:meta_value><![CDATA[5516]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
