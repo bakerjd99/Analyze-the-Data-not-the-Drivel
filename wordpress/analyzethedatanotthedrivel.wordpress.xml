@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2018-01-28 07:41"-->
+<!-- generator="WordPress.com" created="2018-04-01 16:36"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Sun, 28 Jan 2018 07:41:13 +0000</pubDate>
+<pubDate>Sun, 01 Apr 2018 16:36:19 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -488,6 +488,11 @@
   <wp:term_id>24592</wp:term_id>
   <wp:tag_slug>arizona</wp:tag_slug>
   <wp:tag_name><![CDATA[Arizona]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>48009591</wp:term_id>
+  <wp:tag_slug>array-processing</wp:tag_slug>
+  <wp:tag_name><![CDATA[array processing]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>266278</wp:term_id>
@@ -1990,6 +1995,11 @@
   <wp:tag_name><![CDATA[IT paranoia]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>104557</wp:term_id>
+  <wp:tag_slug>iverson</wp:tag_slug>
+  <wp:tag_name><![CDATA[Iverson]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>10181</wp:term_id>
   <wp:tag_slug>j</wp:tag_slug>
   <wp:tag_name><![CDATA[J]]></wp:tag_name>
@@ -2688,6 +2698,11 @@
   <wp:term_id>84859</wp:term_id>
   <wp:tag_slug>nukes</wp:tag_slug>
   <wp:tag_name><![CDATA[Nukes]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>2910438</wp:term_id>
+  <wp:tag_slug>numpy</wp:tag_slug>
+  <wp:tag_name><![CDATA[NumPy]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>583429</wp:term_id>
@@ -6895,61 +6910,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title/>
-  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2125/</link>
-  <pubDate>Sat, 19 Nov 2011 20:18:37 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2125</guid>
-  <description/>
-  <content:encoded><![CDATA[ ]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>2125</wp:post_id>
-  <wp:post_date>2011-11-19 14:18:37</wp:post_date>
-  <wp:post_date_gmt>2011-11-19 20:18:37</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>2125</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>196</wp:post_parent>
-  <wp:menu_order>13</wp:menu_order>
-  <wp:post_type>nav_menu_item</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_url</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_xfn</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_classes</wp:meta_key>
-    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_target</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object</wp:meta_key>
-    <wp:meta_value><![CDATA[category]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_object_id</wp:meta_key>
-    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_menu_item_type</wp:meta_key>
-    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title>adndlbanner01</title>
   <link>http://analyzethedatanotthedrivel.org/adndlbanner01/</link>
   <pubDate>Tue, 10 Dec 2013 04:22:44 +0000</pubDate>
@@ -8954,15 +8914,15 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 <item>
   <title>bm</title>
   <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Wed, 27 Dec 2017 18:05:10 +0000</pubDate>
+  <pubDate>Sun, 28 Jan 2018 20:59:00 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/12/bm.pdf</guid>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2018/01/bm.pdf</guid>
   <description/>
   <content:encoded><![CDATA[]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5550</wp:post_id>
-  <wp:post_date>2017-12-27 11:05:10</wp:post_date>
-  <wp:post_date_gmt>2017-12-27 18:05:10</wp:post_date_gmt>
+  <wp:post_id>5563</wp:post_id>
+  <wp:post_date>2018-01-28 13:59:00</wp:post_date>
+  <wp:post_date_gmt>2018-01-28 20:59:00</wp:post_date_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>closed</wp:ping_status>
   <wp:post_name>bm</wp:post_name>
@@ -8972,7 +8932,30 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_type>attachment</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/12/bm.pdf</wp:attachment_url>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2018/01/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>numpy-j-logo</title>
+  <link>http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/numpy-j-logo/</link>
+  <pubDate>Sat, 31 Mar 2018 20:41:00 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2018/03/numpy-j-logo.png</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5574</wp:post_id>
+  <wp:post_date>2018-03-31 14:41:00</wp:post_date>
+  <wp:post_date_gmt>2018-03-31 20:41:00</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>numpy-j-logo</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>5565</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2018/03/numpy-j-logo.png</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -13810,109 +13793,6 @@ The amount of money we were handing over to the cable company for the privilege 
   </wp:postmeta>
 </item>
 <item>
-  <title>The UN Space Treaty is Holding Us Back!</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/</link>
-  <pubDate>Fri, 14 Jan 2011 21:55:24 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1022</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="207"]<a href="http://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg"><img class=" " style="display:inline;border:0 initial initial;margin:5px 5px 0 0;" title="earthrise" alt="earthrise" src="http://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb1.jpg" height="207" width="207" /></a> Apollo Earthrise[/caption]
-
-2011 marks the <a href="http://www.youtube.com/watch?v=aboZctrHfK8">42</a>’nd anniversary of the Apollo 11 moon landing.  42 <a href="http://www.newser.com/story/comments/64908/moon-landing-denier-exposed-as-a-cheat.html">idiot infested</a> years have passed since that glorious day and nothing that has happened since comes within a nautical league of matching it.  My vile boomer generation has downplayed the significance of space exploration for decades.  I remember getting a shrill lecture from my left leaning fifth grade teacher about what a waste of money the space program was.  Being a self-assured child so I told my teacher he was preening unimaginative Neanderthal. This landed me in detention but I refused to apologize.
-
-Manned space flight has been in a depressing, decades long, holding pattern. The real advances in space exploration have come exclusively from unmanned probes and robots.  While astronauts have been going round and round in that orbiting boondoggle known as the International Space Station the <a href="http://voyager.jpl.nasa.gov/">Voyagers</a> are on the brink of interstellar space, probes are on their way to <a href="http://pluto.jhuapl.edu/">Pluto</a> and <a href="http://messenger.jhuapl.edu/">Mercury</a>, <a href="http://saturn.jpl.nasa.gov/">Cassini</a> is orbiting Saturn, a small armada of <a href="http://www.esa.int/SPECIALS/Mars_Express/index.html">orbiters</a> and <a href="http://marsrover.nasa.gov/home/">crawlers</a> are exploring Mars, low-budget missions discovered <a href="http://online.wsj.com/article/SB10001424052702303339504575566194097878552.html">water on the moon</a>, space telescopes like <a href="http://chandra.harvard.edu/">Chandra</a>, <a href="http://hubblesite.org/hubble_20/">Hubble</a> and <a href="http://www.spitzer.caltech.edu/">Spitzer</a> have shown us wonder after wonder and, capping it all off,  <a href="http://map.gsfc.nasa.gov/">WMAP</a> determined the age of the entire frigging universe.  Compare these awesome achievements to ISS astronauts <a href="http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=26&amp;num=20926">unplugging zero-G toilets</a>.
-
-Why has so little been accomplished? I can think of two good reasons.
-<ol>
-	<li>Exclusive government control</li>
-	<li>The UN Space Treaty</li>
-</ol>
-Until recently only governments could afford space programs.  In the early days of space exploration government control made sense but that era is <a href="http://www.spacex.com/">coming to an end</a>.  In a few decades private entities will be able to mount manned Mars expeditions and send robots anywhere in the solar system and beyond.  The technology is coming along nicely but I am afraid the politics will soon be a gigantic millstone around our necks. The millstone takes the form of the <a href="http://www.oosa.unvienna.org/oosa/SpaceLaw/outerspt.html">absurd UN Space Treaty</a>.
-
-[caption id="" align="alignright" width="244"]<a href="http://en.wikipedia.org/wiki/Outer_Space_Treaty"><img class=" " style="display:inline;margin-top:0;margin-bottom:0;border:0 initial initial;" title="800px-Outer_Space_Treaty" alt="800px-Outer_Space_Treaty" src="http://bakerjd99.files.wordpress.com/2011/01/800pxouter_space_treaty_thumb.png" height="115" width="244" /></a> Green: UN Space Treaty nations[/caption]
-
-The UN space treaty is another sorry artifact of the 1960's.   It reads like a bunch of unwashed socialist hippies got together and decided to ban capitalism in space. There is no other way to explain ridiculous terms like:
-<ol>
-	<li><em>The exploration and use of outer space shall be carried out for the benefit and in the interests of all countries and shall be the province of all mankind</em>.</li>
-	<li><em>Outer space is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.</em></li>
-	<li><em>States shall be responsible for national space activities whether carried out by governmental or non-governmental activities.</em></li>
-	<li><em>States shall be liable for damage caused by their space objects.</em></li>
-	<li><em>States shall avoid harmful contamination of space and celestial bodies.</em></li>
-</ol>
-Suppose some daring entrepreneur decides to mount an asteroid mining expedition.  This is not as crazy as it sounds.  Asteroids are relatively easy to get to and very easy to get off of. They also contain <a href="http://news.bbc.co.uk/2/hi/sci/tech/401227.stm">mountains of valuable rare earths, platinum and gold.</a> Eros alone holds well over <a href="http://www.suite101.com/content/economic-impact-of-asteroids-space-exploration-a187015">20 trillion dollars</a> of metals.  You could pay off the US national debt by mining one dinky asteroid! One day, not very long from now, robot asteroid mining will make a compelling business case. To bad the UN Space Treaty outlaws it.
-
-If you have to pay off all of mankind (#1, #2) your compelling business case evaporates.  Environmentalists, (yeah space environmentalists),  would complain that mining damages and contaminates a celestial body (#4, #5). Finally, even if the operation was 100% privately funded, various governments could legally ransom our daring entrepreneur or shut him down (#3).  These tactics have already been tried.  Remember the <a href="http://articles.latimes.com/1997/oct/01/local/me-37979">hysteria that preceded the launch of Cassini</a>.  A pack of morons decided that the <a href="http://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator">Plutonium powered RTG</a> on Cassini posed a grave threat to all mankind and started citing <a href="http://www.animatedsoftware.com/cassini/trea9704.htm">the UN Space Treaty in hopes of blocking the launch</a>.  Cassini was not a money-making operation so we ignored the loons. Asteroid mining will be another thing all together.  Everyone will want their cut.  With the UN in charge we're going to feel like the <em>probed </em>subjects in this Kids in Hall video.
-
-[youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=KBhru5nLpGE#!]]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1022</wp:post_id>
-  <wp:post_date>2011-01-14 21:55:24</wp:post_date>
-  <wp:post_date_gmt>2011-01-14 21:55:24</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>the-un-space-treaty-is-holding-us-back</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="apollo-11"><![CDATA[Apollo 11]]></category>
-  <category domain="category" nicename="history"><![CDATA[History]]></category>
-  <category domain="post_tag" nicename="kids-in-the-hall"><![CDATA[Kids in the Hall]]></category>
-  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="space-exploration"><![CDATA[space exploration]]></category>
-  <category domain="post_tag" nicename="space-treaty"><![CDATA[space treaty]]></category>
-  <category domain="post_tag" nicename="un"><![CDATA[UN]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>269</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>24.182.176.7</wp:comment_author_IP>
-    <wp:comment_date>2012-04-24 23:28:35</wp:comment_date>
-    <wp:comment_date_gmt>2012-04-25 04:28:35</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[It's nice to see other people slowly come around to your way of thinking.  As I wrote the business case for asteroid mining is almost here and just as I predicted the "progressives" are <a href="http://news.yahoo.com/does-asteroid-mining-violate-space-law-185201703.html" rel="nofollow">already harping on the UN space treaty.</a> In the long run they will lose. The space treaty is unenforceable garbage that will be broken at the earliest profitable opportunity.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1335328118</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1335328119.2047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-04-25 04:28:35</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>The JOD Page</title>
   <link>http://analyzethedatanotthedrivel.org/the-jod-page/</link>
   <pubDate>Sun, 20 Feb 2011 02:21:43 +0000</pubDate>
@@ -15517,6 +15397,189 @@ William]]></wp:comment_content>
       <wp:meta_value>a:3:{s:4:"time";d:1478180030.4602530002593994140625;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"grothendieckfan";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1872</wp:comment_id>
+    <wp:comment_author><![CDATA[Michael Walsh]]></wp:comment_author>
+    <wp:comment_author_email>mike.walsh@1208.net.au</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>73.70.86.71</wp:comment_author_IP>
+    <wp:comment_date>2018-02-12 13:41:37</wp:comment_date>
+    <wp:comment_date_gmt>2018-02-12 20:41:37</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Hi John, on your page about Gavin Menzies Junk theory you have a link to " Bill Hartz’s exhaustive demolition ". Unfortunately that link seems to be dead.
+Best regards
+Mike Walsh]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1518468098.7469959259033203125;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1518478922</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1518478923.177886962890625;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1518478922</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>14683968559</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1518471870.3933010101318359375;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1873</wp:comment_id>
+    <wp:comment_author><![CDATA[Michael Walsh]]></wp:comment_author>
+    <wp:comment_author_email>mike.walsh@1208.net.au</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>73.70.86.71</wp:comment_author_IP>
+    <wp:comment_date>2018-02-12 15:44:25</wp:comment_date>
+    <wp:comment_date_gmt>2018-02-12 22:44:25</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Dear John,
+Thank you for your page - it is refreshing.
+I too am a great skeptic. My first wife often said "If there was a Skeptics Society in Perth you would be the President of it".
+I am also a professional, a mining engineer, and my work philosophy is "Believe nothing. Check everything" - it infuriates some of my staff who just want me to believe them without question.
+In your world, that of computing and programming, you know that computers and programming and mathematics only work well on facts. I am also a part-time programmer and knw that vague concepts do not produce reliable answers.
+It is the same in the mining business, whether it is surface or underground mining. When we work at getting metals out of the ground and selling them for a profit, we need cold, hard facts based on accurate samples, which we can then use to build reliable economic models. I have no time for diviners, or people selling "maybe" theories that are based on deceptive theories.
+The metals that we need to run a modern society do not come out of the ground by wishful thinking.
+I applaud your efforts here.
+Best regards
+Mike Walsh
+PS If you Google Mike Walsh Mining Engineer you will find my profile on LinkedIn]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1518478949</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1518478949.7437360286712646484375;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>14683978715</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1518478949</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1518475466.558291912078857421875;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1875</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://analyzethedatanotthedrivel.org</wp:comment_author_url>
+    <wp:comment_author_IP>67.50.186.138</wp:comment_author_IP>
+    <wp:comment_date>2018-02-12 16:50:07</wp:comment_date>
+    <wp:comment_date_gmt>2018-02-12 23:50:07</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Mike, 
+
+Thanks for pointing out the dead link. This isn’t the first time a key link died on me. Basically, you cannot depend on Internet sources to persist unless you take an offline copy. This is a major problem. Longterm bit storage is regrettably a work in progress.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>1872</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1518479408</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1518479408.8447930812835693359375;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>14684143812</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1518479409</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title/>
+  <link>http://analyzethedatanotthedrivel.org/2011/11/19/2125/</link>
+  <pubDate>Sat, 19 Nov 2011 20:18:37 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2125</guid>
+  <description/>
+  <content:encoded><![CDATA[ ]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2125</wp:post_id>
+  <wp:post_date>2011-11-19 14:18:37</wp:post_date>
+  <wp:post_date_gmt>2011-11-19 20:18:37</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>2125</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>196</wp:post_parent>
+  <wp:menu_order>13</wp:menu_order>
+  <wp:post_type>nav_menu_item</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="nav_menu" nicename="secondary"><![CDATA[Secondary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_url</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_xfn</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_classes</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_target</wp:meta_key>
+    <wp:meta_value><![CDATA[]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object</wp:meta_key>
+    <wp:meta_value><![CDATA[category]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_object_id</wp:meta_key>
+    <wp:meta_value><![CDATA[2426]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+    <wp:meta_value><![CDATA[2123]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_menu_item_type</wp:meta_key>
+    <wp:meta_value><![CDATA[taxonomy]]></wp:meta_value>
+  </wp:postmeta>
 </item>
 <item>
   <title/>
@@ -16302,7 +16365,7 @@ I frequently update these documents but they are not always current. The online 
 The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an unpredictable mess wrapping text around usually poorly placed images.
 
 <ol>
-    <li><a href="https://bakerjd99.files.wordpress.com/2017/12/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
+    <li><a href="https://bakerjd99.files.wordpress.com/2018/01/bm.pdf">bm.pdf  (PDF version) </a>This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://app.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf is also available here.</a> and <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">here</a>.
 <ul>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li>
     <li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li>
@@ -18732,6 +18795,109 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>The UN Space Treaty is Holding Us Back!</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/</link>
+  <pubDate>Fri, 14 Jan 2011 21:55:24 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1022</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="207"]<a href="http://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg"><img class=" " style="display:inline;border:0 initial initial;margin:5px 5px 0 0;" title="earthrise" alt="earthrise" src="http://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb1.jpg" height="207" width="207" /></a> Apollo Earthrise[/caption]
+
+2011 marks the <a href="http://www.youtube.com/watch?v=aboZctrHfK8">42</a>’nd anniversary of the Apollo 11 moon landing.  42 <a href="http://www.newser.com/story/comments/64908/moon-landing-denier-exposed-as-a-cheat.html">idiot infested</a> years have passed since that glorious day and nothing that has happened since comes within a nautical league of matching it.  My vile boomer generation has downplayed the significance of space exploration for decades.  I remember getting a shrill lecture from my left leaning fifth grade teacher about what a waste of money the space program was.  Being a self-assured child so I told my teacher he was preening unimaginative Neanderthal. This landed me in detention but I refused to apologize.
+
+Manned space flight has been in a depressing, decades long, holding pattern. The real advances in space exploration have come exclusively from unmanned probes and robots.  While astronauts have been going round and round in that orbiting boondoggle known as the International Space Station the <a href="http://voyager.jpl.nasa.gov/">Voyagers</a> are on the brink of interstellar space, probes are on their way to <a href="http://pluto.jhuapl.edu/">Pluto</a> and <a href="http://messenger.jhuapl.edu/">Mercury</a>, <a href="http://saturn.jpl.nasa.gov/">Cassini</a> is orbiting Saturn, a small armada of <a href="http://www.esa.int/SPECIALS/Mars_Express/index.html">orbiters</a> and <a href="http://marsrover.nasa.gov/home/">crawlers</a> are exploring Mars, low-budget missions discovered <a href="http://online.wsj.com/article/SB10001424052702303339504575566194097878552.html">water on the moon</a>, space telescopes like <a href="http://chandra.harvard.edu/">Chandra</a>, <a href="http://hubblesite.org/hubble_20/">Hubble</a> and <a href="http://www.spitzer.caltech.edu/">Spitzer</a> have shown us wonder after wonder and, capping it all off,  <a href="http://map.gsfc.nasa.gov/">WMAP</a> determined the age of the entire frigging universe.  Compare these awesome achievements to ISS astronauts <a href="http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=26&amp;num=20926">unplugging zero-G toilets</a>.
+
+Why has so little been accomplished? I can think of two good reasons.
+<ol>
+	<li>Exclusive government control</li>
+	<li>The UN Space Treaty</li>
+</ol>
+Until recently only governments could afford space programs.  In the early days of space exploration government control made sense but that era is <a href="http://www.spacex.com/">coming to an end</a>.  In a few decades private entities will be able to mount manned Mars expeditions and send robots anywhere in the solar system and beyond.  The technology is coming along nicely but I am afraid the politics will soon be a gigantic millstone around our necks. The millstone takes the form of the <a href="http://www.oosa.unvienna.org/oosa/SpaceLaw/outerspt.html">absurd UN Space Treaty</a>.
+
+[caption id="" align="alignright" width="244"]<a href="http://en.wikipedia.org/wiki/Outer_Space_Treaty"><img class=" " style="display:inline;margin-top:0;margin-bottom:0;border:0 initial initial;" title="800px-Outer_Space_Treaty" alt="800px-Outer_Space_Treaty" src="http://bakerjd99.files.wordpress.com/2011/01/800pxouter_space_treaty_thumb.png" height="115" width="244" /></a> Green: UN Space Treaty nations[/caption]
+
+The UN space treaty is another sorry artifact of the 1960's.   It reads like a bunch of unwashed socialist hippies got together and decided to ban capitalism in space. There is no other way to explain ridiculous terms like:
+<ol>
+	<li><em>The exploration and use of outer space shall be carried out for the benefit and in the interests of all countries and shall be the province of all mankind</em>.</li>
+	<li><em>Outer space is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.</em></li>
+	<li><em>States shall be responsible for national space activities whether carried out by governmental or non-governmental activities.</em></li>
+	<li><em>States shall be liable for damage caused by their space objects.</em></li>
+	<li><em>States shall avoid harmful contamination of space and celestial bodies.</em></li>
+</ol>
+Suppose some daring entrepreneur decides to mount an asteroid mining expedition.  This is not as crazy as it sounds.  Asteroids are relatively easy to get to and very easy to get off of. They also contain <a href="http://news.bbc.co.uk/2/hi/sci/tech/401227.stm">mountains of valuable rare earths, platinum and gold.</a> Eros alone holds well over <a href="http://www.suite101.com/content/economic-impact-of-asteroids-space-exploration-a187015">20 trillion dollars</a> of metals.  You could pay off the US national debt by mining one dinky asteroid! One day, not very long from now, robot asteroid mining will make a compelling business case. To bad the UN Space Treaty outlaws it.
+
+If you have to pay off all of mankind (#1, #2) your compelling business case evaporates.  Environmentalists, (yeah space environmentalists),  would complain that mining damages and contaminates a celestial body (#4, #5). Finally, even if the operation was 100% privately funded, various governments could legally ransom our daring entrepreneur or shut him down (#3).  These tactics have already been tried.  Remember the <a href="http://articles.latimes.com/1997/oct/01/local/me-37979">hysteria that preceded the launch of Cassini</a>.  A pack of morons decided that the <a href="http://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator">Plutonium powered RTG</a> on Cassini posed a grave threat to all mankind and started citing <a href="http://www.animatedsoftware.com/cassini/trea9704.htm">the UN Space Treaty in hopes of blocking the launch</a>.  Cassini was not a money-making operation so we ignored the loons. Asteroid mining will be another thing all together.  Everyone will want their cut.  With the UN in charge we're going to feel like the <em>probed </em>subjects in this Kids in Hall video.
+
+[youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=KBhru5nLpGE#!]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1022</wp:post_id>
+  <wp:post_date>2011-01-14 21:55:24</wp:post_date>
+  <wp:post_date_gmt>2011-01-14 21:55:24</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-un-space-treaty-is-holding-us-back</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="apollo-11"><![CDATA[Apollo 11]]></category>
+  <category domain="category" nicename="history"><![CDATA[History]]></category>
+  <category domain="post_tag" nicename="kids-in-the-hall"><![CDATA[Kids in the Hall]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="space-exploration"><![CDATA[space exploration]]></category>
+  <category domain="post_tag" nicename="space-treaty"><![CDATA[space treaty]]></category>
+  <category domain="post_tag" nicename="un"><![CDATA[UN]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>269</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>24.182.176.7</wp:comment_author_IP>
+    <wp:comment_date>2012-04-24 23:28:35</wp:comment_date>
+    <wp:comment_date_gmt>2012-04-25 04:28:35</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[It's nice to see other people slowly come around to your way of thinking.  As I wrote the business case for asteroid mining is almost here and just as I predicted the "progressives" are <a href="http://news.yahoo.com/does-asteroid-mining-violate-space-law-185201703.html" rel="nofollow">already harping on the UN space treaty.</a> In the long run they will lose. The space treaty is unenforceable garbage that will be broken at the earliest profitable opportunity.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1335328118</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1335328119.2047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-04-25 04:28:35</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>J 7.01 Now Playing in your Browser</title>
@@ -35515,6 +35681,84 @@ thank you]]></wp:comment_content>
       <wp:meta_value>a:2:{s:4:"time";d:1508502263.94180202484130859375;s:5:"event";s:9:"check-ham";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1877</wp:comment_id>
+    <wp:comment_author><![CDATA[Greg Segal]]></wp:comment_author>
+    <wp:comment_author_email>phantomairship@yahoo.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>75.175.27.216</wp:comment_author_IP>
+    <wp:comment_date>2018-03-13 16:42:50</wp:comment_date>
+    <wp:comment_date_gmt>2018-03-13 22:42:50</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[I have used- don't laugh- photoshop 5 since 1998 to do album covers. A recent computer upgrade rendered PS5 unusable. I depended on the "one click" PS conversion to CMYK to make my covers print ready. I've been trying to go the "free program" route to get back on track, but nothing does the one-click conversion. Affinity seems, from the info at their site, to have that capability, as well as being able to read all my old layered PSDs. I need to know, will it do this? Considering the Jurassic vintage of what I'm used to, I don't think that's asking too much. This info would be greatly appreciated, thank you.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1520980970.8335649967193603515625;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>15699946995</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1520986749</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1520986749</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1520986750.1761009693145751953125;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1520984921.52634906768798828125;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>1879</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://analyzethedatanotthedrivel.org</wp:comment_author_url>
+    <wp:comment_author_IP>71.37.216.214</wp:comment_author_IP>
+    <wp:comment_date>2018-03-13 18:23:30</wp:comment_date>
+    <wp:comment_date_gmt>2018-03-14 00:23:30</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Greg,
+
+I haven’t used the CMYK facilities of Affinity but the software supports it.  You would have to test your old PSDs. The oldest PSDs I’ve imported are only ten years old. Affinity is fairly inexpensive and a great value in my opinion. Good luck.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>1877</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1520987010</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1520987011.3374669551849365234375;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>15700044365</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1520987012</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>What is Required: Hybrid Books</title>
@@ -36423,6 +36667,45 @@ The next total solar eclipse is in 2019. The greatest eclipse is in the Pacific,
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[8693697270]]></wp:meta_value>
   </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1874</wp:comment_id>
+    <wp:comment_author><![CDATA[Michael Walsh]]></wp:comment_author>
+    <wp:comment_author_email>mike.walsh@1208.net.au</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>73.70.86.71</wp:comment_author_IP>
+    <wp:comment_date>2018-02-12 16:10:29</wp:comment_date>
+    <wp:comment_date_gmt>2018-02-12 23:10:29</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[I have been in a 3/4 eclipse but never a total solar eclipse.
+The 3/4 happened when I was a mining student in Kalgoorlie, Western Australia. The thing that stands out most in my mind was the display of hundred of projected crescent suns dancing on the ground under a tree as the sunlight shone through the leaves and each tiny gap between the leaves acted as a camera obscura projecting the sun's shape through the shadows, winking in and out as the breeze continually opened new gaps then closed them.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>14683981101</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1518478955</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1518478955</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1518478956.1092510223388671875;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1518477030.334104061126708984375;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Stop Writing Dead Tree Letters to the Editor</title>
@@ -37292,6 +37575,296 @@ Compare this notebook, (use the first link for the best layout), to my <a href="
     <wp:meta_key>_thumbnail_id</wp:meta_key>
     <wp:meta_value><![CDATA[5516]]></wp:meta_value>
   </wp:postmeta>
+</item>
+<item>
+  <title>NumPy another Iverson Ghost</title>
+  <link>http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/</link>
+  <pubDate>Sat, 31 Mar 2018 21:07:53 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5565</guid>
+  <description/>
+  <content:encoded><![CDATA[<img class="alignright wp-image-5574 size-thumbnail" src="https://bakerjd99.files.wordpress.com/2018/03/numpy-j-logo.png?w=150" alt="" width="150" height="81" />During my recent <a href="https://github.com/bakerjd99/smugpyter">SmugMug API and Python</a> adventures I was haunted by an Iverson ghost: <code>NumPy</code>
+
+<em><strong>An Iverson ghost is an embedding of APL like array programming features in nonAPL languages and tools.</strong></em>
+
+You would be surprised at how often Iverson ghosts appear. Whenever programmers are challenged with processing large numeric arrays they rediscover bits of APL. Often they're unaware of the rich heritage of array processing languages but in <code>NumPy's</code> case, they <em>indirectly</em> acknowledged the debt. In <a href="http://numpy.sourceforge.net/numdoc/numdoc.pdf"><em>Numerical Python</em></a> the authors wrote:
+
+<em>"The languages which were used to guide the development of NumPy include the infamous APL family of languages, Basis, MATLAB, FORTRAN, S and S+, and others."</em>
+
+I consider "infamous" an upgrade from <a href="http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html">"a mistake carried through to perfection."</a>
+
+Not only do developers frequently conjure up Iverson ghosts. They also invariably turn into little apostles of array programming that won't shut up about how cutting down on all those goddamn loops clarifies and simplifies algorithms. How learning to think about operating on entire arrays, versus one dinky number at a time, frees the mind. Why it's almost as if array programming <a href="http://www.jsoftware.com/papers/tot.htm">is a tool of thought.</a>
+
+Where have I heard this before?
+
+Ahh, I've got it, when I first encountered APL almost fifty years ago.
+
+Yes, I am an old programmer, a fossil, a living relic. My brain is a putrid pool of punky programming languages. Python is just the latest in a longish line of languages. Some people collect stamps. I collect programming languages. And, just like stamp collectors have favorite stamps, I find some programming languages more attractive than others. For example, I recognize the undeniable utility of <code>C/C++</code>, for many tasks they are the only serious options, yet as useful and pervasive as <code>C/C++</code> are they have never tickled my fancy. The notation is ugly! Yeah, I said it; suck on it C people. Similarly, the world's most commonly used programming language <code>JavaScript</code> is equally ugly. Again, <code>JavaScript</code> is so damn useful that programmers put up with its many warts. Some have even made a few bucks writing books about its <a href="http://shop.oreilly.com/product/9780596517748.do">meager good parts</a>.
+
+I have similar inflammatory opinions about other widely used languages. The one that is making me miserable now is <code>SQL</code>, particularly Microsoft's variant <code>T-SQL</code>. On purely aesthetic grounds I find well-formed <code>SQL</code> queries less appalling than your average <code>C</code> pointer fest. Core <code>SQL</code> is fairly elegant but the macro programming features that have grown up around it are depraved. I feel dirty when forced to use them which is just about every other day.
+
+At the end of my programming day, I want to look on something that is beautiful. I don't particularly care about how useful a chunk of code is or how much money it might make, or what silly little business problem it solves. If the damn code is ugly I don't want to see it.
+
+People keep rediscovering array programming, best described in Ken Iverson's 1962 book <a href="http://www.jsoftware.com/papers/APL.htm"><em>A Programming Language</em></a>, for two basic reasons:
+
+<ol style="list-style-type:decimal;">
+    <li>It's an efficient way to handle an important class of problems.</li>
+    <li>It's a step away from the ugly and back towards the beautiful.</li>
+</ol>
+
+Both of these reasons manifest in <code>NumPy</code>'s resounding success in the Python world.
+
+As usual, efficiency led the way. The authors of <em>Numerical Python</em> note:
+
+<blockquote>Why are these extensions needed? The core reason is a very prosaic one, and that is that manipulating a set of a million numbers in Python with the standard data structures such as lists, tuples or classes is much too slow and uses too much space.</blockquote>
+
+Faced with a <a href="https://www.youtube.com/watch?v=ZBAijg5Betw">"does not compute"</a> situation you can either try something else or fix what you have. The Python people fixed Python with <code>NumPy</code>. <a href="https://www.quora.com/Whats-the-exact-difference-between-a-Pythoneer-and-a-Pythonista">Pythonistas</a> reluctantly embraced <code>NumPy</code> but quickly went <em>apostolic!</em> Now books like <a href="http://shop.oreilly.com/product/0636920038481.do"><em>Elegant SciPy</em></a> and the entire <code>SciPy</code> toolset that been built on <code>NumPy</code> take it for granted.
+
+Is there anything in <code>NumPy</code> for programmers that have been drinking the array processing cool aid for decades? The answer is yes! <a href="http://code.jsoftware.com/wiki/NuVoc">J programmers</a>, in particular, are in for a treat with the new Python3 addon that's been released with the latest J 8.07 beta. This addon directly supports <code>NumPy</code> arrays making it easy to swap data in and out of the J/Python environments. It's one of those best of both worlds things.
+
+The following <code>NumPy</code> examples are from the <code>SciPy.org</code> <a href="https://docs.scipy.org/doc/numpy-dev/user/quickstart.html">NumPy quick start tutorial</a>. For each <code>NumPy</code> statement, I have provided a J equivalent. J is a descendant of APL. It was largely designed by the same man: Ken Iverson. A scumbag lawyer or greedy patent troll might consider suing <code>NumPy</code>'s creators after looking at these examples. APL's influence is obvious. Fortunately, Ken Iverson was more interested in promoting good ideas that profiting from them. I suspect he would be flattered that APL has mutated and colonized strange new worlds and I think even zealous Pythonistas will agree that Python is a delightfully strange world.
+
+<h2 id="some-numpy-and-j-examples">Some <code>Numpy</code> and J examples</h2>
+
+Selected Examples from <a class="uri" href="https://docs.scipy.org/doc/numpy-dev/user/quickstart.html">https://docs.scipy.org/doc/numpy-dev/user/quickstart.html</a> Output has been suppressed here. For a more detailed look at these examples browse the Jupyter notebook:  <a href="https://github.com/bakerjd99/jacks/blob/master/numpyjlove/NumPy%20and%20J%20make%20Sweet%20Array%20Love.ipynb">NumPy and J Make Sweet Array Love</a>.
+
+<h2 id="creating-simple-arrays">Creating simple arrays</h2>
+
+<pre><code> 
+ # numpy
+ a = np.arange(15).reshape(3, 5)
+ 
+ NB. J
+ a =. 3 5 $ i. 15
+
+ # numpy
+ a = np.array([2,3,4])
+ 
+ NB. J
+ a =. 2 3 4
+ 
+ # numpy
+ b = np.array([(1.5,2,3), (4,5,6)])
+ 
+ NB. J
+ b =. 1.5 2 3 ,: 4 5 6
+
+ # numpy
+ c = np.array( [ [1,2], [3,4] ], dtype=complex )
+ 
+ NB. J
+ j. 1 2 ,: 3 4
+ 
+ # numpy
+ np.zeros( (3,4) )
+ 
+ NB. J
+ 3 4 $ 0
+ 
+ # numpy - allocates array with whatever is in memory
+ np.empty( (2,3) )
+ 
+ NB. J - uses fill - safer but slower than numpy's trust memory method
+ 2 3 $ 0.0001 </code></pre>
+
+<h2 id="basic-operations">Basic operations</h2>
+
+<pre><code> 
+ # numpy
+ a = np.array( [20,30,40,50] )
+ b = np.arange( 4 )
+ c = a - b
+ 
+ NB. J
+ a =. 20 30 40 50
+ b =. i. 4
+ c =. a - b
+ 
+ # numpy - uses previously defined (b)
+ b ** 2
+ 
+ NB. J
+ b ^ 2
+
+ # numpy - uses previously defined (a)
+ 10 * np.sin(a)
+ 
+ NB. J
+ 10 * 1 o. a
+ 
+ # numpy - booleans are True and False
+ a &lt; 35
+ 
+ NB. J - booleans are 1 and 0
+ a &lt; 35</code></pre>
+
+<h2 id="array-processing">Array processing</h2>
+
+<pre><code> 
+ # numpy
+ a = np.array( [[1,1], [0,1]] )
+ b = np.array( [[2,0], [3,4]] )
+ # elementwise product
+ a * b
+
+ NB. J
+ a =. 1 1 ,: 0 1
+ b =. 2 0 ,: 3 4
+ a * b
+
+ # numpy - matrix product
+ np.dot(a, b)
+
+ NB. J - matrix product
+ a +/ . * b  
+ 
+ # numpy - uniform pseudo random
+ a = np.random.random( (2,3) )
+ 
+ NB. J - uniform pseudo random
+ a =. ? 2 3 $ 0
+ 
+ # numpy - sum all array elements - implicit ravel
+ a.sum(a)
+ 
+ NB. J - sum all array elements - explicit ravel
+ +/ , a
+ 
+ # numpy
+ b = np.arange(12).reshape(3,4)
+ # sum of each column
+ b.sum(axis=0)
+ # min of each row
+ b.min(axis=1)
+ # cumulative sum along each row
+ b.cumsum(axis=1)
+ # transpose
+ b.T     
+
+ NB. J 
+ b =. 3 4 $ i. 12
+ NB. sum of each column
+ +/ b
+ NB. min of each row
+ &lt;./"1 b
+ NB. cumulative sum along each row
+ +/\"0 1 b
+ NB. transpose
+ |: b</code></pre>
+
+<h2 id="indexing-and-slicing">Indexing and slicing</h2>
+
+<pre><code> 
+ # numpy 
+ a = np.arange(10) ** 3 
+ a[2]
+ a[2:5]
+ a[ : :-1]   # reversal
+
+ NB. J
+ a =. (i. 10) ^ 3
+ 2 { a
+ (2 + i. 3) { a
+ |. a</code></pre>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5565</wp:post_id>
+  <wp:post_date>2018-03-31 15:07:53</wp:post_date>
+  <wp:post_date_gmt>2018-03-31 21:07:53</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>numpy-another-iverson-ghost</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="apl"><![CDATA[APL]]></category>
+  <category domain="post_tag" nicename="array-processing"><![CDATA[array processing]]></category>
+  <category domain="post_tag" nicename="iverson"><![CDATA[Iverson]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="numpy"><![CDATA[NumPy]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="python"><![CDATA[Python]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1522530478]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_086197aa2eb66e7e221aa0a844d3b244</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[16330887076]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_c736254b9b522c7235a174e0bbed9cfa</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>1883</wp:comment_id>
+    <wp:comment_author><![CDATA[Bo Jacoby]]></wp:comment_author>
+    <wp:comment_author_email>bojacoby@yahoo.dk</wp:comment_author_email>
+    <wp:comment_author_url>https://www.facebook.com/app_scoped_user_id/916175645114491/</wp:comment_author_url>
+    <wp:comment_author_IP>83.94.38.153</wp:comment_author_IP>
+    <wp:comment_date>2018-03-31 17:47:07</wp:comment_date>
+    <wp:comment_date_gmt>2018-03-31 23:47:07</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Unifying J-arrays with SQL-tables and tree structures, see
+https://www.academia.edu/10031088/ORDINAL_FRACTIONS_-_the_algebra_of_data]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>hc_post_as</wp:meta_key>
+      <wp:meta_value>facebook</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_avatar</wp:meta_key>
+      <wp:meta_value/>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>hc_foreign_user_id</wp:meta_key>
+      <wp:meta_value>916175645114491</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1522540365</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1522540316.3692409992218017578125;s:5:"event";s:17:"status-unapproved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1522540365.9716660976409912109375;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1522540029</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1522540029.6439559459686279296875;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
   </channel>
 </rss>
