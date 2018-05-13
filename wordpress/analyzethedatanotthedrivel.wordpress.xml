@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2018-04-01 16:36"-->
+<!-- generator="WordPress.com" created="2018-05-13 19:22"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Sun, 01 Apr 2018 16:36:19 +0000</pubDate>
+<pubDate>Sun, 13 May 2018 19:22:59 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1890,6 +1890,11 @@
   <wp:tag_name><![CDATA[image processing]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>1074534</wp:term_id>
+  <wp:tag_slug>inap</wp:tag_slug>
+  <wp:tag_name><![CDATA[iNap]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>19991</wp:term_id>
   <wp:tag_slug>inception</wp:tag_slug>
   <wp:tag_name><![CDATA[Inception]]></wp:tag_name>
@@ -2490,6 +2495,11 @@
   <wp:tag_name><![CDATA[Mauna Kea]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>240296</wp:term_id>
+  <wp:tag_slug>maxims</wp:tag_slug>
+  <wp:tag_name><![CDATA[maxims]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>36773</wp:term_id>
   <wp:tag_slug>mayan</wp:tag_slug>
   <wp:tag_name><![CDATA[Mayan]]></wp:tag_name>
@@ -2608,6 +2618,11 @@
   <wp:term_id>1720111</wp:term_id>
   <wp:tag_slug>myth-of-sisyphus</wp:tag_slug>
   <wp:tag_name><![CDATA[Myth of Sisyphus]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>6452214</wp:term_id>
+  <wp:tag_slug>naked-ape</wp:tag_slug>
+  <wp:tag_name><![CDATA[naked ape]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>7561621</wp:term_id>
@@ -2963,6 +2978,11 @@
   <wp:term_id>79901</wp:term_id>
   <wp:tag_slug>proof</wp:tag_slug>
   <wp:tag_name><![CDATA[proof]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>177410</wp:term_id>
+  <wp:tag_slug>protocol</wp:tag_slug>
+  <wp:tag_name><![CDATA[protocol]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>4429908</wp:term_id>
@@ -13799,7 +13819,7 @@ The amount of money we were handing over to the cable company for the privilege 
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1101</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.990 released February 27, 2016</a> </strong>
+  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.990 released February 27, 2017</a> </strong>
 
 This page maintains references to primary JOD materials. See the directory: <a href="https://www.box.com/s/eb537470b25ab230a0ab">JOD Dictionary</a>
 
@@ -13912,6 +13932,10 @@ git pull jod master</code></pre>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_oembed_454059d33485d5f59c8fafce8aa5ddc5</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_3b18c7742280a4ee656b92f5542a96a9</wp:meta_key>
     <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:comment>
@@ -36854,6 +36878,10 @@ Today the pro-Cassini protesters would be erroneously described as "alt-right." 
     <wp:meta_key>_oembed_f4d114a7af6c2d30f6ccc6fa4c5c1c5f</wp:meta_key>
     <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
   </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_21eae97518847f22ace6c76fcd7f3881</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+  </wp:postmeta>
   <wp:comment>
     <wp:comment_id>1774</wp:comment_id>
     <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
@@ -37518,8 +37546,8 @@ I’ve been a fan of literate programming ever since I read <a href="https://en.
 Compare this notebook, (use the first link for the best layout), to my <a href="https://analyzethedatanotthedrivel.org/2010/02/21/assigning-smugmug-print-size-keys/">earlier blog post</a> about setting SmugMug print size keywords.
 
 <ol style="list-style-type:decimal;">
-    <li><strong>Nbviewer</strong>: <a href="https://nbviewer.jupyter.org/github/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size Keywords with Jupyter and Python</a></li>
-    <li><strong>GitHub</strong>: <a href="https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size Keywords with Jupyter and Python</a></li>
+    <li><strong>Nbviewer</strong>: <a href="https://nbviewer.jupyter.org/github/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20and%20Geotag%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size and Geotag Keywords with Jupyter and Python</a></li>
+    <li><strong>GitHub</strong>: <a href="https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20and%20Geotag%20Keywords%20with%20Jupyter%20and%20Python.ipynb">Setting SmugMug Print Size and Geotag Keywords with Jupyter and Python</a></li>
 </ol>
 
 <div class="footnotes">
@@ -37620,7 +37648,7 @@ As usual, efficiency led the way. The authors of <em>Numerical Python</em> note:
 
 Faced with a <a href="https://www.youtube.com/watch?v=ZBAijg5Betw">"does not compute"</a> situation you can either try something else or fix what you have. The Python people fixed Python with <code>NumPy</code>. <a href="https://www.quora.com/Whats-the-exact-difference-between-a-Pythoneer-and-a-Pythonista">Pythonistas</a> reluctantly embraced <code>NumPy</code> but quickly went <em>apostolic!</em> Now books like <a href="http://shop.oreilly.com/product/0636920038481.do"><em>Elegant SciPy</em></a> and the entire <code>SciPy</code> toolset that been built on <code>NumPy</code> take it for granted.
 
-Is there anything in <code>NumPy</code> for programmers that have been drinking the array processing cool aid for decades? The answer is yes! <a href="http://code.jsoftware.com/wiki/NuVoc">J programmers</a>, in particular, are in for a treat with the new Python3 addon that's been released with the latest J 8.07 beta. This addon directly supports <code>NumPy</code> arrays making it easy to swap data in and out of the J/Python environments. It's one of those best of both worlds things.
+Is there anything in <code>NumPy</code> for programmers that have been drinking the array processing Kool-Aid for decades? The answer is yes! <a href="http://code.jsoftware.com/wiki/NuVoc">J programmers</a>, in particular, are in for a treat with the new Python3 addon that's been released with the latest J 8.07 beta. This addon directly supports <code>NumPy</code> arrays making it easy to swap data in and out of the J/Python environments. It's one of those best of both worlds things.
 
 The following <code>NumPy</code> examples are from the <code>SciPy.org</code> <a href="https://docs.scipy.org/doc/numpy-dev/user/quickstart.html">NumPy quick start tutorial</a>. For each <code>NumPy</code> statement, I have provided a J equivalent. J is a descendant of APL. It was largely designed by the same man: Ken Iverson. A scumbag lawyer or greedy patent troll might consider suing <code>NumPy</code>'s creators after looking at these examples. APL's influence is obvious. Fortunately, Ken Iverson was more interested in promoting good ideas that profiting from them. I suspect he would be flattered that APL has mutated and colonized strange new worlds and I think even zealous Pythonistas will agree that Python is a delightfully strange world.
 
@@ -37865,6 +37893,84 @@ https://www.academia.edu/10031088/ORDINAL_FRACTIONS_-_the_algebra_of_data]]></wp
       <wp:meta_value>a:2:{s:4:"time";d:1522540029.6439559459686279296875;s:5:"event";s:9:"check-ham";}</wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
+</item>
+<item>
+  <title>Informed Naked Ape Protocol</title>
+  <link>http://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/</link>
+  <pubDate>Tue, 08 May 2018 19:09:28 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5582</guid>
+  <description/>
+  <content:encoded><![CDATA[Many think we are living in a golden age of bullshit. That public discourse has never been gaudier or more demeaning. That respect for truth and decency has reached all-time lows. The mental pygmies that hold these opinions don't read or think for themselves. Deceiving ourselves and others is the one thing our species excels at. Lies are the bedrock of art, economics, politics, and religion. Only two tiny slivers of human thought have ever breached the bullshit barrier and approached something that might be credibly labeled truth: hard science, and harder mathematics.
+
+If you think I am going to praise brave men, (and bitches), of science for lighting a candle in the perpetual darkness, (Carl Sagan already wrote <a href="https://www.goodreads.com/book/show/17349.The_Demon_Haunted_World">an entire fawning book</a> on this self-aggrandizing theme), think again. Scientists are just as flawed and full of crap as the rest of us. Science occasionally succeeds because it has evolved protocols that correct for human bullshit. A good protocol protects us against our worst enemy - ourselves.
+
+My <em>Informed Naked Ape Protocol</em>, or <em>iNap</em> for short, consists of eleven<a id="fnref1" class="footnoteRef" href="#fn1"><sup>1</sup></a> pithy maxims that force a <a href="https://analyzethedatanotthedrivel.org/2009/10/29/hard-ass-skeptic-rules/">hard ass skeptical</a> view of things. I will manifest my maxims here and elaborate on each one in following posts.
+
+Informed Naked Ape Protocol
+
+<ol type="1">
+    <li>Enough people are scum.</li>
+    <li>Trust is for imbeciles.</li>
+    <li>"Belief" is a bullshit word.</li>
+    <li>Assume corruption.</li>
+    <li>Analyze the data, not the drivel.</li>
+    <li>Demand full analytic disclosure.</li>
+    <li>Practice relentless verification.</li>
+    <li>Centralized systems are always corrupted.</li>
+    <li>If you don't control it you cannot trust it.</li>
+    <li>Only scientific and mathematical arguments are admissible.</li>
+    <li>Correct errors.</li>
+</ol>
+
+<section class="footnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1">Why eleven? The last time somebody tried to get the inhabitants of planet moron to follow ten simple rules it didn’t work out.<a href="#fnref1">↩</a></li>
+</ol>
+</section>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5582</wp:post_id>
+  <wp:post_date>2018-05-08 13:09:28</wp:post_date>
+  <wp:post_date_gmt>2018-05-08 19:09:28</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>informed-naked-ape-protocol</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="bullshit"><![CDATA[Bullshit]]></category>
+  <category domain="post_tag" nicename="inap"><![CDATA[iNap]]></category>
+  <category domain="post_tag" nicename="maxims"><![CDATA[maxims]]></category>
+  <category domain="post_tag" nicename="naked-ape"><![CDATA[naked ape]]></category>
+  <category domain="post_tag" nicename="protocol"><![CDATA[protocol]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="skeptic"><![CDATA[Skeptic]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1525806572]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[17630983335]]></wp:meta_value>
+  </wp:postmeta>
 </item>
   </channel>
 </rss>
