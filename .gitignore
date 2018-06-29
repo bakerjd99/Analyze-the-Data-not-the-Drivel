@@ -27,6 +27,7 @@ Thumbs.db
 *.pdfsync
 *.synctex.gz
 *.nav
+_FOSSIL_
 *.snm
 *.vrb
 *_SYNCAPP/
