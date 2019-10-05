@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2018-05-20 17:02"-->
+<!-- generator="WordPress.com" created="2019-10-05 20:13"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Sun, 20 May 2018 17:02:07 +0000</pubDate>
+<pubDate>Sat, 05 Oct 2019 20:13:23 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -92,7 +92,7 @@
 </wp:category>
 <wp:category>
   <wp:term_id>4283</wp:term_id>
-  <wp:category_nicename>texlatex</wp:category_nicename>
+  <wp:category_nicename>tex-latex</wp:category_nicename>
   <wp:category_parent>programming</wp:category_parent>
   <wp:cat_name><![CDATA[TeX/LaTeX]]></wp:cat_name>
 </wp:category>
@@ -196,7 +196,7 @@
 </wp:category>
 <wp:category>
   <wp:term_id>21571</wp:term_id>
-  <wp:category_nicename>movies-reviews</wp:category_nicename>
+  <wp:category_nicename>movies</wp:category_nicename>
   <wp:category_parent>reviews</wp:category_parent>
   <wp:cat_name><![CDATA[Movies]]></wp:cat_name>
 </wp:category>
@@ -250,7 +250,7 @@
 </wp:category>
 <wp:category>
   <wp:term_id>60944419</wp:term_id>
-  <wp:category_nicename>cameraslenses</wp:category_nicename>
+  <wp:category_nicename>cameras-lenses</wp:category_nicename>
   <wp:category_parent>photography</wp:category_parent>
   <wp:cat_name><![CDATA[Cameras/Lenses]]></wp:cat_name>
 </wp:category>
@@ -262,7 +262,7 @@
 </wp:category>
 <wp:category>
   <wp:term_id>60944059</wp:term_id>
-  <wp:category_nicename>exifmetadata</wp:category_nicename>
+  <wp:category_nicename>exif-metadata</wp:category_nicename>
   <wp:category_parent>photography</wp:category_parent>
   <wp:cat_name><![CDATA[EXIF/Metadata]]></wp:cat_name>
 </wp:category>
@@ -511,7 +511,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>14085078</wp:term_id>
-  <wp:tag_slug>astronomy-2</wp:tag_slug>
+  <wp:tag_slug>astronomy</wp:tag_slug>
   <wp:tag_name><![CDATA[astronomy]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -706,7 +706,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>20909451</wp:term_id>
-  <wp:tag_slug>books-2</wp:tag_slug>
+  <wp:tag_slug>books</wp:tag_slug>
   <wp:tag_name><![CDATA[books]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -1886,7 +1886,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>35172543</wp:term_id>
-  <wp:tag_slug>image-processing-2</wp:tag_slug>
+  <wp:tag_slug>image-processing</wp:tag_slug>
   <wp:tag_name><![CDATA[image processing]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -2546,7 +2546,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>394949863</wp:term_id>
-  <wp:tag_slug>milliblog-2</wp:tag_slug>
+  <wp:tag_slug>milliblog</wp:tag_slug>
   <wp:tag_name><![CDATA[milliblog]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -3221,7 +3221,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>4161848</wp:term_id>
-  <wp:tag_slug>science-2</wp:tag_slug>
+  <wp:tag_slug>science</wp:tag_slug>
   <wp:tag_name><![CDATA[science]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -3391,7 +3391,7 @@
 </wp:tag>
 <wp:tag>
   <wp:term_id>901868</wp:term_id>
-  <wp:tag_slug>software-2</wp:tag_slug>
+  <wp:tag_slug>software</wp:tag_slug>
   <wp:tag_name><![CDATA[software]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
@@ -8358,29 +8358,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/02/grand-geyser-winter-eruption-yellowstone-th.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>jod</title>
-  <link>http://analyzethedatanotthedrivel.org/jod/</link>
-  <pubDate>Tue, 28 Feb 2017 04:29:11 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/02/jod2.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5350</wp:post_id>
-  <wp:post_date>2017-02-27 22:29:11</wp:post_date>
-  <wp:post_date_gmt>2017-02-28 04:29:11</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>jod</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/02/jod2.pdf</wp:attachment_url>
-</item>
-<item>
   <title>idognow</title>
   <link>http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/idognow/</link>
   <pubDate>Tue, 11 Apr 2017 21:49:55 +0000</pubDate>
@@ -8983,6 +8960,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2018/05/bm.pdf</wp:attachment_url>
 </item>
 <item>
+  <title>jod</title>
+  <link>http://analyzethedatanotthedrivel.org/jod/</link>
+  <pubDate>Fri, 15 Feb 2019 06:11:36 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2019/02/jod.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5604</wp:post_id>
+  <wp:post_date>2019-02-14 23:11:36</wp:post_date>
+  <wp:post_date_gmt>2019-02-15 06:11:36</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>jod</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2019/02/jod.pdf</wp:attachment_url>
+</item>
+<item>
   <title>What's In it for Facebook?</title>
   <link>http://analyzethedatanotthedrivel.org/2009/09/05/whats-in-it-for-facebook/</link>
   <pubDate>Sat, 05 Sep 2009 22:44:50 +0000</pubDate>
@@ -9233,7 +9233,7 @@ It's apparent from the raw <em><a href="http://filext.com/file-extension/NEF">NE
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="cameraslenses"><![CDATA[Cameras/Lenses]]></category>
+  <category domain="category" nicename="cameras-lenses"><![CDATA[Cameras/Lenses]]></category>
   <category domain="post_tag" nicename="lens"><![CDATA[lens]]></category>
   <category domain="post_tag" nicename="nikon"><![CDATA[Nikon]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
@@ -9290,7 +9290,7 @@ The attached KMZ file <a href="http://www.box.net/shared/xha0totm6f">geotagged.k
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="geotagging"><![CDATA[geotagging]]></category>
   <category domain="post_tag" nicename="google-earth"><![CDATA[Google Earth]]></category>
   <category domain="category" nicename="j"><![CDATA[J]]></category>
@@ -10791,7 +10791,7 @@ Converting WordPress XML to $latex \LaTeX$ looks simple enough to make a nice C
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
   <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -11546,7 +11546,7 @@ To help set the cremation fires ablaze I abide by following sacred consulting pr
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
   <category domain="post_tag" nicename="sap"><![CDATA[SAP]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="post_tag" nicename="software-2"><![CDATA[software]]></category>
+  <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -11895,7 +11895,7 @@ Stop me if you have heard this family diner story before.  Shakespeare severed 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="books"><![CDATA[Books]]></category>
-  <category domain="post_tag" nicename="books-2"><![CDATA[books]]></category>
+  <category domain="post_tag" nicename="books"><![CDATA[books]]></category>
   <category domain="post_tag" nicename="classics"><![CDATA[classics]]></category>
   <category domain="post_tag" nicename="design"><![CDATA[design]]></category>
   <category domain="post_tag" nicename="herodotus"><![CDATA[Herodotus]]></category>
@@ -11969,7 +11969,7 @@ The film ends before the token falls. I’m guessing the director just couldn’
   <category domain="post_tag" nicename="dreams"><![CDATA[dreams]]></category>
   <category domain="post_tag" nicename="inception"><![CDATA[Inception]]></category>
   <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="reality"><![CDATA[reality]]></category>
   <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
   <wp:postmeta>
@@ -12763,7 +12763,7 @@ For more of these little nuggets check out <a href="http://proofmathisbeautiful.
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="inception"><![CDATA[Inception]]></category>
   <category domain="post_tag" nicename="logic"><![CDATA[logic]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="oops"><![CDATA[oops]]></category>
   <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
   <wp:postmeta>
@@ -13305,7 +13305,7 @@ The modern chick flick is a difficult genre.  A good chick flick:
   <category domain="post_tag" nicename="eat-pay-love"><![CDATA[Eat Pay Love]]></category>
   <category domain="post_tag" nicename="julia-roberts"><![CDATA[Julia Roberts]]></category>
   <category domain="post_tag" nicename="movie"><![CDATA[movie]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -13402,7 +13402,7 @@ Lately I revised the <a href="http://www.latex-project.org/">LaTeX</a> version o
   <category domain="post_tag" nicename="resume"><![CDATA[resume]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
   <category domain="post_tag" nicename="template"><![CDATA[template]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="type-setting"><![CDATA[type-setting]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -13679,7 +13679,7 @@ $latex \LaTeX$ source is dull ASCII text. Civilization will collapse before we 
   <category domain="category" nicename="nostalgia"><![CDATA[Nostalgia]]></category>
   <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -13718,7 +13718,7 @@ I was expecting a <a href="http://www.urbandictionary.com/define.php?term=eurowe
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="cinema"><![CDATA[cinema]]></category>
   <category domain="post_tag" nicename="film"><![CDATA[film]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="category" nicename="reviews"><![CDATA[Reviews]]></category>
   <category domain="post_tag" nicename="the-black-swan"><![CDATA[The Black Swan]]></category>
   <wp:postmeta>
@@ -13818,39 +13818,138 @@ The amount of money we were handing over to the cable company for the privilege 
   </wp:postmeta>
 </item>
 <item>
+  <title>The UN Space Treaty is Holding Us Back!</title>
+  <link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/</link>
+  <pubDate>Fri, 14 Jan 2011 21:55:24 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1022</guid>
+  <description/>
+  <content:encoded><![CDATA[[caption id="" align="alignleft" width="207"]<a href="http://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg"><img class=" " style="display:inline;border:0 initial initial;margin:5px 5px 0 0;" title="earthrise" alt="earthrise" src="http://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb1.jpg" height="207" width="207" /></a> Apollo Earthrise[/caption]
+
+2011 marks the <a href="http://www.youtube.com/watch?v=aboZctrHfK8">42</a>’nd anniversary of the Apollo 11 moon landing.  42 <a href="http://www.newser.com/story/comments/64908/moon-landing-denier-exposed-as-a-cheat.html">idiot infested</a> years have passed since that glorious day and nothing that has happened since comes within a nautical league of matching it.  My vile boomer generation has downplayed the significance of space exploration for decades.  I remember getting a shrill lecture from my left leaning fifth grade teacher about what a waste of money the space program was.  Being a self-assured child so I told my teacher he was preening unimaginative Neanderthal. This landed me in detention but I refused to apologize.
+
+Manned space flight has been in a depressing, decades long, holding pattern. The real advances in space exploration have come exclusively from unmanned probes and robots.  While astronauts have been going round and round in that orbiting boondoggle known as the International Space Station the <a href="http://voyager.jpl.nasa.gov/">Voyagers</a> are on the brink of interstellar space, probes are on their way to <a href="http://pluto.jhuapl.edu/">Pluto</a> and <a href="http://messenger.jhuapl.edu/">Mercury</a>, <a href="http://saturn.jpl.nasa.gov/">Cassini</a> is orbiting Saturn, a small armada of <a href="http://www.esa.int/SPECIALS/Mars_Express/index.html">orbiters</a> and <a href="http://marsrover.nasa.gov/home/">crawlers</a> are exploring Mars, low-budget missions discovered <a href="http://online.wsj.com/article/SB10001424052702303339504575566194097878552.html">water on the moon</a>, space telescopes like <a href="http://chandra.harvard.edu/">Chandra</a>, <a href="http://hubblesite.org/hubble_20/">Hubble</a> and <a href="http://www.spitzer.caltech.edu/">Spitzer</a> have shown us wonder after wonder and, capping it all off,  <a href="http://map.gsfc.nasa.gov/">WMAP</a> determined the age of the entire frigging universe.  Compare these awesome achievements to ISS astronauts <a href="http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=26&amp;num=20926">unplugging zero-G toilets</a>.
+
+Why has so little been accomplished? I can think of two good reasons.
+<ol>
+	<li>Exclusive government control</li>
+	<li>The UN Space Treaty</li>
+</ol>
+Until recently only governments could afford space programs.  In the early days of space exploration government control made sense but that era is <a href="http://www.spacex.com/">coming to an end</a>.  In a few decades private entities will be able to mount manned Mars expeditions and send robots anywhere in the solar system and beyond.  The technology is coming along nicely but I am afraid the politics will soon be a gigantic millstone around our necks. The millstone takes the form of the <a href="http://www.oosa.unvienna.org/oosa/SpaceLaw/outerspt.html">absurd UN Space Treaty</a>.
+
+[caption id="" align="alignright" width="244"]<a href="http://en.wikipedia.org/wiki/Outer_Space_Treaty"><img class=" " style="display:inline;margin-top:0;margin-bottom:0;border:0 initial initial;" title="800px-Outer_Space_Treaty" alt="800px-Outer_Space_Treaty" src="http://bakerjd99.files.wordpress.com/2011/01/800pxouter_space_treaty_thumb.png" height="115" width="244" /></a> Green: UN Space Treaty nations[/caption]
+
+The UN space treaty is another sorry artifact of the 1960's.   It reads like a bunch of unwashed socialist hippies got together and decided to ban capitalism in space. There is no other way to explain ridiculous terms like:
+<ol>
+	<li><em>The exploration and use of outer space shall be carried out for the benefit and in the interests of all countries and shall be the province of all mankind</em>.</li>
+	<li><em>Outer space is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.</em></li>
+	<li><em>States shall be responsible for national space activities whether carried out by governmental or non-governmental activities.</em></li>
+	<li><em>States shall be liable for damage caused by their space objects.</em></li>
+	<li><em>States shall avoid harmful contamination of space and celestial bodies.</em></li>
+</ol>
+Suppose some daring entrepreneur decides to mount an asteroid mining expedition.  This is not as crazy as it sounds.  Asteroids are relatively easy to get to and very easy to get off of. They also contain <a href="http://news.bbc.co.uk/2/hi/sci/tech/401227.stm">mountains of valuable rare earths, platinum and gold.</a> Eros alone holds well over <a href="http://www.suite101.com/content/economic-impact-of-asteroids-space-exploration-a187015">20 trillion dollars</a> of metals.  You could pay off the US national debt by mining one dinky asteroid! One day, not very long from now, robot asteroid mining will make a compelling business case. To bad the UN Space Treaty outlaws it.
+
+If you have to pay off all of mankind (#1, #2) your compelling business case evaporates.  Environmentalists, (yeah space environmentalists),  would complain that mining damages and contaminates a celestial body (#4, #5). Finally, even if the operation was 100% privately funded, various governments could legally ransom our daring entrepreneur or shut him down (#3).  These tactics have already been tried.  Remember the <a href="http://articles.latimes.com/1997/oct/01/local/me-37979">hysteria that preceded the launch of Cassini</a>.  A pack of morons decided that the <a href="http://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator">Plutonium powered RTG</a> on Cassini posed a grave threat to all mankind and started citing <a href="http://www.animatedsoftware.com/cassini/trea9704.htm">the UN Space Treaty in hopes of blocking the launch</a>.  Cassini was not a money-making operation so we ignored the loons. Asteroid mining will be another thing all together.  Everyone will want their cut.  With the UN in charge we're going to feel like the <em>probed </em>subjects in this Kids in Hall video.
+
+[youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=KBhru5nLpGE#!]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>1022</wp:post_id>
+  <wp:post_date>2011-01-14 21:55:24</wp:post_date>
+  <wp:post_date_gmt>2011-01-14 21:55:24</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-un-space-treaty-is-holding-us-back</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="apollo-11"><![CDATA[Apollo 11]]></category>
+  <category domain="category" nicename="history"><![CDATA[History]]></category>
+  <category domain="post_tag" nicename="kids-in-the-hall"><![CDATA[Kids in the Hall]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="space-exploration"><![CDATA[space exploration]]></category>
+  <category domain="post_tag" nicename="space-treaty"><![CDATA[space treaty]]></category>
+  <category domain="post_tag" nicename="un"><![CDATA[UN]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>269</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>24.182.176.7</wp:comment_author_IP>
+    <wp:comment_date>2012-04-24 23:28:35</wp:comment_date>
+    <wp:comment_date_gmt>2012-04-25 04:28:35</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[It's nice to see other people slowly come around to your way of thinking.  As I wrote the business case for asteroid mining is almost here and just as I predicted the "progressives" are <a href="http://news.yahoo.com/does-asteroid-mining-violate-space-law-185201703.html" rel="nofollow">already harping on the UN space treaty.</a> In the long run they will lose. The space treaty is unenforceable garbage that will be broken at the earliest profitable opportunity.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1335328118</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:4:{s:4:"time";s:15:"1335328119.2047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value>2012-04-25 04:28:35</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
   <title>The JOD Page</title>
   <link>http://analyzethedatanotthedrivel.org/the-jod-page/</link>
   <pubDate>Sun, 20 Feb 2011 02:21:43 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1101</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.990 released February 27, 2017</a> </strong>
+  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.999 released August 29, 2019</a> </strong>
 
-This page maintains references to primary JOD materials. See the directory: <a href="https://www.box.com/s/eb537470b25ab230a0ab">JOD Dictionary</a>
+This page maintains references to primary JOD materials.
 
-JOD can be installed and updated with the <a href="http://www.jsoftware.com/jwiki/JAL/User%20Guide">J package manager</a>. JOD can also be installed by downloading <a href="http://www.box.net/shared/nx9vv5eo49">jod.zip</a> and unzipping, preserving directories, to the J relative path: <code>~addons/general/jod </code>(J relative paths are expanded by the <code>jpath</code> verb.)
+JOD can be installed and updated with the <a href="http://www.jsoftware.com/jwiki/JAL/User%20Guide">J package manager</a>.
 
-<a href="https://bakerjd99.files.wordpress.com/2017/02/jod2.pdf"><strong>JOD PDF Help</strong></a> - current JOD system documentation in one PDF document. The same document is also available on this <a href="http://www.jsoftware.com/wsvn/addons/trunk/general/joddocument/pdfdoc/jod.pdf">alternate server</a>.
+<a href="https://bakerjd99.files.wordpress.com/2019/02/jod.pdf"><strong>JOD PDF Help</strong></a> - current JOD system documentation in one PDF document. The same document is also available on this <a href="https://github.com/jsoftware/general_joddocument/blob/master/pdfdoc/jod.pdf">alternate server.</a>
+
+<a href="https://github.com/bakerjd99/jod/tree/master/jodnotebooks"><strong>JOD Jupyter Notebooks</strong></a> - <a href="https://jupyter.org/">Jupyter</a> notebook versions of some JOD labs.
 
 <a href="http://www.lulu.com/shop/john-baker/jod-j-object-dictionary/paperback/product-20076245.html"><strong>Hard Copy JOD documentation</strong></a> - you can order JOD documentation in a spiral book bound form.  The book is printed on demand at <a href="http://www.lulu.com/">www.lulu.com</a>.  The pricing is at cost.
-
-<a href="https://docs.google.com/presentation/d/1VQMediCKvQS2EpcNliLLJimnZ3atDEYk744_8F1hQTs"><strong>JOD Slide Show</strong></a> - a short Google presentation about JOD.
 
 <a href="https://github.com/bakerjd99/joddumps"><strong>JOD Dictionary Dump Scripts</strong></a> - This GitHub repository holds working dictionary dump scripts. Dump scripts are used to create, update and archive JOD dictionaries.
 
 <a href="https://github.com/bakerjd99/jod"><strong>JOD Source Code is available as:</strong></a>
 
 <ol style="list-style-type:decimal;">
-    <li>JOD dictionary database dumps - install the <a href="http://www.jsoftware.com/jwiki/Addons/general/jodsource"><code>jodsource</code></a> addon with the J package manager or download <a href="http://www.box.net/shared/ge28kjypzt"><code>jodsource.zip</code></a> and unzip into:
-<pre><code>~addons/general/jodsource</code></pre>
-</li>
-    <li>A <a href="https://github.com/bakerjd99/jod">GitHub jod repository</a>. Pull into an <em>empty local repository</em> with:
+    <li>JOD dictionary database dumps - install the <a href="http://www.jsoftware.com/jwiki/Addons/general/jodsource"><code>jodsource</code></a> addon with the J package manager.</li>
+    <li>A <a href="https://github.com/bakerjd99/jod">GitHub JOD repository</a>. Pull into an <em>empty local repository</em> with:
 <pre><code>git remote add jod https://github.com/bakerjd99/jod.git
-git pull jod master</code></pre>
+ git pull jod master</code></pre>
 </li>
-    <li>A <a href="http://www.jsoftware.com/wsvn/addons/trunk/general/jod/">JAL Subversion jod repository</a>. This repository is the official <a href="http://www.jsoftware.com/">J Software</a> repository for <a href="http://www.jsoftware.com/jwiki/JAL">JAL addons</a>.</li>
-    <li>Standard J <code>*.ijs</code> script files <a href="https://www.box.com/shared/5koi6zjomeafuo1mf73v"><code>jodijs.zip</code></a></li>
-    <li>A <a href="http://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/">Semi Literate</a> fully indexed <a href="https://www.box.com/s/js7qeq3mb4rwe7icml4e"><code>jodcode.pdf</code></a> document.</li>
+    <li>This repository is the official <a href="https://github.com/jsoftware">GitHub J Software</a> repository for <a href="http://www.jsoftware.com/jwiki/JAL">JAL addons</a>.<a href="https://www.box.com/shared/5koi6zjomeafuo1mf73v"><code></code></a></li>
 </ol>
 
 <strong><a href="https://github.com/bakerjd99/jacks">Many Examples of JOD Generated Scripts </a></strong>- see the GitHub <a href="https://github.com/bakerjd99/jacks">jacks</a> repository.]]></content:encoded>
@@ -13926,6 +14025,10 @@ git pull jod master</code></pre>
   <wp:postmeta>
     <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_oembed_48ebd73ec641d1c6b45633e26e5f5189</wp:meta_key>
+    <wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
   </wp:postmeta>
   <wp:postmeta>
     <wp:meta_key>_oembed_602a082b2bf834e3afbff1a5b810f276</wp:meta_key>
@@ -15160,7 +15263,7 @@ Bill]]></wp:comment_content>
   <description/>
   <content:encoded><![CDATA[[caption id="attachment_4723" align="alignleft" width="150"]<a href="https://bakerjd99.files.wordpress.com/2014/06/me.jpg" rel="attachment wp-att-4723"><img class="wp-image-4723 size-thumbnail" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg?w=150" alt="me" width="150" height="150" /></a> Are you looking at me?[/caption]
 
-I am a recusant programmer working for an insurance company. I have lived in seven countries on four continents. Like many software professionals, I didn't start out with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required.
+I am a recusant programmer working for a consulting company. I have lived in seven countries on four continents. Like many software professionals, I didn't start out with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required.
 
 I would really like to catch the first starship outta here!
 
@@ -18677,37 +18780,6 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
   </wp:postmeta>
 </item>
 <item>
-  <title>Downloading Smugmug Captions with Python and Jupyter</title>
-  <link>http://analyzethedatanotthedrivel.org/?p=5511</link>
-  <pubDate>Mon, 30 Nov -0001 00:00:00 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5511</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5511</wp:post_id>
-  <wp:post_date>2017-12-23 22:54:35</wp:post_date>
-  <wp:post_date_gmt>0000-00-00 00:00:00</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name/>
-  <wp:status>draft</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title/>
   <link>http://analyzethedatanotthedrivel.org/2017/12/24/5544/</link>
   <pubDate>Sun, 24 Dec 2017 21:07:34 +0000</pubDate>
@@ -18824,109 +18896,6 @@ The eBook versions (EPUB and MOBI) are image free. I tested loading all the imag
     <wp:meta_key>_publicize_pending</wp:meta_key>
     <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
-</item>
-<item>
-  <title>The UN Space Treaty is Holding Us Back!</title>
-  <link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/</link>
-  <pubDate>Fri, 14 Jan 2011 21:55:24 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://bakerjd99.wordpress.com/?p=1022</guid>
-  <description/>
-  <content:encoded><![CDATA[[caption id="" align="alignleft" width="207"]<a href="http://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg"><img class=" " style="display:inline;border:0 initial initial;margin:5px 5px 0 0;" title="earthrise" alt="earthrise" src="http://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb1.jpg" height="207" width="207" /></a> Apollo Earthrise[/caption]
-
-2011 marks the <a href="http://www.youtube.com/watch?v=aboZctrHfK8">42</a>’nd anniversary of the Apollo 11 moon landing.  42 <a href="http://www.newser.com/story/comments/64908/moon-landing-denier-exposed-as-a-cheat.html">idiot infested</a> years have passed since that glorious day and nothing that has happened since comes within a nautical league of matching it.  My vile boomer generation has downplayed the significance of space exploration for decades.  I remember getting a shrill lecture from my left leaning fifth grade teacher about what a waste of money the space program was.  Being a self-assured child so I told my teacher he was preening unimaginative Neanderthal. This landed me in detention but I refused to apologize.
-
-Manned space flight has been in a depressing, decades long, holding pattern. The real advances in space exploration have come exclusively from unmanned probes and robots.  While astronauts have been going round and round in that orbiting boondoggle known as the International Space Station the <a href="http://voyager.jpl.nasa.gov/">Voyagers</a> are on the brink of interstellar space, probes are on their way to <a href="http://pluto.jhuapl.edu/">Pluto</a> and <a href="http://messenger.jhuapl.edu/">Mercury</a>, <a href="http://saturn.jpl.nasa.gov/">Cassini</a> is orbiting Saturn, a small armada of <a href="http://www.esa.int/SPECIALS/Mars_Express/index.html">orbiters</a> and <a href="http://marsrover.nasa.gov/home/">crawlers</a> are exploring Mars, low-budget missions discovered <a href="http://online.wsj.com/article/SB10001424052702303339504575566194097878552.html">water on the moon</a>, space telescopes like <a href="http://chandra.harvard.edu/">Chandra</a>, <a href="http://hubblesite.org/hubble_20/">Hubble</a> and <a href="http://www.spitzer.caltech.edu/">Spitzer</a> have shown us wonder after wonder and, capping it all off,  <a href="http://map.gsfc.nasa.gov/">WMAP</a> determined the age of the entire frigging universe.  Compare these awesome achievements to ISS astronauts <a href="http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=26&amp;num=20926">unplugging zero-G toilets</a>.
-
-Why has so little been accomplished? I can think of two good reasons.
-<ol>
-	<li>Exclusive government control</li>
-	<li>The UN Space Treaty</li>
-</ol>
-Until recently only governments could afford space programs.  In the early days of space exploration government control made sense but that era is <a href="http://www.spacex.com/">coming to an end</a>.  In a few decades private entities will be able to mount manned Mars expeditions and send robots anywhere in the solar system and beyond.  The technology is coming along nicely but I am afraid the politics will soon be a gigantic millstone around our necks. The millstone takes the form of the <a href="http://www.oosa.unvienna.org/oosa/SpaceLaw/outerspt.html">absurd UN Space Treaty</a>.
-
-[caption id="" align="alignright" width="244"]<a href="http://en.wikipedia.org/wiki/Outer_Space_Treaty"><img class=" " style="display:inline;margin-top:0;margin-bottom:0;border:0 initial initial;" title="800px-Outer_Space_Treaty" alt="800px-Outer_Space_Treaty" src="http://bakerjd99.files.wordpress.com/2011/01/800pxouter_space_treaty_thumb.png" height="115" width="244" /></a> Green: UN Space Treaty nations[/caption]
-
-The UN space treaty is another sorry artifact of the 1960's.   It reads like a bunch of unwashed socialist hippies got together and decided to ban capitalism in space. There is no other way to explain ridiculous terms like:
-<ol>
-	<li><em>The exploration and use of outer space shall be carried out for the benefit and in the interests of all countries and shall be the province of all mankind</em>.</li>
-	<li><em>Outer space is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means.</em></li>
-	<li><em>States shall be responsible for national space activities whether carried out by governmental or non-governmental activities.</em></li>
-	<li><em>States shall be liable for damage caused by their space objects.</em></li>
-	<li><em>States shall avoid harmful contamination of space and celestial bodies.</em></li>
-</ol>
-Suppose some daring entrepreneur decides to mount an asteroid mining expedition.  This is not as crazy as it sounds.  Asteroids are relatively easy to get to and very easy to get off of. They also contain <a href="http://news.bbc.co.uk/2/hi/sci/tech/401227.stm">mountains of valuable rare earths, platinum and gold.</a> Eros alone holds well over <a href="http://www.suite101.com/content/economic-impact-of-asteroids-space-exploration-a187015">20 trillion dollars</a> of metals.  You could pay off the US national debt by mining one dinky asteroid! One day, not very long from now, robot asteroid mining will make a compelling business case. To bad the UN Space Treaty outlaws it.
-
-If you have to pay off all of mankind (#1, #2) your compelling business case evaporates.  Environmentalists, (yeah space environmentalists),  would complain that mining damages and contaminates a celestial body (#4, #5). Finally, even if the operation was 100% privately funded, various governments could legally ransom our daring entrepreneur or shut him down (#3).  These tactics have already been tried.  Remember the <a href="http://articles.latimes.com/1997/oct/01/local/me-37979">hysteria that preceded the launch of Cassini</a>.  A pack of morons decided that the <a href="http://en.wikipedia.org/wiki/Radioisotope_thermoelectric_generator">Plutonium powered RTG</a> on Cassini posed a grave threat to all mankind and started citing <a href="http://www.animatedsoftware.com/cassini/trea9704.htm">the UN Space Treaty in hopes of blocking the launch</a>.  Cassini was not a money-making operation so we ignored the loons. Asteroid mining will be another thing all together.  Everyone will want their cut.  With the UN in charge we're going to feel like the <em>probed </em>subjects in this Kids in Hall video.
-
-[youtube=http://www.youtube.com/watch?feature=player_embedded&amp;v=KBhru5nLpGE#!]]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>1022</wp:post_id>
-  <wp:post_date>2011-01-14 21:55:24</wp:post_date>
-  <wp:post_date_gmt>2011-01-14 21:55:24</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>the-un-space-treaty-is-holding-us-back</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="apollo-11"><![CDATA[Apollo 11]]></category>
-  <category domain="category" nicename="history"><![CDATA[History]]></category>
-  <category domain="post_tag" nicename="kids-in-the-hall"><![CDATA[Kids in the Hall]]></category>
-  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="space-exploration"><![CDATA[space exploration]]></category>
-  <category domain="post_tag" nicename="space-treaty"><![CDATA[space treaty]]></category>
-  <category domain="post_tag" nicename="un"><![CDATA[UN]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_fb</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wpas_skip_linkedin</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>269</wp:comment_id>
-    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
-    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com</wp:comment_author_url>
-    <wp:comment_author_IP>24.182.176.7</wp:comment_author_IP>
-    <wp:comment_date>2012-04-24 23:28:35</wp:comment_date>
-    <wp:comment_date_gmt>2012-04-25 04:28:35</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[It's nice to see other people slowly come around to your way of thinking.  As I wrote the business case for asteroid mining is almost here and just as I predicted the "progressives" are <a href="http://news.yahoo.com/does-asteroid-mining-violate-space-law-185201703.html" rel="nofollow">already harping on the UN space treaty.</a> In the long run they will lose. The space treaty is unenforceable garbage that will be broken at the earliest profitable opportunity.]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type/>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>9672033</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value>1335328118</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value>false</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value>a:4:{s:4:"time";s:15:"1335328119.2047";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value>2012-04-25 04:28:35</wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
 </item>
 <item>
   <title>J 7.01 Now Playing in your Browser</title>
@@ -19700,7 +19669,7 @@ end.
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="apps"><![CDATA[Apps]]></category>
   <category domain="post_tag" nicename="exif"><![CDATA[Exif]]></category>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="exiftool"><![CDATA[exiftool]]></category>
   <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
   <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
@@ -19855,7 +19824,7 @@ This fix broke <span style="font-family:cou;">smugshotexif</span>: see: <a href=
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="exif"><![CDATA[Exif]]></category>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
   <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
   <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
@@ -20045,7 +20014,7 @@ This little experiment convinced me that providing free classic books, in source
   <category domain="post_tag" nicename="mathematics"><![CDATA[Mathematics]]></category>
   <category domain="post_tag" nicename="open-source"><![CDATA[open source]]></category>
   <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="type-setting"><![CDATA[type-setting]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -20390,7 +20359,7 @@ The \verb|\textheight| is \printlength{\textheight} which is also
   <category domain="post_tag" nicename="latex"><![CDATA[LaTeX]]></category>
   <category domain="post_tag" nicename="latex2e"><![CDATA[LaTeX2e]]></category>
   <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="type-setting"><![CDATA[type-setting]]></category>
   <wp:postmeta>
     <wp:meta_key>_wpas_skip_twitter</wp:meta_key>
@@ -20651,7 +20620,7 @@ Analogies are never perfect and eventually the $latex CB = OB$ symmetry breaks d
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="cowboys-and-aliens"><![CDATA[Cowboys and Aliens]]></category>
   <category domain="post_tag" nicename="freak-show"><![CDATA[freak show]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="obama"><![CDATA[Obama]]></category>
   <category domain="post_tag" nicename="olivia-wilde"><![CDATA[Olivia Wilde]]></category>
   <category domain="post_tag" nicename="precious-bodily-fluids"><![CDATA[precious bodily fluids]]></category>
@@ -21174,7 +21143,7 @@ If you insert the following snippet of <span style="font-family:Courier;">TeX</s
   <category domain="post_tag" nicename="lstlisting"><![CDATA[lstlisting]]></category>
   <category domain="post_tag" nicename="lualatex"><![CDATA[LuaLaTeX]]></category>
   <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="unicode"><![CDATA[unicode]]></category>
   <category domain="post_tag" nicename="utf-8"><![CDATA[UTF-8]]></category>
   <category domain="post_tag" nicename="xelatex"><![CDATA[XeLaTeX]]></category>
@@ -21227,7 +21196,7 @@ My friends that golden Apollonic age is past! Now we must content ourselves with
   <category domain="post_tag" nicename="conan"><![CDATA[Conan]]></category>
   <category domain="post_tag" nicename="conan-movie"><![CDATA[Conan movie]]></category>
   <category domain="post_tag" nicename="conan-the-barbarian"><![CDATA[Conan the Barbarian]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="category" nicename="nostalgia"><![CDATA[Nostalgia]]></category>
   <category domain="post_tag" nicename="philosopher-king"><![CDATA[Philosopher King]]></category>
   <wp:postmeta>
@@ -21469,11 +21438,11 @@ So why are astronomy clubs in North America old and white? Do people think you n
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
   <category domain="post_tag" nicename="clubs"><![CDATA[clubs]]></category>
   <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <category domain="post_tag" nicename="science-2"><![CDATA[science]]></category>
+  <category domain="post_tag" nicename="science"><![CDATA[science]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -21606,7 +21575,7 @@ Here's a little poem:
   <category domain="post_tag" nicename="apple-marketing"><![CDATA[apple marketing]]></category>
   <category domain="post_tag" nicename="exif"><![CDATA[Exif]]></category>
   <category domain="post_tag" nicename="exif-data"><![CDATA[exif data]]></category>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="instagram"><![CDATA[Instagram]]></category>
   <category domain="post_tag" nicename="iphone"><![CDATA[iPhone]]></category>
   <category domain="post_tag" nicename="photo-libraries"><![CDATA[photo libraries]]></category>
@@ -21779,7 +21748,7 @@ Speaking of superb good old-fashioned C programs I must give a shout out to J. I
   <category domain="post_tag" nicename="christmas-wallpaper"><![CDATA[christmas wallpaper]]></category>
   <category domain="post_tag" nicename="image-editors"><![CDATA[image editors]]></category>
   <category domain="category" nicename="image-processing"><![CDATA[Image Processing]]></category>
-  <category domain="post_tag" nicename="image-processing-2"><![CDATA[image processing]]></category>
+  <category domain="post_tag" nicename="image-processing"><![CDATA[image processing]]></category>
   <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
   <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
   <category domain="post_tag" nicename="picture-window-pro"><![CDATA[Picture Window Pro]]></category>
@@ -21830,7 +21799,7 @@ The <a href="http://www.youtube.com/watch?v=eNaNxo9jFHE">emotional hysterics</a>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="astronomical-history"><![CDATA[astronomical history]]></category>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="category" nicename="books"><![CDATA[Books]]></category>
   <category domain="post_tag" nicename="eris"><![CDATA[Eris]]></category>
   <category domain="post_tag" nicename="kuiper-belt"><![CDATA[Kuiper belt]]></category>
@@ -21935,7 +21904,7 @@ If the shell command is properly loaded and <code>wget.exe</code> is found you w
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
   <category domain="post_tag" nicename="source-code"><![CDATA[Source Code]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="wordpress-to-latex"><![CDATA[WordPress to LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -22311,7 +22280,7 @@ The <code>TeXfrWpxml.ijs </code>script searches for these files in the root dir
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
   <category domain="post_tag" nicename="source-code"><![CDATA[Source Code]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="wordpress-to-latex"><![CDATA[WordPress to LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -22578,7 +22547,7 @@ The presence of Unicode APL, see <a href="http://bakerjd99.wordpress.com/2010/11
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
   <category domain="post_tag" nicename="source-code"><![CDATA[Source Code]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="wordpress-to-latex"><![CDATA[WordPress to LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -23129,7 +23098,7 @@ All the “published” versions of this blog are available on the <strong><em><
   <category domain="post_tag" nicename="pandoc"><![CDATA[Pandoc]]></category>
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -23339,7 +23308,7 @@ I do not fear imaginary monsters; there are plenty of real ones to worry about a
   <category domain="post_tag" nicename="hunger-games"><![CDATA[Hunger Games]]></category>
   <category domain="post_tag" nicename="libertarian"><![CDATA[libertarian]]></category>
   <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -23656,7 +23625,7 @@ How about that history haters. I knew why astronomers cared about transits of V
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="2012-transit-of-venus"><![CDATA[2012 transit of Venus]]></category>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="astronomy-book"><![CDATA[astronomy book]]></category>
   <category domain="category" nicename="books"><![CDATA[Books]]></category>
   <category domain="post_tag" nicename="edmond-halley"><![CDATA[edmond halley]]></category>
@@ -23808,7 +23777,7 @@ As I have already said, annulars are not in the same awe-inspiring class as tota
   <category domain="post_tag" nicename="annular-solar-eclipse"><![CDATA[annular solar eclipse]]></category>
   <category domain="post_tag" nicename="arizona"><![CDATA[Arizona]]></category>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
   <category domain="post_tag" nicename="glen-canyon-dam"><![CDATA[glen canyon dam]]></category>
   <category domain="post_tag" nicename="lake-powell"><![CDATA[Lake Powell]]></category>
@@ -24128,7 +24097,7 @@ As a mainly manly man I thank the <a href="http://www.venganza.org/">FSM</a> for
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="once-upon-a-time"><![CDATA[Once Upon a Time]]></category>
   <category domain="post_tag" nicename="ravenna"><![CDATA[Ravenna]]></category>
   <category domain="post_tag" nicename="regina"><![CDATA[Regina]]></category>
@@ -24186,7 +24155,7 @@ The mood was curious and somber; parents urged their children to look and rememb
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="2012-transit-of-venus"><![CDATA[2012 transit of Venus]]></category>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="astronomy-clubs"><![CDATA[astronomy clubs]]></category>
   <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
   <category domain="post_tag" nicename="forest-park"><![CDATA[Forest Park]]></category>
@@ -24356,7 +24325,7 @@ If the Prometheus of myth was as reckless as this "engineer" then Zeus did us a 
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="film"><![CDATA[film]]></category>
   <category domain="post_tag" nicename="movies"><![CDATA[movies]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="prometheus"><![CDATA[Prometheus]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
   <wp:postmeta>
@@ -25440,7 +25409,7 @@ settings <span class="kw">#~</span> <span class="re">((</span><span class="kw">&
   <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="post_tag" nicename="syntax-coloring"><![CDATA[syntax coloring]]></category>
   <category domain="post_tag" nicename="syntax-highlighting"><![CDATA[syntax highlighting]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <category domain="post_tag" nicename="text-markup-languages"><![CDATA[text markup languages]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
@@ -25643,7 +25612,7 @@ Literate programming requires more muscle. Knuth used his own TeX. TeX and LaTeX
   <category domain="post_tag" nicename="literate-programming"><![CDATA[literate programming]]></category>
   <category domain="post_tag" nicename="markdown"><![CDATA[markdown]]></category>
   <category domain="post_tag" nicename="pandoc"><![CDATA[Pandoc]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -25970,7 +25939,7 @@ It's not hard to use JHS as a general application web server. JHS provides many 
   <category domain="post_tag" nicename="mathjax"><![CDATA[MathJax]]></category>
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <category domain="post_tag" nicename="software-2"><![CDATA[software]]></category>
+  <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -26316,7 +26285,7 @@ As I left the cinema surrounded by subdued teenagers, many of whom where commen
   <category domain="post_tag" nicename="gaming"><![CDATA[gaming]]></category>
   <category domain="post_tag" nicename="king-kong"><![CDATA[King Kong]]></category>
   <category domain="post_tag" nicename="literature"><![CDATA[literature]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="peter-jackson"><![CDATA[Peter Jackson]]></category>
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
@@ -27358,7 +27327,7 @@ Watching Oz the Great and Powerful (OGP) has its own minor schizophrenic charms.
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="entertainment"><![CDATA[entertainment]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="oz"><![CDATA[Oz]]></category>
   <category domain="post_tag" nicename="oz-the-great-and-powerful"><![CDATA[Oz the Great and Powerful]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
@@ -29844,7 +29813,7 @@ $$
   <category domain="post_tag" nicename="logo"><![CDATA[logo]]></category>
   <category domain="post_tag" nicename="lualatex"><![CDATA[LuaLaTeX]]></category>
   <category domain="post_tag" nicename="symbolic-name"><![CDATA[symbolic name]]></category>
-  <category domain="category" nicename="texlatex"><![CDATA[TeX/LaTeX]]></category>
+  <category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
   <wp:postmeta>
     <wp:meta_key>_edit_last</wp:meta_key>
     <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -30161,7 +30130,7 @@ Looking over my list it’s pretty clear that John Dobson had the right idea. Th
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="comet-bennett"><![CDATA[Comet Bennett]]></category>
   <category domain="post_tag" nicename="hale-bopp"><![CDATA[Hale-Bopp]]></category>
   <category domain="post_tag" nicename="hyakutake"><![CDATA[Hyakutake]]></category>
@@ -31116,7 +31085,7 @@ Depicting superior beings poses fundamental problems for feeble brained naked ap
   <category domain="post_tag" nicename="ai"><![CDATA[AI]]></category>
   <category domain="post_tag" nicename="intellectual-property"><![CDATA[intellectual property]]></category>
   <category domain="post_tag" nicename="johnny-depp"><![CDATA[Johnny Depp]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
   <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
   <category domain="post_tag" nicename="science-fiction-films"><![CDATA[science fiction films]]></category>
@@ -31379,7 +31348,7 @@ For Vivian the act of capture sufficed and what wonderful captures they are. Her
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
   <category domain="post_tag" nicename="review"><![CDATA[review]]></category>
   <category domain="post_tag" nicename="vivian-maier"><![CDATA[Vivian Maier]]></category>
@@ -32290,7 +32259,7 @@ iPhone Google photospheres are fun but they’re flaw ridden. You can easily see
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="cameraslenses"><![CDATA[Cameras/Lenses]]></category>
+  <category domain="category" nicename="cameras-lenses"><![CDATA[Cameras/Lenses]]></category>
   <category domain="category" nicename="image-processing"><![CDATA[Image Processing]]></category>
   <category domain="post_tag" nicename="panorama-software"><![CDATA[panorama software]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
@@ -32512,7 +32481,7 @@ Interstellar bombs because it often departs from physical reality for the basest
   <category domain="post_tag" nicename="black-hole"><![CDATA[Black Hole]]></category>
   <category domain="post_tag" nicename="christopher-nolan"><![CDATA[Christopher Nolan]]></category>
   <category domain="post_tag" nicename="interstellar"><![CDATA[Interstellar]]></category>
-  <category domain="category" nicename="movies-reviews"><![CDATA[Movies]]></category>
+  <category domain="category" nicename="movies"><![CDATA[Movies]]></category>
   <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
   <category domain="post_tag" nicename="serious-science-fiction"><![CDATA[serious science fiction]]></category>
   <wp:postmeta>
@@ -33177,7 +33146,7 @@ In retrospect we should have junked The Stinking Tauntaun System or opted for a
   <category domain="category" nicename="it"><![CDATA[IT]]></category>
   <category domain="post_tag" nicename="legacy-code"><![CDATA[legacy code]]></category>
   <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="post_tag" nicename="software-2"><![CDATA[software]]></category>
+  <category domain="post_tag" nicename="software"><![CDATA[software]]></category>
   <category domain="post_tag" nicename="software-testing"><![CDATA[software testing]]></category>
   <category domain="post_tag" nicename="sox"><![CDATA[SOX]]></category>
   <category domain="post_tag" nicename="tauntaun"><![CDATA[Tauntaun]]></category>
@@ -33356,7 +33325,7 @@ We may be living in a Dark Energy Entity <em>Cosmoscene.</em> It’s unlikely th
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="aliens"><![CDATA[aliens]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="dark-energy"><![CDATA[Dark Energy]]></category>
   <category domain="post_tag" nicename="quora"><![CDATA[Quora]]></category>
   <category domain="post_tag" nicename="science-fiction"><![CDATA[science fiction]]></category>
@@ -33508,7 +33477,7 @@ There are two types of stories about major astronomical observatories. There are
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="eco-warrior"><![CDATA[eco-warrior]]></category>
   <category domain="post_tag" nicename="mauna-kea"><![CDATA[Mauna Kea]]></category>
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
@@ -34531,7 +34500,7 @@ Have you ever noticed that the "origin stories" of religious figures and comic s
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="joseph-smith"><![CDATA[Joseph Smith]]></category>
   <category domain="category" nicename="milliblog"><![CDATA[Milliblog]]></category>
-  <category domain="post_tag" nicename="milliblog-2"><![CDATA[milliblog]]></category>
+  <category domain="post_tag" nicename="milliblog"><![CDATA[milliblog]]></category>
   <category domain="post_tag" nicename="religion"><![CDATA[Religion]]></category>
   <category domain="post_tag" nicename="skeptic"><![CDATA[Skeptic]]></category>
   <category domain="post_tag" nicename="superheroes"><![CDATA[superheroes]]></category>
@@ -34598,7 +34567,7 @@ As annoying as SmugMug print-ordering is at least I get the prints I want with o
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="milliblog"><![CDATA[Milliblog]]></category>
-  <category domain="post_tag" nicename="milliblog-2"><![CDATA[milliblog]]></category>
+  <category domain="post_tag" nicename="milliblog"><![CDATA[milliblog]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
   <category domain="post_tag" nicename="print-captions"><![CDATA[print captions]]></category>
   <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
@@ -35092,7 +35061,7 @@ I’ve enjoyed my Saint Louis sojourn but like many <a href="https://earthstones
   <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
   <category domain="post_tag" nicename="loretto-chapel"><![CDATA[Loretto Chapel]]></category>
   <category domain="category" nicename="milliblog"><![CDATA[Milliblog]]></category>
-  <category domain="post_tag" nicename="milliblog-2"><![CDATA[milliblog]]></category>
+  <category domain="post_tag" nicename="milliblog"><![CDATA[milliblog]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
   <category domain="post_tag" nicename="santa-fe"><![CDATA[Santa Fe]]></category>
   <wp:postmeta>
@@ -36831,7 +36800,7 @@ Today the pro-Cassini protesters would be erroneously described as "alt-right." 
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
-  <category domain="post_tag" nicename="astronomy-2"><![CDATA[astronomy]]></category>
+  <category domain="post_tag" nicename="astronomy"><![CDATA[astronomy]]></category>
   <category domain="post_tag" nicename="carl-sagan"><![CDATA[Carl Sagan]]></category>
   <category domain="post_tag" nicename="cassini"><![CDATA[Cassini]]></category>
   <category domain="post_tag" nicename="cassini-grand-finale"><![CDATA[Cassini Grand Finale]]></category>
@@ -37366,7 +37335,7 @@ Maintaining off-line copies was made easier by <a href="https://wordpress.com/">
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <category domain="post_tag" nicename="api"><![CDATA[API]]></category>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="jupyter"><![CDATA[Jupyter]]></category>
   <category domain="post_tag" nicename="jupyter-notebook"><![CDATA[Jupyter notebook]]></category>
   <category domain="category" nicename="python"><![CDATA[Python]]></category>
@@ -37576,7 +37545,7 @@ Compare this notebook, (use the first link for the best layout), to my <a href="
   <wp:post_type>post</wp:post_type>
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="exifmetadata"><![CDATA[EXIF/Metadata]]></category>
+  <category domain="category" nicename="exif-metadata"><![CDATA[EXIF/Metadata]]></category>
   <category domain="post_tag" nicename="jupyter"><![CDATA[Jupyter]]></category>
   <category domain="post_tag" nicename="jupyter-notebook"><![CDATA[Jupyter notebook]]></category>
   <category domain="category" nicename="python"><![CDATA[Python]]></category>
@@ -38076,6 +38045,65 @@ The first step in adapting to scummy naked apes is acknowledging the most fundam
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1526589930]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>The Return of the Prodigal Blogger</title>
+  <link>http://analyzethedatanotthedrivel.org/2019/10/05/the-return-of-the-prodigal-blogger/</link>
+  <pubDate>Sat, 05 Oct 2019 20:07:35 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5608</guid>
+  <description/>
+  <content:encoded><![CDATA[It's been ages since my last blog post. Yes, I've been a very, very bad blogger. Lesser men would throw themselves on the metaphorical feet of their readers and beg for forgiveness but if you're expecting apologies you don't know me! I write for myself; if you choose to read my ramblings, well that's on you.
+
+Since my last entry I have:
+
+<ol>
+    <li><strong>Retired</strong>. I finally pulled the plug on being a <em>so-called productive member of society</em>. Now I’m an old Social Security and draining parasite. <em>Since I no longer pay net taxes I am effectively dead to the state and they would love it if I was actually dead.</em> Dead people are easier to finance. Unfortunately, I’ve always been on to the deep state and my new mission in life is to claw back every single tax dollar I ever paid with butt loads of interest. When I snuff off this mortal coil I am going stick you with a giant uncollectable I OWE FUCKING YOU! If you create financially unsustainable systems that encourage abuse, well guess what, you're going to get abused. God, I’m loving being a bitter old man; it’s what I was born to be.</li>
+    <li><a href="https://conceptcontrol.smugmug.com/"><strong><strong>Continued to pursue my hobbies, especially photography. </strong></strong></a>This year (2019) I set the mini-goals of shooting, on average, one picture per day and scanning at least three hundred prints and slides. This may not sound like a lot but it takes <em>me</em><span style="font-style:inherit;"> time to select the best images, process RAW files, restore film scans, edit or hack pictures, write captions and <a href="https://nbviewer.jupyter.org/github/bakerjd99/smugpyter/blob/master/notebooks/Setting%20SmugMug%20Print%20Size%20and%20Geotag%20Keywords%20with%20Jupyter%20and%20Python.ipynb">compute keywords</a>.  I treat every uploaded image as a <em>milli</em></span><em>blogging</em><span style="font-style:inherit;"><span style="font-style:inherit;"> opportunity.  Some of my image captions are longer than some of my blog posts. </span></span></li>
+    <li><strong style="font-style:inherit;">Taken on some new family responsibilities and obligations</strong><span style="font-style:inherit;">.</span></li>
+    <li><strong>Taken some trips</strong>.</li>
+    <li><a href="https://github.com/bakerjd99/smugpyter"><strong>Worked on various personal software projects</strong>.</a></li>
+</ol>
+
+<a href="https://www.clarkefoundation.org/">Arthur C. Clarke</a> once remarked that only unimaginative people get bored. I’ve always had something on my mind and I’ve always lived in my head. This has always been my problem and my strength. With retirement, I am casting off my shriveled shackles of pretense. I'm not even going to pretend to care about other people’s problems. I will think about what I find fascinating and do what I find worthwhile.
+
+<em>Call it retirement privilege snowflakes!</em>
+
+Now get back to work and pay your taxes you have old parasites to support.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5608</wp:post_id>
+  <wp:post_date>2019-10-05 14:07:35</wp:post_date>
+  <wp:post_date_gmt>2019-10-05 20:07:35</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-return-of-the-prodigal-blogger</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1570306059]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[36027700772]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>

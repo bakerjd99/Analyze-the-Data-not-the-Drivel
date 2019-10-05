@@ -4,8 +4,9 @@ pushd
 setlocal
 
 rem set script executable from standard locations - assumes only one location
-if exist c:\j64\j64-807\bin\jconsole.exe set jexe=c:\j64\j64-807\bin\jconsole -js
-if exist c:\j64\j64-806\bin\jconsole.exe set jexe=c:\j64\j64-806\bin\jconsole -js
+rem if exist c:\j64\j64-807\bin\jconsole.exe set jexe=c:\j64\j64-807\bin\jconsole -js
+if exist c:\j64\j64-901beta\bin\jconsole.exe set jexe=c:\j64\j64-901beta\bin\jconsole -js
+rem if exist c:\j64\j64-806\bin\jconsole.exe set jexe=c:\j64\j64-806\bin\jconsole -js
 if "%jexe%" == "" goto Exception01
 
 rem set J script
