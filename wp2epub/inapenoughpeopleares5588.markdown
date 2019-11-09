@@ -1,5 +1,7 @@
-[iNap \#1: Enough People are Scum](http://analyzethedatanotthedrivel.org/2018/05/17/inap-1-enough-people-are-scum/) {#inap-1-enough-people-are-scum .unnumbered}
--------------------------------------------------------------------------------------------------------------------
+
+[iNap \#1: Enough 
+People are Scum](http://analyzethedatanotthedrivel.org/2018/05/17/inap-1-enough-people-are-scum/)
+-------------------------------------------------------------------------------------------------
 
 *Posted: 17 May 2018 20:45:27*
 

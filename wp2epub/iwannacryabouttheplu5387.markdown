@@ -1,5 +1,7 @@
-[I WannaCry about the Plunging Quality of Evil Geniuses](http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) {#i-wannacry-about-the-plunging-quality-of-evil-geniuses .unnumbered}
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[I WannaCry 
+about the Plunging Quality of Evil Geniuses](http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) 
+-----------------------------------------------------------------------------------------
 
 *Posted: 18 May 2017 04:23:12*
 
