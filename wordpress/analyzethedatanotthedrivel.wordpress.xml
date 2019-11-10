@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2019-11-08 22:51"-->
+<!-- generator="WordPress.com" created="2019-11-10 21:15"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Fri, 08 Nov 2019 22:51:40 +0000</pubDate>
+<pubDate>Sun, 10 Nov 2019 21:15:44 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -3798,6 +3798,11 @@
   <wp:term_id>77679</wp:term_id>
   <wp:tag_slug>wilderness</wp:tag_slug>
   <wp:tag_name><![CDATA[wilderness]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>875133</wp:term_id>
+  <wp:tag_slug>windfarms</wp:tag_slug>
+  <wp:tag_name><![CDATA[windfarms]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>729864</wp:term_id>
@@ -15128,11 +15133,11 @@ Bill]]></wp:comment_content>
   <description/>
   <content:encoded><![CDATA[[caption id="attachment_4723" align="alignleft" width="150"]<a href="https://bakerjd99.files.wordpress.com/2014/06/me.jpg" rel="attachment wp-att-4723"><img class="wp-image-4723 size-thumbnail" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg?w=150" alt="me" width="150" height="150" /></a> Are you looking at me?[/caption]
 
-I am a recusant programmer working for a consulting company. I have lived in seven countries on four continents. Like many software professionals, I didn't start out with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required.
+I am a retired recusant programmer. I have lived in seven countries on four continents. Like many software professionals, I didn't start with a burning ambition to sit in cubicles and keep corporate wheels greased: serious bribes were required to keep me obediently swallowing the corporate swill. Ask me if I miss that poison!
 
-I would really like to catch the first starship outta here!
+<em>I would still really like to catch the first starship outta here!</em>
 
-John Baker
+<em>John Baker</em>
 
 Meridian Idaho.]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -38130,20 +38135,12 @@ Now get back to work and pay your taxes you have old parasites to support.]]></c
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5625</guid>
   <description/>
-  <content:encoded><![CDATA[<!-- wp:image {"align":"left","id":5632,"width":203,"height":298,"sizeSlug":"large","linkDestination":"custom","className":"is-style-default"} -->
-<div class="wp-block-image is-style-default"><figure class="alignleft size-large is-resized"><a href="https://www.amazon.com/gp/product/1687011508/ref=x_gr_w_bb_glide_sout?ie=UTF8&amp;tag=x_gr_w_bb_glide_sout-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1687011508&amp;SubscriptionId=1MGPYB6YW3HWK55XCGG2"><img src="https://bakerjd99.files.wordpress.com/2019/11/trey-and-kate.jpg" alt="" class="wp-image-5632" width="203" height="298" /></a></figure></div>
+  <content:encoded><![CDATA[<!-- wp:image {"align":"right","id":5632,"width":205,"height":302,"sizeSlug":"large","linkDestination":"custom","className":"is-style-default"} -->
+<div class="wp-block-image is-style-default"><figure class="alignright size-large is-resized"><a href="https://www.amazon.com/gp/product/1687011508/ref=x_gr_w_bb_glide_sout?ie=UTF8&amp;tag=x_gr_w_bb_glide_sout-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1687011508&amp;SubscriptionId=1MGPYB6YW3HWK55XCGG2"><img src="https://bakerjd99.files.wordpress.com/2019/11/trey-and-kate.jpg" alt="" class="wp-image-5632" width="205" height="302" /></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>This will be a completely biased review. I will exhibit all the balance and somber reflection of a butthurt CNN fake news hack being “objective” about Trump. In other words none!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Why?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I have a close genetic relationship with the author. So close that I see myself in some of <em>Trey and Kate's</em> characters. I won't spell it out for you but if you read <em><a href="https://www.amazon.com/gp/product/1687011508/ref=x_gr_w_bb_glide_sout?ie=UTF8&amp;tag=x_gr_w_bb_glide_sout-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1687011508&amp;SubscriptionId=1MGPYB6YW3HWK55XCGG2">Trey and Kate</a></em> you'll figure it out. Given this affinity everything I say must be verified; so buy the book, read it, and make up your mind.</p>
+<p>This will be a completely biased review. I have a close relationship with the author so everything I say must be verified. Please buy <a href="https://www.amazon.com/gp/product/1687011508/ref=x_gr_w_bb_glide_sout?ie=UTF8&amp;tag=x_gr_w_bb_glide_sout-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1687011508&amp;SubscriptionId=1MGPYB6YW3HWK55XCGG2">Trey and Kate</a>, read it, and make up your mind. With that caveat out of the way let's get started.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -38151,11 +38148,11 @@ Now get back to work and pay your taxes you have old parasites to support.]]></c
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With destiny seemingly on their side, you would expect their romance to go smoothly; it does not. When Kate goes off her meds she's impulsive and prone to risky behavior. The book's best passages detail her sordid bouts of random sex with total strangers. It's almost prostitution but Kate doesn't have the business sense of a prostitute. Of course, this doesn't help her relationship with Trey. To his credit or shame, he forgives her but we're not sure if his forgiveness is self-pity. Trey's self-esteem is so low he finds it almost comical than any woman could love him. Welcome to the club Trey, <em>bitches be mysterious.</em> Trey and Kate's interaction is both frustrating, satisfying, embarrassing, irritating and fulfilling.</p>
+<p>With destiny seemingly on their side, you would expect their romance to go smoothly; it does not. When Kate goes off her meds she's impulsive and prone to risky behavior. The book's best passages detail her sordid bouts of random sex with total strangers. It's almost prostitution but Kate doesn't have the business sense of a prostitute. Of course, this doesn't help her relationship with Trey. To his credit or shame, he forgives her but we're not sure if his forgiveness is self-pity. Trey's self-esteem is so low he finds it almost comical than any woman could love him. Welcome to the club Trey. Trey and Kate's interaction is both frustrating, satisfying, embarrassing, irritating and fulfilling.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>Trey and Kate</em> is the author's first book. I know the author struggled to put the book together. Its best parts are purely descriptive. When the author shows us what the characters are seeing and feeling the prose tells. When the text ventures into rhetorical semi-poetic asides it hollows out. <em>Trey and Kate</em> feels like a screenplay disguised as a novel.&nbsp; This is partly due to the almost cinematic presence of the setting Kingston Ontario, a dull stone-filled town that would be unlivable without Lake Ontario, and Kingston's weather which is every bit as bad as its portrayed in <em>Trey and Kate</em>. I'd encourage the author to keep writing, rewriting and experimenting. There are good stories to tell here.</p>
+<p><em>Trey and Kate</em> is the author's first book. I know the author struggled to put the book together. Its best parts are purely descriptive and when the author shows us what the characters are seeing and feeling the prose tells. When the text ventures into rhetorical semi-poetic asides it hollows out. <em>Trey and Kate</em> feels like a screenplay disguised as a novel.&nbsp;This is partly due to the almost cinematic presence of the setting Kingston Ontario, a dull stone-filled town that would be unlivable without Lake Ontario, and Kingston's wretched weather which is every bit as bad as it's portrayed in <em>Trey and Kate</em>. I'd encourage the author to keep writing, rewriting and experimenting. There are good stories to tell here.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>5625</wp:post_id>
@@ -38184,6 +38181,141 @@ Now get back to work and pay your taxes you have old parasites to support.]]></c
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1573250447]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>2166</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://analyzethedatanotthedrivel.org</wp:comment_author_url>
+    <wp:comment_author_IP>174.27.131.172</wp:comment_author_IP>
+    <wp:comment_date>2019-11-09 17:52:18</wp:comment_date>
+    <wp:comment_date_gmt>2019-11-10 00:52:18</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Hi Ian, good to hear from you. I was just tweaking my review in response to Helen's request that I excise all Orange Man references. It was unnecessary.
+
+I saw your Hong Kong post a few weeks back - good work. 
+
+Are you still in the city or back for another Kingston winter.
+
+Cheers]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>2165</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_jobid</wp:meta_key>
+      <wp:meta_value>37256546446</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_queued</wp:meta_key>
+      <wp:meta_value>1573347140</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1573347139</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1573347139.559429;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>2165</wp:comment_id>
+    <wp:comment_author><![CDATA[Ian Dubin AKA Lord Dubin of Kellett Island]]></wp:comment_author>
+    <wp:comment_author_email>iandubin@yahoo.com.hk</wp:comment_author_email>
+    <wp:comment_author_url>http://oldexpat.wordpress.com</wp:comment_author_url>
+    <wp:comment_author_IP>219.79.42.100</wp:comment_author_IP>
+    <wp:comment_date>2019-11-09 01:08:12</wp:comment_date>
+    <wp:comment_date_gmt>2019-11-09 08:08:12</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Good. well written review John although I should point out this is NOT H's first book. Maybe just the first one she's actually published. 
+
+I have encouraged her to keep writing and I hope and expect she will. I doubt I'll read it since Millennial angst is not high on my list of themes. I told her she needs to work in some guns, terrorist plots and fights, but hey, you should write about what you know. 
+
+Cheers
+
+Enjoy retirement]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>44345739</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1573286895</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1573286894.656097;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1573286894</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>Who Thought Blinking Windfarms was a Good Idea?</title>
+  <link>http://analyzethedatanotthedrivel.org/2019/11/10/who-thought-blinking-windfarms-was-a-good-idea/</link>
+  <pubDate>Sun, 10 Nov 2019 18:41:26 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5643</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>One night, a few weeks ago, I was driving west on I86 near American Falls when I spotted a string of red lights blinking on and off. The lights stretched over a large arc of the horizon. My first thought was “Jesus H. Christ now what?” As an amateur astronomer, I have climbed mountains to get away from light pollution. Now some jackwagon was ruining an entire rural horizon with a goddamn string of synchronized windfarm lights. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>May I ask why?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Windfarms blink at night to warn planes they’re flying to low. Please! The towers are well under 100 meters. If you are flying a plane below 100 meters in mountainous locales like Idaho you have far more serious problems than running into wind turbines. This is another example of stupid regulation. There is absolutely no good reason for lighting up entire landscapes. It wrecks the view, distracts drivers, (cars on I86 were slowing down to get a better view), wastes energy, rapes the night sky, and reminds everyone what an environmental tax-subsidized eye sore windfarms are.  Don’t even think of disagreeing. When was the last time you looked at a landscape littered with wind turbines and thought, “This is so much better than it was before.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yes, I know windfarms are saving us from global warming. If you believe that you are probably exactly the type of person that signed off on ruining an entire county's nighttime view with goddamn blinking windfarms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=JDztGwEqiwQ","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=JDztGwEqiwQ
+</div></figure>
+<!-- /wp:core-embed/youtube -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5643</wp:post_id>
+  <wp:post_date>2019-11-10 11:41:26</wp:post_date>
+  <wp:post_date_gmt>2019-11-10 18:41:26</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>who-thought-blinking-windfarms-was-a-good-idea</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="environment"><![CDATA[environment]]></category>
+  <category domain="post_tag" nicename="light-pollution"><![CDATA[light pollution]]></category>
+  <category domain="post_tag" nicename="windfarms"><![CDATA[windfarms]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[37279175970]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1573411289]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
