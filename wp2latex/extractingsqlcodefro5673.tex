@@ -1,0 +1,171 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/}{Extracting SQL code from SSIS dtsx packages with Python lxml}}
+\addcontentsline{toc}{subsection}{Extracting SQL code from SSIS dtsx packages with Python lxml}
+
+
+\noindent\emph{Posted: 21 Jan 2020 02:30:48}
+\vspace{6pt}
+
+Lately, I've been refactoring a sprawling SSIS
+\href{https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15}{(SQL
+Server Integration Services)} package that ineffectually wrestles with
+large XML files. In this programmer's opinion using SSIS for heavy-duty
+XML parsing is geeky self-abuse so I've opted to replace an eye-ball
+straining\footnote{
+I frequently run into SSIS packages that cannot be viewed on \texttt{4K}
+monitors when fully zoomed out.
+} SSIS package
+with half a dozen,
+\href{https://quoteinvestigator.com/2011/05/13/einstein-simple/}{``as
+simple as possible but no simpler''}, Python scripts. If the Python is
+fast enough for production great! If not the scripts will serve as a
+clear model\footnote{
+Python's readability is a major asset when disentangling \emph{mess-ware}.
+} for something faster.
+
+I'm only refactoring\footnote{
+Yes, I've railed about the word ``refactoring'' in the past but I've
+moved on and so should you.
+\href{https://www.dictionary.com/browse/a-foolish-consistency-is-the-hobgoblin-of-little-minds}{``A
+foolish consistency is the hobgoblin of little minds.''}
+} part of a larger \href{https://www.webopedia.com/TERM/E/ETL.html}{ETL}
+process so whatever I do \emph{it must mesh with the rest of the mess.}
+
+\medskip
+
+\textbf{\emph{So where is the rest of the SSIS mess?}}
+
+\medskip
+
+SSIS's visual editor does a wonderful job of hiding the damn code!
+
+\medskip
+
+\textbf{\emph{This is a problem!}}
+
+\medskip
+
+If only there was a simple way to troll through large sprawling SSIS
+\emph{spider-webby} packages and extract
+\href{https://www.youtube.com/watch?v=wPiHQ37gXnE}{the good bits}.
+Fortunately, Python's XML parsing tools can be easily applied to SSIS
+\texttt{dtsx} files. \emph{SSIS \texttt{dtsx} files are XML files.} The
+following code snippets illustrate how to hack these files.
+
+First import the required Python modules. \texttt{lxml} is not always
+included in Python distributions. Use the
+\href{https://remotedevdaily.com/how-to-install-lxml-in-python-using-pip/}{pip}
+or \href{https://anaconda.org/anaconda/lxml}{conda} tools to install
+this module.
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X0]
+# imports
+import os
+from lxml import etree
+\end{lstlisting}
+
+Set an output directory. I'm running on a Windows machine. If you're on
+a Mac or Linux machine adjust the path.
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X1]
+# set sql output directory
+sql_out = r"C:\temp\dtsxsql"
+if not os.path.isdir(sql_out):
+    os.makedirs(sql_out)
+\end{lstlisting}
+
+
+Point to the \texttt{dtsx} package you want to extract code from.
+
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X2]
+# dtsx files
+dtsx_path = r'C:\Users\john\AnacondaProjects\testfolder\bixml'
+ssis_dtsx = dtsx_path + r'\ParseXML.dtsx'
+\end{lstlisting}
+
+
+Read and parse the SSIS package.
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X3]
+tree = etree.parse(ssis_dtsx)
+root = tree.getroot()
+\end{lstlisting}
+
+
+\texttt{lxml} renders XML namespace tags like
+\verb|<DTS:Executable| as
+\verb|www.microsoft.com/SqlServer/Dts\}Executable|. The following
+gathers all the transformed element tags in the \texttt{dtsx} package.
+
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X4]
+# collect unique element tags in dtsx
+ele_set = set()
+for ele in root.xpath(".//*"):
+    ele_set.add(ele.tag)    
+print(ele_set)
+print(len(ele_set))
+\end{lstlisting}
+
+Using transformed element tags of interest blast over the \texttt{dtsx}
+and suck out the bits of interest.
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5]
+# extract sql code in source statements and write to *.sql files 
+total_bytes = 0
+package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
+for cnt, ele in enumerate(root.xpath(".//*")):
+  if ele.tag == "{www.microsoft.com/SqlServer/Dts}Executable":
+    attr = ele.attrib
+    for child0 in ele:
+      if child0.tag == "{www.microsoft.com/SqlServer/Dts}ObjectData":
+        for child1 in child0:
+          sql_comment = attr["{www.microsoft.com/SqlServer/Dts}ObjectName"].strip()
+          if child1.tag == "{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData":
+            dtsx_sql = child1.attrib["{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlStatementSource"]
+            dtsx_sql = "-- " + sql_comment + "\n" + dtsx_sql
+            sql_file = sql_out + "\\" + package_name + str(cnt) + ".sql"
+            total_bytes += len(dtsx_sql)
+            print((len(dtsx_sql), sql_comment, sql_file))
+            with open(sql_file, "w") as file:
+              file.write(dtsx_sql)
+print(('total sql code bytes',total_bytes))
+\end{lstlisting}
+
+
+The code snippets in this post are available in this Jupyter notebook:
+\href{https://github.com/bakerjd99/jacks/blob/master/notebooks/Extracting\%20SQL\%20code\%20from\%20SSIS\%20dtsx\%20packages\%20with\%20Python\%20lxml.ipynb}{Extracting
+SQL code from SSIS dtsx packages with Python lxml}. \emph{Download and tweak
+for your \texttt{dtsx} nightmare!}
+
+%\begin{verbatim}
+%\end{verbatim}
+%
+%\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+%
+%\begin{enumerate}
+%\item
+%  \hypertarget{fn1}{}
+%
+%  I frequently run into SSIS packages that cannot be viewed on 4K
+%  monitors when fully zoomed out.\protect\hyperlink{fnref1}{↩}
+%\item
+%  \hypertarget{fn2}{}
+%
+%  Python's readability is a major asset when disentangling
+%  \emph{mess-ware}.\protect\hyperlink{fnref3}{↩}
+%\item
+%  \hypertarget{fn3}{}
+%
+%  Yes, I've railed about the word ``refactoring'' in the past but I've
+%  moved on and so should you.
+%  \href{https://www.dictionary.com/browse/a-foolish-consistency-is-the-hobgoblin-of-little-minds}{``A
+%  foolish consistency is the hobgoblin of little
+%  minds.''}\protect\hyperlink{fnref3}{↩}
+%\end{enumerate}
+
+
+
+%\end{document}

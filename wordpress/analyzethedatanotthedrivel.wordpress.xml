@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2019-11-15 17:37"-->
+<!-- generator="WordPress.com" created="2020-01-21 02:42"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Fri, 15 Nov 2019 17:37:36 +0000</pubDate>
+<pubDate>Tue, 21 Jan 2020 02:42:09 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1230,6 +1230,11 @@
   <wp:tag_name><![CDATA[drones]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>13149453</wp:term_id>
+  <wp:tag_slug>dtsx</wp:tag_slug>
+  <wp:tag_name><![CDATA[dtsx]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>5663255</wp:term_id>
   <wp:tag_slug>dumb-government</wp:tag_slug>
   <wp:tag_name><![CDATA[dumb government]]></wp:tag_name>
@@ -2403,6 +2408,11 @@
   <wp:term_id>332436</wp:term_id>
   <wp:tag_slug>lunar-eclipse</wp:tag_slug>
   <wp:tag_name><![CDATA[lunar eclipse]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>3024421</wp:term_id>
+  <wp:tag_slug>lxml</wp:tag_slug>
+  <wp:tag_name><![CDATA[lxml]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>197376445</wp:term_id>
@@ -3843,6 +3853,11 @@
   <wp:term_id>6825753</wp:term_id>
   <wp:tag_slug>xelatex</wp:tag_slug>
   <wp:tag_name><![CDATA[XeLaTeX]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>6852</wp:term_id>
+  <wp:tag_slug>xml</wp:tag_slug>
+  <wp:tag_name><![CDATA[xml]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>32347</wp:term_id>
@@ -8892,29 +8907,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2018/03/numpy-j-logo.png</wp:attachment_url>
 </item>
 <item>
-  <title>jod</title>
-  <link>http://analyzethedatanotthedrivel.org/jod/</link>
-  <pubDate>Fri, 15 Feb 2019 06:11:36 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2019/02/jod.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>5604</wp:post_id>
-  <wp:post_date>2019-02-14 23:11:36</wp:post_date>
-  <wp:post_date_gmt>2019-02-15 06:11:36</wp:post_date_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>jod</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2019/02/jod.pdf</wp:attachment_url>
-</item>
-<item>
   <title>trey and kate</title>
   <link>http://analyzethedatanotthedrivel.org/trey-and-kate/</link>
   <pubDate>Fri, 08 Nov 2019 22:10:21 +0000</pubDate>
@@ -8959,6 +8951,29 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2019/11/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>jod</title>
+  <link>http://analyzethedatanotthedrivel.org/jod/</link>
+  <pubDate>Mon, 09 Dec 2019 19:05:30 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2019/12/jod.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5665</wp:post_id>
+  <wp:post_date>2019-12-09 12:05:30</wp:post_date>
+  <wp:post_date_gmt>2019-12-09 19:05:30</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>jod</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2019/12/jod.pdf</wp:attachment_url>
 </item>
 <item>
   <title>What's In it for Facebook?</title>
@@ -13802,13 +13817,13 @@ The amount of money we were handing over to the cable company for the privilege 
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1101</guid>
   <description/>
-  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 0.9.999 released August 29, 2019</a> </strong>
+  <content:encoded><![CDATA[<a href="http://www.jsoftware.com/jwiki/Addons/general/jod"><img class="wp-image-3312 alignleft" style="border:6px;" title="JOD Logo" src="http://bakerjd99.files.wordpress.com/2012/10/jodlittlecube.png" alt="JOD Logo" width="105" height="105" /></a>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. <strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 1.0.0 released December 9, 2019</a> </strong>
 
 This page maintains references to primary JOD materials.
 
 JOD can be installed and updated with the <a href="http://www.jsoftware.com/jwiki/JAL/User%20Guide">J package manager</a>.
 
-<a href="https://bakerjd99.files.wordpress.com/2019/02/jod.pdf"><strong>JOD PDF Help</strong></a> - current JOD system documentation in one PDF document. The same document is also available on this <a href="https://github.com/jsoftware/general_joddocument/blob/master/pdfdoc/jod.pdf">alternate server.</a>
+<a href="https://bakerjd99.files.wordpress.com/2019/12/jod.pdf"><strong>JOD PDF Help</strong></a> - current JOD system documentation in one PDF document. The same document is also available on this <a href="https://github.com/jsoftware/general_joddocument/blob/master/pdfdoc/jod.pdf">alternate server.</a>
 
 <a href="https://github.com/bakerjd99/jod/tree/master/jodnotebooks"><strong>JOD Jupyter Notebooks</strong></a> - <a href="https://jupyter.org/">Jupyter</a> notebook versions of some JOD labs.
 
@@ -38280,7 +38295,7 @@ Enjoy retirement]]></wp:comment_content>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Windfarms blink at night to warn planes they’re flying to low. Please! The towers are well under 100 meters. If you are flying a plane below 100 meters in mountainous locales like Idaho you have far more serious problems than running into wind turbines. This is another example of stupid regulation. There is absolutely no good reason for lighting up entire landscapes. It wrecks the view, distracts drivers, (cars on I86 were slowing down to get a better view), wastes energy, rapes the night sky, and reminds everyone what an environmental tax-subsidized eyesore windfarms are.  Don’t even think of disagreeing. When was the last time you looked at a landscape littered with wind turbines and thought, “This is so much better than it was before.”</p>
+<p>Windfarms blink at night to warn planes they’re flying to low. Please! The towers are well under 400 meters. If you are flying a plane below 400 meters in mountainous locales like Idaho you have far more serious problems than running into wind turbines. This is another example of stupid regulation. There is absolutely no good reason for lighting up entire landscapes. It wrecks the view, distracts drivers, (cars on I86 were slowing down to get a better view), wastes energy, rapes the night sky, and reminds everyone what an environmental tax-subsidized eyesore windfarms are.  Don’t even think of disagreeing. When was the last time you looked at a landscape littered with wind turbines and thought, “This is so much better than it was before.”</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -38364,6 +38379,199 @@ https://www.youtube.com/watch?v=JDztGwEqiwQ
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1573838642]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Extracting SQL code from SSIS dtsx packages with Python lxml</title>
+  <link>http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/</link>
+  <pubDate>Tue, 21 Jan 2020 02:30:48 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5673</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lately, I've been refactoring a sprawling SSIS <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15">(SQL Server Integration Services)</a> package that ineffectually wrestles with large XML files. In this programmer's opinion using SSIS for heavy-duty XML parsing is geeky self-abuse so I've opted to replace an eye-ball straining<a id="fnref1" class="footnoteRef" href="#fn1"><sup>[1]</sup></a> SSIS package with half a dozen, <a href="https://quoteinvestigator.com/2011/05/13/einstein-simple/">"as simple as possible but no simpler"</a>, Python scripts. If the Python is fast enough for production great! If not the scripts will serve as a clear model<a id="fnref2" class="footnoteRef" href="#fn2"><sup>[2]</sup></a> for something faster.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I'm only refactoring<a id="fnref3" class="footnoteRef" href="#fn3"><sup>[3]</sup></a> part of a larger <a href="https://www.webopedia.com/TERM/E/ETL.html">ETL</a> process so whatever I do <em>it must mesh with the rest of the mess.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>So where is the rest of the SSIS mess?</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SSIS's visual editor does a wonderful job of hiding the damn code!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>This is a problem!</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If only there was a simple way to troll through large sprawling SSIS <em>spider-webby</em> packages and extract <a href="https://www.youtube.com/watch?v=wPiHQ37gXnE">the good bits</a>. Fortunately, Python's XML parsing tools can be easily applied to SSIS <code>dtsx</code> files. <em>SSIS <code>dtsx</code> files are XML files.</em> The following code snippets illustrate how to hack these files.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>First import the required Python modules. <code>lxml</code> is not always included in Python distributions. Use the <a href="https://remotedevdaily.com/how-to-install-lxml-in-python-using-pip/">pip</a> or <a href="https://anaconda.org/anaconda/lxml">conda</a> tools to install this module.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code"># imports
+import os
+from lxml import etree</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Set an output directory. I'm running on a Windows machine. If you're on a Mac or Linux machine adjust the path.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code"># set sql output directory
+sql_out = r"C:\temp\dtsxsql"
+if not os.path.isdir(sql_out):
+    os.makedirs(sql_out)</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Point to the <code>dtsx</code> package you want to extract code from.<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code"># dtsx files
+dtsx_path = r'C:\Users\john\AnacondaProjects\testfolder\bixml'
+ssis_dtsx = dtsx_path + r'\ParseXML.dtsx'</pre>
+ssis_dtsx
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph --></p>
+<p>Read and parse the SSIS package.<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code">tree = etree.parse(ssis_dtsx)
+root = tree.getroot()
+root.tag</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code">'{www.microsoft.com/SqlServer/Dts}Executable'</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph --></p>
+<p><code>lxml</code> renders XML namespace tags like <code>&lt;DTS:Executable</code> as <code>{www.microsoft.com/SqlServer/Dts}Executable</code>. The following<br />shows all the transformed element tags in the <code>dtsx</code> package.<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code"># collect unique element tags in dtsx
+ele_set = set()
+for ele in root.xpath(".//*"):
+    ele_set.add(ele.tag)    
+print(ele_set)
+print(len(ele_set))</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code">{'InnerObject', '{www.microsoft.com/SqlServer/Dts}PrecedenceConstraint', '{www.microsoft.com/SqlServer/Dts}ObjectData', '{www.microsoft.com/SqlServer/Dts}PackageParameter', '{www.microsoft.com/SqlServer/Dts}LogProvider', '{http://schemas.xmlsoap.org/soap/envelope/}Envelope', '{www.microsoft.com/SqlServer/Dts}Executable', 'ExpressionTask', '{http://schemas.xmlsoap.org/soap/envelope/}Body', '{www.microsoft.com/SqlServer/Dts}Variable', '{www.microsoft.com/SqlServer/Dts}ForEachVariableMapping', '{www.microsoft.com/SqlServer/Dts}PrecedenceConstraints', '{www.microsoft.com/SqlServer/Dts}SelectedLogProviders', 'ForEachFileEnumeratorProperties', '{www.microsoft.com/SqlServer/Dts}ForEachVariableMappings', '{www.microsoft.com/SqlServer/Dts}ForEachEnumerator', '{www.microsoft.com/SqlServer/Dts}SelectedLogProvider', '{www.microsoft.com/SqlServer/Dts}DesignTimeProperties', '{www.microsoft.com/SqlServer/Dts}LogProviders', '{www.microsoft.com/SqlServer/Dts}LoggingOptions', '{www.microsoft.com/SqlServer/Dts}Variables', 'FEFEProperty', 'FileSystemData', 'ProjectItem', '{www.microsoft.com/SqlServer/Dts}Property', '{http://www.w3.org/2001/XMLSchema}anyType', '{www.microsoft.com/SqlServer/Dts}Executables', '{www.microsoft.com/sqlserver/dts/tasks/sqltask}ParameterBinding', '{www.microsoft.com/sqlserver/dts/tasks/sqltask}ResultBinding', '{www.microsoft.com/SqlServer/Dts}VariableValue', 'FEEADO', 'BinaryItem', '{www.microsoft.com/SqlServer/Dts}PackageParameters', '{www.microsoft.com/SqlServer/Dts}PropertyExpression', '{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData', 'ScriptProject'}
+36</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph --></p>
+<p>Using transformed element tags of interest blast over the <code>dtsx</code> and suck out the bits of interest.<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code"># extract sql code in source statements and write to *.sql files 
+total_bytes = 0
+package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
+for cnt, ele in enumerate(root.xpath(".//*")):
+    if ele.tag == "{www.microsoft.com/SqlServer/Dts}Executable":
+        attr = ele.attrib
+        for child0 in ele:
+            if child0.tag == "{www.microsoft.com/SqlServer/Dts}ObjectData":
+                for child1 in child0:
+                    sql_comment = attr["{www.microsoft.com/SqlServer/Dts}ObjectName"].strip()
+                    if child1.tag == "{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData":
+                        dtsx_sql = child1.attrib["{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlStatementSource"]
+                        dtsx_sql = "-- " + sql_comment + "\n" + dtsx_sql
+                        sql_file = sql_out + "\\" + package_name + str(cnt) + ".sql"
+                        total_bytes += len(dtsx_sql)
+                        print((len(dtsx_sql), sql_comment, sql_file))
+                        with open(sql_file, "w") as file:
+                            file.write(dtsx_sql)
+print(('total sql code bytes',total_bytes))</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:syntaxhighlighter/code {"language":"python"} -->
+<pre class="wp-block-syntaxhighlighter-code">   (2817, 'Add Record to ZipProcessLog', 'C:\\temp\\dtsxsql\\2_ParseXML225.sql')
+    (48, 'Dummy SQL - End Loop for ZipFileName', 'C:\\temp\\dtsxsql\\2_ParseXML268.sql')
+    (1327, 'Add Record to XMLProcessLog', 'C:\\temp\\dtsxsql\\2_ParseXML293.sql')
+    (546, 'Delete Prior Loads in XMLProcessLog Table for Looped XML', 'C:\\temp\\dtsxsql\\2_ParseXML304.sql')
+    (759, 'Delete Prior Loads to Node Table for Looped XML', 'C:\\temp\\dtsxsql\\2_ParseXML312.sql')
+    (48, 'Dummy SQL - End Loop for XMLFileName', 'C:\\temp\\dtsxsql\\2_ParseXML320.sql')
+    (1862, 'Set Variable DeletePriorImportNodeFlag', 'C:\\temp\\dtsxsql\\2_ParseXML356.sql')
+    (55, 'Shred XML to Node Table', 'C:\\temp\\dtsxsql\\2_ParseXML365.sql')
+    (1011, 'Update LoadEndDatetime and XMLRecordCount in XMLProcessLog', 'C:\\temp\\dtsxsql\\2_ParseXML371.sql')
+    (1060, 'Update LoadEndDatetime and XMLRecordCount in XMLProcessLog - Shred Failure', 'C:\\temp\\dtsxsql\\2_ParseXML382.sql')
+    (675, 'Load object VariablesList (Nodes to process for each XML File Category)', 'C:\\temp\\dtsxsql\\2_ParseXML412.sql')
+    (1175, 'Set Variable ZipProcessFlag - Has Zip Had A Prior Successful Run', 'C:\\temp\\dtsxsql\\2_ParseXML461.sql')
+    (224, 'Set ZipProcessed Status (End Zip)', 'C:\\temp\\dtsxsql\\2_ParseXML474.sql')
+    (238, 'Set ZipProcessed Status (Zip Already Processed)', 'C:\\temp\\dtsxsql\\2_ParseXML480.sql')
+    (231, 'Set ZipProcessing Status (Zip Starting)', 'C:\\temp\\dtsxsql\\2_ParseXML486.sql')
+    (609, 'Update LoadEndDatetime in ZipProcessLog', 'C:\\temp\\dtsxsql\\2_ParseXML506.sql')
+    (613, 'Update ZipLog UnzipCompletedDateTime Equal to GETDATE', 'C:\\temp\\dtsxsql\\2_ParseXML514.sql')
+    (1610, 'Update ZipProcessLog ExtractedFileCount', 'C:\\temp\\dtsxsql\\2_ParseXML522.sql')
+    ('total sql code bytes', 14908)</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph --></p>
+<p>The code snippets in this post are available in this Jupyter notebook: <a href="https://github.com/bakerjd99/jacks/blob/master/notebooks/Extracting%20SQL%20code%20from%20SSIS%20dtsx%20packages%20with%20Python%20lxml.ipynb">Extracting SQL code from SSIS dtsx packages with Python lxml</a>. Download and tweak for your <code>dtsx</code> nightmare!</p>
+<pre class="wp-block-syntaxhighlighter-code"><!-- /wp:paragraph -->
+
+<!-- wp:paragraph /--></pre>
+<section class="footnotes"><hr />
+<ol>
+<li id="fn1">I frequently run into SSIS packages that cannot be viewed on 4K monitors when fully zoomed out.<a href="#fnref1">↩</a></li>
+<li id="fn2">Python's readability is a major asset when disentangling <em>mess-ware</em>.<a href="#fnref3">↩</a></li>
+<li id="fn3">Yes, I've railed about the word "refactoring" in the past but I've moved on and so should you. <a href="https://www.dictionary.com/browse/a-foolish-consistency-is-the-hobgoblin-of-little-minds">"A foolish consistency is the hobgoblin of little minds."</a><a href="#fnref3">↩</a></li>
+</ol>
+</section>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5673</wp:post_id>
+  <wp:post_date>2020-01-20 19:30:48</wp:post_date>
+  <wp:post_date_gmt>2020-01-21 02:30:48</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="dtsx"><![CDATA[dtsx]]></category>
+  <category domain="category" nicename="jupyter"><![CDATA[Jupyter]]></category>
+  <category domain="post_tag" nicename="lxml"><![CDATA[lxml]]></category>
+  <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="python"><![CDATA[Python]]></category>
+  <category domain="category" nicename="sql"><![CDATA[SQL]]></category>
+  <category domain="post_tag" nicename="sqlserver"><![CDATA[SQLServer]]></category>
+  <category domain="post_tag" nicename="xml"><![CDATA[xml]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1579573851]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[39769850817]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
