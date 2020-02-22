@@ -1,4 +1,4 @@
- b3c8fdf1446caaf8735c77ef360f2335fc0fb6bb bm.pdf
+ bca238ce6c10b5955a3612bc6f476379dc53e1b4 bm.pdf
  6a43f481b6eaf6036dd84d47cf9eef07406d275f ablackswansong985.tex
  e2e56d16f37257f9a6797b8fbb2e8a2951e928bd abloggychristmaslett5275.tex
  a9e495713835eb6b1950f7aa9d96790bb6f97ad0 acnetclassforcalling537.tex
@@ -23,7 +23,7 @@
  44e689bf9ea654b89a473418f5e3d44355952ecc blogrobotreview3653.tex
  df25a1dba3a69e2e1778989252253927014e68a8 bloodmorons4643.tex
  fd795019c52935b6cef1464adc58fdb342f23dde blurbnicklombstransi2744.tex
- 3a3939a2703b7da5878b6ef90d1dbaaf07a846a5 bm.tex
+ a9262e42e02a761d04977610c07c9ac991b250cb bm.tex
  9369e7c88f4ae043d8084bde0d2023b8c01f3635 bmamble.tex
  66df953a9876722caeb75355c969d27cf2967a04 bmtitlepage.tex
  80579d33fbf62b2d8c1401d88160b0e1f7223c55 bookstoignore3612.tex
@@ -110,6 +110,7 @@
  ce2cbba743bb20ad2ed08e7dcf930d3599ae4703 minniespictures4230.tex
  e605e3d843ed94ff6adf3697589accccee9b5f45 moreaboutjhswithdhtm3516.tex
  b3193584a30c1cc49b27f39c5d1efa6564a13bc2 moreaboutjhswiththed3516.tex
+ 00cb211c8880d079e9a2bb1db753a427bcef74ae morejpandocsyntaxhig5741.tex
  d3c8fb82849c1c60269a923f09e8db2968a07588 moreonkindleoriented1543.tex
  457900851886aa6f63db171e6c4d2872eaceaf91 moreonsmugmugduplica393.tex
  00d68642ad499e4b12acb078d3f23bc8504550dd moreonthatsmugshotme1304.tex

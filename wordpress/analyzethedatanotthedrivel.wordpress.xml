@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2020-01-21 02:42"-->
+<!-- generator="WordPress.com" created="2020-02-20 02:53"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel.</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Trust is for imbeciles.</description>
-<pubDate>Tue, 21 Jan 2020 02:42:09 +0000</pubDate>
+<pubDate>Thu, 20 Feb 2020 02:53:37 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -38572,6 +38572,165 @@ print(('total sql code bytes',total_bytes))</pre>
   <wp:postmeta>
     <wp:meta_key>_publicize_job_id</wp:meta_key>
     <wp:meta_value><![CDATA[39769850817]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>2218</wp:comment_id>
+    <wp:comment_author><![CDATA[The Big Gun]]></wp:comment_author>
+    <wp:comment_author_email>glentdavis@hotmail.com</wp:comment_author_email>
+    <wp:comment_author_url/>
+    <wp:comment_author_IP>68.185.109.2</wp:comment_author_IP>
+    <wp:comment_date>2020-01-21 12:00:14</wp:comment_date>
+    <wp:comment_date_gmt>2020-01-21 19:00:14</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Python scriptz ... YIKES babe! ... if I understand the problem domain correctly, you still have to run the SSIS program so I'ld write a simple C# script task that serializes incoming XML to a data source object and have that as the source for the data flow in question. C# has lots n lots of great XML features making serializing XML to objects very easy ... no need to hack SSIS XML .... however, very cool that you can do this ... thought you were retired, cut this shit out already]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1579633215.212701;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1579647884</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1579647884.111527;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1579647884</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:2:{s:4:"time";d:1579637658.46636;s:5:"event";s:9:"check-ham";}</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+  <wp:comment>
+    <wp:comment_id>2219</wp:comment_id>
+    <wp:comment_author><![CDATA[John Baker]]></wp:comment_author>
+    <wp:comment_author_email>bakerjd99@gmail.com</wp:comment_author_email>
+    <wp:comment_author_url>https://analyzethedatanotthedrivel.org</wp:comment_author_url>
+    <wp:comment_author_IP>174.208.15.107</wp:comment_author_IP>
+    <wp:comment_date>2020-01-21 16:09:53</wp:comment_date>
+    <wp:comment_date_gmt>2020-01-21 23:09:53</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[Hi Glen, 
+
+I expect what you have outlined will be the final solution. Right now I am studying the problem. I’ve always disliked SSIS it’s basically “flaw chart” on steroids. Just browsing all the little process boxes is tedious and still results in yellow triangle hell.
+
+PS. I am semi retired just doing a bit of hourly consulting.]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type/>
+    <wp:comment_parent>2218</wp:comment_parent>
+    <wp:comment_user_id>9672033</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value>1579648193</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>email_notification_notqueued</wp:meta_key>
+      <wp:meta_value>1579648193</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value>false</wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value>a:3:{s:4:"time";d:1579648193.043392;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}</wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
+</item>
+<item>
+  <title>More J Pandoc Syntax HighLighting</title>
+  <link>http://analyzethedatanotthedrivel.org/2020/02/19/more-j-pandoc-syntax-highlighting/</link>
+  <pubDate>Thu, 20 Feb 2020 02:48:09 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=5741</guid>
+  <description/>
+  <content:encoded><![CDATA[Syntax highlighting is essential for blogging program code. Many blog hosts recognize this and provide tools for highlighting programming languages. <a href="https://wordpress.com/">WordPress.com</a> (this host) has a <a href="https://en.support.wordpress.com/wordpress-editor/blocks/syntax-highlighter-code-block/">nifty highlighting tool</a> that handles dozens of mainstream programming languages. Unfortunately, one of my favorite programming languages, <a href="//www.jsoftware.com">J</a>, (yes it’s a single letter name), is way out of the mainstream and is not supported.
+
+There are a few ways to deal with this <em>problem.</em>
+
+<ol type="1">
+    <li>Eschew J highlighting.</li>
+    <li>Upgrade<a id="fnref1" class="footnote-ref" role="doc-noteref" href="#fn1"><sup>1</sup></a> your <em>WordPress.com</em> subscription and install custom syntax highlighters that can handle arbitrary language definitions.</li>
+    <li>Find another blog host that freely supports custom highlighters.</li>
+    <li>Roll your own or customize an existing highlighter.</li>
+</ol>
+
+A few years ago I went with the fourth option and hacked the superb open-source tool <a href="https://pandoc.org/">pandoc</a>. The grim details are described in <a href="https://analyzethedatanotthedrivel.org/2012/09/20/pandoc-based-j-syntax-highlighting/">this blog post</a>. My hack produced a customized version of pandoc with J highlighting. I still use my hacked version and I’d probably stick with it if current pandoc versions had not introduced <em>must-have features like converting <a href="https://jupyter.org/">Jupyter</a> notebooks to Markdown, PDF, LaTeX and HTML.</em> Jupyter is my default <em>thinking-things-through</em> programming environment. I’ve even taken to <a href="https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Unified%20XKCD%20Colors.ipynb">blogging with Jupyter notebooks</a>. If you write and explain code you owe it to yourself to give Jupyter a try.
+
+Unwilling to eschew J highlighting or forgo Jupyter I was on the verge of re-hacking pandoc when I read the current pandoc (version 2.9.1.1) documentation and saw that <strong><em>J is now officially supported by pandoc.</em></strong> You can verify this with the shell commands.
+
+
+The pandoc developers made my day! I felt like <a href="https://www.youtube.com/watch?v=lBEn3a4TIUw">Wayne meeting a rock star</a>.
+
+Highlighting J is now a simple matter of placing J code in markdown blocks like:
+
+
+and issuing shell commands like:
+
+<div id="cb3" class="sourceCode">
+<pre class="sourceCode bash"><code><span id="cb3-1"><span class="ex">pandoc</span> --highlight-style tango --metadata title=<span class="st">"J test"</span> -s jpdh.md -o jpdh.html</span></code></pre>
+</div>
+
+The previous command generated the HTML of this post which I pasted into the WordPress.com <em>Classic Editor.</em> Not only do I get J code highlighting on the cheap I also get footnotes which, <em>for god freaking sakes</em>,<a id="fnref2" class="footnote-ref" role="doc-noteref" href="#fn2"><sup>2</sup></a> are not supported by the new WordPress block editor for low budget blogs.
+
+<strong><em>The source markdown used for this post is available here - enjoy!</em></strong>
+
+<section class="footnotes" role="doc-endnotes">
+
+<hr />
+
+<ol>
+    <li id="fn1" role="doc-endnote">The pay more option is always available.<a class="footnote-back" role="doc-backlink" href="#fnref1">↩︎</a></li>
+    <li id="fn2" role="doc-endnote">WordPress.com is beginning to remind me of Adobe. Stop taking away longstanding features when upgrading!<a class="footnote-back" role="doc-backlink" href="#fnref2">↩︎</a></li>
+</ol>
+</section>]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>5741</wp:post_id>
+  <wp:post_date>2020-02-19 19:48:09</wp:post_date>
+  <wp:post_date_gmt>2020-02-20 02:48:09</wp:post_date_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>more-j-pandoc-syntax-highlighting</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="category" nicename="jupyter"><![CDATA[Jupyter]]></category>
+  <category domain="post_tag" nicename="pandoc"><![CDATA[Pandoc]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="post_tag" nicename="syntax-highlighting"><![CDATA[syntax highlighting]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[40894700788]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1582166894]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>geo_public</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>

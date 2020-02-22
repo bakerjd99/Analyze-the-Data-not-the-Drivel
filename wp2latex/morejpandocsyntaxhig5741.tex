@@ -1,0 +1,154 @@
+%\input{bmamble.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2020/02/19/more-j-pandoc-syntax-highlighting/}{More J Pandoc Syntax HighLighting}}
+\addcontentsline{toc}{subsection}{More J Pandoc Syntax HighLighting}
+
+
+\noindent\emph{Posted: 20 Feb 2020 02:48:09}
+\vspace{6pt}
+
+Syntax highlighting is essential for blogging program code. Many blog
+hosts recognize this and provide tools for highlighting programming
+languages. \href{https://wordpress.com/}{WordPress.com} (this host) has
+a
+\href{https://en.support.wordpress.com/wordpress-editor/blocks/syntax-highlighter-code-block/}{nifty
+highlighting tool} that handles dozens of mainstream programming
+languages. Unfortunately, one of my favorite programming languages,
+\href{//www.jsoftware.com}{J}, (yes it's a single letter name), is way
+out of the mainstream and is not supported.
+
+There are a few ways to deal with this \emph{problem.}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+%\tightlist
+\item
+  Eschew J highlighting.
+\item
+  Upgrade\footnote{
+  The pay more option is always available.
+  } your
+  \emph{WordPress.com} subscription and install custom syntax
+  highlighters that can handle arbitrary language definitions.
+\item
+  Find another blog host that freely supports custom highlighters.
+\item
+  Roll your own or customize an existing highlighter.
+\end{enumerate}
+
+A few years ago I went with the fourth option and hacked the superb
+open-source tool \href{https://pandoc.org/}{pandoc}. The grim details
+are described in
+\href{https://analyzethedatanotthedrivel.org/2012/09/20/pandoc-based-j-syntax-highlighting/}{this
+blog post}. My hack produced a customized version of pandoc with J
+highlighting. I still use my hacked version and I'd probably stick with
+it if current pandoc versions had not introduced \emph{must-have
+features like converting \href{https://jupyter.org/}{Jupyter} notebooks
+to Markdown, PDF, LaTeX and HTML.} Jupyter is my default
+\emph{thinking-things-through} programming environment. I've even taken
+to
+\href{https://github.com/bakerjd99/smugpyter/blob/master/notebooks/Unified\%20XKCD\%20Colors.ipynb}{blogging
+with Jupyter notebooks}. If you write and explain code you owe it to
+yourself to give Jupyter a try.
+
+Unwilling to eschew J highlighting or forgo Jupyter I was on the verge
+of re-hacking pandoc when I read the current pandoc (version 2.9.1.1)
+documentation and saw that \textbf{\emph{J is now officially supported
+by pandoc.}} You can verify this with the shell commands.
+
+The pandoc developers made my day! I felt like
+\href{https://www.youtube.com/watch?v=lBEn3a4TIUw}{Wayne meeting a rock
+star}.
+
+Highlighting J is now a simple matter of placing J code in markdown
+blocks like:
+
+\begin{verbatim}
+    ~~~~ { .j }
+        ... code code code ...
+    ~~~~
+\end{verbatim}
+
+and issuing shell commands like:
+
+
+%\footnotesize
+\begin{verbatim}
+    pandoc --highlight-style tango --metadata title="J test" -s jpdh.md -o jpdh.html
+\end{verbatim}
+%\normalsize
+
+
+The previous command generated the HTML of this post which I pasted into
+the WordPress.com \emph{Classic Editor.} Not only do I get J code
+highlighting on the cheap I also get footnotes which, \emph{for god
+freaking sakes},\footnote{WordPress.com is beginning to remind me of Adobe. Stop taking away
+ longstanding features when upgrading!
+} are not
+supported by the new WordPress block editor for low budget blogs.
+
+\medskip
+
+\textbf{\emph{The source \href{https://github.com/bakerjd99/jacks/tree/master/pandocexamples}{markdown used for this post is available here enjoy!}}}
+
+\small
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{tdkeytest}\KeywordTok{=:}\DecValTok{4} \RegionMarkerTok{: 0}
+
+\CommentTok{NB.*tdkeytest v{-}{-} test natural primary key columns of TAB delimited text files.}
+\CommentTok{NB.}
+\CommentTok{NB. dyad:  il =. blclColnames tdkeytest clFile}
+\CommentTok{NB.}
+\CommentTok{NB.   f0=. \textquotesingle{}C:\textbackslash{}temp\textbackslash{}dailytsv\textbackslash{}raw\_ST\_BU.txt\textquotesingle{}}
+\CommentTok{NB.   k0=. ;:\textquotesingle{}BuId XMLFileDate\textquotesingle{}}
+\CommentTok{NB.   k0 tdkeytest f0}
+
+\CommentTok{NB. first row is header}
+\NormalTok{h}\KeywordTok{=.} \DecValTok{0}\KeywordTok{\{}\NormalTok{d}\KeywordTok{=.}\NormalTok{ readtd2s }\KeywordTok{y}
+
+\CommentTok{NB. key column positions}
+\StringTok{\textquotesingle{}header key column(s) missing\textquotesingle{}}\NormalTok{ assert }\KeywordTok{{-}.}\RegionMarkerTok{(}\KeywordTok{\#}\NormalTok{h}\RegionMarkerTok{)} \KeywordTok{e.}\NormalTok{ p}\KeywordTok{=.}\NormalTok{ h }\KeywordTok{i.} \KeywordTok{s:} \KeywordTok{x}
+
+\NormalTok{c}\KeywordTok{=.} \KeywordTok{\#}\NormalTok{d}\KeywordTok{=.} \KeywordTok{\}.}\NormalTok{ d}
+\NormalTok{b}\KeywordTok{=.} \KeywordTok{\textasciitilde{}:}\NormalTok{p }\KeywordTok{\{"}\DecValTok{1}\NormalTok{ d}
+
+\CommentTok{NB. columns unique, rowcnt, nonunique rowcnt}
+\KeywordTok{if.}\NormalTok{ r}\KeywordTok{=.}\NormalTok{ c }\KeywordTok{=} \KeywordTok{+/}\NormalTok{b }\KeywordTok{do.}
+\NormalTok{  r }\KeywordTok{,}\NormalTok{ c }\KeywordTok{,} \DecValTok{0}
+\KeywordTok{else.}
+  \CommentTok{NB. there are duplicates show some sorted duplicate keys}
+\NormalTok{  k}\KeywordTok{=.}\NormalTok{ p }\KeywordTok{\{"}\DecValTok{1}\NormalTok{ d}
+\NormalTok{  d}\KeywordTok{=.}\NormalTok{ d }\KeywordTok{\{\textasciitilde{}} \KeywordTok{I.}\NormalTok{ k }\KeywordTok{e.}\NormalTok{ k }\KeywordTok{\#\textasciitilde{}} \KeywordTok{{-}.}\NormalTok{b}
+\NormalTok{  d}\KeywordTok{=.} \RegionMarkerTok{(}\KeywordTok{/:}\NormalTok{ p }\KeywordTok{\{"}\DecValTok{1}\NormalTok{ d}\RegionMarkerTok{)} \KeywordTok{\{}\NormalTok{ d}
+\NormalTok{  b}\KeywordTok{=.} \KeywordTok{\textasciitilde{}:}\NormalTok{p }\KeywordTok{\{"}\DecValTok{1}\NormalTok{ d}
+  \KeywordTok{m=.} \KeywordTok{+/}\NormalTok{b}
+\NormalTok{  smoutput }\RegionMarkerTok{(}\KeywordTok{":m}\RegionMarkerTok{)}\KeywordTok{,}\StringTok{\textquotesingle{} duplicate key blocks\textquotesingle{}}
+  \KeywordTok{n=.}\NormalTok{ DUPSHOW }\KeywordTok{<.} \KeywordTok{m}
+\NormalTok{  smoutput }\StringTok{\textquotesingle{}first \textquotesingle{}}\KeywordTok{,}\RegionMarkerTok{(}\KeywordTok{":n}\RegionMarkerTok{)}\KeywordTok{,}\StringTok{\textquotesingle{} duplicate row key blocks\textquotesingle{}}
+\NormalTok{  smoutput }\RegionMarkerTok{(}\KeywordTok{<}\NormalTok{p }\KeywordTok{\{}\NormalTok{ h}\RegionMarkerTok{)} \KeywordTok{,\&.>} \KeywordTok{n} \KeywordTok{\{.} \KeywordTok{,.}\NormalTok{ b }\KeywordTok{<;.}\DecValTok{1}\NormalTok{ p }\KeywordTok{\{"}\DecValTok{1}\NormalTok{ d}
+\NormalTok{  r }\KeywordTok{,}\NormalTok{ c }\KeywordTok{,} \KeywordTok{\#}\NormalTok{d}
+\KeywordTok{end.}
+\RegionMarkerTok{)}
+\end{Highlighting}
+\end{Shaded}
+\normalsize
+
+
+%\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+%
+%\begin{enumerate}
+%\item
+%  \hypertarget{fn1}{}
+%
+%  The pay more option is always available.\protect\hyperlink{fnref1}{↩︎}
+%\item
+%  \hypertarget{fn2}{}
+%
+%  WordPress.com is beginning to remind me of Adobe. Stop taking away
+%  longstanding features when upgrading!\protect\hyperlink{fnref2}{↩︎}
+%\end{enumerate}
+
+
+
+%\end{document}
