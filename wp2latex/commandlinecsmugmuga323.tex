@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/}{Command Line C\# SmugMug API Metadata Download}}
 \addcontentsline{toc}{subsection}{Command Line C\# SmugMug API Metadata Download}
@@ -73,13 +73,11 @@ namespace SmugMugMDDumper
         {
           string __helpMsg = @"
 Typical command line calls:
-
 SmugMugMDDumper.exe -apikey:""yourkey"" -email:""youremail"" -password:""nimcompoop"" -output:""c:\test\smugdata.xml""
 SmugMugMDDumper.exe -output:""d:\mystuff\smuggy.xml""
 SmugMugMDDumper.exe -password:""newpassword"" -output:""c:\temp\out.xml""
-SmugMugMDDumper.exe -help
+SmugMugMDDumper.exe -help";
 
-";
           Console.Write(__helpMsg);
           return;
         }
@@ -100,10 +98,8 @@ SmugMugMDDumper.exe -help
         if (comline["output"] != null) __outputFile = comline["output"];
         else __outputFile = outFile;
 
-        // start output file
+        // start output file - open SmugMug session - uses https
         smugmd.WriteToFile(xmlHeader + "<SmugMugData>", __outputFile);
-
-        // open SmugMusg session - uses https
         string __sessionID = smugmd.StartSMSession(__apiKey, __emailAddress, __passWord);
 
         // collect all galleries

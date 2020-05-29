@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/}{Extracting SQL code from SSIS dtsx packages with Python lxml}}
 \addcontentsline{toc}{subsection}{Extracting SQL code from SSIS dtsx packages with Python lxml}
@@ -112,7 +112,7 @@ print(len(ele_set))
 Using transformed element tags of interest blast over the \texttt{dtsx}
 and suck out the bits of interest.
 
-\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5]
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5, basicstyle=\ttfamily\scriptsize]
 # extract sql code in source statements and write to *.sql files 
 total_bytes = 0
 package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
