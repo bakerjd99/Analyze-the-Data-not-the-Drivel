@@ -1,5 +1,4 @@
- 87723025eebf0948bd0dd707f1094e9aece2cec0 bm.pdf
- ef3bbf5d54df941bcad6168b0339b45ab0ff6736 extractingsqlcodefro5673.pdf
+ 66c68b043f802cdad4b89b9dfc7ef7dd2c8b9391 bm.pdf
  6a43f481b6eaf6036dd84d47cf9eef07406d275f ablackswansong985.tex
  e2e56d16f37257f9a6797b8fbb2e8a2951e928bd abloggychristmaslett5275.tex
  a9e495713835eb6b1950f7aa9d96790bb6f97ad0 acnetclassforcalling537.tex
@@ -17,6 +16,7 @@
  11f0bce22b306973ee829b72e4e1bebee357ecf2 australiaitis3782.tex
  6558e1f9d459332ec5c70fd95c9c0478ebd9843c awalkinthepark1159.tex
  6a255fc90fd5f4b5391445b37ac83bd272cf918f bankruptnationwinsth3145.tex
+ 0d2aa4724f72d5abf5bf983806c52948a8389188 betterbloggingwithju5812.tex
  26a4d2ee98e1b6383b96893328da4303d4f75372 bingepretendboink754.tex
  9ebdbc3c12409de0de2a506c395d3560f955ca92 bitcoinisaperfectpro4521.tex
  47f2e6b8f17d3b46ede577f3d091a81e94295873 bloggingbad4473.tex
@@ -24,7 +24,7 @@
  44e689bf9ea654b89a473418f5e3d44355952ecc blogrobotreview3653.tex
  df25a1dba3a69e2e1778989252253927014e68a8 bloodmorons4643.tex
  fd795019c52935b6cef1464adc58fdb342f23dde blurbnicklombstransi2744.tex
- e91dc4c81cf5c29a96a959479dda506ff6b9fda6 bm.tex
+ 3396cadf39be40a9d5221f5838b74d9f790a4ed5 bm.tex
  3653f76080facbc764ad43c307f6ad86369574e9 bmamble.tex
  04bf0fcc0b01c71c0094148e852b160df2ef75a3 bmamblenew.tex
  66df953a9876722caeb75355c969d27cf2967a04 bmtitlepage.tex

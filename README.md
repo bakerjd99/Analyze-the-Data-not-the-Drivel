@@ -16,6 +16,8 @@ and J: Using TeXfrWpxml.ijs (Part 3)](http://bakerjd99.wordpress.com/2012/02/25/
 
 4. [Turn your Blog into an eBook](http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/)
 
+5. [Better Blogging with Jupyter Notebooks on WordPress.com](https://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/)
+
 These files divide into two classes: *plumbing* and *content.* Plumbing
 consists of `LaTeX` preambles, style files, shell scripts and other files
 used to build and format content. Feel free to copy, adapt and tweak
@@ -27,7 +29,7 @@ want to be guilty of plagiarizing my blog?
 If you don't want to wade through hundreds of `LaTeX` files
 you can download a complete consolidated `pdf` version of my 
 blog by following links on this page [Download this Blog](https://analyzethedatanotthedrivel.org/download-this-blog/)
-or by [clicking here.](https://app.box.com/s/8yvm27ag9agtm32nfahd)
+or by [clicking here.](https://bakerjd99.files.wordpress.com/2020/06/bm.pdf)
 
 The same large PDF file is 
 available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf)
@@ -35,4 +37,4 @@ available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Da
 link download the file and ignore the ever spinning busy circle.
 
 John Baker
-November 27, 2017
+June 2, 2020
