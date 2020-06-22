@@ -24,3 +24,4 @@ pause
 :TheEnd
 endlocal
 popd
+rem pause

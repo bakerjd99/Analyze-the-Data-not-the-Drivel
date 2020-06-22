@@ -9,7 +9,8 @@ call prjJepub.bat
 if not exist bm.markdown goto Exception01
 
 rem make bm.epub
-pandoc -S --epub-metadata=bmmetadata.xml --epub-cover-image=blogbanner06.jpg --epub-embed-font=apl385.ttf -o bm.epub bm.markdown
+rem pandoc -S --epub-metadata=bmmetadata.xml --epub-cover-image=blogbanner06.jpg --epub-embed-font=apl385.ttf -o bm.epub bm.markdown
+pandoc --epub-metadata=bmmetadata.xml --epub-cover-image=blogbanner06.jpg --epub-embed-font=apl385.ttf -o bm.epub bm.markdown
 goto TheEnd
 
 REM title EPUB complete - browsing generated file!
@@ -35,4 +36,4 @@ goto Halt
 endlocal
 popd
 
-REM pause
+pause
