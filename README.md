@@ -1,20 +1,20 @@
-![](adndsymsmall.png) [README](http://bakerjd99.wordpress.com/)
+![](adndsymsmall.png) [README](https://bakerjd99.wordpress.com/)
 ===============================================================
 
 This repository holds `LaTeX` and `Markdown` versions of my blog
-[Analyze the Data not the Drivel](http://bakerjd99.wordpress.com/).
+[Analyze the Data not the Drivel](https://bakerjd99.wordpress.com/).
 For details see the blog posts:
 
 1. [WordPress to LaTeX with Pandoc 
-and J: Prerequisites (Part 1)](http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/)
+and J: Prerequisites (Part 1)](https://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/)
 
 2. [WordPress to LaTeX with Pandoc 
-and J: LaTeX Directories (Part 2)](http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
+and J: LaTeX Directories (Part 2)](https://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
 
 3. [WordPress to LaTeX with Pandoc 
-and J: Using TeXfrWpxml.ijs (Part 3)](http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
+and J: Using TeXfrWpxml.ijs (Part 3)](https://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
 
-4. [Turn your Blog into an eBook](http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/)
+4. [Turn your Blog into an eBook](https://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/)
 
 5. [Better Blogging with Jupyter Notebooks on WordPress.com](https://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/)
 
@@ -29,7 +29,7 @@ want to be guilty of plagiarizing my blog?
 If you don't want to wade through hundreds of `LaTeX` files
 you can download a complete consolidated `pdf` version of my 
 blog by following links on this page [Download this Blog](https://analyzethedatanotthedrivel.org/download-this-blog/)
-or by [clicking here.](https://bakerjd99.files.wordpress.com/2020/06/bm.pdf)
+or by [clicking here.](https://bakerjd99.files.wordpress.com/2020/06/bm-1.pdf)
 
 The same large PDF file is 
 available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf)
@@ -37,4 +37,4 @@ available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Da
 link download the file and ignore the ever spinning busy circle.
 
 John Baker
-June 2, 2020
+June 23, 2020
