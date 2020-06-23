@@ -1,5 +1,5 @@
-[King Hobbit
-Kong](http://bakerjd99.wordpress.com/2012/12/16/king-hobbit-kong/)
+ 
+[King Hobbit Kong](http://bakerjd99.wordpress.com/2012/12/16/king-hobbit-kong/)
 -------------------------------------------------------------------------------
 
 *Posted: 16 Dec 2012 22:24:06*

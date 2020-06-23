@@ -1,6 +1,5 @@
-
-[
-EquiFucked](http://analyzethedatanotthedrivel.org/2017/09/26/equifucked/)
+ 
+[EquiFucked](http://analyzethedatanotthedrivel.org/2017/09/26/equifucked/)
 --------------------------------------------------------------------------
 
 *Posted: 26 Sep 2017 22:41:45*

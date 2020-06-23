@@ -1,5 +1,5 @@
-[Revenge of the PhD
-Camera](http://bakerjd99.wordpress.com/2011/12/04/revenge-of-the-phd-camera/)
+ 
+[Revenge of the PhD Camera](http://bakerjd99.wordpress.com/2011/12/04/revenge-of-the-phd-camera/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 05 Dec 2011 05:01:51*

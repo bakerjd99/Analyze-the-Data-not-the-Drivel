@@ -1,6 +1,5 @@
-
-[JOD Update: 
-Version 0.9.97\*](https://bakerjd99.wordpress.com/2015/03/22/jod-update-version-0-9-97/) 
+ 
+[JOD Update: Version 0.9.97\*](https://bakerjd99.wordpress.com/2015/03/22/jod-update-version-0-9-97/) 
 -----------------------------------------------------------------------------------------------------
 
 *Posted: 22 Mar 2015 22:53:00*

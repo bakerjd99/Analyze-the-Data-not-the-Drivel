@@ -1,5 +1,5 @@
-[Oh Crap Martin Gardner has
-Died!](http://bakerjd99.wordpress.com/2010/05/24/oh-crap-martin-gardner-has-died/)
+ 
+[Oh Crap Martin Gardner has Died!](http://bakerjd99.wordpress.com/2010/05/24/oh-crap-martin-gardner-has-died/)
 --------------------------------------------------------------------------------------------------------------
 
 *Posted: 24 May 2010 15:21:50*

@@ -1,6 +1,5 @@
-
-[Sudden 
-Genocide](http://analyzethedatanotthedrivel.org/2019/11/15/sudden-genocide/)
+ 
+[Sudden Genocide](http://analyzethedatanotthedrivel.org/2019/11/15/sudden-genocide/)
 ---------------------------------------------------------------------------
 
 *Posted: 15 Nov 2019 17:23:59*

@@ -1,6 +1,5 @@
-
-[What is 
-Required: Print Captions on the back of Photographs](https://bakerjd99.wordpress.com/2015/09/07/what-is-required-print-captions-on-the-back-of-photographs/)
+ 
+[What is Required: Print Captions on the back of Photographs](https://bakerjd99.wordpress.com/2015/09/07/what-is-required-print-captions-on-the-back-of-photographs/)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 07 Sep 2015 20:14:52*

@@ -1,6 +1,5 @@
-
-[Review: Finding
-Vivian Maier](http://bakerjd99.wordpress.com/2014/05/12/review-finding-vivian-maier/)
+ 
+[Review: Finding Vivian Maier](http://bakerjd99.wordpress.com/2014/05/12/review-finding-vivian-maier/)
 ------------------------------------------------------------------------------------------------------
 
 *Posted: 12 May 2014 23:23:39*

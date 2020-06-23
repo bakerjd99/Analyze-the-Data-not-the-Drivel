@@ -1,5 +1,5 @@
-[The Reports of Library Death are
-Exaggerated](http://bakerjd99.wordpress.com/2010/05/15/the-reports-of-library-death-are-exaggerated/)
+ 
+[The Reports of Library Death are Exaggerated](http://bakerjd99.wordpress.com/2010/05/15/the-reports-of-library-death-are-exaggerated/)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 15 May 2010 15:15:24*

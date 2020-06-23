@@ -1,6 +1,5 @@
-
-[Don’t be a
-Weenie Launch Cassini](http://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/)
+ 
+[Don’t be a Weenie Launch Cassini](http://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/)
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Sep 2017 17:27:15*

@@ -1,5 +1,5 @@
-[New Conan not as Philosophical as Old
-Conan](http://bakerjd99.wordpress.com/2011/09/18/new-conan-not-as-philosophical-as-old-conan/)
+ 
+[New Conan not as Philosophical as Old Conan](http://bakerjd99.wordpress.com/2011/09/18/new-conan-not-as-philosophical-as-old-conan/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 19 Sep 2011 01:48:35*

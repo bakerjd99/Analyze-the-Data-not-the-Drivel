@@ -1,5 +1,5 @@
-[The Instagram Metadata
-Massacre](http://bakerjd99.wordpress.com/2011/12/14/the-instagram-metadata-massacre/)
+ 
+[The Instagram Metadata Massacre](http://bakerjd99.wordpress.com/2011/12/14/the-instagram-metadata-massacre/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 14 Dec 2011 23:19:45*

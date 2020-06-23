@@ -1,6 +1,5 @@
-
-[Blogging
-Bad 2013](http://bakerjd99.wordpress.com/2013/12/31/blogging-bad-2013/)
+ 
+[Blogging Bad 2013](http://bakerjd99.wordpress.com/2013/12/31/blogging-bad-2013/)
 ---------------------------------------------------------------------------------
 
 *Posted: 31 Dec 2013 15:49:06*

@@ -1,5 +1,5 @@
-[Old white guys look at the
-sky!](http://bakerjd99.wordpress.com/2011/11/20/old-white-guys-look-at-the-sky/)
+ 
+[Old white guys look at the sky!](http://bakerjd99.wordpress.com/2011/11/20/old-white-guys-look-at-the-sky/)
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Nov 2011 22:35:44*

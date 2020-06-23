@@ -1,6 +1,5 @@
-
-[SWAG a J/EXCEL/GIT 
-Personal Cash Flow Forecasting Mob](https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/)
+ 
+[SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob](https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 10 Jan 2016 23:14:39*
@@ -28,7 +27,7 @@ suspicious people roll their own.
 
 **SWAG**
 
-SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob[^1] that meets
+SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob[^1x5175] that meets
 my eccentric needs. I wanted a tool that:
 
 1.  Abstracted away [*accounting
@@ -111,7 +110,7 @@ what people typically do with cash.
 
 4.  `borrow` borrows money and sets future loan payments. `borrow`
     supports simple amortization loans but is also capable of reading an
-    arbitrary payment schedule that can be used for *exotic*[^2] loans.
+    arbitrary payment schedule that can be used for *exotic*[^2x5175] loans.
 
 5.  `transfer` moves money between reserves, debts, expenses and income
     series.
@@ -228,7 +227,7 @@ files for each scenario it evaluates.
 
 The [spreadsheet
 `swag.xlsx`](https://github.com/bakerjd99/jacks/blob/master/swag/swag.xlsx)
-loads SWAG TAB delimited text files and plots results.[^3] I plot
+loads SWAG TAB delimited text files and plots results.[^3x5175] I plot
 monthly cash flow, estimated net worth and debt/equity for each
 scenario. [Here is a typical cash flow plot](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/inclusions/meanbalance.png). It
 estimates mean monthly cash balance over the scenario time range.
@@ -242,16 +241,16 @@ use or adapt SWAG for your own purposes. If you do leave a note on this
 blog or follow the [SWAG repository on
 GitHub](https://github.com/bakerjd99/jacks/tree/master/swag).
 
-[^1]: What do you call *dis-integrated* collections of programs that you
+[^1x5175]: What do you call *dis-integrated* collections of programs that you
     use to solve problems? Declaring such dog piles “systems” demeans
     the word “system” and gives the impression that everything has been
     planned. This is not how I roll. “Mob” is far more appropriate. It
     conveys a proper sense of disorder and danger.
 
-[^2]: When borrowing money you should always plan on paying it all back.
+[^2x5175]: When borrowing money you should always plan on paying it all back.
     Insist on a complete iron clad repayment schedule. If such a
     schedule cannot be provided run like hell or prepare for the thick
     end of a baseball bat to be rammed up your financial ass.
 
-[^3]: It may be necessary to adjust file paths on the EXCEL DATA ribbon
+[^3x5175]: It may be necessary to adjust file paths on the EXCEL DATA ribbon
     to load SWAG TAB delimited text files.

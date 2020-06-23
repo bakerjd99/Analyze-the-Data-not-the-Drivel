@@ -1,6 +1,5 @@
-
-[What is Required: Citizen
-Environment Sampling Drones](http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/)
+ 
+[What is Required: Citizen Environment Sampling Drones](http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 01 May 2017 00:34:14*

@@ -1,6 +1,5 @@
-
-[Social Security Numbers
-are Broken beyond Repair](https://bakerjd99.wordpress.com/2015/05/17/social-security-numbers-are-broken-beyond-repair/)
+ 
+[Social Security Numbers are Broken beyond Repair](https://bakerjd99.wordpress.com/2015/05/17/social-security-numbers-are-broken-beyond-repair/)
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 17 May 2015 18:24:39*

@@ -1,5 +1,5 @@
-[More on Kindle Oriented
-LaTeX](http://bakerjd99.wordpress.com/2011/07/22/more-on-kindle-oriented-latex/)
+ 
+[More on Kindle Oriented LaTeX](http://bakerjd99.wordpress.com/2011/07/22/more-on-kindle-oriented-latex/)
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 22 Jul 2011 16:09:01*

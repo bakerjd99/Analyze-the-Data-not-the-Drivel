@@ -1,5 +1,5 @@
-[Open Source Hilbert for the
-Kindle](http://bakerjd99.wordpress.com/2011/07/12/open-source-hilbert-for-the-kindle/)
+ 
+[Open Source Hilbert for the Kindle](http://bakerjd99.wordpress.com/2011/07/12/open-source-hilbert-for-the-kindle/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Jul 2011 04:02:12*

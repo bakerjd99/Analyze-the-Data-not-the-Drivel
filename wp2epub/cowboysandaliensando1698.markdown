@@ -1,5 +1,5 @@
-[Cowboys and Aliens and
-Obama](http://bakerjd99.wordpress.com/2011/07/31/cowboys-and-aliens-and-obama/)
+ 
+[Cowboys and Aliens and Obama](http://bakerjd99.wordpress.com/2011/07/31/cowboys-and-aliens-and-obama/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Jul 2011 21:47:17*

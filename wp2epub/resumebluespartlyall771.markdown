@@ -1,5 +1,5 @@
-[Resume blues partly alleviated by
-LaTeX](http://bakerjd99.wordpress.com/2010/08/28/resume-blues-partly-alleviated-by-latex/)
+ 
+[Resume blues partly alleviated by LaTeX](http://bakerjd99.wordpress.com/2010/08/28/resume-blues-partly-alleviated-by-latex/)
 -----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Aug 2010 16:26:06*

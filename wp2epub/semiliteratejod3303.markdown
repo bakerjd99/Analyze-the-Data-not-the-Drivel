@@ -1,5 +1,5 @@
-[Semi-Literate
-JOD](http://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/)
+ 
+[Semi-Literate JOD](http://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/)
 ---------------------------------------------------------------------------------
 
 *Posted: 02 Oct 2012 04:08:52*

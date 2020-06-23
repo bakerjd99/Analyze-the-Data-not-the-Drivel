@@ -1,6 +1,5 @@
-
-[FCC Follies
-and Monkey Browsing](http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/)
+ 
+[FCC Follies and Monkey Browsing](http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Mar 2017 04:03:15*

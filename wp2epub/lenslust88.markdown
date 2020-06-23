@@ -1,5 +1,5 @@
-[Lens 
-Lust](http://bakerjd99.wordpress.com/2009/09/22/lens-lust/)
+ 
+[Lens Lust](http://bakerjd99.wordpress.com/2009/09/22/lens-lust/)
 -----------------------------------------------------------------
 
 *Posted: 22 Sep 2009 19:34:40*

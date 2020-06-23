@@ -1,5 +1,5 @@
-[Setting Good SmugMug Key
-Words](http://bakerjd99.wordpress.com/2010/02/17/setting-good-smugmug-key-words/)
+ 
+[Setting Good SmugMug Key Words](http://bakerjd99.wordpress.com/2010/02/17/setting-good-smugmug-key-words/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 17 Feb 2010 19:57:50*

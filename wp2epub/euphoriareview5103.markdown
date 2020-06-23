@@ -1,6 +1,5 @@
-
-[Euphoria: 
-Review](https://bakerjd99.wordpress.com/2015/07/18/euphoria-review/)
+ 
+[Euphoria: Review](https://bakerjd99.wordpress.com/2015/07/18/euphoria-review/)
 --------------------------------------------------------------------
 
 *Posted: 18 Jul 2015 16:47:38*

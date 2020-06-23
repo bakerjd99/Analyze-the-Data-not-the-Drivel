@@ -1,6 +1,5 @@
-
-[Downloading SmugMug 
-Captions with Python and Jupyter](http://analyzethedatanotthedrivel.org/2017/12/24/downloading-smugmug-captions-with-python-and-jupyter/)
+ 
+[Downloading SmugMug Captions with Python and Jupyter](http://analyzethedatanotthedrivel.org/2017/12/24/downloading-smugmug-captions-with-python-and-jupyter/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 24 Dec 2017 20:38:48*

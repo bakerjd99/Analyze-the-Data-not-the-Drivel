@@ -1,6 +1,5 @@
-
-[Tipping with
-Bitcoins](http://bakerjd99.wordpress.com/2013/12/01/tipping-with-bitcoins/)
+ 
+[Tipping with Bitcoins](http://bakerjd99.wordpress.com/2013/12/01/tipping-with-bitcoins/)
 -----------------------------------------------------------------------------------------
 
 *Posted: 02 Dec 2013 02:10:10*

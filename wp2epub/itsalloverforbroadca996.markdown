@@ -1,5 +1,5 @@
-[It’s all over for Broadcast
-TV](http://bakerjd99.wordpress.com/2011/01/12/its-all-over-for-broadcast-tv/)
+ 
+[It’s all over for Broadcast TV](http://bakerjd99.wordpress.com/2011/01/12/its-all-over-for-broadcast-tv/)
 ----------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Jan 2011 06:21:21*

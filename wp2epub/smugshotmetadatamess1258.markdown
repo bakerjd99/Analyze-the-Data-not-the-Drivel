@@ -1,5 +1,5 @@
-[SmugShot Metadata
-Mess](http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/)
+ 
+[SmugShot Metadata Mess](http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 03 Apr 2011 17:53:02*

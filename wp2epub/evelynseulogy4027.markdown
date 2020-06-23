@@ -1,6 +1,5 @@
-
-[Evelyn’s 
-Eulogy](http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/)
+ 
+[Evelyn’s Eulogy](http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/)
 ----------------------------------------------------------------------------
 
 *Posted: 16 May 2013 00:04:44*

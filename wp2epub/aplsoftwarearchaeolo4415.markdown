@@ -1,6 +1,5 @@
-
-[APL Software
-Archaeology `.dbi` Edition](http://bakerjd99.wordpress.com/2013/12/26/apl-software-archaeology-dbi-edition/)
+ 
+[APL Software Archaeology `.dbi` Edition](http://bakerjd99.wordpress.com/2013/12/26/apl-software-archaeology-dbi-edition/)
 ------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 27 Dec 2013 03:39:00*

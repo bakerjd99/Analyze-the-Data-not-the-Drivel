@@ -1,5 +1,5 @@
-[Controlling Cell Phones the new IT
-Frontier](http://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/)
+ 
+[Controlling Cell Phones the new IT Frontier](http://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Jun 2012 17:08:31*

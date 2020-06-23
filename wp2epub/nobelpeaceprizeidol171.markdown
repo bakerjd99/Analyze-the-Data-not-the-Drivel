@@ -1,5 +1,5 @@
-[Nobel Peace Prize
-Idol](http://bakerjd99.wordpress.com/2009/10/09/nobel-peace-prize-idol/)
+ 
+[Nobel Peace Prize Idol](http://bakerjd99.wordpress.com/2009/10/09/nobel-peace-prize-idol/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 09 Oct 2009 17:03:39*

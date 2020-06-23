@@ -1,5 +1,5 @@
-[A Peculiar Book
-Club](http://bakerjd99.wordpress.com/2011/07/02/a-peculiar-book-club/)
+ 
+[A Peculiar Book Club](http://bakerjd99.wordpress.com/2011/07/02/a-peculiar-book-club/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 02 Jul 2011 20:23:48*

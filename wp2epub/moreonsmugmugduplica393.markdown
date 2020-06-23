@@ -1,5 +1,5 @@
-[More on SmugMug
-Duplicates](http://bakerjd99.wordpress.com/2010/02/11/more-on-smugmug-duplicates/)
+ 
+[More on SmugMug Duplicates](http://bakerjd99.wordpress.com/2010/02/11/more-on-smugmug-duplicates/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 11 Feb 2010 20:22:13*

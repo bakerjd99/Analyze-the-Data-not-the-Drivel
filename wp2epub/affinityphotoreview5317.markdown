@@ -1,6 +1,5 @@
-
-[Affinity Photo 
-Review](http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/)
+ 
+[Affinity Photo Review](http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/)
 --------------------------------------------------------------------------------
 
 *Posted: 22 Jan 2017 23:40:20*

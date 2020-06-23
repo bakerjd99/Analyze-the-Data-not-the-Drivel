@@ -1,6 +1,5 @@
-
-[JOD Update: 
-J 8.02 QT/JHS/64 bit Systems](http://bakerjd99.wordpress.com/2014/06/14/jod-update-j-8-02-qtjhs64-bit-systems/)
+ 
+[JOD Update: J 8.02 QT/JHS/64 bit Systems](http://bakerjd99.wordpress.com/2014/06/14/jod-update-j-8-02-qtjhs64-bit-systems/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 14 Jun 2014 22:29:17*

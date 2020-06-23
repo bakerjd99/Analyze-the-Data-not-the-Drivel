@@ -1,6 +1,5 @@
-
-[Government 
-Shutdown and Rapture 2018](http://analyzethedatanotthedrivel.org/2018/01/21/government-shutdown-and-rapture-2018/)
+ 
+[Government Shutdown and Rapture 2018](http://analyzethedatanotthedrivel.org/2018/01/21/government-shutdown-and-rapture-2018/)
 ------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Jan 2018 21:43:58*

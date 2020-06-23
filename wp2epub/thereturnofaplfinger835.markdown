@@ -1,5 +1,5 @@
-[The Return of APL
-Fingers](http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/)
+ 
+[The Return of APL Fingers](http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 12 Nov 2010 03:34:29*

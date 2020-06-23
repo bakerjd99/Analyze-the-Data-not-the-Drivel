@@ -1,5 +1,5 @@
-[Why Code when you can
-Steal](http://bakerjd99.wordpress.com/2010/01/28/why-code-when-you-can-steal/)
+ 
+[Why Code when you can Steal](http://bakerjd99.wordpress.com/2010/01/28/why-code-when-you-can-steal/)
 -----------------------------------------------------------------------------------------------------
 
 *Posted: 28 Jan 2010 15:33:30*

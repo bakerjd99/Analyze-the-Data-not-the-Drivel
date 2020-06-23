@@ -1,6 +1,5 @@
-
-[Review: 
-Into the Wild](http://bakerjd99.wordpress.com/2014/04/01/review-into-the-wild/)
+ 
+[Review: Into the Wild](http://bakerjd99.wordpress.com/2014/04/01/review-into-the-wild/)
 ----------------------------------------------------------------------------------------
 
 *Posted: 02 Apr 2014 01:26:18*

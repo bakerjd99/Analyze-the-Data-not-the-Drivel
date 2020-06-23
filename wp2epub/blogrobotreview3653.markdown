@@ -1,6 +1,5 @@
-
-[2012
-Blog Robot Review](http://bakerjd99.wordpress.com/2012/12/31/2012-blog-robot-review/)
+ 
+[2012 Blog Robot Review](http://bakerjd99.wordpress.com/2012/12/31/2012-blog-robot-review/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 31 Dec 2012 15:36:11*

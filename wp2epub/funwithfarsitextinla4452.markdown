@@ -1,6 +1,5 @@
-
-[Fun with
-Farsi Text in LaTeX](http://bakerjd99.wordpress.com/2013/12/29/fun-with-farsi-text-in-latex/)
+ 
+[Fun with Farsi Text in LaTeX](http://bakerjd99.wordpress.com/2013/12/29/fun-with-farsi-text-in-latex/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 30 Dec 2013 03:41:03*

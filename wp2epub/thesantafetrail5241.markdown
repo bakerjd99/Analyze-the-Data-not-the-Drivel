@@ -1,6 +1,5 @@
-
-[The Santa Fe
-Trail](https://bakerjd99.wordpress.com/2016/04/18/the-santa-fe-trail/)
+ 
+[The Santa Fe Trail](https://bakerjd99.wordpress.com/2016/04/18/the-santa-fe-trail/)
 ----------------------------------------------------------------------
 
 *Posted: 18 Apr 2016 23:41:35*

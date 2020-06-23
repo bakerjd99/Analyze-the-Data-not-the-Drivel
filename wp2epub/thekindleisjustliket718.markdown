@@ -1,5 +1,5 @@
-[The Kindle is just like the
-KKK](http://bakerjd99.wordpress.com/2010/08/04/the-kindle-is-just-like-the-kkk/)
+ 
+[The Kindle is just like the KKK](http://bakerjd99.wordpress.com/2010/08/04/the-kindle-is-just-like-the-kkk/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 04 Aug 2010 17:37:00*

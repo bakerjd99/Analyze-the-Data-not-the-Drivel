@@ -1,6 +1,5 @@
-
-[Too 
-Busy to Blog](http://bakerjd99.wordpress.com/2013/06/30/too-busy-to-blog/)
+ 
+[Too Busy to Blog](http://bakerjd99.wordpress.com/2013/06/30/too-busy-to-blog/)
 -------------------------------------------------------------------------------
 
 *Posted: 30 Jun 2013 22:54:21*

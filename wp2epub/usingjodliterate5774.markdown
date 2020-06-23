@@ -1,4 +1,5 @@
-[Using jodliterate](http://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/) {#using-jodliterate .unnumbered}
+ 
+[Using jodliterate](http://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/) 
 ----------------------------------------------------------------------------------------
 
 *Posted: 25 May 2020 19:02:26*
@@ -10,14 +11,14 @@ documents.
 The *Bible*, *Koran*, and *Bhagavad Gita* of Literate Programming is Donald Knuth's 
 [masterful tome](https://www.goodreads.com/book/show/112245.Literate_Programming) of the same name.
 
-![](https://bakerjd99.files.wordpress.com/2020/05/literate_programming_book_cover_smaller.png)
+[Image Link: Literate Programming cover](https://bakerjd99.files.wordpress.com/2020/05/literate_programming_book_cover_smaller.png)
 
-Knuth applied Literate Programming to his $\TeX$ systems and produced what 
+Knuth applied Literate Programming to his TeX systems and produced what 
 many consider [enduring masterpieces](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489#customerReviews) 
 of program documentation.
 
-`jodliterate` is certainly [not worthy](https://www.youtube.com/watch?v=o5FT3IGXtAk) of $\TeX$ 
-level accolades but with a little work it's possible to produce fine documents. 
+`jodliterate` is certainly [not worthy](https://www.youtube.com/watch?v=o5FT3IGXtAk) 
+of TeX level accolades but with a little work it's possible to produce fine documents. 
 This [J kernel notebook](https://github.com/martin-saurer/jkernel) outlines how you can install
 and use `jodliterate`. [Jupyter](https://jupyter.org/) notebooks are typically executed but to accommodate J
 users that do hot have Jupyter this notebook is also available on GitHub 
@@ -63,7 +64,7 @@ To use `jodliterate` you need to:
 2. Install the J addons JOD, JODSOURCE, and JODDOCUMENT.
 3. Build the JOD development dictionaries from JODSOURCE.
 4. Install a current version of [pandoc](https://pandoc.org/).
-5. Install a current version of $\TeX$ and $\LaTeX$.
+5. Install a current version of TeX and LaTeX.
 6. Make the `jodliterate` J script.
 7. Run `jodliterate` on a JOD *group* with pandoc compatible document fragments.
 8. Compile the files of the previous step to produce a PDF
@@ -159,11 +160,11 @@ NB. 'install' jpkg '*'  NB.
 I mostly use the Windows JQT version of pacman to install and maintain J addons. 
 You can find pacman on the tools menu. 
 
-![](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman_menu-1.png)
+[Image Link: Pacman Menu](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman_menu-1.png)
 
 pacman shows all available addons and provides tools for installing, updating, and removing them. 
 
-![](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman.png)
+[Image Link: Pacman Main Screen](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman.png)
 
 The GUI version is easy to use. Press the `Select All` button and then press the `Install` button to install
 all the addons. To update addons select the `Upgrades` menu and select the addons you want to update.
@@ -237,7 +238,7 @@ erase 'load_dev_tmp'
 
 [pandoc](https://pandoc.org/) is easily one of the most useful markup utilities on the 
 [intertubes](https://www.urbandictionary.com/define.php?term=intertubes). If you
-routinely deal with markup formats like markdown, XML, $\LaTeX$, json and
+routinely deal with markup formats like markdown, XML, LaTeX, json and
 you aren't using pandoc you are working too hard.
 
 Be lazy! [Install pandoc](https://pandoc.org/installing.html). 
@@ -285,22 +286,22 @@ pcmd=: THISPANDOC_ajodliterate_,' --list-highlight-languages'
 
 #### Step 5: Install a current version of LaTeX
 
-`jodliterate` uses $\LaTeX$ to compile PDF documents. When `setjodliterate` runs 
+`jodliterate` uses LaTeX to compile PDF documents. When `setjodliterate` runs 
 it sets an output directory and writes
-a $\LaTeX$ preamble file `JODLiteratePreamble.tex` to it.
-It's a good idea to review this file to get an idea of the $\LaTeX$ packages
-`jodliterate` uses. It's possible that some of these packages are not in your $\LaTeX$ distribution
+a LaTeX preamble file `JODLiteratePreamble.tex` to it.
+It's a good idea to review this file to get an idea of the LaTeX packages
+`jodliterate` uses. It's possible that some of these packages are not in your LaTeX distribution
 and will have to be installed.
 
-To ease the burden of $\LaTeX$ package maintenance I use freely available
-$\TeX$ versions that automatically install missing packages. 
+To ease the burden of LaTeX package maintenance I use freely available
+TeX versions that automatically install missing packages. 
 
 1. On Windows I use [MiKTeX](https://miktex.org/)
 2. On other platforms I use [TeXLive](https://en.wikipedia.org/wiki/TeX_Live)
 
 If your system automatically installs packages the first time you
 compile `jodliterate` output it may fetch missing packages from
-The Comprehensive $\TeX$ Archive Network [(CTAN)](https://www.ctan.org/). 
+The Comprehensive TeX Archive Network [(CTAN)](https://www.ctan.org/). 
 If new packages are installed reprocess your files a few times to insure all the 
 required packages are downloaded and installed.
 
@@ -494,7 +495,7 @@ _250 {. shell ltxpath,'sunmoon.bat'
 
 #### Storing jodliterate pandoc compatible document fragments in JOD
 
-Effective use of `jodliterate` requires a melange of Markdown, $\LaTeX$, JOD, and J skills combined with a healthy 
+Effective use of `jodliterate` requires a melange of Markdown, LaTeX, JOD, and J skills combined with a healthy 
 attitude about *experimentation*. You have to try things and see if they work! 
 
 However, before you can *try*  `jodliterate` document fragments you have `put` them in JOD dictionaries.
@@ -502,10 +503,10 @@ However, before you can *try*  `jodliterate` document fragments you have `put` t
 `jodliterate` uses two types of document fragments:
 
 1. markdown overview group documents.
-2. $\LaTeX$ overview macros.
+2. LaTeX overview macros.
 
-Markdown group documents are transformed by pandoc into $\LaTeX$ but the overview macros are not altered
-in any way. This enables the use of arbitrarily complex $\LaTeX$.  The following examples show how to insert
+Markdown group documents are transformed by pandoc into LaTeX but the overview macros are not altered
+in any way. This enables the use of arbitrarily complex LaTeX.  The following examples show how to insert
 document fragments.
 
 #### Create a jodliterate Demo Dictionary
@@ -605,7 +606,7 @@ litheader=: (0 : 0)
 
 This markdown text will be 
 [transmogrified](https://calvinandhobbes.fandom.com) 
-by `pandoc` to \LaTeX. A group interface will be 
+by `pandoc` to LaTeX. A group interface will be 
 generated from the `IFACEWORDSlitheader`
 list. Interface lists are usually, but 
 not always, associated with a *class group*.
@@ -669,7 +670,7 @@ NB. the overview with the group 'litmacro'
 
 litmacro_oview_tex=: (0 : 0)
 
-This \LaTeX\ code will not be 
+This LaTeX\ code will not be 
 touched by \texttt{jodliterate}. 
 
 \subsection{Business Babel}
@@ -679,7 +680,7 @@ touched by \texttt{jodliterate}.
 \emph{Excerpt from an actual business document!}
 Obviously composed in an irony free zone.
 
-\subsection{Some Complicated \LaTeX}
+\subsection{Some Complicated LaTeX}
 
 \medskip
 

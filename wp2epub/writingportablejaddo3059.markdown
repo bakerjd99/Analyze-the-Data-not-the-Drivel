@@ -1,6 +1,5 @@
-
-[Writing Portable J
-addons](http://bakerjd99.wordpress.com/2012/07/23/writing-portable-j-addons/)
+ 
+[Writing Portable J addons](http://bakerjd99.wordpress.com/2012/07/23/writing-portable-j-addons/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 23 Jul 2012 19:58:34*

@@ -1,6 +1,5 @@
-
-[My Dream of 
-Liberty Encased](http://bakerjd99.wordpress.com/2013/01/04/my-dream-of-liberty-encased/)
+ 
+[My Dream of Liberty Encased](http://bakerjd99.wordpress.com/2013/01/04/my-dream-of-liberty-encased/)
 -----------------------------------------------------------------------------------------------------
 
 *Posted: 05 Jan 2013 05:31:35*

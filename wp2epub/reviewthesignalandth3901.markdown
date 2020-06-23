@@ -1,6 +1,5 @@
-
-[Review: The 
-Signal and the Noise](http://bakerjd99.wordpress.com/2013/03/27/review-the-signal-and-the-noise/)
+ 
+[Review: The Signal and the Noise](http://bakerjd99.wordpress.com/2013/03/27/review-the-signal-and-the-noise/)
 --------------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Mar 2013 01:41:07*

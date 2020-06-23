@@ -1,6 +1,5 @@
-
-[Review: The Creature
-from Jekyll Island](http://bakerjd99.wordpress.com/2014/03/17/review-the-creature-from-jekyll-island/)
+ 
+[Review: The Creature from Jekyll Island](http://bakerjd99.wordpress.com/2014/03/17/review-the-creature-from-jekyll-island/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Mar 2014 01:23:27*

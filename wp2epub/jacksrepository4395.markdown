@@ -1,6 +1,5 @@
-
-[Jacks
-Repository](http://bakerjd99.wordpress.com/2013/12/21/jacks-repository/)
+ 
+[Jacks Repository](http://bakerjd99.wordpress.com/2013/12/21/jacks-repository/)
 -------------------------------------------------------------------------------
 
 *Posted: 21 Dec 2013 19:30:56*

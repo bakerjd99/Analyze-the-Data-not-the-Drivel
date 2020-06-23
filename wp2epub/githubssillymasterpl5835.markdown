@@ -1,3 +1,4 @@
+ 
 [GitHub's Silly Master Plan](http://analyzethedatanotthedrivel.org/2020/06/20/githubs-silly-master-plan/) 
 ---------------------------------------------------------------------------------------------------------
 
@@ -42,7 +43,7 @@ I know what you're thinking. How did white supremacists infiltrate the
 woke thinking denizens of GitHub and embed racially loaded terms like
 "master" in code repositories? Obviously, wherever the word "master"
 occurs it's referring to slavery and the brutal suppression of people of
-color[^1] because *words have only one meaning and context is always
+color[^1x5835] because *words have only one meaning and context is always
 irrelevant*. To atone for their terminological sins GitHub is planning
 to rename the "master" branch something *currently* innocuous like
 "main".
@@ -65,7 +66,7 @@ Here are a few rhetorical questions:
 
 - Will renaming the master branch demonstrably improve a single black life?
 
-- What will we call Chess Grandmasters[^2]?
+- What will we call Chess Grandmasters[^2x5835]?
 
 - Must we rename Masters Degrees to Main Degrees?
 
@@ -75,15 +76,15 @@ Here are a few rhetorical questions:
 
 And, it goes without saying, that we can never *master* anything, *in
 the sense of high achievement*, ever again because because it's clearly
-*woke racist*[^3].
+*woke racist*[^3x5835].
 
-[^1]: "People of color" is woke but the transposition "colored people"
+[^1x5835]: "People of color" is woke but the transposition "colored people"
     is not! The improper use of word order or pronouns is now a capital
     offense. First time offenders will be let off with a Twitter beating
     but if you persist, like some nagging *people of vagina*, it's
     straight to the burning pyre for you.
 
-[^2]: Contrary to widespread woke opinion "Grandmaster" is not a [KKK
+[^2x5835]: Contrary to widespread woke opinion "Grandmaster" is not a [KKK
     rank](https://en.wikipedia.org/wiki/Grand_Wizard)
 
-[^3]: *Woke racism* should not be confused with real racism.
+[^3x5835]: *Woke racism* should not be confused with real racism.

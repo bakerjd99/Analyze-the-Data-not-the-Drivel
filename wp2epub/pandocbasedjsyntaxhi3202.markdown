@@ -1,5 +1,5 @@
-[Pandoc based J
-Syntax Highlighting](http://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
+ 
+[Pandoc based J Syntax Highlighting](http://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Sep 2012 04:30:58*
@@ -37,7 +37,7 @@ easily produce other formats as needed.
 As handy as Pandoc’s markup conversions are this nifty tool also
 supports syntax highlighting for over a hundred programming languages.
 Unfortunately, my favorite [language J](http://www.jsoftware.com/) is
-not on Pandoc’s list of highlighted languages.[^1] Where have I run into
+not on Pandoc’s list of highlighted languages.[^3202x1] Where have I run into
 [this
 problem](http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/)
 before? Luckily for me pandoc is an open source tool and Pandoc’s author
@@ -306,6 +306,6 @@ day job.
 	settings #~ ((< srsm)"1 grade) +. (> srsm)"1 grade
 	)
 
-[^1]: J has its own syntax highlighting tools but they are not part of a
+[^3202x1]: J has its own syntax highlighting tools but they are not part of a
     document generation system. Pandoc’s highlighters elegantly feed
     into many output formats making them far more useful.

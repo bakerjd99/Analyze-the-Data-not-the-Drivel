@@ -1,6 +1,5 @@
-
-[Fifty Years of
-Nauseating Kennedy Nostalgia](http://bakerjd99.wordpress.com/2013/11/15/fifty-years-of-nauseating-kennedy-nostalgia/)
+ 
+[Fifty Years of Nauseating Kennedy Nostalgia](http://bakerjd99.wordpress.com/2013/11/15/fifty-years-of-nauseating-kennedy-nostalgia/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Nov 2013 23:14:46*

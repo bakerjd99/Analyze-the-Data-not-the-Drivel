@@ -1,5 +1,5 @@
-[Counting
-Gods](http://bakerjd99.wordpress.com/2009/10/26/counting-gods/)
+ 
+[Counting Gods](http://bakerjd99.wordpress.com/2009/10/26/counting-gods/)
 -------------------------------------------------------------------------
 
 *Posted: 26 Oct 2009 16:28:33*

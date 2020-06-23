@@ -1,6 +1,5 @@
-
-[Cutting the Stinking Tauntaun 
-and other Adventures in Software Archeology](https://bakerjd99.wordpress.com/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/) 
+ 
+[Cutting the Stinking Tauntaun and other Adventures in Software Archeology](https://bakerjd99.wordpress.com/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/) 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Apr 2015 18:51:31*

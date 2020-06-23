@@ -1,11 +1,10 @@
 
-[iNap \#1: Enough 
-People are Scum](http://analyzethedatanotthedrivel.org/2018/05/17/inap-1-enough-people-are-scum/)
+[iNap \#1: Enough People are Scum](http://analyzethedatanotthedrivel.org/2018/05/17/inap-1-enough-people-are-scum/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 17 May 2018 20:45:27*
 
-Intelligible systems are built on a few basic principles.[^1] While
+Intelligible systems are built on a few basic principles.[^1x5588] While
 reducing my dour skepticism to the memorable maxims that codify
 [*Informed Naked Ape
 Protocol*](https://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/).
@@ -46,7 +45,7 @@ than the weather. Nevertheless, we can infer that human scum density is
 How big is appreciable?
 
 My bitter sampling of humanity yields an estimate of approximately 0.05
-for contemporary American society.[^2] It’s definitely bad news that 5%
+for contemporary American society.[^2x5588] It’s definitely bad news that 5%
 of the people around you cannot be trusted or depended on. It’s even
 worse news that human scum, like pond scum, often floats to the upper
 echelons of society. This is a nasty reality and I wish it wasn’t so but
@@ -56,7 +55,7 @@ crushed.
 The first step in adapting to scummy naked apes is acknowledging the
 most fundamental fact about them — *enough people are scum!*
 
-[^1]: The human preference for systems with a few axioms is an artifact
+[^1x5588]: The human preference for systems with a few axioms is an artifact
     of our primitive intellects. There are few if any human beings that
     would be comfortable with axiomatic theories that depend on
     trillions of independent axioms yet we know that such systems exist
@@ -65,5 +64,5 @@ most fundamental fact about them — *enough people are scum!*
     little more than thumb-sucking. It makes our baby brains happy even
     if it will not solve our problems.
 
-[^2]: Yes, human scum density varies with culture. Some societies are
+[^2x5588]: Yes, human scum density varies with culture. Some societies are
     briefly more virtuous than others.

@@ -1,5 +1,5 @@
-[Blogging off for
-Christmas](http://bakerjd99.wordpress.com/2011/12/23/blogging-off-for-christmas/)
+ 
+[Blogging off for Christmas](http://bakerjd99.wordpress.com/2011/12/23/blogging-off-for-christmas/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 23 Dec 2011 22:02:36*

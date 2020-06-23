@@ -1,5 +1,5 @@
-[Executioners should be selected like
-jurors](http://bakerjd99.wordpress.com/2012/07/30/executioners-should-be-selected-like-jurors/)
+ 
+[Executioners should be selected like jurors](http://bakerjd99.wordpress.com/2012/07/30/executioners-should-be-selected-like-jurors/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Jul 2012 00:16:00*

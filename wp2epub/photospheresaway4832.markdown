@@ -1,6 +1,5 @@
-
-[Photospheres 
-Away!](http://bakerjd99.wordpress.com/2014/10/30/photospheres-away-2/)
+ 
+[Photospheres Away!](http://bakerjd99.wordpress.com/2014/10/30/photospheres-away-2/)
 ------------------------------------------------------------------------------------
 
 *Posted: 30 Oct 2014 16:53:30*

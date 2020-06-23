@@ -1,6 +1,5 @@
-
-[My Colon’s
-Merry Christmas](http://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/)
+ 
+[My Colon’s Merry Christmas](http://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/)
 --------------------------------------------------------------------------------------------------
 
 *Posted: 11 Dec 2013 19:30:55*

@@ -1,5 +1,5 @@
-[JHS with the 
-DHTMLX Grid](http://bakerjd99.wordpress.com/2012/12/03/jhs-with-the-dhtmlx-grid/)
+ 
+[JHS with the DHTMLX Grid](http://bakerjd99.wordpress.com/2012/12/03/jhs-with-the-dhtmlx-grid/)
 -----------------------------------------------------------------------------------------------
 
 *Posted: 04 Dec 2012 05:27:15*
@@ -12,7 +12,7 @@ post](http://bakerjd99.wordpress.com/2012/11/25/jhs-meets-mathjax/)
 showed how to use [MathJax](http://www.mathjax.org/) with
 [JHS](http://www.jsoftware.com/jwiki/NYCJUG/2011-02-08/HelloWorldInJHS).
 MathJax is an impressive and important JavaScript library; it clearly
-demonstrates the potential of CHJ[^1] GUI interfaces but let’s face it,
+demonstrates the potential of CHJ[^1x3467] GUI interfaces but let’s face it,
 mathematical typesetting will not win many consulting contracts. Grids
 won’t seal the deal either but their *absence* is a huge “next” signal.
 To support serious business and technical applications JHS needs grids.
@@ -102,8 +102,8 @@ enough for serious work.
 In subsequent posts I will explore JavaScript/JHS graphics options and
 start the process of integrating, grids, graphs and MathJax with JHS.
 
-[^1]: CSS, HTML and JavaScript.
+[^1x3467]: CSS, HTML and JavaScript.
 
-[^2]: The freebie version of DHTMLX does not support grid serialization.
+[^2x3467]: The freebie version of DHTMLX does not support grid serialization.
     [Here is how to roll your
     own](http://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/).

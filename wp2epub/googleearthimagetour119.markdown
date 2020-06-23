@@ -1,5 +1,5 @@
-[Google Earth Image
-Touring](http://bakerjd99.wordpress.com/2009/10/04/google-earth-image-touring/)
+ 
+[Google Earth Image Touring](http://bakerjd99.wordpress.com/2009/10/04/google-earth-image-touring/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 04 Oct 2009 12:00:08*

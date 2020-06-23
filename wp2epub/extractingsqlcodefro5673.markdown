@@ -1,6 +1,5 @@
-
-[Extracting SQL code 
-from SSIS dtsx packages with Python lxml](http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/)
+ 
+[Extracting SQL code from SSIS dtsx packages with Python lxml](http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Jan 2020 02:30:48*

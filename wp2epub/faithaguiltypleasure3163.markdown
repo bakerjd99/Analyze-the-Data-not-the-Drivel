@@ -1,5 +1,5 @@
-[Faith a guilty
-pleasure](http://bakerjd99.wordpress.com/2012/09/02/faith-a-guilty-pleasure/)
+ 
+[Faith a guilty pleasure](http://bakerjd99.wordpress.com/2012/09/02/faith-a-guilty-pleasure/)
 ---------------------------------------------------------------------------------------------
 
 *Posted: 02 Sep 2012 23:47:02*

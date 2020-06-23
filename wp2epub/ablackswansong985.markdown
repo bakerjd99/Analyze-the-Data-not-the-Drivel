@@ -1,5 +1,5 @@
-[A Black Swan
-Song](http://bakerjd99.wordpress.com/2010/12/19/a-black-swan-song/)
+ 
+[A Black Swan Song](http://bakerjd99.wordpress.com/2010/12/19/a-black-swan-song/)
 ---------------------------------------------------------------------------------
 
 *Posted: 19 Dec 2010 05:15:26*

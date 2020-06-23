@@ -1,6 +1,5 @@
-
-[Bitcoin is a
-Perfect Protest](http://bakerjd99.wordpress.com/2014/02/08/bitcoin-is-a-perfect-protest/)
+ 
+[Bitcoin is a Perfect Protest](http://bakerjd99.wordpress.com/2014/02/08/bitcoin-is-a-perfect-protest/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Feb 2014 04:39:30*

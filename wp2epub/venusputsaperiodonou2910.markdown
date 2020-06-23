@@ -1,5 +1,5 @@
-[Venus puts a period on our
-Time](http://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/)
+ 
+[Venus puts a period on our Time](http://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 07 Jun 2012 01:58:30*

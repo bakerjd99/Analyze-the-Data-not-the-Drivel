@@ -1,6 +1,5 @@
-
-[The
-New SmugMug](http://bakerjd99.wordpress.com/2013/08/05/the-new-smugmug/)
+ 
+[The New SmugMug](http://bakerjd99.wordpress.com/2013/08/05/the-new-smugmug/)
 -----------------------------------------------------------------------------
 
 *Posted: 06 Aug 2013 04:55:48*

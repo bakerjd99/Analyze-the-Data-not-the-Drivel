@@ -1,6 +1,5 @@
-
-[The Myth 
-of Sisyphus: Camus’s Absurd Prototype](http://bakerjd99.wordpress.com/2013/03/15/the-myth-of-sisyphus-camuss-absurd-prototype/)
+ 
+[The Myth of Sisyphus: Camus’s Absurd Prototype](http://bakerjd99.wordpress.com/2013/03/15/the-myth-of-sisyphus-camuss-absurd-prototype/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Mar 2013 04:37:34*

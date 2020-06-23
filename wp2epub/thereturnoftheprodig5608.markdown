@@ -1,6 +1,5 @@
-
-[The Return of the
-Prodigal Blogger](http://analyzethedatanotthedrivel.org/2019/10/05/the-return-of-the-prodigal-blogger/)
+ 
+[The Return of the Prodigal Blogger](http://analyzethedatanotthedrivel.org/2019/10/05/the-return-of-the-prodigal-blogger/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Oct 2019 20:07:35*

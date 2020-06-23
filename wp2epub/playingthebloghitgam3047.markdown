@@ -1,5 +1,5 @@
-[Playing the Blog hit
-game](http://bakerjd99.wordpress.com/2012/07/09/playing-the-blog-hit-game/)
+ 
+[Playing the Blog hit game](http://bakerjd99.wordpress.com/2012/07/09/playing-the-blog-hit-game/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 10 Jul 2012 03:39:06*

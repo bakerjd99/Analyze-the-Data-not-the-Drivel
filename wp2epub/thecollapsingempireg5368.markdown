@@ -1,6 +1,5 @@
-
-[The Collapsing 
-Empire: Goodreads Review](http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/)
+ 
+[The Collapsing Empire: Goodreads Review](http://analyzethedatanotthedrivel.org/2017/04/26/the-collapsing-empire-goodreads-review/)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 26 Apr 2017 17:13:27*

@@ -1,6 +1,5 @@
-
-[Falling Colors Technology
-a BHSD Crony that needs Competition](http://analyzethedatanotthedrivel.org/2016/07/05/falling-colors-technology-a-bhsd-crony-that-needs-competition/)
+ 
+[Falling Colors Technology a BHSD Crony that needs Competition](http://analyzethedatanotthedrivel.org/2016/07/05/falling-colors-technology-a-bhsd-crony-that-needs-competition/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Jul 2016 20:13:36*

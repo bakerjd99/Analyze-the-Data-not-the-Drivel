@@ -1,6 +1,5 @@
-
-[On Shiny Pony
-and Witch Berning](https://bakerjd99.wordpress.com/2016/03/12/on-shiny-pony-and-witch-berning/) 
+ 
+[On Shiny Pony and Witch Berning](https://bakerjd99.wordpress.com/2016/03/12/on-shiny-pony-and-witch-berning/) 
 -----------------------------------------------------------------------------------------------
 
 *Posted: 12 Mar 2016 21:24:48*

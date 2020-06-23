@@ -1,6 +1,5 @@
-
-[Let’s Trade
-Constitutional Amendments](http://bakerjd99.wordpress.com/2012/12/24/lets-trade-constitutional-amendments/)
+ 
+[Let’s Trade Constitutional Amendments](http://bakerjd99.wordpress.com/2012/12/24/lets-trade-constitutional-amendments/)
 ------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 24 Dec 2012 22:28:45*

@@ -1,5 +1,5 @@
-[The UN Space Treaty is Holding Us
-Back!](http://bakerjd99.wordpress.com/2011/01/14/the-un-space-treaty-is-holding-us-back/)
+ 
+[The UN Space Treaty is Holding Us Back!](http://bakerjd99.wordpress.com/2011/01/14/the-un-space-treaty-is-holding-us-back/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 14 Jan 2011 21:55:24*

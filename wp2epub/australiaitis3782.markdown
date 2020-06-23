@@ -1,6 +1,5 @@
-
-[Australia 
-It Is](http://bakerjd99.wordpress.com/2013/03/05/australia-it-is/)
+ 
+[Australia It Is](http://bakerjd99.wordpress.com/2013/03/05/australia-it-is/)
 -----------------------------------------------------------------------------
 
 *Posted: 06 Mar 2013 04:50:19*

@@ -1,6 +1,5 @@
-
-[There will never be a
-Literature of Reality](http://bakerjd99.wordpress.com/2014/08/31/there-will-never-be-a-literature-of-reality/)
+ 
+[There will never be a Literature of Reality](http://bakerjd99.wordpress.com/2014/08/31/there-will-never-be-a-literature-of-reality/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Aug 2014 20:20:13*

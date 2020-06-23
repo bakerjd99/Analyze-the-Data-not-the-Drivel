@@ -1,5 +1,5 @@
-[Election
-Reflections](http://bakerjd99.wordpress.com/2012/11/09/election-reflections/)
+ 
+[Election Reflections](http://bakerjd99.wordpress.com/2012/11/09/election-reflections/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 09 Nov 2012 23:17:59*

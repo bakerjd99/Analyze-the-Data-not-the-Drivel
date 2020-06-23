@@ -1,6 +1,5 @@
-
-[Pandora’s Star: a Grand 
-Sprawling Entertainment](http://bakerjd99.wordpress.com/2014/09/01/pandoras-star-a-grand-sprawling-entertainment/)
+ 
+[Pandora’s Star: a Grand Sprawling Entertainment](http://bakerjd99.wordpress.com/2014/09/01/pandoras-star-a-grand-sprawling-entertainment/)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 01 Sep 2014 21:00:56*

@@ -1,5 +1,5 @@
-[Laws or
-Suggestions](http://bakerjd99.wordpress.com/2009/09/13/laws-or-suggestions/)
+ 
+[Laws or Suggestions](http://bakerjd99.wordpress.com/2009/09/13/laws-or-suggestions/)
 -------------------------------------------------------------------------------------
 
 *Posted: 13 Sep 2009 21:15:38*

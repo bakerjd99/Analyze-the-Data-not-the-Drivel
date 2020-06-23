@@ -1,5 +1,5 @@
-[I did not have sex with that Oil
-Spill!](http://bakerjd99.wordpress.com/2010/06/16/i-did-not-have-sex-with-that-oil-spill/)
+ 
+[I did not have sex with that Oil Spill!](http://bakerjd99.wordpress.com/2010/06/16/i-did-not-have-sex-with-that-oil-spill/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Jun 2010 18:55:00*

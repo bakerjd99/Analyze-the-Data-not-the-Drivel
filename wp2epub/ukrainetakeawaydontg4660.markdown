@@ -1,6 +1,5 @@
-
-[Ukraine takeaway:
-Don’t give up your Nukes](http://bakerjd99.wordpress.com/2014/04/18/ukraine-takeaway-dont-give-up-your-nukes/)
+ 
+[Ukraine takeaway: Don’t give up your Nukes](http://bakerjd99.wordpress.com/2014/04/18/ukraine-takeaway-dont-give-up-your-nukes/)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Apr 2014 14:07:29*

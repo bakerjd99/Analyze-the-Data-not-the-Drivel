@@ -1,5 +1,5 @@
-[Iranian Regime Justice is pathetic Sharia
-Savagery.](http://bakerjd99.wordpress.com/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/)
+ 
+[Iranian Regime Justice is pathetic Sharia Savagery.](http://bakerjd99.wordpress.com/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 30 Sep 2011 16:17:02*

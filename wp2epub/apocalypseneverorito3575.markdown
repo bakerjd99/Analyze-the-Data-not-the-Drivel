@@ -1,6 +1,5 @@
-
-[Apocalypse Never
-or I Told You So Day](http://bakerjd99.wordpress.com/2012/12/21/apocalypse-never-or-i-told-you-so-day/)
+ 
+[Apocalypse Never or I Told You So Day](http://bakerjd99.wordpress.com/2012/12/21/apocalypse-never-or-i-told-you-so-day/)
 -------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Dec 2012 16:45:49*

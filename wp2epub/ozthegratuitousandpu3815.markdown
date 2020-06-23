@@ -1,6 +1,5 @@
-
-[Oz the 
-Gratuitous and Purile](http://bakerjd99.wordpress.com/2013/03/09/oz-the-gratuitous-and-purile/)
+ 
+[Oz the Gratuitous and Purile](http://bakerjd99.wordpress.com/2013/03/09/oz-the-gratuitous-and-purile/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Mar 2013 20:16:05*

@@ -1,5 +1,5 @@
-[Honing my Powers of
-Indifference](http://bakerjd99.wordpress.com/2010/03/11/honing-my-powers-of-indifference/)
+ 
+[Honing my Powers of Indifference](http://bakerjd99.wordpress.com/2010/03/11/honing-my-powers-of-indifference/)
 ---------------------------------------------------------------------------------------------------------------
 
 *Posted: 11 Mar 2010 19:17:54*

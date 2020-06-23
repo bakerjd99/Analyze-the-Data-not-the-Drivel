@@ -1,6 +1,5 @@
-
-[Incoherent
-Interstellar](http://bakerjd99.wordpress.com/2014/11/10/incoherent-interstellar/)
+ 
+[Incoherent Interstellar](http://bakerjd99.wordpress.com/2014/11/10/incoherent-interstellar/)
 ---------------------------------------------------------------------------------------------
 
 *Posted: 11 Nov 2014 03:26:18*

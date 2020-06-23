@@ -1,5 +1,5 @@
-[SmugMug Duplicate Image
-Hunting](http://bakerjd99.wordpress.com/2010/02/05/smugmug-duplicate-image-hunting/)
+ 
+[SmugMug Duplicate Image Hunting](http://bakerjd99.wordpress.com/2010/02/05/smugmug-duplicate-image-hunting/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Feb 2010 18:07:45*

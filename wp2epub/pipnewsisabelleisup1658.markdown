@@ -1,5 +1,5 @@
-[PIP News: Isabelle is
-Up!](http://bakerjd99.wordpress.com/2011/07/24/pip-news-isabelle-is-up/)
+ 
+[PIP News: Isabelle is Up!](http://bakerjd99.wordpress.com/2011/07/24/pip-news-isabelle-is-up/)
 -----------------------------------------------------------------------------------------------
 
 *Posted: 24 Jul 2011 19:59:02*

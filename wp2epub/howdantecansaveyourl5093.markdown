@@ -1,6 +1,5 @@
-
-[How Dante Can
-Save Your Life: Review](https://bakerjd99.wordpress.com/2015/07/12/how-dante-can-your-life-review/)
+ 
+[How Dante Can Save Your Life: Review](https://bakerjd99.wordpress.com/2015/07/12/how-dante-can-your-life-review/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 12 Jul 2015 19:35:46*

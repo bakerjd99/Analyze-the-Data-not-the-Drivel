@@ -1,5 +1,5 @@
-[WordPress to LaTeXwith Pandoc and J: Prerequisites
-(1)](http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/)
+ 
+[WordPress to LaTeXwith Pandoc and J: Prerequisites (1)](http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Feb 2012 01:33:11*

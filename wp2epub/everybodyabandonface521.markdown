@@ -1,5 +1,5 @@
-[Everybody Abandon Facebook
-Day](http://bakerjd99.wordpress.com/2010/05/21/everybody-abandon-facebook-day/)
+ 
+[Everybody Abandon Facebook Day](http://bakerjd99.wordpress.com/2010/05/21/everybody-abandon-facebook-day/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 21 May 2010 18:51:24*

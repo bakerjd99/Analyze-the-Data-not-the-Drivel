@@ -1,5 +1,5 @@
-[2012 Business
-Opportunity](http://bakerjd99.wordpress.com/2009/11/11/2012-business-opportunity/)
+ 
+[2012 Business Opportunity](http://bakerjd99.wordpress.com/2009/11/11/2012-business-opportunity/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 11 Nov 2009 18:23:00*

@@ -1,5 +1,5 @@
-[Debt Dolts Diddle and
-Drone!](http://bakerjd99.wordpress.com/2011/07/25/debt-dolts-diddle-and-drone/)
+ 
+[Debt Dolts Diddle and Drone!](http://bakerjd99.wordpress.com/2011/07/25/debt-dolts-diddle-and-drone/)
 ------------------------------------------------------------------------------------------------------
 
 *Posted: 26 Jul 2011 03:42:21*

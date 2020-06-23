@@ -1,6 +1,5 @@
-
-[Mahin 
-and Carl](https://bakerjd99.wordpress.com/2015/02/08/mahin-and-carl/)
+ 
+[Mahin and Carl](https://bakerjd99.wordpress.com/2015/02/08/mahin-and-carl/)
 ----------------------------------------------------------------------------
 
 *Posted: 08 Feb 2015 20:59:53*

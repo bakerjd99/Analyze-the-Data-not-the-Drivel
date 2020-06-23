@@ -1,6 +1,5 @@
-
-[Marcus Aurelius
-tunes my RSS Feeds](http://bakerjd99.wordpress.com/2014/05/10/marcus-aurelius-tunes-my-rss-feeds/)
+ 
+[Marcus Aurelius tunes my RSS Feeds](http://bakerjd99.wordpress.com/2014/05/10/marcus-aurelius-tunes-my-rss-feeds/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 10 May 2014 16:08:13*

@@ -1,6 +1,5 @@
-
-[The Singularity is
-Not Near Enough](http://bakerjd99.wordpress.com/2014/03/05/the-singularity-is-not-near-enough/)
+ 
+[The Singularity is Not Near Enough](http://bakerjd99.wordpress.com/2014/03/05/the-singularity-is-not-near-enough/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Mar 2014 17:52:19*

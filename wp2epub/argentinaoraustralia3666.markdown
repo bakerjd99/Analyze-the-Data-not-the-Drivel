@@ -1,6 +1,5 @@
-
-[Argentina 
-or Australia](http://bakerjd99.wordpress.com/2013/01/02/argentina-or-australia/)
+ 
+[Argentina or Australia](http://bakerjd99.wordpress.com/2013/01/02/argentina-or-australia/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 03 Jan 2013 05:42:18*

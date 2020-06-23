@@ -1,5 +1,5 @@
-[A Walk in the
-Park](http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)
+ 
+[A Walk in the Park](http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)
 -----------------------------------------------------------------------------------
 
 *Posted: 25 Feb 2011 21:47:04*

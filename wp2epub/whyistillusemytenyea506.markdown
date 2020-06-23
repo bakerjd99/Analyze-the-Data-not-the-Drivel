@@ -1,5 +1,5 @@
-[Why I Still Use my Ten Year Old Garmin
-GPS](http://bakerjd99.wordpress.com/2010/04/22/why-i-still-use-my-ten-year-old-garmin-gps/)
+ 
+[Why I Still Use my Ten Year Old Garmin GPS](http://bakerjd99.wordpress.com/2010/04/22/why-i-still-use-my-ten-year-old-garmin-gps/)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 22 Apr 2010 19:17:57*

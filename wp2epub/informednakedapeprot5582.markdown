@@ -1,6 +1,5 @@
-
-[Informed 
-Naked Ape Protocol](http://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/) 
+ 
+[Informed Naked Ape Protocol](http://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/) 
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 08 May 2018 19:09:28*
@@ -25,7 +24,7 @@ because it has evolved protocols that correct for human bullshit. A good
 protocol protects us against our worst enemy — ourselves.
 
 My *Informed Naked Ape Protocol*, or *iNap* for short, consists of
-eleven[^1] pithy maxims that force a [hard ass
+eleven[^1x5582] pithy maxims that force a [hard ass
 skeptical](https://analyzethedatanotthedrivel.org/2009/10/29/hard-ass-skeptic-rules/)
 view of things. I will manifest my maxims here and elaborate on each one
 in following posts.
@@ -54,5 +53,5 @@ in following posts.
 
 11. Correct errors.
 
-[^1]: Why eleven? The last time somebody tried to get the inhabitants of
+[^1x5582]: Why eleven? The last time somebody tried to get the inhabitants of
     planet moron to follow ten simple rules it didn’t work out.

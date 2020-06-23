@@ -1,5 +1,5 @@
-[Only Now at the End do you
-Understand](http://bakerjd99.wordpress.com/2010/03/16/only-now-at-the-end-do-you-understand/)
+ 
+[Only Now at the End do you Understand](http://bakerjd99.wordpress.com/2010/03/16/only-now-at-the-end-do-you-understand/)
 -------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Mar 2010 17:06:44*

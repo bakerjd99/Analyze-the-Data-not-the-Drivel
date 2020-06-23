@@ -1,5 +1,5 @@
-[C. K. Raju: Genius or Crank (Part
-1)](http://bakerjd99.wordpress.com/2010/08/12/c-k-raju-genius-or-crank-part-1/)
+ 
+[C. K. Raju: Genius or Crank (Part 1)](http://bakerjd99.wordpress.com/2010/08/12/c-k-raju-genius-or-crank-part-1/)
 ------------------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Aug 2010 19:21:14*

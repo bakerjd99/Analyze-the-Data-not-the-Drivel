@@ -1,5 +1,5 @@
-[Where’s the Olympic
-beach?](http://bakerjd99.wordpress.com/2012/08/09/wheres-the-olympic-beach/)
+ 
+[Where’s the Olympic beach?](http://bakerjd99.wordpress.com/2012/08/09/wheres-the-olympic-beach/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 09 Aug 2012 19:16:54*

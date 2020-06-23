@@ -1,5 +1,5 @@
-[The Real Problem with Enterprise
-Software](http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/)
+ 
+[The Real Problem with Enterprise Software](http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 11 Jun 2010 14:36:00*

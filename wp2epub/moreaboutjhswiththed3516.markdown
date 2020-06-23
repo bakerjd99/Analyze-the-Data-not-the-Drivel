@@ -1,5 +1,5 @@
-[More about JHS with 
-the DHTMLX Grid](http://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/)
+ 
+[More about JHS with the DHTMLX Grid](http://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Dec 2012 04:22:50*

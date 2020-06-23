@@ -1,6 +1,5 @@
-
-[Milliblog:[^1] Religous
-and Comic Origin Stories](https://bakerjd99.wordpress.com/2015/09/06/milliblog-religous-and-comic-origin-stories/)
+ 
+[Milliblog:[^1x5154] Religous and Comic Origin Stories](https://bakerjd99.wordpress.com/2015/09/06/milliblog-religous-and-comic-origin-stories/)
 ------------------------------------------------------------------------------------------------------------------
 
 *Posted: 06 Sep 2015 19:07:22*
@@ -18,5 +17,5 @@ tolerance for certain arachnid proteins, but there is absolutely no
 chance that long dead John the Baptist will poof back from the dead to
 baptize your semi-literate backwoods ass.
 
-[^1]: A *milliblog* is a short blog entry that makes a single point and
+[^1x5154]: A *milliblog* is a short blog entry that makes a single point and
     then gets out of the reader’s face.

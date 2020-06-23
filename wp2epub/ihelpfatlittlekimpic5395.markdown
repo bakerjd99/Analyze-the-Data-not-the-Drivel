@@ -1,7 +1,6 @@
-
-[I Help Fat Little Kim 
-Pick Nuke Targets](http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/)
--------------------------------------------------------------------------------------------------------------
+ 
+[I Help Fat Little Kim Pick Nuke Targets](http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/)
+------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Aug 2017 01:41:56*
 

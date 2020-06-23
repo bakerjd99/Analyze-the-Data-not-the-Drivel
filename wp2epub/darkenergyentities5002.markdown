@@ -1,6 +1,5 @@
-
-[Dark 
-Energy Entities](https://bakerjd99.wordpress.com/2015/04/16/dark-energy-entities/)
+ 
+[Dark Energy Entities](https://bakerjd99.wordpress.com/2015/04/16/dark-energy-entities/)
 ----------------------------------------------------------------------------------------
 
 *Posted: 17 Apr 2015 03:44:02*

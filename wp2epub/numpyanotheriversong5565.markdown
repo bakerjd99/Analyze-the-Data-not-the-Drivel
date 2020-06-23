@@ -1,6 +1,5 @@
-
-[NumPy another 
-Iverson Ghost](http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
+ 
+[NumPy another Iverson Ghost](http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Mar 2018 21:07:53*

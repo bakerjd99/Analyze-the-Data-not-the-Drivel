@@ -1,5 +1,5 @@
-[Git me 
-a Hub’bery](http://bakerjd99.wordpress.com/2012/11/18/git-me-a-hubbery/)
+
+[Git me a Hub’bery](http://bakerjd99.wordpress.com/2012/11/18/git-me-a-hubbery/)
 --------------------------------------------------------------------------------
 
 *Posted: 18 Nov 2012 23:51:38*

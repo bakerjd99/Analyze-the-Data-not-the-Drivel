@@ -1,5 +1,5 @@
-[Turn your Blog into an
-eBook](http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/)
+ 
+[Turn your Blog into an eBook](http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Mar 2012 02:44:38*

@@ -1,5 +1,5 @@
-[WordPress to LaTeX with Pandoc and J: Using `TeXfrWpxml.ijs`
-(3)](http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-LaTeX-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
+ 
+[WordPress to LaTeX with Pandoc and J: Using `TeXfrWpxml.ijs` (3)](http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-LaTeX-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 26 Feb 2012 02:38:53*

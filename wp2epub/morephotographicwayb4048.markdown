@@ -1,6 +1,5 @@
-
-[More Photographic
-Waybacking](http://bakerjd99.wordpress.com/2013/05/23/more-photographic-waybacking/)
+ 
+[More Photographic Waybacking](http://bakerjd99.wordpress.com/2013/05/23/more-photographic-waybacking/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 23 May 2013 15:25:16*

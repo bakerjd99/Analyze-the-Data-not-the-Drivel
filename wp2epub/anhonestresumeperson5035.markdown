@@ -1,6 +1,5 @@
-
-[An Honest
-Resume Personal Statement](https://bakerjd99.wordpress.com/2015/05/04/an-honest-resume-personal-statement/)
+ 
+[An Honest Resume Personal Statement](https://bakerjd99.wordpress.com/2015/05/04/an-honest-resume-personal-statement/)
 ----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 May 2015 02:59:11*

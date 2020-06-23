@@ -1,6 +1,5 @@
-
-[I write my
-Congresswoman about Syria](http://bakerjd99.wordpress.com/2013/09/02/i-write-my-congresswoman-about-syria/)
+ 
+[I write my Congresswoman about Syria](http://bakerjd99.wordpress.com/2013/09/02/i-write-my-congresswoman-about-syria/)
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 02 Sep 2013 05:09:58*

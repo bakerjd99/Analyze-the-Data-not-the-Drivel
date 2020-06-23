@@ -1,6 +1,5 @@
-
-[Parsing 
-the Bitcoin Genesis Block with J](http://bakerjd99.wordpress.com/2014/07/03/parsing-the-bitcoin-genesis-block-with-j/)
+ 
+[Parsing the Bitcoin Genesis Block with J](http://bakerjd99.wordpress.com/2014/07/03/parsing-the-bitcoin-genesis-block-with-j/)
 -------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 04 Jul 2014 00:33:11*

@@ -1,5 +1,5 @@
-[Blurb: Nick Lomb’s Transit of
-Venus](http://bakerjd99.wordpress.com/2012/05/06/blurb-nick-lombs-transit-of-venus/)
+ 
+[Blurb: Nick Lomb’s Transit of Venus](http://bakerjd99.wordpress.com/2012/05/06/blurb-nick-lombs-transit-of-venus/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 06 May 2012 20:58:33*
@@ -11,7 +11,7 @@ Dickinson and Alan Dyer’s [The Backyard Astronomer’s
 Guide](http://www.barnesandnoble.com/w/the-backyard-astronomers-guide-terence-dickinson/1000313829).
 Everything about Lomb’s book from its eye seizing cover, rarely seen
 historic photographs and charming well researched commentary is first
-class. *Transit* is the type of work you steal[^1] from and frankly,
+class. *Transit* is the type of work you steal[^1x2744] from and frankly,
 there is no better endorsement than that. I’m not the only reader to
 reach this conclusion check out
 [this](http://transitofvenus.nl/wp/2011/11/03/nick-lombs-new-book/) and
@@ -43,4 +43,4 @@ This is what got [Cook](http://www.captaincooksociety.com/) out in the
 Pacific. It’s a great story and Lomb’s telling is the best you will
 find.**
 
-[^1]: I’ve picked up a few page design ideas.
+[^1x2744]: I’ve picked up a few page design ideas.

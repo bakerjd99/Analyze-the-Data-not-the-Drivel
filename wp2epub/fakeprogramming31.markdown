@@ -1,5 +1,5 @@
-[Fake
-Programming](http://bakerjd99.wordpress.com/2009/09/09/fake-progamming/)
+ 
+[Fake Programming](http://bakerjd99.wordpress.com/2009/09/09/fake-progamming/)
 ------------------------------------------------------------------------------
 
 *Posted: 09 Sep 2009 21:36:47*

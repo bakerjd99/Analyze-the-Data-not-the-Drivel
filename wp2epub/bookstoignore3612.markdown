@@ -1,6 +1,5 @@
-
-[Books 
-to Ignore](http://bakerjd99.wordpress.com/2012/12/27/books-to-ignore/)
+ 
+[Books to Ignore](http://bakerjd99.wordpress.com/2012/12/27/books-to-ignore/)
 -----------------------------------------------------------------------------
 
 *Posted: 27 Dec 2012 23:31:03*

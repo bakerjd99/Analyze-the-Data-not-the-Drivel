@@ -1,6 +1,5 @@
-
-[Turning JOD 
-Dump Script Tricks](https://bakerjd99.wordpress.com/2015/07/04/turning-jod-dump-script-tricks/)
+ 
+[Turning JOD Dump Script Tricks](https://bakerjd99.wordpress.com/2015/07/04/turning-jod-dump-script-tricks/)
 -----------------------------------------------------------------------------------------------
 
 *Posted: 04 Jul 2015 20:32:40*

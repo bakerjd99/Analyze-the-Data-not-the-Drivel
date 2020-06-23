@@ -1,6 +1,5 @@
-
-[Blood
-Morons](http://bakerjd99.wordpress.com/2014/04/14/blood-morons/)
+ 
+[Blood Morons](http://bakerjd99.wordpress.com/2014/04/14/blood-morons/)
 -----------------------------------------------------------------------
 
 *Posted: 14 Apr 2014 16:39:03*

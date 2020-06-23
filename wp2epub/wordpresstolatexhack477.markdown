@@ -1,5 +1,5 @@
-[WordPress to
-LaTeX Hack](http://bakerjd99.wordpress.com/2010/04/12/wordpress-to-latex-hack/)
+ 
+[WordPress to LaTeX Hack](http://bakerjd99.wordpress.com/2010/04/12/wordpress-to-latex-hack/)
 ---------------------------------------------------------------------------------------------
 
 *Posted: 12 Apr 2010 16:48:58*

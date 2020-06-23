@@ -1,5 +1,5 @@
-[Brett Kimblerlin Free Speech Hating Criminal
-SOS](http://bakerjd99.wordpress.com/2012/05/25/brett-kimblerlin-free-speech-hating-criminal-sos/)
+ 
+[Brett Kimblerlin Free Speech Hating Criminal SOS](http://bakerjd99.wordpress.com/2012/05/25/brett-kimblerlin-free-speech-hating-criminal-sos/)
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 25 May 2012 19:19:51*

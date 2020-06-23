@@ -1,6 +1,5 @@
-
-[Cosmos
-Reboot](http://bakerjd99.wordpress.com/2014/04/11/cosmos-reboot/)
+ 
+[Cosmos Reboot](http://bakerjd99.wordpress.com/2014/04/11/cosmos-reboot/)
 -------------------------------------------------------------------------
 
 *Posted: 12 Apr 2014 00:34:50*

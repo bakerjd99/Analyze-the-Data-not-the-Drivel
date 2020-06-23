@@ -1,6 +1,5 @@
-
-[Twitter
-is not Trivial](http://bakerjd99.wordpress.com/2013/12/15/twitter-is-not-trivial/)
+ 
+[Twitter is not Trivial](http://bakerjd99.wordpress.com/2013/12/15/twitter-is-not-trivial/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 16 Dec 2013 04:10:57*

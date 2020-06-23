@@ -1,5 +1,5 @@
-[Assigning SmugMug Print Size
-Keys](http://bakerjd99.wordpress.com/2010/02/21/assigning-smugmug-print-size-keys/)
+ 
+[Assigning SmugMug Print Size Keys](http://bakerjd99.wordpress.com/2010/02/21/assigning-smugmug-print-size-keys/)
 -----------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Feb 2010 21:56:27*

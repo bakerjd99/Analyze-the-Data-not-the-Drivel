@@ -1,5 +1,5 @@
-[Evil Queens are getting
-Hotter](http://bakerjd99.wordpress.com/2012/06/03/evil-queens-are-getting-hotter/)
+ 
+[Evil Queens are getting Hotter](http://bakerjd99.wordpress.com/2012/06/03/evil-queens-are-getting-hotter/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 03 Jun 2012 20:50:25*

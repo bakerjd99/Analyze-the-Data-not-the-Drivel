@@ -1,5 +1,5 @@
-[G20 fails to end
-G20](http://bakerjd99.wordpress.com/2010/06/29/g20-fails-to-end-g20/)
+
+[G20 fails to end G20](http://bakerjd99.wordpress.com/2010/06/29/g20-fails-to-end-g20/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 29 Jun 2010 19:20:30*

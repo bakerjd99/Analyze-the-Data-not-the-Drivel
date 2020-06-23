@@ -1,5 +1,5 @@
-[Turn your iPhone into a
-jPhone](http://bakerjd99.wordpress.com/2012/06/23/turn-your-iphone-into-a-jphone-2/)
+ 
+[Turn your iPhone into a jPhone](http://bakerjd99.wordpress.com/2012/06/23/turn-your-iphone-into-a-jphone-2/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 23 Jun 2012 15:24:15*

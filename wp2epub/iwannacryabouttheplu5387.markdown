@@ -1,6 +1,5 @@
-
-[I WannaCry 
-about the Plunging Quality of Evil Geniuses](http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) 
+ 
+[I WannaCry about the Plunging Quality of Evil Geniuses](http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) 
 -----------------------------------------------------------------------------------------
 
 *Posted: 18 May 2017 04:23:12*
@@ -16,7 +15,7 @@ blame.
 
 What really happened?
 
-1.  The NSA “cataloged”[^1] security flaw in Windows XP and didn’t
+1.  The NSA “cataloged”[^1x5387] security flaw in Windows XP and didn’t
     inform anyone.
 
 2.  The flaw was leaked.
@@ -112,5 +111,5 @@ then neither are you!
 
 Until then I just WannaCry!
 
-[^1]: It’s not clear they discovered the flaw but however it was found
+[^1x5387]: It’s not clear they discovered the flaw but however it was found
     they withheld it.

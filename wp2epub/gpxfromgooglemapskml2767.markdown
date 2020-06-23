@@ -1,5 +1,5 @@
-[GPX from Google Maps KML J
-Script](http://bakerjd99.wordpress.com/2012/05/16/gpx-from-google-maps-kml-j-script/)
+ 
+[GPX from Google Maps KML J Script](http://bakerjd99.wordpress.com/2012/05/16/gpx-from-google-maps-kml-j-script/)
 -----------------------------------------------------------------------------------------------------------------
 
 *Posted: 17 May 2012 03:50:01*

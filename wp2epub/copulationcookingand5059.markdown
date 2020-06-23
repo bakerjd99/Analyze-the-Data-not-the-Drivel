@@ -1,7 +1,6 @@
-
-[Copulation, 
-Cooking and Cleaning](https://bakerjd99.wordpress.com/2015/06/13/copulation-cooking-and-cleaning/)
---------------------------------------------------------------------------------------------------
+ 
+[Copulation, Cooking and Cleaning](https://bakerjd99.wordpress.com/2015/06/13/copulation-cooking-and-cleaning/)
+---------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Jun 2015 18:21:29*
 
@@ -12,10 +11,10 @@ development is something called the
 The manosphere is a mangy collection of young male bloggers that have
 had it with man hating feminism. I’m an old boomer fart, not exactly the
 manosphere demographic, but I see their point. I remember when rational
-feminists[^1] set their sights on “equal pay for equal work.” I fully
+feminists[^1x5059] set their sights on “equal pay for equal work.” I fully
 supported pay equity and, when you correct for [actual hours
 worked](http://www.forbes.com/sites/realspin/2012/04/16/its-time-that-we-end-the-equal-pay-myth/),
-that battle has been won in *oppressive western cultures.*[^2] But, as
+that battle has been won in *oppressive western cultures.*[^2x5059] But, as
 every married man knows, what women ask for is seldom what they really
 want.
 
@@ -59,14 +58,14 @@ former. Finally, in our limp dotage, when Viagra no longer works, gently
 wiping the dribble off our chins, (cleaning), after a fine meal,
 (cooking), is greatly appreciated. Ladies if the three Cs are graciously
 on tap we’ll happily put up with any amount of lady-shit. It sounds
-simple because it is![^3] 
+simple because it is![^3x5059] 
 
 Bang us, feed us, and cleanup afterwards,
 *without nagging resentment,* and we will love, cherish, protect, work,
 and die for you! And, here’s the good news; you don’t have to be a
 Victoria Secret maximum babe to pull this off. In purely economic terms
 any comely young woman who masters the three Cs is literally worth her
-weight in gold![^4] At current gold prices [one woman
+weight in gold![^4x5059] At current gold prices [one woman
 weight](http://www.wolframalpha.com/input/?i=dollar+value+of+60kg+gold)
 is about \$2,300.000 US. Amortized over a fifty year marriage that works
 out to around \$45,000 per year. Guys, just try paying for hookers,
@@ -75,17 +74,17 @@ you throw *love* into the deal the quality three C woman is the biggest
 bargain out there. So ladies, if you really want a *real* man, master
 your three Cs and you’ll have your pick of them.
 
-[^1]: *Rational feminist* was not oxymoronic when the movement started.
+[^1x5059]: *Rational feminist* was not oxymoronic when the movement started.
 
-[^2]: Not such much in [Clitoridectomy happy
+[^2x5059]: Not such much in [Clitoridectomy happy
     nonwestern](http://thefederalist.com/2014/07/07/the-pathetic-provincialism-of-american-feminists/)
     societies.
 
-[^3]: Male maintenance requires some real work. Men expect to put in
+[^3x5059]: Male maintenance requires some real work. Men expect to put in
     long hours looking after the women in their lives and they expect
     women to reciprocate. Unfortunately modern feminism labels such
     reciprocation “oppression.”
 
-[^4]: I am assuming a normal female weight of less than sixty-five
+[^4x5059]: I am assuming a normal female weight of less than sixty-five
     kilograms. *Obese land fe-whales* are not worth their weight in
     gold.

@@ -1,5 +1,5 @@
-[Let’s Hang
-Congress](http://bakerjd99.wordpress.com/2009/12/07/lets-hang-congress/)
+ 
+[Let’s Hang Congress](http://bakerjd99.wordpress.com/2009/12/07/lets-hang-congress/)
 ------------------------------------------------------------------------------------
 
 *Posted: 07 Dec 2009 19:34:01*

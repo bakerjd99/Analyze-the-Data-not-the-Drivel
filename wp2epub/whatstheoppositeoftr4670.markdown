@@ -1,6 +1,5 @@
-
-[What’s the
-opposite of Transcendence?](http://bakerjd99.wordpress.com/2014/04/18/whats-the-opposite-of-transcendence/) 
+ 
+[What’s the opposite of Transcendence?](http://bakerjd99.wordpress.com/2014/04/18/whats-the-opposite-of-transcendence/) 
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 19 Apr 2014 01:52:45*

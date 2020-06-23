@@ -1,6 +1,5 @@
-
-[Milliblog: 
-Photo Captions](https://bakerjd99.wordpress.com/2016/05/22/milliblog-photo-captions/)
+ 
+[Milliblog: Photo Captions](https://bakerjd99.wordpress.com/2016/05/22/milliblog-photo-captions/)
 -------------------------------------------------------------------------------------
 
 *Posted: 22 May 2016 22:35:58*

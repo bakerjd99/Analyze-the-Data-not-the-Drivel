@@ -1,5 +1,5 @@
-[This Herodotus is a
-Hoot!](http://bakerjd99.wordpress.com/2010/07/11/this-herodotus-is-a-hoot/)
+ 
+[This Herodotus is a Hoot!](http://bakerjd99.wordpress.com/2010/07/11/this-herodotus-is-a-hoot/)
 ------------------------------------------------------------------------------------------------
 
 *Posted: 11 Jul 2010 15:00:09*

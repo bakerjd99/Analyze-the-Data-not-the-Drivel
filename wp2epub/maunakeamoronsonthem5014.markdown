@@ -1,6 +1,5 @@
-
-[Mauna Kea
-Morons on the March](https://bakerjd99.wordpress.com/2015/04/27/mauna-kea-morons-on-the-march/)
+ 
+[Mauna Kea Morons on the March](https://bakerjd99.wordpress.com/2015/04/27/mauna-kea-morons-on-the-march/)
 ----------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Apr 2015 02:34:41*

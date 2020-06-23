@@ -1,5 +1,5 @@
-[2012 Venus Transit and Annular
-Eclipse](http://bakerjd99.wordpress.com/2012/04/22/2012-venus-transit-and-annular-eclipse/)
+ 
+[2012 Venus Transit and Annular Eclipse](http://bakerjd99.wordpress.com/2012/04/22/2012-venus-transit-and-annular-eclipse/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 22 Apr 2012 23:05:20*

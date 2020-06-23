@@ -1,4 +1,5 @@
-[Better Blogging with Jupyter Notebooks on WordPress.com](http://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/) {#better-blogging-with-jupyter-notebooks-on-wordpress.com .unnumbered}
+ 
+[Better Blogging with Jupyter Notebooks on WordPress.com](http://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/) 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 02 Jun 2020 00:48:09*
@@ -7,7 +8,7 @@ When I discovered [Jupyter notebooks](https://jupyter.org/) a few years ago
 I instantly recognized their potential as a *technical* blogging tool. Jupyter
 notebooks support mixtures of text, mathematics, program code, and graphics in
 a completely interactive environment. It's easy to convert notebook JSON `.ipynb`
-files to markdown, $\LaTeX$, and HTML so it's not a big leap to use
+files to markdown, LaTeX, and HTML so it's not a big leap to use
 Jupyter as a *super-editor* for blog posts with heavy doses of code, mathematics,
 and graphics.
 

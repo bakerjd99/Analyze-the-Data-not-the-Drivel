@@ -1,4 +1,5 @@
-[More J Pandoc Syntax HighLighting](http://analyzethedatanotthedrivel.org/2020/02/19/more-j-pandoc-syntax-highlighting/) {#more-j-pandoc-syntax-highlighting .unnumbered}
+ 
+[More J Pandoc Syntax HighLighting](http://analyzethedatanotthedrivel.org/2020/02/19/more-j-pandoc-syntax-highlighting/) 
 ------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Feb 2020 02:48:09*
@@ -17,7 +18,7 @@ There are a few ways to deal with this *problem.*
 
 1.  Eschew J highlighting.
 
-2.  Upgrade[^1] your *WordPress.com* subscription and install custom
+2.  Upgrade[^1x5741] your *WordPress.com* subscription and install custom
     syntax highlighters that can handle arbitrary language definitions.
 
 3.  Find another blog host that freely supports custom highlighters.
@@ -60,15 +61,14 @@ and issuing shell commands like:
 The previous command generated the HTML of this post which I pasted into
 the WordPress.com *Classic Editor.* Not only do I get J code
 highlighting on the cheap I also get footnotes which, *for god freaking
-sakes*,[^2] are not supported by the new WordPress block editor for low
+sakes*,[^2x5741] are not supported by the new WordPress block editor for low
 budget blogs.
 
 ***The source [markdown used for this post is available here
 enjoy!](https://github.com/bakerjd99/jacks/tree/master/pandocexamples)***
 
-\[\]
 
-[^1]: The pay more option is always available.
+[^1x5741]: The pay more option is always available.
 
-[^2]: WordPress.com is beginning to remind me of Adobe. Stop taking away
+[^2x5741]: WordPress.com is beginning to remind me of Adobe. Stop taking away
     longstanding features when upgrading!

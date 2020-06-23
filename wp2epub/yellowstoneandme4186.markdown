@@ -1,7 +1,5 @@
-
-
-[Yellowstone
-and Me](http://bakerjd99.wordpress.com/2013/08/24/yellowstone-and-me/)
+ 
+[Yellowstone and Me](http://bakerjd99.wordpress.com/2013/08/24/yellowstone-and-me/)
 -----------------------------------------------------------------------------------
 
 *Posted: 24 Aug 2013 06:32:35*

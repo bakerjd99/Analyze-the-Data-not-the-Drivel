@@ -1,6 +1,5 @@
-
-[Stop Writing Dead 
-Tree Letters to the Editor](http://analyzethedatanotthedrivel.org/2017/09/13/stop-writing-dead-tree-letters-to-the-editor/)
+ 
+[Stop Writing Dead Tree Letters to the Editor](http://analyzethedatanotthedrivel.org/2017/09/13/stop-writing-dead-tree-letters-to-the-editor/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Sep 2017 18:21:01*

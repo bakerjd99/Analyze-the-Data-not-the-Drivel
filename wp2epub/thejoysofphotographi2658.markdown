@@ -1,5 +1,5 @@
-[The Joys of Photographic
-Waybacking](http://bakerjd99.wordpress.com/2012/03/17/the-joys-of-photographic-waybacking/)
+ 
+[The Joys of Photographic Waybacking](http://bakerjd99.wordpress.com/2012/03/17/the-joys-of-photographic-waybacking/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Mar 2012 03:37:32*

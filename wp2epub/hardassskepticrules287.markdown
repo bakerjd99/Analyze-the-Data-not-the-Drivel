@@ -1,5 +1,5 @@
-[Hard Ass Skeptic
-Rules](http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
+ 
+[Hard Ass Skeptic Rules](http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 29 Oct 2009 14:05:06*

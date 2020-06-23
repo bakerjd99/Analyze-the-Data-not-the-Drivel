@@ -1,6 +1,5 @@
-
-[John L. Dobson
-R.I.P.](http://bakerjd99.wordpress.com/2014/01/18/john-l-dobson-r-i-p/)
+ 
+[John L. Dobson R.I.P.](http://bakerjd99.wordpress.com/2014/01/18/john-l-dobson-r-i-p/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 18 Jan 2014 12:37:10*

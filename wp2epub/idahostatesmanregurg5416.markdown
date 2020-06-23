@@ -1,6 +1,5 @@
-
-[Idaho Statesman Regurgitates
-High Precision Hate Calculations](http://analyzethedatanotthedrivel.org/2017/08/17/idaho-statesman-regurgitates-high-precision-hate-calculations/)
+ 
+[Idaho Statesman Regurgitates High Precision Hate Calculations](http://analyzethedatanotthedrivel.org/2017/08/17/idaho-statesman-regurgitates-high-precision-hate-calculations/)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Aug 2017 01:53:53*

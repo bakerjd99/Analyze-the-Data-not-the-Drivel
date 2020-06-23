@@ -1,5 +1,5 @@
-[Command Line C\# SmugMug API Metadata
-Download](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
+ 
+[Command Line C\# SmugMug API Metadata Download](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 03 Feb 2010 21:26:51*

@@ -1,6 +1,5 @@
-
-[Soon we will all be Software
-Archaeologists](http://bakerjd99.wordpress.com/2010/12/06/soon-we-will-all-be-software-archeologists/)
+ 
+[Soon we will all be Software Archaeologists](http://bakerjd99.wordpress.com/2010/12/06/soon-we-will-all-be-software-archeologists/)
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 06 Dec 2010 03:23:13*

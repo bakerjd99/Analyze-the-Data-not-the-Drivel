@@ -1,5 +1,5 @@
-[Common Table Expression (CTE) SQLServer Queries with
-J](http://bakerjd99.wordpress.com/2011/08/13/common-table-expression-cte-sqlserver-queries-with-j/)
+ 
+[Common Table Expression (CTE) SQLServer Queries with J](http://bakerjd99.wordpress.com/2011/08/13/common-table-expression-cte-sqlserver-queries-with-j/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Aug 2011 22:01:10*

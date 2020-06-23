@@ -1,5 +1,5 @@
-[Anathem: Plato’s Parallel
-World](http://bakerjd99.wordpress.com/2011/02/20/anathem-platos-parallel-world/)
+ 
+[Anathem: Plato’s Parallel World](http://bakerjd99.wordpress.com/2011/02/20/anathem-platos-parallel-world/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Feb 2011 01:02:08*

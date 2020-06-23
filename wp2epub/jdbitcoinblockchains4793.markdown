@@ -1,6 +1,5 @@
-
-[JD Bitcoin 
-Blockchain Spelunking](http://bakerjd99.wordpress.com/2014/07/25/jd-bitcoin-blockchain-spelunking/)
+ 
+[JD Bitcoin Blockchain Spelunking](http://bakerjd99.wordpress.com/2014/07/25/jd-bitcoin-blockchain-spelunking/)
 ---------------------------------------------------------------------------------------------------------------
 
 *Posted: 25 Jul 2014 16:37:05*

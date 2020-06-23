@@ -1,5 +1,5 @@
-[My Olympic
-Spirit](http://bakerjd99.wordpress.com/2009/10/03/my-olympic-spirit/)
+ 
+[My Olympic Spirit](http://bakerjd99.wordpress.com/2009/10/03/my-olympic-spirit/)
 ---------------------------------------------------------------------------------
 
 *Posted: 03 Oct 2009 16:31:29*

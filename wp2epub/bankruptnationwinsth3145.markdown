@@ -1,5 +1,5 @@
-[Bankrupt Nation Wins the
-Olympics](http://bakerjd99.wordpress.com/2012/08/12/bankrupt-nation-wins-the-olympics/)
+ 
+[Bankrupt Nation Wins the Olympics](http://bakerjd99.wordpress.com/2012/08/12/bankrupt-nation-wins-the-olympics/)
 -----------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Aug 2012 01:21:58*

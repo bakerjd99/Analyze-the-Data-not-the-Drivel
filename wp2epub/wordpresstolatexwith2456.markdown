@@ -1,5 +1,5 @@
-[WordPress to LaTeX with Pandoc and J: LaTeX Directories
-(2)](http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
+ 
+[WordPress to LaTeX with Pandoc and J: LaTeX Directories (2)](http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 19 Feb 2012 00:32:46*

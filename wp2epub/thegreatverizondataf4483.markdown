@@ -1,6 +1,5 @@
-
-[The Great
-Verizon Data Famine](http://bakerjd99.wordpress.com/2014/01/15/the-great-verizon-data-famine/)
+ 
+[The Great Verizon Data Famine](http://bakerjd99.wordpress.com/2014/01/15/the-great-verizon-data-famine/)
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Jan 2014 04:11:02*

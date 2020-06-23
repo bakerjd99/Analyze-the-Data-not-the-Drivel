@@ -1,6 +1,5 @@
-
-[Minnie’s 
-Pictures](http://bakerjd99.wordpress.com/2013/10/16/minnies-pictures/)
+ 
+[Minnie’s Pictures](http://bakerjd99.wordpress.com/2013/10/16/minnies-pictures/)
 --------------------------------------------------------------------------------
 
 *Posted: 17 Oct 2013 03:11:52*

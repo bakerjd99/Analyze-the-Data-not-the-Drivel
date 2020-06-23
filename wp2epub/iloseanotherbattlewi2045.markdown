@@ -1,5 +1,5 @@
-[I lose another battle with
-Gravity](http://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/)
+ 
+[I lose another battle with Gravity](http://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Nov 2011 17:08:05*

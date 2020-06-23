@@ -1,6 +1,5 @@
-
-[Setting SmugMug
-Print Size Keywords with Jupyter and Python](http://analyzethedatanotthedrivel.org/2018/01/28/setting-smugmug-print-size-keywords-with-jupyter-and-python/)
+ 
+[Setting SmugMug Print Size Keywords with Jupyter and Python](http://analyzethedatanotthedrivel.org/2018/01/28/setting-smugmug-print-size-keywords-with-jupyter-and-python/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Jan 2018 07:27:10*

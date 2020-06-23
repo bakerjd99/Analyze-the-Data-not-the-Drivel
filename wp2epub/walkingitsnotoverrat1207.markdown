@@ -1,5 +1,5 @@
-[Walking: It’s not
-Overrated](http://bakerjd99.wordpress.com/2011/03/23/walking-its-not-overrated/)
+ 
+[Walking: It’s not Overrated](http://bakerjd99.wordpress.com/2011/03/23/walking-its-not-overrated/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 23 Mar 2011 19:54:00*

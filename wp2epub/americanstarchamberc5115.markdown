@@ -1,6 +1,5 @@
-
-[American Star Chamber
-creates Foreign Passport Business Opportunity](https://bakerjd99.wordpress.com/2015/07/23/american-star-chamber-creates-foreign-passport-business-opportunity/)
+ 
+[American Star Chamber creates Foreign Passport Business Opportunity](https://bakerjd99.wordpress.com/2015/07/23/american-star-chamber-creates-foreign-passport-business-opportunity/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 24 Jul 2015 03:28:49*

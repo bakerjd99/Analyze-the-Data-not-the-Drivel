@@ -1,6 +1,5 @@
-
-[A Memo to the
-next Murdering Dorner](http://bakerjd99.wordpress.com/2013/02/14/a-memo-to-the-next-murdering-dorner/)
+ 
+[A Memo to the next Murdering Dorner](http://bakerjd99.wordpress.com/2013/02/14/a-memo-to-the-next-murdering-dorner/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Feb 2013 04:34:36*
