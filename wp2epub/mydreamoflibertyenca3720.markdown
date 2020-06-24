@@ -1,5 +1,5 @@
  
-[My Dream of Liberty Encased](http://bakerjd99.wordpress.com/2013/01/04/my-dream-of-liberty-encased/)
+[My Dream of Liberty Encased](https://bakerjd99.wordpress.com/2013/01/04/my-dream-of-liberty-encased/)
 -----------------------------------------------------------------------------------------------------
 
 *Posted: 05 Jan 2013 05:31:35*
@@ -16,7 +16,7 @@ dream.
 I was visiting the Statue of Liberty for the second time. I’ve seen the
 statue in my waking life and it is well worth the security shakedown
 you’ll get before boarding the ferry at [Battery
-Park](http://www.statuecruises.com/pd\_directions.html). In my dream I
+Park](https://www.statuecruises.com/pd\_directions.html). In my dream I
 knew that many years had passed since my last visit and I was nervous
 about recent changes. As the ferry pulled up to the statue’s island my
 concerns materialized. The entire island had been “redeveloped.” The
@@ -80,7 +80,7 @@ everything we can to deny them real liberty.”
 At this point I woke up and thought, “Boy John, your subconscious
 totally nailed it with that one!” *This is how we do oppression.* Being
 a citizen in the [Indebted States of
-America](http://www.usdebtclock.org/) is exactly like being a crown
+America](https://www.usdebtclock.org/) is exactly like being a crown
 touching tourist in my dream. We pretend the sliver of freedom we’re
 allowed to touch makes us free but it really only showcases our
 stupidity and cowardice. A truly free people would tear down the Liberty

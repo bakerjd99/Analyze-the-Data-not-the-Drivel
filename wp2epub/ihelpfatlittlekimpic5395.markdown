@@ -1,5 +1,5 @@
  
-[I Help Fat Little Kim Pick Nuke Targets](http://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/)
+[I Help Fat Little Kim Pick Nuke Targets](https://analyzethedatanotthedrivel.org/2017/08/12/i-help-fat-little-kim-pick-nuke-targets/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Aug 2017 01:41:56*
@@ -12,7 +12,7 @@ Kim, [you can’t be
 serious!](https://www.youtube.com/watch?v=t0hK1wyrrAU) I realize you
 live in a self-imposed hermit kingdom where questioning your fat headed
 notions results in [being thrown to actual
-dogs](http://www.nydailynews.com/news/world/kim-jong-executed-uncle-feeding-pack-starving-dogs-article-1.1565299)
+dogs](https://www.nydailynews.com/news/world/kim-jong-executed-uncle-feeding-pack-starving-dogs-article-1.1565299)
 but surely you’re aware of *Baker’s Law of American Cluelessness.*
 
 *No matter what the topic of conversation roughly one-third of the
@@ -22,7 +22,7 @@ I can assure you that an embarrassingly large percentage of Americans
 have no idea where, or what, Guam is and, even more disturbingly, even
 if they know it’s an island somewhere in the Pacific they may think
 [it’s in danger of tipping
-over](http://www.snopes.com/politics/quotes/guamtip.asp) if too many
+over](https://www.snopes.com/politics/quotes/guamtip.asp) if too many
 people stand on one end.
 
 Let’s suppose you lose your mind, (I’m being sarcastic Kim), and nuke
@@ -98,12 +98,12 @@ Instead of Guam consider:
     [ManBearPig](https://www.youtube.com/watch?v=xf69EEL3WBk) lecture.
     We’ll miss the Hollywood Sign and the Griffith Observatory but
     eagerly look forward to next years [Dead Celebrity
-    Roll](http://www.legacy.com/memorial-sites/oscars/) at the
+    Roll](https://www.legacy.com/memorial-sites/oscars/) at the
     *relocated* Oscars. Oh, we’ll still nuke your ass, even
     for Hollywood.
 
 3.  **Silicon Valley**: Recent [Goolag’ey
-    events](http://www.businessinsider.com/anti-google-ads-pop-up-outside-office-criticizing-ceo-sundar-pichai-2017-8)
+    events](https://www.businessinsider.com/anti-google-ads-pop-up-outside-office-criticizing-ceo-sundar-pichai-2017-8)
     have many Americans wondering if the hubris infused innovators of
     Silicon Valley have lost their mojo. Detonating nukes will take
     their powerful minds off disturbing notions of gender based

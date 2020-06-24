@@ -1,5 +1,5 @@
  
-[Command Line C\# SmugMug API Metadata Download](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
+[Command Line C\# SmugMug API Metadata Download](https://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 03 Feb 2010 21:26:51*
@@ -11,30 +11,30 @@ still get all emotional when I *remember the scent of a fixer.* Ahhh —
 those were the days.
 
 Now, instead of inhaling fumes in the dark, I hang out on picture sites:
-[SmugMug](http://www.smugmug.com/) is my current favorite. Over the last
+[SmugMug](https://www.smugmug.com/) is my current favorite. Over the last
 year I have uploaded thousands of carefully cataloged images: [you can
-view them here.](http://conceptcontrol.smugmug.com/) I may not be much
+view them here.](https://conceptcontrol.smugmug.com/) I may not be much
 of photographer but when it comes to image metadata my anal analytic
 side shines. I can
-[EXIF](http://en.wikipedia.org/wiki/Exchangeable\_image\_file\_format),
-[IPTC](http://www.iptc.org/IPTC4XMP/) and
-[GEOTAG](http://en.wikipedia.org/wiki/Geotagging) with the best of them.
+[EXIF](https://en.wikipedia.org/wiki/Exchangeable\_image\_file\_format),
+[IPTC](https://www.iptc.org/IPTC4XMP/) and
+[GEOTAG](https://en.wikipedia.org/wiki/Geotagging) with the best of them.
 
 Because I tweak metadata online, and I suffer from a *retentive*
 character flaw, it’s only natural that I would seek to download my
 sacred metadata. This is what [SmugMug’s
-API](http://wiki.smugmug.net/display/SmugMug/API) is for! When I started
+API](https://wiki.smugmug.net/display/SmugMug/API) is for! When I started
 experimenting with the SmugMug API I made the mistake of [reading the
-documentation.](http://wiki.smugmug.net/display/SmugMug/API) SmugMug
+documentation.](https://wiki.smugmug.net/display/SmugMug/API) SmugMug
 documentation is, at best, a “work in progress.” It may help but
 probably not! I found trolling the web looking for [code
-examples](http://www.manhattanheavy.com/blog/2008/5/13/simple-smugmug-c-wrapper.aspx/)
+examples](https://www.manhattanheavy.com/blog/2008/5/13/simple-smugmug-c-wrapper.aspx/)
 more productive.
 
 To help the next SmugMug API geek I am posting a fragment of a simple
 command line C\# metadata dump utility I put together. The core of the
 program is shown below and all the [C\# source is available
-here.](http://www.box.net/shared/cfse1t5ef2) This program is to trivial
+here.](https://www.box.net/shared/cfse1t5ef2) This program is to trivial
 to license so help yourself.
 
 ```CS

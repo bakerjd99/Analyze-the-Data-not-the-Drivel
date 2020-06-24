@@ -5,11 +5,11 @@
 *Posted: 17 Apr 2015 03:44:02*
 
 I’ve been having fun on a new social media site called
-[Quora](http://www.quora.com/John-Baker-98). Quora operates on the
-[StackOverFlow](http://stackoverflow.com/) principle. People pose
+[Quora](https://www.quora.com/John-Baker-98). Quora operates on the
+[StackOverFlow](https://stackoverflow.com/) principle. People pose
 questions and others answer. The act of asking of sincere questions,
 [even silly
-ones](http://www.quora.com/How-would-the-world-change-if-prairie-dogs-spontaneously-became-super-intelligent-but-only-the-French-knew-about-it),
+ones](https://www.quora.com/How-would-the-world-change-if-prairie-dogs-spontaneously-became-super-intelligent-but-only-the-French-knew-about-it),
 seems to take the wind out of troll sails. Political sites quickly
 degenerate into primate poo tossing contests. I enjoy pitching poo with
 the best of them but I demand wit, verve and humor with my insults.
@@ -22,13 +22,13 @@ available. Still there is something about the question that makes people
 put down their torches and give a heretic a break.
 
 A good question and answer session is like a connect-the-dots cartoon.
-For example [Javed Qadrud-Din](http://www.quora.com/Javed-Qadrud-Din)
+For example [Javed Qadrud-Din](https://www.quora.com/Javed-Qadrud-Din)
 observed when responding to the question:
 
 > [Hypothetically, if there is intelligent alien life, with the
 > knowledge and means to traverse space and travel to Earth, what would
 > be their reasons for not making
-> contact?](http://www.quora.com/Hypothetically-if-there-is-intelligent-alien-life-with-the-knowledge-and-means-to-traverse-space-and-travel-to-Earth-what-would-be-their-reasons-for-not-making-contact-Please-read-details)
+> contact?](https://www.quora.com/Hypothetically-if-there-is-intelligent-alien-life-with-the-knowledge-and-means-to-traverse-space-and-travel-to-Earth-what-would-be-their-reasons-for-not-making-contact-Please-read-details)
 
 That aliens might be billions of years ahead of us and
 

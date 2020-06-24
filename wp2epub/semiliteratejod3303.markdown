@@ -1,5 +1,5 @@
  
-[Semi-Literate JOD](http://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/)
+[Semi-Literate JOD](https://bakerjd99.wordpress.com/2012/10/01/semi-literate-jod/)
 ---------------------------------------------------------------------------------
 
 *Posted: 02 Oct 2012 04:08:52*
@@ -12,7 +12,7 @@ not without merit. It all depends on what you call “documentation.”
 
 Writing technical documents for management, marketing or users usually
 results in excruciating rounds of
-[Dilbertian](http://search.dilbert.com/comic/Documentation) critiques.
+[Dilbertian](https://search.dilbert.com/comic/Documentation) critiques.
 Everyone understands your code better than you do. If you provide too
 much detail, you get complaints. If you use unfamiliar words, you get
 complaints. If you point out limitations, assumptions or caveats, you
@@ -23,18 +23,18 @@ templates,* you get complaints. No wonder many programmers hate
 claims about “self documenting code.” The self documenting cabal may
 have fooled management but they’re not fooling the rest of us. The need
 for *illuminating* program documentation is as pressing today as it was
-for [ENIAC](http://inventors.about.com/od/estartinventions/a/Eniac.htm)
+for [ENIAC](https://inventors.about.com/od/estartinventions/a/Eniac.htm)
 coders in the 1940’s and, when in it comes to illuminating documentation,
 the best overall approach was pioneered by [Donald
-Knuth](http://www-cs-faculty.stanford.edu/~uno/) over twenty-five years
+Knuth](https://www-cs-faculty.stanford.edu/~uno/) over twenty-five years
 ago and goes by the moniker [*literate
-programming.*](http://en.wikipedia.org/wiki/Literate\_programming)
+programming.*](https://en.wikipedia.org/wiki/Literate\_programming)
 
 Providing basic literate programming support in JOD has been on my to-do
 list for ages. I’ve held off until recently because I have never been
-happy with my [mark up](http://en.wikipedia.org/wiki/Markup\_language)
+happy with my [mark up](https://en.wikipedia.org/wiki/Markup\_language)
 options. JOD directly supports simple J
-[scriptdoc](http://www.jsoftware.com/help/user/scriptdoc.htm) compatible
+[scriptdoc](https://www.jsoftware.com/help/user/scriptdoc.htm) compatible
 leading comment block formatting. For example many of my J verbs start
 with a comment block like:
 
@@ -62,7 +62,7 @@ mask=. ~:/\ llst
 Even if you can’t spell J I bet you have a good idea about what this
 “program” does and, if you doubt my claims, I’ve left you with some
 examples to try the next time you find yourself in J. Stupid comments
-may [be for losers](http://php.dzone.com/news/comments-are-losers-2) but
+may [be for losers](https://php.dzone.com/news/comments-are-losers-2) but
 telling comments, especially example laden ones, really help! And, if
 you really find comments distracting, JOD has a deal for you!
 
@@ -90,7 +90,7 @@ remember, we are inserting the resulting text into code that we will be
 looking at for the *rest of our miserable coding lives!* We need a mark
 up format that’s stable, readable, versatile, easy to use and, *this is
 very important*, easy to ignore!
-[Markdown](http://daringfireball.net/projects/markdown/) is such a
+[Markdown](https://daringfireball.net/projects/markdown/) is such a
 format. It’s almost ideal for program comments and is capable of much
 more. I’ve started using markdown in JOD and it’s already paying its
 way.
@@ -99,7 +99,7 @@ way.
 utility script that can generate *semi-literate* LaTeX documents directly
 from JOD groups. It uses a version of pandoc with J syntax highlighting,
 see [Pandoc based J Syntax
-Highlighting](http://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
+Highlighting](https://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
 for details. I consider `jodliterate` semi-literate because it’s
 completely at the mercy of the programmer. If you don’t store coherent
 markdown text fragments in JOD all you get is a nice syntax highlighted

@@ -7,7 +7,7 @@
 Lily King's excellent new novel *Euphoria* derives from an incident in
 Margaret Mead’s life. Margaret Mead achieved fame as a young woman with
 her 1928 book *[Coming of Age in
-Samoa](http://www.amazon.com/Coming-Age-Samoa-Psychological-Civilisation/dp/0688050336)*.
+Samoa](https://www.amazon.com/Coming-Age-Samoa-Psychological-Civilisation/dp/0688050336)*.
 Usually scholarly works do not attract mass audiences but the [good
 bits](https://www.youtube.com/watch?v=wPiHQ37gXnE) of Mead’s book read
 like soft-core porn and introduced the radical idea that sexual behavior
@@ -22,7 +22,7 @@ in the 1930s. All three have serious doubts about what they are doing.
 They obliquely acknowledge the sheer conceit of foreign neophytes
 descending on an unfamiliar culture and, without speaking the language,
 being familiar with the environment, or knowing [jack
-shit](http://www.urbandictionary.com/define.php?term=Jack+Shit) about
+shit](https://www.urbandictionary.com/define.php?term=Jack+Shit) about
 the local economy, “decode a people,” in a few short months.
 
 Early social anthropologists liked to cast themselves as

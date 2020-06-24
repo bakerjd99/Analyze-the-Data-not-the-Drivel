@@ -1,5 +1,5 @@
  
-[Cripple Chronicles Continue](http://bakerjd99.wordpress.com/2011/03/15/cripple-chronicles-continue-2/)
+[Cripple Chronicles Continue](https://bakerjd99.wordpress.com/2011/03/15/cripple-chronicles-continue-2/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Mar 2011 23:53:21*

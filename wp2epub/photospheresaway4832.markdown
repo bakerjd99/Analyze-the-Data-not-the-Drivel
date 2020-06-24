@@ -1,5 +1,5 @@
  
-[Photospheres Away!](http://bakerjd99.wordpress.com/2014/10/30/photospheres-away-2/)
+[Photospheres Away!](https://bakerjd99.wordpress.com/2014/10/30/photospheres-away-2/)
 ------------------------------------------------------------------------------------
 
 *Posted: 30 Oct 2014 16:53:30*
@@ -18,13 +18,13 @@ great-great-grandmother. I’d bet that every single portrait on your
 shiny new iPhone is “technically” superior to that old Daguerreotype but
 I’d also bet you’d chuck your iPhone before giving up that old
 Daguerreotype. An image’s quality goes far beyond [MTF
-curves](http://photographylife.com/how-to-read-mtf-charts) and pixel
+curves](https://photographylife.com/how-to-read-mtf-charts) and pixel
 counts. Photography and geometry are both bereft of royal roads.
 
 In the early days of photography gear was a serious constraint. Getting
 a good picture was a technical and artistic struggle. Imagine shooting a
 panorama using large glass plates covered with a home-brewed [ASA
-0.5](http://www.alternativephotography.com/wp/processes/gelatin-silver/silver-gelatin-dry-plate-process),
+0.5](https://www.alternativephotography.com/wp/processes/gelatin-silver/silver-gelatin-dry-plate-process),
 (you read that right ASA 0.5), blue light-sensitive emulsion. Despite
 such limitations early photographers managed to create some great
 images. Imagination and gumption have always been the most important
@@ -45,7 +45,7 @@ endure a vertigo inducing dance. Shooting a photosphere takes at least
 three twirling 360 degree passes. You have to shoot the ground, horizon
 and sky. It takes about twenty frames to build a photosphere.
 
-[Click for a 1969 Panorama](http://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-F76f7c7/A)
+[Click for a 1969 Panorama](https://conceptcontrol.smugmug.com/Themes/Manipulations/Panoramas-1/i-F76f7c7/A)
 
 There is nothing new about multi-frame panoramas. Photographers started
 shooting multi-frame panoramas [shortly after the camera’s
@@ -93,4 +93,4 @@ air. This ought to fix the viewpoint problem for people with good
 pitching arms and the rest of us can drop the little sucker from a
 drone. Photospheres away!
 
-[Click for Panono ball Photosphere camera](http://www.dpreview.com/articles/9435374316/panono-announces-pricing-and-availability-for-rolling-ball-camera)
+[Click for Panono ball Photosphere camera](https://www.dpreview.com/articles/9435374316/panono-announces-pricing-and-availability-for-rolling-ball-camera)

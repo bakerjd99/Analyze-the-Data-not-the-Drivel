@@ -1,15 +1,15 @@
  
-[A Memo to the next Murdering Dorner](http://bakerjd99.wordpress.com/2013/02/14/a-memo-to-the-next-murdering-dorner/)
+[A Memo to the next Murdering Dorner](https://bakerjd99.wordpress.com/2013/02/14/a-memo-to-the-next-murdering-dorner/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Feb 2013 04:34:36*
 
 No doubt you’ve been following the breathless [media
-swooning](http://patdollard.com/2013/02/chris-matthews-heaps-praise-on-chris-dorner-returning-favor/)
+swooning](https://patdollard.com/2013/02/chris-matthews-heaps-praise-on-chris-dorner-returning-favor/)
 about [Christopher
-Dorner](http://www.thedailybeast.com/articles/2013/02/14/how-christopher-dorner-went-down.html)
+Dorner](https://www.thedailybeast.com/articles/2013/02/14/how-christopher-dorner-went-down.html)
 and his
-[Djangoistic](http://www.mediaite.com/tv/cnn-panelists-dorners-exciting-rampage-like-watching-django-exact-revenge-for-police-brutality/),
+[Djangoistic](https://www.mediaite.com/tv/cnn-panelists-dorners-exciting-rampage-like-watching-django-exact-revenge-for-police-brutality/),
 fight the power, murder spree, and you’re wondering if *you* should take
 up arms against a sea of troubles and go off some bystanders. Before
 loading up your assault weapons, making suspiciously large purchases of
@@ -48,11 +48,11 @@ If you guessed “people” give yourself a big hug. While it’s true these
 so-called difficult problems are, when stripped of bullshit,
 embarrassingly trivial, it’s also true that solving any one of them
 would inconvenience certain people. If you’re a [fat little Korean
-boy-king](http://www.telegraph.co.uk/news/picturegalleries/worldnews/9429104/North-Koreas-leader-Kim-Jong-un-and-his-wife-Ri-Sol-ju.html)
+boy-king](https://www.telegraph.co.uk/news/picturegalleries/worldnews/9429104/North-Koreas-leader-Kim-Jong-un-and-his-wife-Ri-Sol-ju.html)
 happily banging hotties in your Commie dynasty palace the prospects of
 being just a fat little boy banging, well nobody, lacks appeal. If
 you’re a [corrupt Saudi
-prince-thing](http://abcnews.go.com/2020/News/story?id=169246\&page=2)
+prince-thing](https://abcnews.go.com/2020/News/story?id=169246\&page=2)
 used to blaming conniving Zionists for all your screw-ups the lack of
 conniving Zionists would present difficulties. Similarly, how can you be
 expected to run for Congress, or the Presidency, without making
@@ -79,9 +79,9 @@ establish diplomatic relations and negotiate a real Middle Eastern peace
 treaty. Make it clear that you will *blow up their heads* at the stroke
 of noon (UTC) on a particular day if they fail to comply. Don’t expect
 anyone to pay attention. Twitter is awash in [impotent death
-threats.](http://www.nbcnews.com/technology/technolog/justin-bieber-army-fills-twitter-death-threats-again-125690)
+threats.](https://www.nbcnews.com/technology/technolog/justin-bieber-army-fills-twitter-death-threats-again-125690)
 You cannot even take a [sip of
-water](http://www.myfoxdetroit.com/story/21141805/rubios-water-break) on
+water](https://www.myfoxdetroit.com/story/21141805/rubios-water-break) on
 national TV without attracting them. Bide your time until the noted hour
 and then detonate your brain bombs. After they scrape the charred brain
 tissue off the walls of government offices in Riyadh, Tehran, Cairo,
@@ -113,7 +113,7 @@ note. Going after hard targets is not like waltzing into gun free zones
 and opening fire. The people most in need of brain bombs are surrounded
 by others that shoot back. You’re probably going to die taking down a
 king, but you were going to die taking down a [Burger
-King](http://forum.prisonplanet.com/index.php?topic=95261.0;wap2), so you
-might as well up your game and [make a difference](http://www.aboundlessworld.com/why-most-movements-are-bullshit-and-how-to-actually-make-a-difference/). [Do it for the
-children!](http://imgur.com/Ph5dE) The only question is; are you psycho
+King](https://forum.prisonplanet.com/index.php?topic=95261.0;wap2), so you
+might as well up your game and [make a difference](https://www.aboundlessworld.com/why-most-movements-are-bullshit-and-how-to-actually-make-a-difference/). [Do it for the
+children!](https://imgur.com/Ph5dE) The only question is; are you psycho
 enough for the job?

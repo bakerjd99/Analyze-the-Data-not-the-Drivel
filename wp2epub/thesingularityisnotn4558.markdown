@@ -1,12 +1,12 @@
  
-[The Singularity is Not Near Enough](http://bakerjd99.wordpress.com/2014/03/05/the-singularity-is-not-near-enough/)
+[The Singularity is Not Near Enough](https://bakerjd99.wordpress.com/2014/03/05/the-singularity-is-not-near-enough/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Mar 2014 17:52:19*
 
 Here’s a little Google project. Search for life extension technologies
 and start [reading
-comments](http://www.dailymail.co.uk/sciencetech/article-2523086/Could-humans-live-500-years-old-Scientists-believe-genetic-tweaks-significantly-extend-lifespan.html)
+comments](https://www.dailymail.co.uk/sciencetech/article-2523086/Could-humans-live-500-years-old-Scientists-believe-genetic-tweaks-significantly-extend-lifespan.html)
 about what people think about living five hundred or a thousand years?
 Some are completely in favor of the idea but you’ll find legions of
 naysayers that are deeply disturbed that the “natural order” of things
@@ -20,18 +20,18 @@ ago? Environmentalists whine about how this will increase one’s lifetime
 Carbon footprint — seriously — and start mumbling about abuses to Gaia.
 Paranoid and suspicious types boldly assert that “the government” will
 use access to life extension to “control us” and pollute our [pure
-bodily fluids](http://www.youtube.com/watch?v=N1KvgtEnABY).  It seems
+bodily fluids](https://www.youtube.com/watch?v=N1KvgtEnABY).  It seems
 more people want to live short ordinary lives than long extraordinary
 ones.
 
 Personally I don’t have a problem with life extension.  I’m in the Woody
 Allen camp. [“I don’t want to achieve immortality through my work; I
 want to achieve immortality through not dying.
-”](http://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i)
+”](https://www.goodreads.com/quotes/1066-i-don-t-want-to-achieve-immortality-through-my-work-i)
 Not dying, *ever*, is a mighty big order. If you place any credence on
 current Big Bang cosmologies it looks like the entire universe is
 mortal. [In a mere 10^100^
-years](http://www.futuretimeline.net/beyond.htm#3000000000) the universe
+years](https://www.futuretimeline.net/beyond.htm#3000000000) the universe
 might be completely dark with a temperature that is physically
 indistinguishable from absolute zero. All the stars, galaxies, black
 holes and unstable elementary particles will have long since decayed.
@@ -43,7 +43,7 @@ more terrifying that any Last Judgment or Ragnarök. I don’t expect life
 extension to produce lifetimes of 10^100^ years; I would be happy if we
 eke out a few millennia. There are thousands of trees, deep-sea corals,
 and freaking
-[sponges](http://en.wikipedia.org/wiki/List_of_longest-living_organisms)
+[sponges](https://en.wikipedia.org/wiki/List_of_longest-living_organisms)
 that are many thousands of years old? If a sponge can hack a thousand
 years I really don’t think I’ll have a problem.
 
@@ -71,7 +71,7 @@ war every spring. We have to get a lot smarter to *use* thousand-year
 lifetimes. Fortunately the singularity is coming.
 
 Ray Kurzweil has absorbed lots of abuse. His book, [The Singularity is
-Near](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889),
+Near](https://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889),
 has been mocked as rapture for nerds. My own view is that his thesis is
 sound but his timeline is whacked. I don’t think the singularity, the
 emergence of superior trans-human intelligence, will happen in my

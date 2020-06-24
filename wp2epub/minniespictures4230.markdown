@@ -1,19 +1,19 @@
  
-[Minnie’s Pictures](http://bakerjd99.wordpress.com/2013/10/16/minnies-pictures/)
+[Minnie’s Pictures](https://bakerjd99.wordpress.com/2013/10/16/minnies-pictures/)
 --------------------------------------------------------------------------------
 
 *Posted: 17 Oct 2013 03:11:52*
 
-[Minnie E. Raver 1881-1977](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-k6pnSJ4/A).
+[Minnie E. Raver 1881-1977](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-k6pnSJ4/A).
 
 While going through my late mother’s pictures I came across a box of my
 great-grandmother Minnie’s old photographs. When my great-grandmother
 died in 1977 my grandmother
-[Hazel](http://conceptcontrol.smugmug.com/People/Grandparents-1/i-PBjmr7p/A)
+[Hazel](https://conceptcontrol.smugmug.com/People/Grandparents-1/i-PBjmr7p/A)
 took her pictures and stuffed them in her [Hoarder’s
-level](http://www.aetv.com/hoarders/) junk filled basement.[^4230a] After
+level](https://www.aetv.com/hoarders/) junk filled basement.[^4230a] After
 Hazel’s death [my
-mother](http://conceptcontrol.smugmug.com/People/The-Way-We-Were/i-Z64DmrR/A)
+mother](https://conceptcontrol.smugmug.com/People/The-Way-We-Were/i-Z64DmrR/A)
 recovered Minnie’s pictures from Hazel’s hoard and promptly filed them
 with her pictures where they remained until I found them. Minnie’s
 pictures have already seen off three generations of my ancestors and I’m
@@ -31,7 +31,7 @@ snapshots are candid shots of the people she knew and loved. All of
 which brings me to my current problem. *I don’t know who these people
 are!*
 
-[Callie Davis and Frank Smelser wedding 1905](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-Z7tfbBJ/A).
+[Callie Davis and Frank Smelser wedding 1905](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-Z7tfbBJ/A).
 
 I have never had much of an interest in family trees or the entire
 quasi-delusional undertaking of genealogical research for the simple
@@ -40,7 +40,7 @@ simple: people have always screwed around and then lied about it.* When
 you get right down to it you cannot be certain, without DNA testing,
 that your own parents are your biological parents. There are good
 reasons to suspect that at least [1% to 5% of
-children](http://www.washingtoncitypaper.com/articles/8308/to-have-and-to-cuckold)
+children](https://www.washingtoncitypaper.com/articles/8308/to-have-and-to-cuckold)
 result from cuckolding and for some social classes it may be as high as
 30%. In other words your daddy may not be who you think it is!
 Cuckolding varies with culture, time, socio-economic status and so forth
@@ -79,16 +79,16 @@ interesting than expected. It turns out that there’s a lot of dead
 people on the internet. When I started looking for death and marriage
 records I immediately came across a cemetery record for [my own recently
 deceased
-mother](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GSln=baker\&GSfn=evelyn+\&GSmn=v\&GSbyrel=all\&GSdyrel=all\&GSst=28\&GScnty=1627\&GScntry=4\&GSob=n\&GRid=110246189\&df=all\&).
+mother](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GSln=baker\&GSfn=evelyn+\&GSmn=v\&GSbyrel=all\&GSdyrel=all\&GSst=28\&GScnty=1627\&GScntry=4\&GSob=n\&GRid=110246189\&df=all\&).
 It was surprising to find her so soon. There’s an active
 world-wide ghoulish group of people photographing cemetery monuments and
 posting their findings online. It’s ironic but a [Facebook for the
-dead](http://en.wikipedia.org/wiki/Find\_a\_Grave) preceded the Facebook
+dead](https://en.wikipedia.org/wiki/Find\_a\_Grave) preceded the Facebook
 for the living. Starting with my mother I backtracked through my alleged
 ancestors looking for a “Lydia.”  “Lydia” was scrawled on the back of
 what looked like the oldest of Minnie’s pictures.
 
-[Lydia Jane Ayres 1839-unknown](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-FWtqBg4/A).
+[Lydia Jane Ayres 1839-unknown](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-FWtqBg4/A).
 
 If the records are correct I believe this “Lydia” is Lydia Jane Ayres.
 There is a very good chance that Lydia is one of my great-great
@@ -115,47 +115,47 @@ younger Lydia L. Ayres. Having been divorced and remarried myself I can
 only marvel at Albert’s ingenuity. The last thing you want to do in your
 senile dotage is call a second wife by your first wife’s name. Before
 social security that could have been a fatal mistake. [Randy old
-Albert](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GRid=89404051)
+Albert](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GRid=89404051)
 neatly dodged that bullet.
 
 The randiness was not confined to the Raver branch. Equally intriguing
 is this old portrait of “dad’s old sweetheart.” Here Minnie is likely
 referring to her own father and my great-great granddaddy [Howell Cobb
-Davis](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GSln=Davis\&GSfn=Howell\&GSmn=C\&GSby=1850\&GSbyrel=after\&GSdy=1950\&GSdyrel=before\&GSst=28\&GScntry=4\&GSob=n\&GRid=67837689\&df=all\&).
+Davis](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GSln=Davis\&GSfn=Howell\&GSmn=C\&GSby=1850\&GSbyrel=after\&GSdy=1950\&GSdyrel=before\&GSst=28\&GScntry=4\&GSob=n\&GRid=67837689\&df=all\&).
 Screwing around, contrary to boomer mythology, wasn’t invented in the
 1960’s.
 
-[“dad’s old sweetheart” - probably an old girlfriend of Howell C. Davis](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-GGmLK2W/A).
+[“dad’s old sweetheart” - probably an old girlfriend of Howell C. Davis](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-GGmLK2W/A).
 
 Minnie lived to 96. I was in my twenties when she died so I remember
 some of the people in her snapshots. Here’s Minnie with her [first-born
 son
-Vernon](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GRid=61581142)
+Vernon](https://www.findagrave.com/cgi-bin/fg.cgi?page=gr\&GRid=61581142)
 standing in Marble Canyon Arizona in 1949. I knew Vernon as a boy. He
 always posed exactly like you see him her.
 
-[Vernon and Minnie Raver Marble Canyon Arizona 1949](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-DTmc5Zb/A).
+[Vernon and Minnie Raver Marble Canyon Arizona 1949](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-DTmc5Zb/A).
 
 You can read the poor guys mind. “Do you really need another picture?
 Well if that’s how it’s going be I’m going to assume my petulant spoiled
 fat boy pose.” You cannot blame Vernon. His photographic life got off to
 a dreadful start. Look at this gem.
 
-[Vernon F. Raver 1904-1964](http://conceptcontrol.smugmug.com/People/Minnie-Raver/i-pms8BTb/A).
+[Vernon F. Raver 1904-1964](https://conceptcontrol.smugmug.com/People/Minnie-Raver/i-pms8BTb/A).
 
 In the early 20^th^ century women liked to dress up their baby boys as
 girls. Vernon got the full girly treatment. You cannot blame him for
 being scarred for life after such trauma. Here’s a clue ladies. Boys are
 not girls. Gender is not arbitrary. People that assert the contrary are
 idiots. Sorry if that sounds like
-[mansplaining](http://www.policymic.com/articles/44479/mansplaining-101-how-to-discuss-politics-and-feminism-without-acting-like-a-jackass); the
+[mansplaining](https://www.policymic.com/articles/44479/mansplaining-101-how-to-discuss-politics-and-feminism-without-acting-like-a-jackass); the
 truth is not always polite.
 
 I doubt I’ll ever get through Minnie’s pictures. There are hundreds of
 images to scan, restore and research. I just don’t have the time or
 energy but in the years ahead I will occasionally pick out and upload
 attractive images. Here’s [the gallery to
-follow](http://conceptcontrol.smugmug.com/People/Minnie-Raver) if you’re
+follow](https://conceptcontrol.smugmug.com/People/Minnie-Raver) if you’re
 interested.
 
 [^4230a]: If Hazel was alive today she would be a star on TV’s Hoarders.
@@ -163,4 +163,4 @@ interested.
 [^4230b]: Despite their good condition it was still a lot of work to restore
     the images posted here. To judge what I had contend with browse this
     gallery of [before and after
-    diptychs](http://conceptcontrol.smugmug.com/Themes/Manipulations/Restorations-1).
+    diptychs](https://conceptcontrol.smugmug.com/Themes/Manipulations/Restorations-1).

@@ -1,5 +1,5 @@
  
-[Nobel Peace Prize Idol](http://bakerjd99.wordpress.com/2009/10/09/nobel-peace-prize-idol/)
+[Nobel Peace Prize Idol](https://bakerjd99.wordpress.com/2009/10/09/nobel-peace-prize-idol/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 09 Oct 2009 17:03:39*
@@ -20,5 +20,5 @@ Peace!* Of course I still foolishly harbored some illusions that you had
 to do stuff. This morning, upon learning that Barak Obama had won, I
 divested my final illusions about the peace prize. The Nobel Peace Prize
 is now worth less than a *[Canadian
-Idol](http://www.ctv.ca/idol/gen/Home.html)* win. At least some Canadian
+Idol](https://www.ctv.ca/idol/gen/Home.html)* win. At least some Canadian
 Idols can sing and dance.

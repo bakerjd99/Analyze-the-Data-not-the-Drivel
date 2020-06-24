@@ -1,5 +1,5 @@
  
-[Faith a guilty pleasure](http://bakerjd99.wordpress.com/2012/09/02/faith-a-guilty-pleasure/)
+[Faith a guilty pleasure](https://bakerjd99.wordpress.com/2012/09/02/faith-a-guilty-pleasure/)
 ---------------------------------------------------------------------------------------------
 
 *Posted: 02 Sep 2012 23:47:02*
@@ -8,10 +8,10 @@ It’s a quiet Labor Day weekend in the *drivel dome*[^4] and your
 fearless reporter is a tad bored. I could help with the housework or get
 out and exercise but I have better things to do. Last night while
 trolling the
-[intertubes](http://www.urbandictionary.com/define.php?term=intertubes)
-for something to watch on [Hulu](http://www.hulu.com/) I came across a
+[intertubes](https://www.urbandictionary.com/define.php?term=intertubes)
+for something to watch on [Hulu](https://www.hulu.com/) I came across a
 transcendentally awesome Korean TV series called
-[Faith](http://www.hulu.com/search?q=faith). I know what you’re
+[Faith](https://www.hulu.com/search?q=faith). I know what you’re
 thinking. I haven’t fallen off the skeptical horse. I’m still the same
 old judgmental know-it-all bombastic boomer asshole you’ve come to know
 and love. The series Faith has, as far as I can tell after many long
@@ -59,7 +59,7 @@ meets girl story. Faith only gets better after the hero drags the ditsy
 surgeon back to the 14^th^ century. The result is a comical martial arts
 chick-flicky self parodying guilty pleasure. You can see the cast
 members thinking
-[WTF](http://www.urbandictionary.com/define.php?term=wtf) between their
+[WTF](https://www.urbandictionary.com/define.php?term=wtf) between their
 lines and is there a better endorsement than that?
 
 [^4]: *Analyze the Data not the Drivel* is not suitable for succinct

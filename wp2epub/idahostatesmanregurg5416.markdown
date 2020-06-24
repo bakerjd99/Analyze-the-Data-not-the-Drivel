@@ -1,5 +1,5 @@
  
-[Idaho Statesman Regurgitates High Precision Hate Calculations](http://analyzethedatanotthedrivel.org/2017/08/17/idaho-statesman-regurgitates-high-precision-hate-calculations/)
+[Idaho Statesman Regurgitates High Precision Hate Calculations](https://analyzethedatanotthedrivel.org/2017/08/17/idaho-statesman-regurgitates-high-precision-hate-calculations/)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Aug 2017 01:53:53*
@@ -12,7 +12,7 @@ center, sane, and boring publication. The *Statesman* is constrained by
 the decidedly right of center leanings of Idaho but on some days they
 let their inner left-wing freak fly and boy did it fly when they boldly
 reported: [Idaho named the second-most hateful state in the
-U.S.](http://www.idahostatesman.com/news/state/idaho/article167378712.html)
+U.S.](https://www.idahostatesman.com/news/state/idaho/article167378712.html)
 
 I always thought we were number one!
 
@@ -58,7 +58,7 @@ done.
 
     Which, when rounded up[^5416a] to one decimal, equals 7.1; this matches
     the value reported by [24/7 Wall
-    Street](http://247wallst.com/special-report/2017/08/14/10-states-with-the-most-hate-groups-3/4/):
+    Street](https://247wallst.com/special-report/2017/08/14/10-states-with-the-most-hate-groups-3/4/):
     the primary source cited by the *Statesman*.
 
 I put together a little spreadsheet that applies this naive calculation

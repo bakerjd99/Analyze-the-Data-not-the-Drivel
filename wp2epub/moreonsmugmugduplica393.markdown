@@ -1,11 +1,11 @@
  
-[More on SmugMug Duplicates](http://bakerjd99.wordpress.com/2010/02/11/more-on-smugmug-duplicates/)
+[More on SmugMug Duplicates](https://bakerjd99.wordpress.com/2010/02/11/more-on-smugmug-duplicates/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 11 Feb 2010 20:22:13*
 
 In my previous post I described a method for eliminating duplicate
-[SmugMug](http://www.smugmug.com/) images based on MD5’s. This method
+[SmugMug](https://www.smugmug.com/) images based on MD5’s. This method
 does not get all the duplicates.
 
 If you uploaded the same image to different galleries, at different
@@ -16,8 +16,8 @@ into their MD5 \`s but I suspect it’s more than image data.
 names and MD5’s.* Furthermore, to maintain a pure duplicate free state,
 you need to check these items often. Now, after uploading or rearranging
 pictures, I update my [SmugMug
-metadata](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/) and
-execute this [J verb](http://www.jsoftware.com/) to insure I don’t
+metadata](https://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/) and
+execute this [J verb](https://www.jsoftware.com/) to insure I don’t
 introduce duplicates.
 
 ```J

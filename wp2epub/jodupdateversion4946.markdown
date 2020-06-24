@@ -6,10 +6,10 @@
 
 In the last year much has changed in the J world.
 
-1.  There are new [official J 8.0x](http://www.jsoftware.com/stable.htm)
+1.  There are new [official J 8.0x](https://www.jsoftware.com/stable.htm)
     builds for all supported platforms.
 
-2.  The [QT](http://www.qt.io/download/) based IDE JDE has matured and
+2.  The [QT](https://www.qt.io/download/) based IDE JDE has matured and
     is in widespread use.
 
 3.  The column oriented J database JD is drawing new users to J and
@@ -66,8 +66,8 @@ by the `joddocument` addon and is easily browsed with `jodhelp`.
 
 After `jod.pdf`’s appearance another irritant surfaced: synchronizing
 `jod.pdf` and the online version. I tried using
-[pandoc](http://pandoc.org/) and
-[markdown](http://daringfireball.net/projects/markdown/) to generate
+[pandoc](https://pandoc.org/) and
+[markdown](https://daringfireball.net/projects/markdown/) to generate
 both the online and PDF versions from the same source files but
 `jod.pdf` is too complex for *not-to-fancy* portable approaches. I was
 faced with a choice, lower my `jod.pdf` standards, or get rid of
@@ -96,7 +96,7 @@ The following example shows my `Win64` system settings.
        Editor=: 'c:/uap/notepad++/notepad++.exe %f'   
        Editor_nox=: '' 
 
-I use [SumatraPDF](http://www.sumatrapdfreader.org/free-pdf-reader.html)
+I use [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 to read PDF files on Windows. It’s a fast, lightweight, program that
 efficiently renders `jod.pdf`. Good PDF readers are available for all
 commonly used platforms.
@@ -125,7 +125,7 @@ to move dictionaries around but they [have other
 uses](https://github.com/bakerjd99/joddumps) as well. Prior to this
 version I distributed the three main JOD development dump scripts,
 `joddev`, `jod`, and `utils` in one compressed zip file to reduce the
-size of [JAL](http://www.jsoftware.com/jwiki/JAL) downloads.
+size of [JAL](https://www.jsoftware.com/jwiki/JAL) downloads.
 
 The distributed script
 [`jodsourcesetup.ijs`](https://github.com/bakerjd99/jod/blob/master/jodsource/jodsourcesetup.ijs)
@@ -173,9 +173,9 @@ planning to implement. I only develop JOD when I need something or I am
 bored out of my mind at work and need a break. Such intermittent
 motivators seldom insure project completion but I have found a new
 reason to finish JOD. To list a book on
-[Goodreads](http://www.goodreads.com/bakerjd99) or Amazon you need an
+[Goodreads](https://www.goodreads.com/bakerjd99) or Amazon you need an
 [ISBN number](https://www.isbn-international.org/). The [hardcopy
-version](http://www.lulu.com/spotlight/bakerjd99) of the JOD manual is a
+version](https://www.lulu.com/spotlight/bakerjd99) of the JOD manual is a
 *sort-of-published* book. To complete the publishing process I need an
 ISBN. If I am going to bother with such formalities I might as well
 complete the system the manual describes. So there you have it a new

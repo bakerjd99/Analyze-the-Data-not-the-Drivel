@@ -6,7 +6,7 @@
 
 Good news citizens: the putrid rogue intellects in Washington D.C. have
 created a brand [new shiny Star
-Chamber.](http://dailyreckoning.com/u-s-war-on-your-passport-continues/)
+Chamber.](https://dailyreckoning.com/u-s-war-on-your-passport-continues/)
 What’s a Star Chamber you ask? It’s basically a secret kangaroo court.
 The US system of *injustice* already employs an alphabet soup of Star
 Chambers. Perhaps you’ve heard of
@@ -15,7 +15,7 @@ and its outstanding work of rubber stamping the surveillance of
 dangerous American citizens – oops terrorists. Well, I’m happy to
 report, that the self-aggrandizing assholes that drool us are no longer
 content with [monitoring our terrorist naughty
-bits](http://www.bbc.com/news/technology-25118156); now they’re going
+bits](https://www.bbc.com/news/technology-25118156); now they’re going
 for what they covet most: our money.
 
 The new Star Chamber law plugs an egregious hole that citizens – oops
@@ -24,7 +24,7 @@ American – oops terrorist – determines that residing in the US and
 maintaining American citizenship is no longer worth it, said American
 could simply gather up his holdings, leave the country, and renounce his
 citizenship. Remember [Eduardo
-Saverin](http://www.huffingtonpost.com/huff-wires/20120515/as-facebook-saverin-singapore/)?
+Saverin](https://www.huffingtonpost.com/huff-wires/20120515/as-facebook-saverin-singapore/)?
 He was a cofounder of Facebook who did a little arithmetic and figured
 out that dumping his US citizenship would save him many millions of tax
 dollars. Eduardo did what any intelligent human being would do. He
@@ -41,7 +41,7 @@ with some of their change!
 
 The years of hope and change have led to ever [increasing number of
 Americans fleeing the
-country.](http://www.forbes.com/sites/robertwood/2015/02/11/thousands-renounce-u-s-citizenship-hitting-new-record-not-just-over-taxes/)
+country.](https://www.forbes.com/sites/robertwood/2015/02/11/thousands-renounce-u-s-citizenship-hitting-new-record-not-just-over-taxes/)
 It’s only a trickle now but wait until [Pussydent
 Hildabeast](https://bakerjd99.wordpress.com/2014/04/15/pussydent-hildabeast/)
 takes over. The trickle will turn into a flood and that’s a problem
@@ -64,7 +64,7 @@ privilege! With such an idiotic and oppressive law in place, it’s just a
 matter of time before the US harbors thousands of internal tax and
 terrorist aiding exiles. They’ll be joining a larger cohort of hundreds
 of thousands of [former American drug offense
-prisoners](http://criminal-law.freeadvice.com/criminal-law/criminal-law/obtaining-passport-criminal-record.htm)
+prisoners](https://criminal-law.freeadvice.com/criminal-law/criminal-law/obtaining-passport-criminal-record.htm)
 that are also, oddly enough, frequently denied US passports.
 
 This is all good news! What the morons in Washington have created is a

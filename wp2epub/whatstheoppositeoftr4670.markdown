@@ -1,5 +1,5 @@
  
-[What’s the opposite of Transcendence?](http://bakerjd99.wordpress.com/2014/04/18/whats-the-opposite-of-transcendence/) 
+[What’s the opposite of Transcendence?](https://bakerjd99.wordpress.com/2014/04/18/whats-the-opposite-of-transcendence/) 
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 19 Apr 2014 01:52:45*
@@ -8,9 +8,9 @@ Serious science fiction is a demanding cinematic genre; that’s why you
 see so little of it! Most of what passes for science fiction is
 out-and-out comic fantasy. In the last year only three marginally
 serious science fiction films made it to wide release: [Catching
-Fire](http://www.catchingfiremovie.com/),
-[Divergent](http://divergentthemovie.com/) and
-[Transcendence](http://www.transcendencemovie.com/). Sadly, they’re all
+Fire](https://www.catchingfiremovie.com/),
+[Divergent](https://divergentthemovie.com/) and
+[Transcendence](https://www.transcendencemovie.com/). Sadly, they’re all
 pretty awful and Transcendence is the biggest letdown of the three.
 Here’s why.
 
@@ -31,7 +31,7 @@ than programs trapped in messy hardware. Separating hardware and
 software is one of the glories of our age. We take it for granted that
 if we change the software we change the machine. The other day I killed
 off my old WinXP laptop and then resurrected it as a [Mint
-Linux](http://www.linuxmint.com/) device. The hardware is the same but
+Linux](https://www.linuxmint.com/) device. The hardware is the same but
 the machine is very different. We cannot do this with brains — yet. The
 software that makes you, you, is regrettably entwined with the hardware
 that runs you. Nature has evolved better intellectual property
@@ -57,7 +57,7 @@ the Bible. Scores of fine science fiction novels have been trashed by
 trying to imagine what truly superior beings would think and do. The
 only approach that works is oblique. You can suggest the workings of
 superior minds. [2001: A Space
-Odyssey](http://www.imdb.com/title/tt0062622/) is a classic example of
+Odyssey](https://www.imdb.com/title/tt0062622/) is a classic example of
 doing this right, but for reasons that escape me, many authors take on
 the inner life of superior minds only to show their own rather mediocre
 ones. Transcendence didn’t even make an honest effort to deal with the

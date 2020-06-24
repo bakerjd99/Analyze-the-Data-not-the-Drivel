@@ -1,5 +1,5 @@
  
-[Pussydent Hildabeast](http://bakerjd99.wordpress.com/2014/04/15/pussydent-hildabeast/)
+[Pussydent Hildabeast](https://bakerjd99.wordpress.com/2014/04/15/pussydent-hildabeast/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 15 Apr 2014 21:41:44*
@@ -20,9 +20,9 @@ Exactly what Earth shaking event does this terrible tetrad foretell?
 
 
 > [*Moon free
-> bleeding*](http://modernwomandigest.com/disturbing-new-feminist-trend-free-bleeding/)\
+> bleeding*](https://modernwomandigest.com/disturbing-new-feminist-trend-free-bleeding/)\
 > [*We’re not
-> needing*](http://modernwomandigest.com/disturbing-new-feminist-trend-free-bleeding/)\
+> needing*](https://modernwomandigest.com/disturbing-new-feminist-trend-free-bleeding/)\
 
 
 > [*Someone on the Internet*](https://xkcd.com/386/)\
@@ -32,7 +32,7 @@ But now, in the blood moon discharge, it’s clear a fate worse than
 community organizers awaits a pummeled public. Behold, *Pussydent
 Hildabeast*,[^4647b] a rough nagging crone, her ["hour come round at
 last, slouches towards Bethlehem to be
-born?"](http://en.wikipedia.org/wiki/The_Second_Coming_(poem))
+born?"](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))
 
 > *Soon we’ll beg*\
 > [*Who*](https://www.youtube.com/watch?v=kTcRRaXV-fg)\

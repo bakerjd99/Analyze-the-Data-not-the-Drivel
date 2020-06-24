@@ -1,21 +1,21 @@
  
-[A C\# .Net Class for calling J](http://bakerjd99.wordpress.com/2010/05/28/a-c-net-class-for-calling-j/)
+[A C\# .Net Class for calling J](https://bakerjd99.wordpress.com/2010/05/28/a-c-net-class-for-calling-j/)
 --------------------------------------------------------------------------------------------------------
 
 *Posted: 28 May 2010 14:48:18*
 
-One of my [favorite programming tools is J](http://www.jsoftware.com/).
+One of my [favorite programming tools is J](https://www.jsoftware.com/).
 In skilled hands *J is a spear in a world of bent spoons.* In my day job
 I rarely encounter programming problems that cannot be brutally
 dispatched with a few dozen lines of J. Most accomplished [J
-programmers](http://www.lulu.com/product/paperback/j-for-c-programmers/4669553)
+programmers](https://www.lulu.com/product/paperback/j-for-c-programmers/4669553)
 laud the [elegance and power of the
-language](http://portal.acm.org/citation.cfm?id=508562) and frequently
+language](https://portal.acm.org/citation.cfm?id=508562) and frequently
 remark on how learning J changed the way the way they think about
 programming. If you are intrigued please take a look but a word of
 caution. Learning J is like learning Calculus. Don’t expect to progress
 beyond the trivial without a [substantial intellectual
-effort](http://norvig.com/21-days.html) on your behalf.
+effort](https://norvig.com/21-days.html) on your behalf.
 
 J has many strengths but current implementations also have some serious
 shortcomings.
@@ -33,7 +33,7 @@ shortcomings.
     executables.
 
 4.  There are very few useful J libraries.
-    [Python](http://pypi.python.org/pypi/) programmers often find
+    [Python](https://pypi.python.org/pypi/) programmers often find
     complete solutions to their problems in libraries. With J you often
     end up writing your own libraries This fosters an independent frame
     of mind at the expense of productivity.
@@ -44,19 +44,19 @@ shortcomings.
 
 To deal with J’s deficiencies I cheat and use other languages and tools.
 This is getting the best of both worlds or [Miley
-Cryrus](http://www.stlyrics.com/lyrics/hannahmontana/bestofbothworlds.htm)’ing
+Cryrus](https://www.stlyrics.com/lyrics/hannahmontana/bestofbothworlds.htm)’ing
 it! Miley Cryus’ing in Windows environments leads straight to .Net and
 the premier .Net programming language C\#. J is not a .Net language but
 J can be called from C\# by COM or by C style API calls. This
-[JServer](http://cid-f964330e36001519.skydrive.live.com/self.aspx/Public/cs/JServer10may27.zip)
+[JServer](https://cid-f964330e36001519.skydrive.live.com/self.aspx/Public/cs/JServer10may27.zip)
 class uses COM. JServer was inspired by Alex Rufon’s [J Wiki
-essay](http://202.67.223.49/jwiki/Guides/J%20CSharp) but differs in that
+essay](https://202.67.223.49/jwiki/Guides/J%20CSharp) but differs in that
 all JServer calls are strongly typed. There is no point in using
 strongly typed languages like C\# if you are constantly casting objects.
 Use the type checking Luke!
 
 The following
-[JServerTest](http://cid-f964330e36001519.skydrive.live.com/self.aspx/Public/cs/JServerTest10may27.zip)
+[JServerTest](https://cid-f964330e36001519.skydrive.live.com/self.aspx/Public/cs/JServerTest10may27.zip)
 code snippet shows JServer calls.
 ```CS
 using System;

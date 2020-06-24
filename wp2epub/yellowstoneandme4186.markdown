@@ -1,15 +1,15 @@
  
-[Yellowstone and Me](http://bakerjd99.wordpress.com/2013/08/24/yellowstone-and-me/)
+[Yellowstone and Me](https://bakerjd99.wordpress.com/2013/08/24/yellowstone-and-me/)
 -----------------------------------------------------------------------------------
 
 *Posted: 24 Aug 2013 06:32:35*
 
 I have moved so often that I am no longer from anywhere, but if asked,
-one place, [Livingston Montana](http://www.livingstonmontana.org/), has
+one place, [Livingston Montana](https://www.livingstonmontana.org/), has
 the strongest claim. Every summer, from infancy to late adolescence, I
 spent long happy months with my grandparents in Livingston. If you look
 at a map you’ll see that Livingston is close to [Yellowstone National
-Park](http://www.nps.gov/yell/index.htm). In the late 19^th^ and early
+Park](https://www.nps.gov/yell/index.htm). In the late 19^th^ and early
 20^th^ century the town billed itself as the gateway to Yellowstone. In
 those days most people reached the park by train and the train went
 through Livingston on the way to Gardner and the northern park entrance
@@ -28,7 +28,7 @@ When I was a child the park service did things differently. In the
 out on park roads begging food from tourists. Seeing bears closeup was
 always a thrill. Of course you weren’t supposed to feed bears. Signs
 were everywhere reminding [*Boobus
-americanus*](http://www.urbandictionary.com/define.php?term=Boobus%20Americanus)
+americanus*](https://www.urbandictionary.com/define.php?term=Boobus%20Americanus)
 that bears were dangerous wild animals, but the largely ignorant public
 ignored the warnings with predictable results. Every year at least one
 moron was killed by a bear. In good years two or three would succumb.
@@ -44,7 +44,7 @@ active geysers are bubbling away atop Yellowstone’s massive caldera. The
 immense size and power of the Yellowstone super-volcano was not fully
 understood in those days but you could see the park was a special,
 almost magical, place with your own eyes. One geyser, [Old
-Faithful](http://www.nps.gov/yell/planyourvisit/noldfaith.htm), is
+Faithful](https://www.nps.gov/yell/planyourvisit/noldfaith.htm), is
 emblematic of Yellowstone and most of our park trips included a stop at
 it.
 
@@ -52,7 +52,7 @@ Old Faithful is not the most spectacular large geyser in the park but
 it’s the most dependable. By some rare geological quirk Old Faithful has
 been venting at regular intervals ever since it was named in 1870.[^4186a]
 The interval changes a bit from time to time. The [Madison
-earthquake](http://en.wikipedia.org/wiki/1959\_Yellowstone\_earthquake)
+earthquake](https://en.wikipedia.org/wiki/1959\_Yellowstone\_earthquake)
 tweaked the frequency and times vary more than many believe, but if you
 go to Old Faithful and invest a few hours the geyser will not
 disappoint. The most dramatic eruptions occur during the winter when
@@ -68,7 +68,7 @@ largest high altitude lake in North America. It is home to a variety of
 North American plants and animals. It has one of the most spectacular
 river canyons and waterfalls anywhere and it shelters, in scalding
 geyser waters, rare ancient
-[extremophiles](http://en.wikipedia.org/wiki/Extremophile) that are
+[extremophiles](https://en.wikipedia.org/wiki/Extremophile) that are
 among the oldest life forms on Earth. The park doesn’t need me to sell
 it. It’s one of the world’s very special places.
 
@@ -86,7 +86,7 @@ notable events and advances in geology made me reassess my feelings
 about the park.
 
 Remember the great Yellowstone [forest fires of
-1988](http://en.wikipedia.org/wiki/Yellowstone\_fires\_of\_1988).
+1988](https://en.wikipedia.org/wiki/Yellowstone\_fires\_of\_1988).
 Dramatic images of vast fires filled newscasts for weeks. The park
 service endured abuse from all quarters for letting the fires rage. Fire
 has always been important for North American evergreen forests. Years of
@@ -151,14 +151,14 @@ subsidized grass stop whining about occasional losses to wildlife.
 You’re damn lucky the stupid public tolerates grazing on public lands.
 In pure economic terms wolf introduction has been a rare government
 money-maker. Perhaps if [*Congress
-assholus*](http://www.urbandictionary.com/define.php?term=congress) were
+assholus*](https://www.urbandictionary.com/define.php?term=congress) were
 reintroduced to their natural habit, *prison*, similar benefits would
 ensue.
 
 Wolf reintroduction put Yellowstone back in the news but advances in
 geophysics and geology vaulted the park’s status to global icon. There
 aren’t very many [super volcanoes in the
-world](http://wiki.answers.com/Q/How\_many\_super\_volcanoes\_are\_there\_all\_together\_in\_the\_world)
+world](https://wiki.answers.com/Q/How\_many\_super\_volcanoes\_are\_there\_all\_together\_in\_the\_world)
 and there are even fewer active super-volcanoes. This is probably a good
 thing. Too many of these puppies blowing off would seriously depress the
 market and no amount of quantitative easing would excavate your baked
@@ -173,7 +173,7 @@ kilometers of rock in a matter of years. Yellowstone ground movements
 have been monitored since the 1920’s and they are so marked that even
 the public notices. Now that we better understand [the monster that
 lurks under the
-park](http://ngm.nationalgeographic.com/2009/08/yellowstone/yellowstone-interactive)
+park](https://ngm.nationalgeographic.com/2009/08/yellowstone/yellowstone-interactive)
 everyone expects it to wake one day and blow the joint sky-high. Maybe
 we’ll get lucky and see it blow in our lifetime. The last time the
 Yellowstone super-volcano erupted *Homo erectus* walked the Earth. They
@@ -206,7 +206,7 @@ Judging the motivations of the long dead is pure hubris but evaluating
 the results of their actions is how we learn from history. By any
 standard Yellowstone was a glorious result. The congress of 1872 set a
 precedent that spread worldwide. [Ken
-Burns](http://www.pbs.org/nationalparks/) argues that national parks are
+Burns](https://www.pbs.org/nationalparks/) argues that national parks are
 the single best idea the US government has ever had and I agree. *I
 shudder to think what Yellowstone would be like if it wasn’t a national
 park.* It would probably be the biggest hive of luxury spas and
@@ -215,7 +215,7 @@ Monte Carlo, Dubai and Hollywood all whored up with natural boiling mud
 and geyser waters. Instead of being proud of Yellowstone I would be
 advocating nuking the place. The nukes wouldn’t damage the super-volcano
 but they would cauterize the celebrity infestation. Thank the [all
-squiggling FSM](http://www.venganza.org/) that this nightmare was
+squiggling FSM](https://www.venganza.org/) that this nightmare was
 aborted in 1872. National parks have aborted many such nightmares all
 around the globe.
 

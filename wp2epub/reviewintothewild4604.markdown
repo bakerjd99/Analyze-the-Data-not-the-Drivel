@@ -1,14 +1,14 @@
  
-[Review: Into the Wild](http://bakerjd99.wordpress.com/2014/04/01/review-into-the-wild/)
+[Review: Into the Wild](https://bakerjd99.wordpress.com/2014/04/01/review-into-the-wild/)
 ----------------------------------------------------------------------------------------
 
 *Posted: 02 Apr 2014 01:26:18*
 
 Anyone contemplating a “return to nature” would be well advised to read
 [Into the
-Wild](http://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804) first.
+Wild](https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804) first.
 This gripping little book investigates the last journey of [Christopher
-McCandless](http://en.wikipedia.org/wiki/Christopher\_McCandless): a
+McCandless](https://en.wikipedia.org/wiki/Christopher\_McCandless): a
 young man who walked into the Alaskan wilds north of Denali in the early
 1990’s with the intention of living off the land. He was woefully
 under-equipped, both materially and mentally, and in less than four
@@ -51,7 +51,7 @@ pointers from people who do! Any good diving, climbing, or kayaking
 course will quickly drive home the point that mommy nature is one big
 capricious ass kicking bitch that will crush you without a femtosecond of
 remorse. Training addresses the
-[Rumsfeldian](http://www.gruffducks.com/rumsphil.html) “known unknowns”
+[Rumsfeldian](https://www.gruffducks.com/rumsphil.html) “known unknowns”
 by giving us opportunities to recognize dangerous situations while we
 still have some control over events.
 

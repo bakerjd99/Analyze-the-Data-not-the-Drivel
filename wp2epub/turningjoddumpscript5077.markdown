@@ -30,9 +30,9 @@ manual](https://app.box.com/shared/gajfu50gc0) mostly so I can say that
 I’ve written a legitimate, albeit strange and queer, book.*
 
 *I created this post by running the `LaTeX` code of the manual
-appendix through the excellent utility [pandoc](http://pandoc.org/),
+appendix through the excellent utility [pandoc](https://pandoc.org/),
 tweaking the resulting
-[markdown](http://daringfireball.net/projects/markdown/syntax), and then
+[markdown](https://daringfireball.net/projects/markdown/syntax), and then
 using pandoc again to generate `html` for this blog. pandoc is a great
 “re-purposing” tool!*
 
@@ -209,6 +209,6 @@ JOD dictionaries is easier if you can turn a few dump script tricks.[^5077a]
 
 [^5077a]: Spicing up one’s rhetoric with a double entendre like “turning
     tricks” may be construed as a
-    [*microaggression*](http://thefederalist.com/2015/03/24/microaggressions-and-trigger-warnings-meet-real-trauma/).
+    [*microaggression*](https://thefederalist.com/2015/03/24/microaggressions-and-trigger-warnings-meet-real-trauma/).
     The point of colored language is to memorably make a point. You are
     unlikely to forget *turning dump script tricks.*

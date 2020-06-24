@@ -1,12 +1,12 @@
  
-[SmugMug Duplicate Image Hunting](http://bakerjd99.wordpress.com/2010/02/05/smugmug-duplicate-image-hunting/)
+[SmugMug Duplicate Image Hunting](https://bakerjd99.wordpress.com/2010/02/05/smugmug-duplicate-image-hunting/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Feb 2010 18:07:45*
 
 One of the many things the developers of
-[Thumbsplus](http://www.cerious.com/) got right was a proper [normalized
-database schema](http://en.wikipedia.org/wiki/Database\_normalization).
+[Thumbsplus](https://www.cerious.com/) got right was a proper [normalized
+database schema](https://en.wikipedia.org/wiki/Database\_normalization).
 When I first inspected the layout of a Thumbsplus database I knew I was
 in good hands. In Thumbsplus image files get unique keys and image
 galleries are simply lists of image keys. Images can appear in any
@@ -14,24 +14,24 @@ number of galleries, without duplication, just the way the gods of
 database design intended.
 
 Assigning unique keys and grouping by key lists is *so correct* that it
-was a shock to discover that [SmugMug](http://www.smugmug.com/), until
+was a shock to discover that [SmugMug](https://www.smugmug.com/), until
 recently, eschewed this principle. Prior to a recent upgrade if you
 wanted to display an image in more than one gallery you had to *…
 shudder with horror …*. make copies! Whenever I made an image copy I
 felt like I was [masturbating in an art
-museum.](http://www.goarticles.com/cgi-bin/showa.cgi?C=1331827)
+museum.](https://www.goarticles.com/cgi-bin/showa.cgi?C=1331827)
 
 This outrage is now fixed and you can place an image in as many
 galleries as you want without copying. Unfortunately there is a
 *residual* problem. How do you hunt down and exterminate all your bogus
 copies? In an acronym:
-[MD5](http://www.fastsum.com/support/md5-checksum-utility-faq/md5-hash.php).
+[MD5](https://www.fastsum.com/support/md5-checksum-utility-faq/md5-hash.php).
 SmugMug assigns MD5’ s to all images. If two MD5’s are the same there is
 an extremely high likelihood you are dealing with copies. So all you
 have to do is find images with identical MD5’s and delete the extra
-copies. The following [J verb](http://www.jsoftware.com/) uses image
+copies. The following [J verb](https://www.jsoftware.com/) uses image
 tables created from the XML captured by my [SmugMug metadata
-dumper](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/) to
+dumper](https://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/) to
 do just this.
 
 ```J

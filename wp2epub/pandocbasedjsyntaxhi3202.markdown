@@ -1,13 +1,13 @@
  
-[Pandoc based J Syntax Highlighting](http://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
+[Pandoc based J Syntax Highlighting](https://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Sep 2012 04:30:58*
 
-[John MacFarlane’s](http://johnmacfarlane.net/) excellent command line
-utility [Pandoc](http://johnmacfarlane.net/pandoc/) is a Haskell program
+[John MacFarlane’s](https://johnmacfarlane.net/) excellent command line
+utility [Pandoc](https://johnmacfarlane.net/pandoc/) is a Haskell program
 that converts to and from various [text markup
-languages](http://en.wikipedia.org/wiki/Markup\_language). Pandoc’s help
+languages](https://en.wikipedia.org/wiki/Markup\_language). Pandoc’s help
 option lists its supported input and output formats.
 
 *The following examples are Linux bash shell commands. Windows shell
@@ -25,56 +25,56 @@ commands are identical.*
 
 Some Pandoc conversions are better than others. Pandoc does a better job
 of turning
-[markdown](http://daringfireball.net/projects/markdown/syntax) into
+[markdown](https://daringfireball.net/projects/markdown/syntax) into
 LaTeX than LaTeX into markdown. It’s also better at converting HTML into
 LaTeX than LaTeX into HTML. Pandoc works best when converting markdown,
 the simplest of its inputs, to other formats. In fact Pandoc does such a
 good job of converting markdown to HTML,
-HTML+[MathJax](http://www.mathjax.org/), LaTeX or PDF that many writers
+HTML+[MathJax](https://www.mathjax.org/), LaTeX or PDF that many writers
 are now saving their source documents as markdown text knowing they can
 easily produce other formats as needed.
 
 As handy as Pandoc’s markup conversions are this nifty tool also
 supports syntax highlighting for over a hundred programming languages.
-Unfortunately, my favorite [language J](http://www.jsoftware.com/) is
+Unfortunately, my favorite [language J](https://www.jsoftware.com/) is
 not on Pandoc’s list of highlighted languages.[^3202x1] Where have I run into
 [this
-problem](http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/)
+problem](https://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/)
 before? Luckily for me pandoc is an open source tool and Pandoc’s author
 has made it easy to add new highlight languages.
 
-Pandoc is a [Haskell](http://www.haskell.org/haskellwiki/Haskell)
+Pandoc is a [Haskell](https://www.haskell.org/haskellwiki/Haskell)
 program. I’ve been aware of Haskell’s existence for years but until I
 decided to take on this specialized Pandoc hack I had never studied or
 used the language. Usually when you set out to modify a large program in
 an unfamiliar programming language you’re in for what can only be
 described as an [*f’ing educational
-experience.*](http://www.ebaumsworld.com/video/watch/81394604/) It’s a
+experience.*](https://www.ebaumsworld.com/video/watch/81394604/) It’s a
 testament to the quality of the Haskell’s global libraries and standard
 tools that a complete Haskell novice can effectively tweak large Haskell
 programs. Here’s what you have to do.
 
 1.  Install the [Haskell
-    Platform](http://hackage.haskell.org/platform/index.html). The
+    Platform](https://hackage.haskell.org/platform/index.html). The
     Haskell Platform is available for all the usual suspects. I’ve used
     both the Windows and Linux versions. I almost installed the Mac
     version on my wife’s Mac but resisted the urge.
 
-2.  [Get with the Cabal](http://www.haskell.org/cabal/). Cabal is the
+2.  [Get with the Cabal](https://www.haskell.org/cabal/). Cabal is the
     main Haskell package distribution and build utility. Cabal comes
     with the Haskell Platform and is easily accessed from the command
     line. Type `cabal --help` in your favorite shell to view the
     program’s options.
 
 3.  Spend sometime playing with
-    [Hackage](http://hackage.haskell.org/packages/hackage.html). Hackage
+    [Hackage](https://hackage.haskell.org/packages/hackage.html). Hackage
     contains a large set of Haskell packages including all the source
     code required to build Pandoc.
 
 After installing the Haskell Platform and familiarizing yourself with
 Cabal try building Pandoc. This will thoroughly exercise your Haskell
 system. Instructions for building Haskell packages are
-[here](http://www.haskell.org/haskellwiki/Cabal-Install). After reading
+[here](https://www.haskell.org/haskellwiki/Cabal-Install). After reading
 the package build instructions run the following in your command shell:
 
     $ cabal update
@@ -89,15 +89,15 @@ ended up in:
 
 If you managed to build Pandoc you’re now ready to add a new
 highlighting language. Pandoc uses the
-[`highlighting-kate`](http://hackage.haskell.org/package/highlighting-kate-0.5.3.2)
+[`highlighting-kate`](https://hackage.haskell.org/package/highlighting-kate-0.5.3.2)
 package for highlighting. `highlighting-kate` works by reading a
-directory of [Kate](http://kate-editor.org/) editor xml language regex
+directory of [Kate](https://kate-editor.org/) editor xml language regex
 based definition files and generating custom language parsers. We want
 to generate a custom J parser so we need to download `highlighting-kate`
 source and add a Kate xml definition file for J.
 
 You can find such a J Kate file on the J Wiki
-[here](http://www.jsoftware.com/jwiki/Guides/Syntax%20Coloring?action=AttachFile\&do=view\&target=j.xml.txt).
+[here](https://www.jsoftware.com/jwiki/Guides/Syntax%20Coloring?action=AttachFile\&do=view\&target=j.xml.txt).
 Download this file by cutting and pasting and save it as
 [`j.xml`](https://www.box.com/s/wvms2a1ws3il81kyb1qo). Now do the
 following.
@@ -199,12 +199,12 @@ highlighting package.
 Now that we have a Pandoc that can highlight J we’re almost ready to
 blog gaudy J code. However before doing this we need to install some
 
-custom [CSS](http://www.htmldog.com/guides/cssbeginner/). Custom CSS is
+custom [CSS](https://www.htmldog.com/guides/cssbeginner/). Custom CSS is
 not available on free *WordPress.com* blogs. To apply custom coloring
 schemes get the [custom
-package](http://en.support.wordpress.com/custom-design/) and learn how
+package](https://en.support.wordpress.com/custom-design/) and learn how
 to use WordPress’s custom CSS editor. As daunting as this sounds it’s
-[no problemo](http://www.youtube.com/watch?v=4QWfrxYt9DQ) for my limited
+[no problemo](https://www.youtube.com/watch?v=4QWfrxYt9DQ) for my limited
 purposes. To enable tango style pandoc syntax highlighting on your
 WordPress blog paste
 [`tango.css`](https://www.box.com/s/dklf0lofp7pc1k98i3h2) into the
@@ -229,8 +229,8 @@ To get other versions simply change the file extension of the output
 Finally we are ready to post syntax highlighted J code. The following J
 verb [`bonebridge`](https://www.box.com/s/zgnyhgsamlxbqvkw7r4t)
 generates all “likely” lock combinations for the [MYST
-IV](http://en.wikipedia.org/wiki/Myst\_IV:\_Revelation) Bonebridge
-[puzzle](http://www.fisicx.com/revelation/walkthrough.htm) in Pandoc’s
+IV](https://en.wikipedia.org/wiki/Myst\_IV:\_Revelation) Bonebridge
+[puzzle](https://www.fisicx.com/revelation/walkthrough.htm) in Pandoc’s
 tango style. At one time I was a big fan of MYST computer games. I
 always enjoyed being lost in a beautiful puzzle which, if you discard
 the *beautiful* bit, is a pretty accurate description of my programmer

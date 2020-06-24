@@ -6,7 +6,7 @@
 
 This week Canada’s shiny new Prime Minister [Justin Trudeau is hanging
 out with
-Obama](http://www.cbc.ca/news/politics/trudeau-obama-state-visit-washington-1.3483545).
+Obama](https://www.cbc.ca/news/politics/trudeau-obama-state-visit-washington-1.3483545).
 You can imagine my excitement: two photogenic lightweights sharing a
 heartwarming *bromance* on the public’s dime. I am at a loss to imagine
 [a more hurl inducing](https://www.youtube.com/watch?v=Mbg1nEXQ1fI)
@@ -33,19 +33,19 @@ you’ve ever lived in Denmark you’ll understand.
 Unfortunately, the United States is not mostly harmless. It matters *a
 little bit* who is elected President. It doesn’t matter nearly as much
 as many Americans think and we can praise the all squiggling [Flying
-Spaghetti Monster](http://www.venganza.org/) for that. Living under a
+Spaghetti Monster](https://www.venganza.org/) for that. Living under a
 hubris-infused narcissist like Obama would be far worse if we didn’t
 have the luxury of ignoring him. And this brings me to Hillary,
 (Hildabeast), and Trump. It’s going to be difficult to ignore either one
 of them, and sadly *[None of the
-Above](http://truthinmedia.com/none-of-the-above-to-appear-on-canadian-ballot/)*,
+Above](https://truthinmedia.com/none-of-the-above-to-appear-on-canadian-ballot/)*,
 my preferred candidate, is not on the ballot. This is a problem.
 
 My solution, as always, revolves around who I hate the most. Animus is
 my animating principle. Trump is a bombastic tool, but, at least, I
 don’t want to hold his head under water until it stops making nagging
 noises. The prospect of four years of [Hildabeast
-barking](http://hotair.com/archives/2016/02/16/video-for-some-reason-hillary-barks-like-a-dog-during-stump-speech/)
+barking](https://hotair.com/archives/2016/02/16/video-for-some-reason-hillary-barks-like-a-dog-during-stump-speech/)
 is profoundly depressing. The bitch must be stopped so I’m resorting to
 extreme measures. Next week I’ll cast a primary vote for that old 1960s
 era western hippie-commie, Bernie Sanders. Sanders has no chance of

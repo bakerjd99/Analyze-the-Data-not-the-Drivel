@@ -1,22 +1,22 @@
  
-[Blurb: Nick Lomb’s Transit of Venus](http://bakerjd99.wordpress.com/2012/05/06/blurb-nick-lombs-transit-of-venus/)
+[Blurb: Nick Lomb’s Transit of Venus](https://bakerjd99.wordpress.com/2012/05/06/blurb-nick-lombs-transit-of-venus/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 06 May 2012 20:58:33*
 
 Nick Lomb’s [Transit of Venus 1631 to the
-Present](http://www.amazon.com/Transit-Venus-Present-Nick-Lomb/dp/1615190554)
+Present](https://www.amazon.com/Transit-Venus-Present-Nick-Lomb/dp/1615190554)
 is the best illustrated astronomy book for general readers since Terence
 Dickinson and Alan Dyer’s [The Backyard Astronomer’s
-Guide](http://www.barnesandnoble.com/w/the-backyard-astronomers-guide-terence-dickinson/1000313829).
+Guide](https://www.barnesandnoble.com/w/the-backyard-astronomers-guide-terence-dickinson/1000313829).
 Everything about Lomb’s book from its eye seizing cover, rarely seen
 historic photographs and charming well researched commentary is first
 class. *Transit* is the type of work you steal[^1x2744] from and frankly,
 there is no better endorsement than that. I’m not the only reader to
 reach this conclusion check out
-[this](http://transitofvenus.nl/wp/2011/11/03/nick-lombs-new-book/) and
-[this](http://adsabs.harvard.edu/full/2005Obs...125...45H) and
-[this](http://www.goodreads.com/book/show/13013236-transit-of-venus).
+[this](https://transitofvenus.nl/wp/2011/11/03/nick-lombs-new-book/) and
+[this](https://adsabs.harvard.edu/full/2005Obs...125...45H) and
+[this](https://www.goodreads.com/book/show/13013236-transit-of-venus).
 
 When prowling our few remaining bookstores I often skip illustrated
 works. Usually they’re dumbed-down rehashes of familiar material but, in
@@ -36,10 +36,10 @@ Venus timings. Venus is close enough to the Earth that its track over
 the Sun differs for widely separated terrestrial observers. This is the
 familiar parallax effect. From this small difference you can determine
 the astronomical unit and if you know the astronomical unit [Kepler’s
-third law](http://csep10.phys.utk.edu/astr161/lect/history/kepler.html)
+third law](https://csep10.phys.utk.edu/astr161/lect/history/kepler.html)
 tells you the distance of every planet in the solar system. This was a
 huge payoff for 17^th^, 18^th^ and early 19^th^ century astronomers.
-This is what got [Cook](http://www.captaincooksociety.com/) out in the
+This is what got [Cook](https://www.captaincooksociety.com/) out in the
 Pacific. It’s a great story and Lomb’s telling is the best you will
 find.**
 

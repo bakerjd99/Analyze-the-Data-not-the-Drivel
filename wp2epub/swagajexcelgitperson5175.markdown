@@ -31,7 +31,7 @@ SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob[^1x5175] that meets
 my eccentric needs. I wanted a tool that:
 
 1.  Abstracted away [*accounting
-    noise*](http://www.investopedia.com/terms/a/accountingnoise.asp).
+    noise*](https://www.investopedia.com/terms/a/accountingnoise.asp).
 
 2.  Was general and flexible.
 
@@ -49,7 +49,7 @@ standard finance programs. Time to code!
 **SWAG Inputs**
 
 The bulk of SWAG is a [JOD
-generated](http://code.jsoftware.com/wiki/Addons/general/jod)
+generated](https://code.jsoftware.com/wiki/Addons/general/jod)
 self-contained J script. You can [peruse the script
 here](https://github.com/bakerjd99/jacks/blob/master/swag/scripts/Swag.ijs).
 SWAG inputs and outputs are brain-dead simple TAB delimited text tables.
@@ -81,7 +81,7 @@ scenario you buy a Mercedes and assume interest rates remain low. In
 another, you take the bus and rates explode. When forecasting I evaluate
 five basic scenarios, grim, pessimistic, expected, optimistic, and
 exuberant. Being a negative [Debbie
-Downer](http://www.urbandictionary.com/define.php?term=Debbie+Downer)
+Downer](https://www.urbandictionary.com/define.php?term=Debbie+Downer)
 type I rarely invest time in exuberant scenarios. I concentrate on grim
 and pessimistic scenarios because once you are mentally prepared for the
 worst anything better feels like a lottery win.

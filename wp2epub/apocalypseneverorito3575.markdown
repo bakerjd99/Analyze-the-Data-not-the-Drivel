@@ -1,5 +1,5 @@
  
-[Apocalypse Never or I Told You So Day](http://bakerjd99.wordpress.com/2012/12/21/apocalypse-never-or-i-told-you-so-day/)
+[Apocalypse Never or I Told You So Day](https://bakerjd99.wordpress.com/2012/12/21/apocalypse-never-or-i-told-you-so-day/)
 -------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Dec 2012 16:45:49*
@@ -8,7 +8,7 @@ Let’s begin with an apology to the Mayan’s. There’s not a whit of
 verified historical evidence that the ancient Mayans predicted the end
 of the world or that they were any more upset about cycles in their
 calendars than we are in ours. Modern Mayans repeatedly [pointed this
-out](http://boingboing.net/2009/10/13/what-actual-mayans-a.html) but
+out](https://boingboing.net/2009/10/13/what-actual-mayans-a.html) but
 arguing with new age morons, schizophrenic doom mongers and pure
 outright rapacious hucksters is a thankless task. Crazy ideas are easy
 to market. Just look at who we vote for, the consumer crap that fills
@@ -29,4 +29,4 @@ the belief is now rapidly erasing it. Genuinely crazy people aren’t
 rational enough to recognize their errors making them poor I told you so
 targets. As for hucksters: they’re already working the next scam.
 Skeptics just [can’t get no
-satisfaction](http://www.youtube.com/watch?v=Lx0bLBk-BNM)!
+satisfaction](https://www.youtube.com/watch?v=Lx0bLBk-BNM)!

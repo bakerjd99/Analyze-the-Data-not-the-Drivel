@@ -1,5 +1,5 @@
  
-[NumPy another Iverson Ghost](http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
+[NumPy another Iverson Ghost](https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/)
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Mar 2018 21:07:53*
@@ -16,7 +16,7 @@ programmers are challenged with processing large numeric arrays they
 rediscover bits of APL. Often they’re unaware of the rich heritage of
 array processing languages but in `NumPys` case, they *indirectly*
 acknowledged the debt. In [*Numerical
-Python*](http://numpy.sourceforge.net/numdoc/numdoc.pdf) the authors
+Python*](https://numpy.sourceforge.net/numdoc/numdoc.pdf) the authors
 wrote:
 
 > *The languages which were used to guide the development of NumPy
@@ -24,7 +24,7 @@ wrote:
 > S and S+, and others.*
 
 I consider “infamous” an upgrade from [“a mistake carried through to
-perfection.”](http://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
+perfection.”](https://www.cs.virginia.edu/~evans/cs655/readings/ewd498.html)
 
 Not only do developers frequently conjure up Iverson ghosts. They also
 invariably turn into little apostles of array programming that won’t
@@ -32,7 +32,7 @@ shut up about how cutting down on all those goddamn loops clarifies and
 simplifies algorithms. How learning to think about operating on entire
 arrays, versus one dinky number at a time, frees the mind. Why it’s
 almost as if array programming [is a tool of
-thought.](http://www.jsoftware.com/papers/tot.htm)
+thought.](https://www.jsoftware.com/papers/tot.htm)
 
 Where have I heard this before?
 
@@ -50,7 +50,7 @@ Yeah, I said it; suck on it C people. Similarly, the world’s most
 commonly used programming language `JavaScript` is equally ugly. Again,
 `JavaScript` is so damn useful that programmers put up with its many
 warts. Some have even made a few bucks writing books about its [meager
-good parts](http://shop.oreilly.com/product/9780596517748.do).
+good parts](https://shop.oreilly.com/product/9780596517748.do).
 
 I have similar inflammatory opinions about other widely used languages.
 The one that is making me miserable now is `SQL`, particularly
@@ -67,7 +67,7 @@ it solves. If the damn code is ugly I don’t want to see it.
 
 People keep rediscovering array programming, best described in Ken
 Iverson’s 1962 book [*A Programming
-Language*](http://www.jsoftware.com/papers/APL.htm), for two basic
+Language*](https://www.jsoftware.com/papers/APL.htm), for two basic
 reasons:
 
 1.  It’s an efficient way to handle an important class of problems.
@@ -91,13 +91,13 @@ either try something else or fix what you have. The Python people fixed
 Python with `NumPy`.
 [Pythonistas](https://www.quora.com/Whats-the-exact-difference-between-a-Pythoneer-and-a-Pythonista)
 reluctantly embraced `NumPy` but quickly went *apostolic!* Now books
-like [*Elegant SciPy*](http://shop.oreilly.com/product/0636920038481.do)
+like [*Elegant SciPy*](https://shop.oreilly.com/product/0636920038481.do)
 and the entire `SciPy` toolset that been built on `NumPy` take it for
 granted.
 
 Is there anything in `NumPy` for programmers that have been drinking the
 array processing cool aid for decades? The answer is yes! [J
-programmers](http://code.jsoftware.com/wiki/NuVoc), in particular, are
+programmers](https://code.jsoftware.com/wiki/NuVoc), in particular, are
 in for a treat with the new Python3 addon that’s been released with the
 latest J 8.07 beta. This addon directly supports `NumPy` arrays making
 it easy to swap data in and out of the J/Python environments. It’s one
@@ -115,7 +115,7 @@ that profiting from them. I suspect he would be flattered that APL has
 mutated and colonized strange new worlds and I think even zealous
 Pythonistas will agree that Python is a delightfully strange world.
 
-**Some Numpy and J examples** 
+#### Some Numpy and J examples 
 
 
 Selected Examples from
@@ -124,7 +124,7 @@ been suppressed here. For a more detailed look at these examples browse
 the Jupyter notebook:  [NumPy and J Make Sweet Array
 Love](https://github.com/bakerjd99/jacks/blob/master/numpyjlove/NumPy%20and%20J%20make%20Sweet%20Array%20Love.ipynb).
 
-**Creating simple arrays** 
+#### Creating simple arrays
 
 ```PYTHON
 # numpy
@@ -186,7 +186,7 @@ NB. J - uses fill - safer but slower than numpy's trust memory method
 2 3 $ 0.0001 
 ```
 
-**Basic operations** 
+#### Basic operations
 
 ```PYTHON
 # numpy 
@@ -232,7 +232,7 @@ NB. J - booleans are 1 and 0
 a < 35
 ```
 
-**Array processing** 
+#### Array processing
 
 ```PYTHON
 # numpy 
@@ -305,7 +305,7 @@ NB. transpose
 |: b
 ```
 
-**Indexing and slicing** 
+#### Indexing and slicing 
 
 ```PYTHON
 # numpy  

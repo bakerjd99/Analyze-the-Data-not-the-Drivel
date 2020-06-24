@@ -1,5 +1,5 @@
  
-[The Reports of Library Death are Exaggerated](http://bakerjd99.wordpress.com/2010/05/15/the-reports-of-library-death-are-exaggerated/)
+[The Reports of Library Death are Exaggerated](https://bakerjd99.wordpress.com/2010/05/15/the-reports-of-library-death-are-exaggerated/)
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 15 May 2010 15:15:24*
@@ -8,7 +8,7 @@ Not so long ago the pundits were predicting the Internet would kill
 public libraries. Boy were they wrong! Libraries have become the biggest
 and most successful Internet cafes around. I’ve been to *Internet
 enabled* public libraries all over the country and they are *extremely*
-busy. The downtown [Los Angeles library](http://www.lapl.org/) has an
+busy. The downtown [Los Angeles library](https://www.lapl.org/) has an
 entire room devoted to teens and it is always full!
 
 Now I hung out in libraries when I was fourteen but then I was a virgin
@@ -18,7 +18,7 @@ libraries. Hence libraries were quiet and empty: great places for
 afternoon naps. Not anymore! Now libraries are filled with kids playing
 computer games, Facebooking, chatting and whatever else kids do on
 computers. And, it’s not only kids. The downtown [Fort Wayne
-library](http://www.acpl.lib.in.us/), an excellent small city library,
+library](https://www.acpl.lib.in.us/), an excellent small city library,
 has a big computer room and the last time I was there it was overflowing
 with adults. I imagine a lot of them were looking for work. If you’re
 broke and need to browse job sites head to the public library. The
@@ -26,10 +26,10 @@ Internet has turned libraries into the coolest joints in town.
 
 The Internet has also leveled the playing field between big and small
 city libraries. Bluffton Indiana is a dinky little town but it’s [public
-library](http://www.blufftonpubliclibrary.org/) is better than the
-[Nepean](http://www.libdex.com/country/canada/ontario/nepean/library\_33680.html)
+library](https://www.blufftonpubliclibrary.org/) is better than the
+[Nepean](https://www.libdex.com/country/canada/ontario/nepean/library\_33680.html)
 or
-[Orleans](http://www.libdex.com/country/canada/ontario/orleans/library\_24028.html)
+[Orleans](https://www.libdex.com/country/canada/ontario/orleans/library\_24028.html)
 libraries in Ottawa: cities that are ten times Bluffton’s size. The same
 holds for the Fort Wayne’s public library. Fort Wayne is a small run
 down mid western city. If you drive around the place it doesn’t impress
@@ -39,9 +39,9 @@ libraries seldom compete with University libraries when it comes to
 mathematics but the Fort Wayne library does surprisingly well. You find
 real honest to god mathematics tomes on its shelves. Its history stacks
 are first class and the biggest surprise; it’s a [world-class genealogy
-library.](http://www.acpl.lib.in.us/genealogy/) It’s rated number two in
+library.](https://www.acpl.lib.in.us/genealogy/) It’s rated number two in
 the entire US for genealogy. Only the [obsessed
-Mormons](http://www.ancestorhunt.com/mormon\_church\_records.htm) out in
+Mormons](https://www.ancestorhunt.com/mormon\_church\_records.htm) out in
 Salt Lake City have a better collection. After sampling Indiana’s
 libraries I decided there was more to this state than corn fields and
 basketball.

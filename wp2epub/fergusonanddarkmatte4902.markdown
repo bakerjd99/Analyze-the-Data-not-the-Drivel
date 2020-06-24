@@ -1,5 +1,5 @@
  
-[Ferguson and Dark Matter](http://bakerjd99.wordpress.com/2014/11/26/ferguson-and-dark-matter/)
+[Ferguson and Dark Matter](https://bakerjd99.wordpress.com/2014/11/26/ferguson-and-dark-matter/)
 -----------------------------------------------------------------------------------------------
 
 *Posted: 26 Nov 2014 06:44:07*

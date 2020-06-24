@@ -1,5 +1,5 @@
  
-[There will never be a Literature of Reality](http://bakerjd99.wordpress.com/2014/08/31/there-will-never-be-a-literature-of-reality/)
+[There will never be a Literature of Reality](https://bakerjd99.wordpress.com/2014/08/31/there-will-never-be-a-literature-of-reality/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Aug 2014 20:20:13*
@@ -18,9 +18,9 @@ three thousand Middle Earth years ago. In all that time the great, wise,
 and nearly immortal, elves of Middle Earth did not move beyond simple
 swords. How quickly the battle for Gondor would have gone with a few
 dozen [Abrams
-tanks](http://www.marines.com/operating-forces/equipment/vehicles/m1a1-abrams-tank)
+tanks](https://www.marines.com/operating-forces/equipment/vehicles/m1a1-abrams-tank)
 and a couple squadrons of
-[Warthogs](http://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II).
+[Warthogs](https://en.wikipedia.org/wiki/Fairchild_Republic_A-10_Thunderbolt_II).
 
 It’s hard to fault human authors for shrinking the universe. The real
 universe, the utterly vast and ancient universe slowly discovered by
@@ -36,10 +36,10 @@ about 80 billion years, or six times the estimated age of the universe,
 to read this book. Yet, vast as this book is, it leaves out pretty much
 everything. There’s no mention of the Earth or other planets: so many
 pages and not even a Hitchhiker’s Guide to the Galaxy’s “[mostly
-harmless.](http://en.wikipedia.org/wiki/Mostly_Harmless)” Reality
+harmless.](https://en.wikipedia.org/wiki/Mostly_Harmless)” Reality
 overwhelms imagination. The magic of Harry Potter is piffle compared to
 cosmic inflation.
-[Haldane](http://en.wikiquote.org/wiki/J._B._S._Haldane) was right. The
+[Haldane](https://en.wikiquote.org/wiki/J._B._S._Haldane) was right. The
 universe is probably queerer than we can imagine and certainly deeper
 than we can grasp. Our meager fictions must float in serene little
 bubbles lest they overrun our short impatient lives. *There will never

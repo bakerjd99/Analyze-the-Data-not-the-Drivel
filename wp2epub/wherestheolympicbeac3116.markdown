@@ -1,13 +1,13 @@
  
-[Where’s the Olympic beach?](http://bakerjd99.wordpress.com/2012/08/09/wheres-the-olympic-beach/)
+[Where’s the Olympic beach?](https://bakerjd99.wordpress.com/2012/08/09/wheres-the-olympic-beach/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 09 Aug 2012 19:16:54*
 
 Readers of this blog know that I [do not approve of the
-Olympics](http://bakerjd99.wordpress.com/2009/10/03/my-olympic-spirit/).
+Olympics](https://bakerjd99.wordpress.com/2009/10/03/my-olympic-spirit/).
 What started out as an eccentric bit of 19^th^ century [classics
-nostalgia](http://history1800s.about.com/od/sports/a/Coubertin.htm) has
+nostalgia](https://history1800s.about.com/od/sports/a/Coubertin.htm) has
 morphed into the expensive, corrupt, drug fueled, real-estate orgy we
 endure today. Whatever athletic ideals the Olympic movement espoused
 died on national and corporate altars decades ago. By the time the first
@@ -15,10 +15,10 @@ national anthem sounds the real gold has long since traded hands. It’s
 disappeared into offshore accounts, kick-back schemes, hidden payoffs
 and good old-fashioned high roller whoring. Despite the waste, drugs and
 corruption the public still bends over and begs flaccid
-[IOC](http://observer.com/2012/07/those-dirty-rings-corruption-prone-ioc-always-goes-for-the-gold/)
+[IOC](https://observer.com/2012/07/those-dirty-rings-corruption-prone-ioc-always-goes-for-the-gold/)
 sodomites for more because *only the Olympics decides pressing issues
 like who can best tumble on a mat and [catch a
-ribbon!](http://www.huffingtonpost.com/elaine-dai/post_3740_b_1746836.html)*
+ribbon!](https://www.huffingtonpost.com/elaine-dai/post_3740_b_1746836.html)*
 What’s wrong with you people?
 
 My normal Olympic reflex is to head for the hills and ignore the damn

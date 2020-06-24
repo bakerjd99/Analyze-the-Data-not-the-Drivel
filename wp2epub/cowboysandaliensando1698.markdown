@@ -1,5 +1,5 @@
  
-[Cowboys and Aliens and Obama](http://bakerjd99.wordpress.com/2011/07/31/cowboys-and-aliens-and-obama/)
+[Cowboys and Aliens and Obama](https://bakerjd99.wordpress.com/2011/07/31/cowboys-and-aliens-and-obama/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Jul 2011 21:47:17*
@@ -13,9 +13,9 @@ There’s no point issuing spoiler alerts, like a fine Obama speech, this
 schizophrenic masterpiece cannot be spoiled.
 
 Yes I hear your [little
-people](http://www.nationalreview.com/corner/267605/safe-sex-and-taxes-are-little-people-victor-davis-hanson)
+people](https://www.nationalreview.com/corner/267605/safe-sex-and-taxes-are-little-people-victor-davis-hanson)
 objections, but bear with me. If we ***throw fun [under the
-bus](http://www.post-gazette.com/pg/08184/894024-51.stm)*** then $CB$ is
+bus](https://www.post-gazette.com/pg/08184/894024-51.stm)*** then $CB$ is
 the cinematic equivalent of a typical Obama speech.
 
 Let’s review the evidence:
@@ -30,16 +30,16 @@ Let’s review the evidence:
 
 3.  $CB$ conjures up big nasty bug-like aliens that literally blind the
     people with science so they can harvest their [precious bodily
-    fluids](http://www.youtube.com/watch?v=N1KvgtEnABY).
+    fluids](https://www.youtube.com/watch?v=N1KvgtEnABY).
 
 4.  $OB$ conjures up big nasty Tea Party Republicans that blind the
     people with
-    [arithmetic](http://www.ardue.org.uk/world/finarith.html) so they
+    [arithmetic](https://www.ardue.org.uk/world/finarith.html) so they
     can [balance the
-    budget](http://www.thedailylink.org/2005/04/good-god-just-balance-fucking-budget.html).
+    budget](https://www.thedailylink.org/2005/04/good-god-just-balance-fucking-budget.html).
 
 5.  $CB$ rails against the [gold
-    standard](http://www.econlib.org/library/Enc/GoldStandard.html). See
+    standard](https://www.econlib.org/library/Enc/GoldStandard.html). See
     the movie
 
 6.  $OB$ rails against the gold standard. See the Federal Reserve.

@@ -5,10 +5,10 @@
 *Posted: 12 Jul 2015 19:35:46*
 
 Dante’s
-*[Commedia](http://www.gutenberg.org/files/8800/8800-h/8800-h.htm) *may
+*[Commedia](https://www.gutenberg.org/files/8800/8800-h/8800-h.htm) *may
 save your life but I wouldn’t bet on this book doing the same. How
 *[Dante can Save Your
-Life](http://www.barnesandnoble.com/w/how-dante-can-save-your-life-rod-dreher/1121191388?ean=9781941393772)*
+Life](https://www.barnesandnoble.com/w/how-dante-can-save-your-life-rod-dreher/1121191388?ean=9781941393772)*
 is both interesting, annoying, and ultimately disappointing. If I had
 stopped in the middle of this book I would have rated it higher. It
 certainly started out well but, what can only be described as the
@@ -29,7 +29,7 @@ part of this book is his retelling of his sister’s death from cancer in
 her forties and her community’s out pouring of love and support. I don’t
 think the author would disagree that his sister’s death, and the [book
 he wrote about
-it](http://www.barnesandnoble.com/w/the-little-way-of-ruthie-leming-rod-dreher/1112412048?ean=9781455521913),
+it](https://www.barnesandnoble.com/w/the-little-way-of-ruthie-leming-rod-dreher/1112412048?ean=9781455521913),
 greatly contributed to his career as a writer.
 
 It was at this point the author had a crisis that lead to Dante.

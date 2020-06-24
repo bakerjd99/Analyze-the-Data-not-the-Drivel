@@ -1,5 +1,5 @@
  
-[Parsing the Bitcoin Genesis Block with J](http://bakerjd99.wordpress.com/2014/07/03/parsing-the-bitcoin-genesis-block-with-j/)
+[Parsing the Bitcoin Genesis Block with J](https://bakerjd99.wordpress.com/2014/07/03/parsing-the-bitcoin-genesis-block-with-j/)
 -------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 04 Jul 2014 00:33:11*
@@ -9,7 +9,7 @@ first block on the [Bitcoin blockchain](https://blockexplorer.com/).
 Satoshi Nakamoto, the mysterious entity that created Bitcoin, mined the
 genesis block on January 3, 2009. It’s been five years since the genesis
 block’s birth and Satoshi [is still
-unknown](http://en.wikipedia.org/wiki/Satoshi_Nakamoto), Bitcoin is
+unknown](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), Bitcoin is
 bigger than ever, and the blockchain is longer than 300,000 blocks and
 growing.
 
@@ -24,7 +24,7 @@ makes it almost impossible to counterfeit Bitcoins. Bitcoins have been
 lost and stolen but they have never been successfully counterfeited.
 This sharply contrasts with funny money like the US dollar that is [so
 routinely and brazenly
-counterfeited](http://www.npr.org/blogs/money/2013/09/05/219264902/the-world-capital-of-counterfeit-dollars)
+counterfeited](https://www.npr.org/blogs/money/2013/09/05/219264902/the-world-capital-of-counterfeit-dollars)
 that many suspect the US government turns a blind eye.
 
 The exceptional durability of Bitcoin blocks, coupled with the
@@ -33,7 +33,7 @@ intriguing and important byte runs in the world. This post was inspired
 by the now defunct post *285 bytes that changed the world.* I would love
 to give you a link but this post has vanished. A secondary, but
 excellent reference is John Ratcliff’s [How to Parse the Bitcoin
-BlockChain](http://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html).
+BlockChain](https://codesuppository.blogspot.com/2014/01/how-to-parse-bitcoin-blockchain.html).
 I am adapting John’s nomenclature in what follows.
 
 When programmers start exploring Bitcoin they often cut their teeth on
@@ -79,7 +79,7 @@ thousand copies of `tip`.
 ```
 
 At this point
-[fanboys](http://www.urbandictionary.com/define.php?term=fanboy) of
+[fanboys](https://www.urbandictionary.com/define.php?term=fanboy) of
 mainstream programming languages typically pipe up with something like,
 “changing number encodings is inherently trivial; what about something
 more demanding like going the other way, say converting Bitcoin public
@@ -97,12 +97,12 @@ The public key in the genesis block is encoded in what many call the
 Public keys take a number of forms in the blockchain. John Ratcliff’s
 post summarizes the many forms you will run into. The genesis block uses
 the 65 byte
-[ECDSA](http://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet)
+[ECDSA](https://blog.cloudflare.com/ecdsa-the-digital-signature-algorithm-of-a-better-internet)
 form. Converting this form to base 58 requires taking `SHA-256` and
 `RIPEMD-160` hashes. These hashes are available in
-[OpenSSL](http://www.openssl.org/) which is conveniently distributed
+[OpenSSL](https://www.openssl.org/) which is conveniently distributed
 with [J 8.02
-JQT](http://www.jsoftware.com/jwiki/Guides/Qt%20IDE/Install). Here’s how
+JQT](https://www.jsoftware.com/jwiki/Guides/Qt%20IDE/Install). Here’s how
 to convert the genesis block’s public key to base 58 with J.
 
 ```J
@@ -140,9 +140,9 @@ anyone that’s interested.
 
 If this post peeks your curiosity about J a good place to start learning
 about the language is the recently released [New Dictionary of
-J](http://www.jsoftware.com/jwiki/Vocabulary/HowNuVoc). You can download
+J](https://www.jsoftware.com/jwiki/Vocabulary/HowNuVoc). You can download
 a version of J for Windows, Linux, OS/X, IOS, and Android at
-[Jsoftware’s](http://www.jsoftware.com/) main site.
+[Jsoftware’s](https://www.jsoftware.com/) main site.
 
 ```J
 ParseGenesisBlock=:3 : 0
@@ -240,7 +240,7 @@ offset=. offset + ChallengeScriptLength [ ChallengeScript=: (offset + i. Challen
 
 NB. challenge script is 67 bytes drop first and last byte to
 NB. compute the familiar Bitcoin base 58 address - compare with block explorer
-NB. http://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+NB. https://blockexplorer.com/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
 OutputAddress=: Base58frKey65 }. }: ChallengeScript
 'Genesis Block address mismatch' assert GenesisBlockOutputAddress -: OutputAddress
 

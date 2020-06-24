@@ -1,5 +1,5 @@
  
-[I write my Congresswoman about Syria](http://bakerjd99.wordpress.com/2013/09/02/i-write-my-congresswoman-about-syria/)
+[I write my Congresswoman about Syria](https://bakerjd99.wordpress.com/2013/09/02/i-write-my-congresswoman-about-syria/)
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 02 Sep 2013 05:09:58*
@@ -12,7 +12,7 @@ Dear Ann,
 
 Your summer vacation from Congress is coming to an end. Soon you will be
 back in Washington dealing with all our little problems like: [runaway
-deficit financing](http://www.usdebtclock.org/), relentless FED driven
+deficit financing](https://www.usdebtclock.org/), relentless FED driven
 currency debasement, rampant illegal immigration and, finally, what to
 do about Syria.
 
@@ -62,10 +62,10 @@ When I say there are no good options in Syria I not running off
 teleprompter. On one side you have Assad’s Ba’athist criminals:
 essentially modern Nazis. That delusional dolts like your colleague,
 Nancy Pelosi, thought Assad [was a
-reformer](http://www.nationalreview.com/articles/312450/assads-useful-idiots-noah-glyn)
+reformer](https://www.nationalreview.com/articles/312450/assads-useful-idiots-noah-glyn)
 is partly why we think you’re all morons. Opposing Assad is a rag-tag
 coalition of rebels, Islamists and [crazy
-cannibal](http://www.bbc.co.uk/news/magazine-23190533) Jihadists. This
+cannibal](https://www.bbc.co.uk/news/magazine-23190533) Jihadists. This
 is a war that both sides deserve to lose. Firing a few cruise missiles
 into this mess is not going to alter the outcome or elevate the world’s
 low opinion of Americans. All it will do is add more legions of US
@@ -76,7 +76,7 @@ few drone missiles into Saint Louis neighborhoods because they objected
 to local law enforcement? I’m pretty sure you’d be livid: boiling with
 incandescent rage. Imagine how your mood will improve when you learn the
 attack was [calibrated to avoid
-mockery](http://www.thedailybeast.com/articles/2013/08/31/is-obama-going-to-war-just-to-check-the-box.html).
+mockery](https://www.thedailybeast.com/articles/2013/08/31/is-obama-going-to-war-just-to-check-the-box.html).
 Would you feel a new-found respect for the bombers? I’m guessing your
 new life’s work would be striking back. This is what our remote control
 war is doing. It’s creating far more enemies than it kills.

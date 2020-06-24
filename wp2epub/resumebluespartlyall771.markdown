@@ -1,5 +1,5 @@
  
-[Resume blues partly alleviated by LaTeX](http://bakerjd99.wordpress.com/2010/08/28/resume-blues-partly-alleviated-by-latex/)
+[Resume blues partly alleviated by LaTeX](https://bakerjd99.wordpress.com/2010/08/28/resume-blues-partly-alleviated-by-latex/)
 -----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Aug 2010 16:26:06*
@@ -21,7 +21,7 @@ suffered through a corporate *out-placing* where well dressed
 personal pronouns. Whenever people go on about resumes I always think of
 Monty Python’s theory of Brontosauruses.
 
-[Video link: Click for theory of Brontosauruses](http://www.youtube.com/watch?v=cAYDiPizDIs)
+[Video link: Click for theory of Brontosauruses](https://www.youtube.com/watch?v=cAYDiPizDIs)
 
 Here’s the nasty truth: a resume is an advertisement! Do you honestly
 think anyone would dare to propose a *theory of advertisements?* A good
@@ -31,7 +31,7 @@ I have a simple resume style that has worked well. The only complaints I
 get relate to *file types*. Some clients want plain text, some want Word
 documents, others want PDFs and most don’t care!
 
-Lately I revised the [LaTeX](http://www.latex-project.org/) version of
+Lately I revised the [LaTeX](https://www.latex-project.org/) version of
 my resume. LaTeX is my preferred document format. LaTeX source documents
 are simple text files. You can manipulate them with any text editor on
 any computer system. Hence LaTeX documents cannot be held hostage by
@@ -42,13 +42,13 @@ text it’s easy to share LaTeX on the web. My current resume borrowed
 from a number of authors. When I borrow I try to give back. The
 following links point to the LaTeX source of my resume and the final PDF
 output. Help yourself but be courteous and maintain the [creative common
-license](http://creativecommons.org/licenses/by-nc-sa/1.0/) block in the
+license](https://creativecommons.org/licenses/by-nc-sa/1.0/) block in the
 LaTeX code.
 
--   [cvh2010pub.zip](http://www.box.net/shared/ef8yxegr0i) zipped resume
+-   [cvh2010pub.zip](https://www.box.net/shared/ef8yxegr0i) zipped resume
     LaTeX source
 
--   [cvh2010pub.pdf](http://www.box.net/shared/u27ntub3nr) final typeset
+-   [cvh2010pub.pdf](https://www.box.net/shared/u27ntub3nr) final typeset
     resume
 
 

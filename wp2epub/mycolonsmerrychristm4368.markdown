@@ -1,5 +1,5 @@
  
-[My Colon’s Merry Christmas](http://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/)
+[My Colon’s Merry Christmas](https://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/)
 --------------------------------------------------------------------------------------------------
 
 *Posted: 11 Dec 2013 19:30:55*
@@ -23,6 +23,6 @@ notes on my report noted the “good colon preparation” which, in the
 immortal words of John Harvey Kellogg played by Anthony Hopkins in the
 definitive crazy health nut mocking movie [The Road to
 Wellville](https://www.youtube.com/watch?v=jLUPJR6wz-I), means 
-[“my colon is clean.”](http://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/colonoscopy2013b/)
+[“my colon is clean.”](https://bakerjd99.wordpress.com/2013/12/11/my-colons-merry-christmas/colonoscopy2013b/)
 
 

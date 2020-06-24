@@ -1,13 +1,13 @@
  
-[F\# Sirens are Seducing](http://bakerjd99.wordpress.com/2009/10/21/f-sirens-are-seducing/)
+[F\# Sirens are Seducing](https://bakerjd99.wordpress.com/2009/10/21/f-sirens-are-seducing/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 21 Oct 2009 20:18:03*
 
 For the last few days I have been playing around with an [early release
 of
-F\#](http://research.microsoft.com/en-us/um/cambridge/projects/fsharp/).
-F\# looks like it might be a [.Net](http://www.microsoft.com/NET/)
+F\#](https://research.microsoft.com/en-us/um/cambridge/projects/fsharp/).
+F\# looks like it might be a [.Net](https://www.microsoft.com/NET/)
 language that I can stand! The alpha-geeks at Microsoft Research have
 convinced their corporate masters that the world needs a *functional
 programming language that can be compiled and executed as efficiently as
@@ -20,7 +20,7 @@ F\# appeals to me for a number of reasons:
 
 1.  I am familiar with many of the concepts of functional programming.
     Coming from the
-    [APL](http://en.wikipedia.org/wiki/APL\_(programming\_language))
+    [APL](https://en.wikipedia.org/wiki/APL\_(programming\_language))
     world I have been using many of these ideas for decades.
 
 2.  F\# can use .Net facilities. It can call, and be called, by any of
@@ -30,7 +30,7 @@ F\# appeals to me for a number of reasons:
 
 3.  F\# can be compiled to virtual machine code just like C\#. APL, J, K
     and others do not compile well. [Heroic attempts have been made to
-    compile APL](http://www.snakeisland.com/) and similar languages but
+    compile APL](https://www.snakeisland.com/) and similar languages but
     sometimes heroes fail.
 
 4.  F\# supports asynchronous and parallel programming. The typical
@@ -43,6 +43,6 @@ F\# appeals to me for a number of reasons:
     machines without sweating blood.
 
 I have ordered [Programming
-F\#](http://oreilly.com/catalog/9780596153656) and now I actually have
+F\#](https://oreilly.com/catalog/9780596153656) and now I actually have
 something to look forward to in [Visual Studio
-2010](http://www.microsoft.com/visualstudio/en-us/products/2010/default.mspx).
+2010](https://www.microsoft.com/visualstudio/en-us/products/2010/default.mspx).

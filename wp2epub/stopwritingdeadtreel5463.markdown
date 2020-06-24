@@ -1,5 +1,5 @@
  
-[Stop Writing Dead Tree Letters to the Editor](http://analyzethedatanotthedrivel.org/2017/09/13/stop-writing-dead-tree-letters-to-the-editor/)
+[Stop Writing Dead Tree Letters to the Editor](https://analyzethedatanotthedrivel.org/2017/09/13/stop-writing-dead-tree-letters-to-the-editor/)
 ---------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Sep 2017 18:21:01*
@@ -11,7 +11,7 @@ Hildabeast](https://www.youtube.com/watch?v=yzDHHMWDC_k), it needs to
 [FOAD](https://www.acronymfinder.com/FOAD.html). The collapse of print
 media and the incontinent wailing of unemployed [political operatives
 with
-bylines](http://smallestminority.blogspot.com/2015/07/quote-of-day-democratic-operatives-with.html)
+bylines](https://smallestminority.blogspot.com/2015/07/quote-of-day-democratic-operatives-with.html)
 has been duly noted by many and, as much as I love flogging dead horses,
 that is not why I *blogforth* today. There is one anachronistic section
 of dead tree newspapers that still amuses me: letters to the editor.

@@ -1,5 +1,5 @@
  
-[Better Blogging with Jupyter Notebooks on WordPress.com](http://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/) 
+[Better Blogging with Jupyter Notebooks on WordPress.com](https://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/) 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 02 Jun 2020 00:48:09*

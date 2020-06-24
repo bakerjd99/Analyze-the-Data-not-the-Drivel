@@ -1,14 +1,14 @@
  
-[Sorry PBS you already have my Money](http://bakerjd99.wordpress.com/2013/10/20/sorry-pbs-you-already-have-my-money/)
+[Sorry PBS you already have my Money](https://bakerjd99.wordpress.com/2013/10/20/sorry-pbs-you-already-have-my-money/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Oct 2013 19:41:15*
 
-PBS is begging for money again. [PBS](http://www.pbs.org/) is a US
+PBS is begging for money again. [PBS](https://www.pbs.org/) is a US
 public broadcasting network. Like all public English language
 broadcasters, (CBC Canada, ABC Australia, BBC UK), PBS is filled with
 tiresome left wingers that do not see themselves as left wingers. It’s
-still easy to find [disingenuous tools](http://billmoyers.com/) in these
+still easy to find [disingenuous tools](https://billmoyers.com/) in these
 intuitions that publicly declare they’re bias free.
 
 **Really?**

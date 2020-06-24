@@ -83,7 +83,7 @@ huddling like bed wetting cowards in the corner of one.
 
 It’s amazing what some companies think they can get away with! Would you
 believe [asking recruits for Facebook and Twitter
-passwords?](http://mashable.com/2012/04/08/employer-facebook-password)
+passwords?](https://mashable.com/2012/04/08/employer-facebook-password)
 Don’t try this with me; I might punch you! Most companies know that
 asking for passwords crosses all sorts of inappropriate boundaries but
 even more enlightened organizations often have a “velvet fist” social

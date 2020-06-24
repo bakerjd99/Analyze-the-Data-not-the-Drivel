@@ -1,17 +1,17 @@
  
-[Old white guys look at the sky!](http://bakerjd99.wordpress.com/2011/11/20/old-white-guys-look-at-the-sky/)
+[Old white guys look at the sky!](https://bakerjd99.wordpress.com/2011/11/20/old-white-guys-look-at-the-sky/)
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Nov 2011 22:35:44*
 
 Last Friday I joined the [Saint Louis Astronomical
-Society](http://www.slasonline.org/) (SLAS). In the last twenty years I
+Society](https://www.slasonline.org/) (SLAS). In the last twenty years I
 have been a member of two chapters of the [Royal Astronomical Society of
-Canada](http://www.rasc.ca/): [Kingston](http://kingston.rasc.ca/) and
-[Ottawa](http://www.ottawa.rasc.ca/), the [Forth Worth Astronomical
-Society](http://www.fortworthastro.com) in Texas, the [Minnesota
-Astronomical Society](http://www.mnastro.org/) in Saint Paul and the
-[Orange County Astronomers](http://www.ocastronomers.org/) in southern
+Canada](https://www.rasc.ca/): [Kingston](https://kingston.rasc.ca/) and
+[Ottawa](https://www.ottawa.rasc.ca/), the [Forth Worth Astronomical
+Society](https://www.fortworthastro.com) in Texas, the [Minnesota
+Astronomical Society](https://www.mnastro.org/) in Saint Paul and the
+[Orange County Astronomers](https://www.ocastronomers.org/) in southern
 California. No matter where I go I can see the sky and I can find people
 who share my interest in it. The SLAS is very similar to other clubs. If
 you were to walk into a typical astronomy club meeting your overwhelming
@@ -40,10 +40,10 @@ am pulling your leg or being sarcastic consider the following.
     public’s dismal understanding of science. For example, 44% of the US
     public accepts that, “[God created man pretty much in his present
     form at one time within the last 10,000
-    years.](http://www.religioustolerance.org/ev\_publia.htm)” Only 5%
+    years.](https://www.religioustolerance.org/ev\_publia.htm)” Only 5%
     of scientists accept this nonsense and [even 5% seems to high for my
     skeptical
-    ass.](http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
+    ass.](https://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
     Astronomy club members will poll more like scientists than the
     general public on this question. A society that depends on science
     yet harbors ignorant masses that do not grasp or appreciate basic

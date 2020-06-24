@@ -1,5 +1,5 @@
  
-[The Great Verizon Data Famine](http://bakerjd99.wordpress.com/2014/01/15/the-great-verizon-data-famine/)
+[The Great Verizon Data Famine](https://bakerjd99.wordpress.com/2014/01/15/the-great-verizon-data-famine/)
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Jan 2014 04:11:02*
@@ -19,8 +19,8 @@ relationship but now I’m wondering if this marriage can be saved.
 I have no technical complaints about Verizon. The engineers at Verizon
 clearly know what they are doing but it looks like the administrative
 and sales division’s model themselves on the
-[DMV](http://www.urbandictionary.com/define.php?term=DMV) or Obama’s
-[healthcrap.gov](http://obamacaregov.us/). I’ve seen this before. Most
+[DMV](https://www.urbandictionary.com/define.php?term=DMV) or Obama’s
+[healthcrap.gov](https://obamacaregov.us/). I’ve seen this before. Most
 software companies harbor competent to brilliant programmers yet are
 often fronted by ethically challenged sales baboons. My father, a
 retired petroleum engineer, used to say, “It’s a good thing oil is so
@@ -29,7 +29,7 @@ couldn’t sell shit to a house fly.” I know it’s not my place, as a
 motivated shit seeking house fly, to question the sales practices of
 multi-billion dollar enterprises but, to quote a very wise old white
 guy, “you’ve confused me with [someone who gives a
-crap.](http://www.urbandictionary.com/define.php?term=call%20someone%20who%20gives%20a%20shit)”
+crap.](https://www.urbandictionary.com/define.php?term=call%20someone%20who%20gives%20a%20shit)”
 
 When I first walked into the Verizon store I wanted an accurate answer
 to this question:
@@ -103,7 +103,7 @@ now!](https://www.youtube.com/watch?v=XMblePw7eJs)
     they’re usually quickly resolved.
 
 [^4483b]: [EBooks are developing nasty data mining
-    habits.](http://online.wsj.com/news/articles/SB10001424052702304870304577490950051438304)
+    habits.](https://online.wsj.com/news/articles/SB10001424052702304870304577490950051438304)
     I have no desire to expose the precise details of my reading to
     busy bodies. This doesn’t mean I am giving up on eBooks but I am
     giving up on on-line eBooks. I now demand complete control of the

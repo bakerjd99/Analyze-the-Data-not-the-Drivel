@@ -1,5 +1,5 @@
  
-[Anathem: Plato’s Parallel World](http://bakerjd99.wordpress.com/2011/02/20/anathem-platos-parallel-world/)
+[Anathem: Plato’s Parallel World](https://bakerjd99.wordpress.com/2011/02/20/anathem-platos-parallel-world/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Feb 2011 01:02:08*
@@ -8,21 +8,21 @@ About the best thing anyone can do for you is to suggest a *good book.*
 When I was in my teens my aunt pointed me at Tolkien: a shrewd call. I
 was at the perfect age for a romp in Middle Earth. In the 1990’s a
 consulting client introduced me to [Neal
-Stephenson](http://www.nealstephenson.com/). I started with [Snow
-Crash](http://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958)
+Stephenson](https://www.nealstephenson.com/). I started with [Snow
+Crash](https://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958)
 and Hiro Protagonist. How can you not love a character named Hiro
 Protagonist? I went on to [The Diamond
-Age](http://www.amazon.com/Diamond-Age-Neal-Stephenson/dp/0553573314),
-[Cryptonomicon](http://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380973464),
+Age](https://www.amazon.com/Diamond-Age-Neal-Stephenson/dp/0553573314),
+[Cryptonomicon](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0380973464),
 (Stephenson’s best work), [The Baroque
-Cycle](http://en.wikipedia.org/wiki/The\_Baroque\_Cycle) and now
-[Anathem](http://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096).
+Cycle](https://en.wikipedia.org/wiki/The\_Baroque\_Cycle) and now
+[Anathem](https://www.amazon.com/Anathem-Neal-Stephenson/dp/0061474096).
 
 All authors get in ruts. Since Cryptonomicon Stephenson has been in a
 *books about very smart characters rut.* Fictional intelligent
 characters, particularly software types, scientists, mathematicians and
 so forth are often cut from the same cloth. This is why [The Big Bang
-Theory](http://www.cbs.com/primetime/big\_bang\_theory/) works! This is
+Theory](https://www.cbs.com/primetime/big\_bang\_theory/) works! This is
 not a literary flaw! Speaking as a bona fide software type I can assure
 you that smart tech types *are* alike. Logic drives capable minds down
 adjacent roads. The history of mathematics and science is littered with
@@ -32,14 +32,14 @@ not identical, ideas. It’s almost as if mathematical ideas exist
 themes of Anathem.
 
 The world of Anathem is Arbre. Arbre is eerily similar to Earth. Arbre
-is [Goldilocking](http://en.wikipedia.org/wiki/Habitable\_zone) around a
+is [Goldilocking](https://en.wikipedia.org/wiki/Habitable\_zone) around a
 Sun like star. It has a moon, large oceans, a “nitrogen oxygen”
 atmosphere and even enjoys plate tectonics. Plate tectonics is probably
 not that common for Earth sized rocky worlds. The Earth lucked out
 because a large chunk of the Earth’s crust is orbiting us in the form of
 the Moon. Venus wasn’t so lucky, or unlucky, depending on how you feel
 about [crust stripping planetary
-impacts](http://www.lpl.arizona.edu/outreach/origin/). Arbre is also
+impacts](https://www.lpl.arizona.edu/outreach/origin/). Arbre is also
 inhabited by “people” that could be our neighbors.
 
 Arbre’s history seems a few thousand years longer than ours; they’ve
@@ -61,14 +61,14 @@ institutions called maths. The maths are populated by avout. A math is a
 cross between an Earth monastery, university and scientific society.
 Each math voluntarily cuts itself off from the secular world on one,
 ten, hundred and thousand-year cycles. Our [preening public
-intellectuals](http://en.wikipedia.org/wiki/Paul\_Krugman) might see
+intellectuals](https://en.wikipedia.org/wiki/Paul\_Krugman) might see
 themselves as avout. They flatter themselves. The avout have all taken a
 vow of material poverty. They are allowed three possessions. There are
 no [tenured Mercedes driving
-poseurs](http://www.canadafreepress.com/index.php/article/32367) among
+poseurs](https://www.canadafreepress.com/index.php/article/32367) among
 the avout. Stephenson makes it clear that not all avout are
 intellectually gifted or suited for a life of the mind. Many of them
-become gardeners. If only our [second raters](http://www.algore.com/)
+become gardeners. If only our [second raters](https://www.algore.com/)
 did the same.
 
 Stephenson devotes many pages to the details of mathic life. We learn
@@ -96,7 +96,7 @@ pantheon of great books. *The characters are insufficiently distinct.*
 You can tell them apart when absorbed by the novel but they quickly
 merge into each other. Smart tech types share many *correct* ideas but
 they do not share the same character. Read [Brighter than a Thousand
-Suns](http://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507)
+Suns](https://www.amazon.com/Brighter-than-Thousand-Suns-Scientists/dp/0156141507)
 there is no mistaking Oppenheimer for Bohr, or Fermi, or Von Neumann, or
 Teller. In the real world brilliance exaggerates character. Stephenson
 exploited this in Cyptonomicon and The Baroque Cycle by casting the very
@@ -104,7 +104,7 @@ real Turing, Newton and Leibniz as characters. Anathem is not a Dickens
 novel. There are no Scrooge’s, Pip’s, or Miss Havisham’s, characters
 that live outside their novels, running around. I fear that it is not
 even an Ayn Rand novel. [Altas
-Shrugged](http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145)
+Shrugged](https://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0451191145)
 is a pondering pretentious beast of a book and Ayn Rand couldn’t sharpen
 Neal Stephenson’s pencils but here I am, almost thirty years after
 reading Atlas Shrugged, recalling Dagny Taggart, Hank Rearden and John

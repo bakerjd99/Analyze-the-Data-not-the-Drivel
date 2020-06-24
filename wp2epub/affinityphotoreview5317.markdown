@@ -1,12 +1,12 @@
  
-[Affinity Photo Review](http://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/)
+[Affinity Photo Review](https://analyzethedatanotthedrivel.org/2017/01/22/affinity-photo-review/)
 --------------------------------------------------------------------------------
 
 *Posted: 22 Jan 2017 23:40:20*
 
 There’s a new image processor on my computers. Recently the chief
 developer of one of my favorite image editors, [Picture Window
-Pro](http://www.dl-c.com/) (PWP), sent out a sad email letting all PWP
+Pro](https://www.dl-c.com/) (PWP), sent out a sad email letting all PWP
 users know that he is stopping PWP development. He thanked us for over
 twenty years of support and as a last gift converted the final version
 of PWP to freeware. You can now download and run Picture Window Pro
@@ -69,7 +69,7 @@ use the second lazier approach: maintain at least two independent image
 programs that can read and write the binary image formats you work with.
 I use Nikon cameras; they crank out proprietary NEF binaries. Currently,
 I have four programs on this machine that can read NEFs: PWP, Lightroom,
-Affinity and [ThumbsPlus](http://www.cerious.com/). I will tolerate
+Affinity and [ThumbsPlus](https://www.cerious.com/). I will tolerate
 proprietary binaries *if and only if* I have options. Don’t let software
 and camera companies box you in.
 
@@ -90,7 +90,7 @@ there would be very little need for full Photoshop. You could save
 yourself hundreds of dollars. Adobe decided not to compete with
 themselves and adopted the time-tested pseudo-monopolistic practice of
 sodomizing the customer. I did not embrace the
-[butthurt](http://www.urbandictionary.com/define.php?term=ButtHurt)! I
+[butthurt](https://www.urbandictionary.com/define.php?term=ButtHurt)! I
 started looking for low-cost programs that properly handled sixteen-bit
 images. It didn’t take me long to find PWP.
 
@@ -135,7 +135,7 @@ sixteen-bit TIF file format is one of the best supported lossless image
 formats. It’s often the only way to move information from one program to
 another without trashing bits. JPGs are universal, but every time you
 write a JPG you lose data: that’s the [lossy part of
-JPG](http://www.howtogeek.com/142174/what-lossless-file-formats-are-why-you-shouldnt-convert-lossy-to-lossless/)
+JPG](https://www.howtogeek.com/142174/what-lossless-file-formats-are-why-you-shouldnt-convert-lossy-to-lossless/)
 compression. Lossy image formats are fine for the web and final
 presentation but are a total disaster for image editing. Affinity can
 read and write sixteen-bit TIFs. It can also read and write a number of

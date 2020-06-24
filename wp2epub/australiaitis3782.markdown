@@ -1,5 +1,5 @@
  
-[Australia It Is](http://bakerjd99.wordpress.com/2013/03/05/australia-it-is/)
+[Australia It Is](https://bakerjd99.wordpress.com/2013/03/05/australia-it-is/)
 -----------------------------------------------------------------------------
 
 *Posted: 06 Mar 2013 04:50:19*
@@ -29,14 +29,14 @@ speech center of her brain. We’re awaiting biopsy results so we don’t
 know what the “growth” is, but brain growths are never *good news.*
 
 We need a vacation which brings me the results of the [first ever ADND
-poll.](http://polldaddy.com/poll/6805019/) I asked a simple question:
+poll.](https://polldaddy.com/poll/6805019/) I asked a simple question:
 which country should we visit, Argentina or Australia? I didn’t expect
 any answers but a few readers chimed in and, the last time I looked,
 Australia was the winner! Until two months ago Argentina was still in
 the running but it looks like
-[Kirchner](http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/9890078/Argentina-dispatch-the-troubled-reign-of-Queen-Cristina-of-Argentina.html)
+[Kirchner](https://www.telegraph.co.uk/news/worldnews/southamerica/argentina/9890078/Argentina-dispatch-the-troubled-reign-of-Queen-Cristina-of-Argentina.html)
 is a bigger economic imbecile than
-[Obama](http://news.investors.com/ibd-editorials/010713-639635-obama-says-there-is-no-spending-problem.htm).
+[Obama](https://news.investors.com/ibd-editorials/010713-639635-obama-says-there-is-no-spending-problem.htm).
 You go girl! Until the economic dust settles Argentina looks like *work*
 so it’s off to Australia in the fourth quarter.
 

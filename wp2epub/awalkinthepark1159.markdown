@@ -1,5 +1,5 @@
  
-[A Walk in the Park](http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)
+[A Walk in the Park](https://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)
 -----------------------------------------------------------------------------------
 
 *Posted: 25 Feb 2011 21:47:04*
@@ -8,7 +8,7 @@ At noon on February 23, 2011 I decided to get out of the office and take
 a little walk in nearby Faust Park. What could go wrong? Lots
 apparently. Faust park is in western St. Louis. It’s distinguished by an
 [absolutely charming butterfly
-conservatory.](http://www.butterflyhouse.org/) The conservatory is a
+conservatory.](https://www.butterflyhouse.org/) The conservatory is a
 greenhouse that’s maintained at 85F year round. Inside the greenhouse
 thousands of large iridescent butterflies are flying about, alighting on
 bowls of fruit, visiting feeders and gently touching blooming flowers. I

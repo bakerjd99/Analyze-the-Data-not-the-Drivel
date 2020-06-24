@@ -1,5 +1,5 @@
  
-[What is Required: Citizen Environment Sampling Drones](http://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/)
+[What is Required: Citizen Environment Sampling Drones](https://analyzethedatanotthedrivel.org/2017/04/30/what-is-required-citizen-environment-sampling-drones/)
 ------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 01 May 2017 00:34:14*
@@ -19,14 +19,14 @@ happened. Remember those annoying toy quadcopters that flew around the
 atriums of shopping malls just a few years ago. You probably thought,
 “That’s a cute toy” Well those cheap little toys have grown up and are
 now [cleaning power lines with flame
-throwers](http://www.popularmechanics.com/flight/drones/a25282/flame-throwing-drones/),
+throwers](https://www.popularmechanics.com/flight/drones/a25282/flame-throwing-drones/),
 [carrying drugs across
-borders](http://dailycaller.com/2016/03/30/narco-drones-the-cartels-newest-tech-savvy-smuggling-sop-spooks-security-experts/),[^5375a]
+borders](https://dailycaller.com/2016/03/30/narco-drones-the-cartels-newest-tech-savvy-smuggling-sop-spooks-security-experts/),[^5375a]
 [smuggling contraband into
 prisons](https://www.washingtonpost.com/local/prisons-try-to-stop-drones-from-delivering-drugs-porn-and-cellphones-to-inmates/2016/10/12/645fb102-800c-11e6-8d0c-fb6c00c90481_story.html),
 [annoying eagles](https://www.youtube.com/watch?v=vdgvlHH3JSA),
 [dropping grenades on
-ISIS](http://nypost.com/2017/03/16/war-against-isis-now-involves-shuttlecock-grenades-dropped-by-drones/),
+ISIS](https://nypost.com/2017/03/16/war-against-isis-now-involves-shuttlecock-grenades-dropped-by-drones/),
 and [taking really great
 selfies](https://www.youtube.com/watch?v=FZOgy5V9imI).
 
@@ -91,7 +91,7 @@ physical evidence.
 It wouldn’t be all that difficult to modify existing drones to do this.
 It would make a great science fair project. Think of how much better
 things would be if pinheaded SJWs stopped [enumerating new imaginary
-genders](http://ageofshitlords.com/complete-list-of-all-tumblr-sexualities-so-far)
+genders](https://ageofshitlords.com/complete-list-of-all-tumblr-sexualities-so-far)
 and devoted their time and energy to mastering the technology required
 to build and operate sampling drones. Instead of being an embarrassing
 stain on humanity they might actually do some good.

@@ -1,5 +1,5 @@
  
-[Informed Naked Ape Protocol](http://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/) 
+[Informed Naked Ape Protocol](https://analyzethedatanotthedrivel.org/2018/05/08/informed-naked-ape-protocol/) 
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 08 May 2018 19:09:28*

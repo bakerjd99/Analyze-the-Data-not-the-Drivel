@@ -1,5 +1,5 @@
  
-[GitHub's Silly Master Plan](http://analyzethedatanotthedrivel.org/2020/06/20/githubs-silly-master-plan/) 
+[GitHub's Silly Master Plan](https://analyzethedatanotthedrivel.org/2020/06/20/githubs-silly-master-plan/) 
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Jun 2020 16:39:20*

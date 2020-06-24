@@ -1,11 +1,11 @@
  
-[Laws or Suggestions](http://bakerjd99.wordpress.com/2009/09/13/laws-or-suggestions/)
+[Laws or Suggestions](https://bakerjd99.wordpress.com/2009/09/13/laws-or-suggestions/)
 -------------------------------------------------------------------------------------
 
 *Posted: 13 Sep 2009 21:15:38*
 
 The other day while torturing myself with CNN I heard [Henry
-Waxman](http://waxman.house.gov/), that living argument for
+Waxman](https://waxman.house.gov/), that living argument for
 congressional term limits, tell us that the new, all singing and
 dancing, US health care bill would not fund abortions or pick up the tab
 for illegal immigrants. Maybe Henry is telling the truth, hey it could
@@ -19,16 +19,16 @@ fundamentals or axioms of a theory and adhere to clear logical rules of
 inference you don’t have a choice about accepting valid results or
 proofs. A sure sign of *crankhood* is the steadfast refusal to accept
 mathematical results. To this day we still run into [circle
-squarers](http://en.wikipedia.org/wiki/Squaring\_the\_circle). They’re a
+squarers](https://en.wikipedia.org/wiki/Squaring\_the\_circle). They’re a
 dying breed and I find their insanity kind of cute. If only $\pi$ was an
-[algebraic number](http://mathworld.wolfram.com/AlgebraicNumber.html)
+[algebraic number](https://mathworld.wolfram.com/AlgebraicNumber.html)
 there would be hope but fortunately it’s
-[transcendental](http://sprott.physics.wisc.edu/Pickover/trans.html) and
+[transcendental](https://sprott.physics.wisc.edu/Pickover/trans.html) and
 there isn’t. Even the FSM, ([Flying Spaghetti
-Monster](http://www.venganza.org/) — or God for you fundamentalists),
+Monster](https://www.venganza.org/) — or God for you fundamentalists),
 cannot square the circle with a straight edge and compass; it’s an
 absolute impossibility. Mathematical laws are not [girly
-men](http://www.telegraph.co.uk/news/uknews/1559749/Girly-men-are-perfect-partners-say-women.html).
+men](https://www.telegraph.co.uk/news/uknews/1559749/Girly-men-are-perfect-partners-say-women.html).
 They’re tough enough for any neighborhood and won’t back down even for
 deities.
 

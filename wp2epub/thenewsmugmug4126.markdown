@@ -1,5 +1,5 @@
  
-[The New SmugMug](http://bakerjd99.wordpress.com/2013/08/05/the-new-smugmug/)
+[The New SmugMug](https://bakerjd99.wordpress.com/2013/08/05/the-new-smugmug/)
 -----------------------------------------------------------------------------
 
 *Posted: 06 Aug 2013 04:55:48*
@@ -10,13 +10,13 @@ whether they want it or not. Generally things move in a better
 direction. Even twenty-something web programmers aren’t completely
 stupid but setbacks and complete disasters are not uncommon.
 
-My relationship with [SmugMug](http://www.smugmug.com/) started about
-five years ago when my [Flickr](http://www.flickr.com/) account was
+My relationship with [SmugMug](https://www.smugmug.com/) started about
+five years ago when my [Flickr](https://www.flickr.com/) account was
 suddenly declared “mature” by some faceless administrative ape that
 couldn’t tell the difference between innocent nudes and pornography. I
 was so incensed I sent Flickr administrators a message they couldn’t
 ignore. I painstakingly deleted all my images, mass deletion was oddly
-not supported by the [Yahoo’s](http://www.yahoo.com/) that ran the
+not supported by the [Yahoo’s](https://www.yahoo.com/) that ran the
 joint, and dropped my account. How’s that for maturity? I consider it my
 sacred duty to punish companies that screw customers. After dumping
 Flickr I searched around and found SmugMug.
@@ -55,7 +55,7 @@ and small photography studios have mostly gone out of business. As a
 keen amateur photographer this saddens me but as a right-wing
 libertarian death beast it warms my dark evil heart that most of the
 “photographers” being discarded are rent seeking nitwits playing [Henri
-Cartier-Bresson.](http://www.magnumphotos.com/C.aspx?VP3=CMS3\&VF=MAGO31\_10\_VForm\&ERID=24KL53ZMYN)
+Cartier-Bresson.](https://www.magnumphotos.com/C.aspx?VP3=CMS3\&VF=MAGO31\_10\_VForm\&ERID=24KL53ZMYN)
 Still photography is no longer a viable personal business! We’re deep
 into another age people. Now that you see where I’m coming from let’s
 get on with what’s good and bad about the new SmugMug.
@@ -64,7 +64,7 @@ Let’s start with the good stuff:
 
 1.  **Stretchy layouts:** The new website does a better job of
     automatically adapting to a variety of display devices. I’ve browsed
-    [my own site](http://conceptcontrol.smugmug.com/) on phones,
+    [my own site](https://conceptcontrol.smugmug.com/) on phones,
     tablets, laptops and giant desktop displays. It looks OK on all of
     them and great on tablets and laptops.
 
@@ -109,7 +109,7 @@ Now for the dark side:
 
 2.  **Custom API applications break:** I use a custom application I
     wrote to synchronize my SmugMug online galleries with my offline
-    [ThumbsPlus](http://www.cerious.com/) databases. This application
+    [ThumbsPlus](https://www.cerious.com/) databases. This application
     issues SmugMug REST API calls to collect and update image metadata.
     When I migrated I expected this application to stop working and it
     did. It looks like I need to authenticate my application with the

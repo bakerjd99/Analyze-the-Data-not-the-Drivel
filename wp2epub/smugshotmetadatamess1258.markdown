@@ -1,22 +1,22 @@
  
-[SmugShot Metadata Mess](http://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/)
+[SmugShot Metadata Mess](https://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 03 Apr 2011 17:53:02*
 
 While languishing in a series of hospitals and rehab centers [recovering
 from a bad
-fall](http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/) I
+fall](https://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/) I
 have been amusing myself by taking iPhone pictures and posting them to
 SmugMug with
-[SmugShot.](http://itunes.apple.com/us/app/smugshot/id284129416?mt=8)
+[SmugShot.](https://itunes.apple.com/us/app/smugshot/id284129416?mt=8)
 
 SmugShot is a nifty little iPhone app that uploads iPhone pictures and
 videos directly to [your SmugMug
-galleries](http://conceptcontrol.smugmug.com/Themes/Diaries/SmugShots/16038397\_4tPwa).
+galleries](https://conceptcontrol.smugmug.com/Themes/Diaries/SmugShots/16038397\_4tPwa).
 SmugShot is a freebie so I cannot, in good faith, whine about missing
 features but **SmugShot has one serious deficiency: it strips
-[EXIF](http://graphicssoft.about.com/od/glossary/g/exif.htm)
+[EXIF](https://graphicssoft.about.com/od/glossary/g/exif.htm)
 timestamps.** Native iPhone jpegs contain EXIF timestamps but after
 passing through SmugShot only GPS information survives. *I am not sure
 if this is by design or oversight but I don’t like it!*
@@ -35,9 +35,9 @@ The fix is straight forward:
 
 Simple but tedious. The following J word manipulates Phil Harvey’s
 [superb command line utility
-exiftool](http://www.sno.phy.queensu.ca/~phil/exiftool/) to cleanup the
+exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/) to cleanup the
 SmugShot metadata mess. The words used by `smugshotexif` are in the J
-script [`SmugShotFix.ijs`](http://www.box.net/shared/qlp4999qre). You
+script [`SmugShotFix.ijs`](https://www.box.net/shared/qlp4999qre). You
 can also find this script in the J files sidebar of this blog. Look in
 the J Scripts directory. Let’s hope the next version of SmugShot fixes
 the date time issue and hacks like this will no longer be necessary.

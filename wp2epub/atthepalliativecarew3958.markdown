@@ -1,5 +1,5 @@
  
-[At the PalliativeCare Ward](http://bakerjd99.wordpress.com/2013/04/22/at-the-palliative-care-ward/)
+[At the PalliativeCare Ward](https://bakerjd99.wordpress.com/2013/04/22/at-the-palliative-care-ward/)
 -----------------------------------------------------------------------------------------------------
 
 *Posted: 23 Apr 2013 02:36:54*

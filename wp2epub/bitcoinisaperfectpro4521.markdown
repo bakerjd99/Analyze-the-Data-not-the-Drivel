@@ -1,5 +1,5 @@
  
-[Bitcoin is a Perfect Protest](http://bakerjd99.wordpress.com/2014/02/08/bitcoin-is-a-perfect-protest/)
+[Bitcoin is a Perfect Protest](https://bakerjd99.wordpress.com/2014/02/08/bitcoin-is-a-perfect-protest/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Feb 2014 04:39:30*
@@ -20,7 +20,7 @@ such naivety.
 Before 2008 I was a good little cog in the machine: obediently paying my
 taxes and being a productive member of society. I was a chump: a silly
 stupid chump, but lucky for me, the “[crap
-sandwich](http://www.cbsnews.com/news/boehner-calls-bill-a-crap-sandwich-but-hell-vote-for-it/)”
+sandwich](https://www.cbsnews.com/news/boehner-calls-bill-a-crap-sandwich-but-hell-vote-for-it/)”
 bank bailout cured my naivety. Despite being overwhelmingly rejected by
 the public and initially rejected by Congress the crap sandwich was
 forced down our throats and *all three presidential contenders voted for
@@ -89,7 +89,7 @@ taught me some important lessons:
     refuse to pay and the entire system would collapse. The system is
     such a perfect scam it’s hard not to admire it. Oh, it will
     eventually collapse; [fiat money always goes to
-    zero](http://dailyreckoning.com/fiat-currency/), but in the
+    zero](https://dailyreckoning.com/fiat-currency/), but in the
     meanwhile, it affords unlimited fiscal flexibility to the ruling
     class. Who gets to create money is a real issue and once again there
     is no choice about real issues.
@@ -97,7 +97,7 @@ taught me some important lessons:
 There has been a lot of nonsense written about Bitcoin but one thing is
 clear it serves as a brilliant financial foil so I am not surprised to
 see recent worldwide [efforts to suppress
-it](http://www.coindesk.com/btce-pulls-support-ruble-russia-bans-bitcoin/).
+it](https://www.coindesk.com/btce-pulls-support-ruble-russia-bans-bitcoin/).
 The most frightening thing about Bitcoin is that it gets people asking
 questions about money. For example:
 
@@ -105,7 +105,7 @@ questions about money. For example:
     money. What amuses me is that both Gold cranks and fiat cranks have
     lambasted Bitcoin for being arbitrary and made up. One of the best
     retorts to this confused drivel notes that Bitcoin is to “real
-    money” like the [Flying Spaghetti Monster](http://www.venganza.org/)
+    money” like the [Flying Spaghetti Monster](https://www.venganza.org/)
     is to “real religion.” Everyone sees the Flying Spaghetti Monster is
     made up, but – oddly – nobody can mount rational arguments
     explaining why it’s *more made up* than the “real thing.” Bitcoin is
@@ -133,7 +133,7 @@ questions about money. For example:
     double spending. Mined coins are a reward for valuable network
     services. Additionally, there is no central creation authority.
     Competing miners create Bitcoins all over the world. This system is
-    not without fault and [Bitcoin variants](http://vertcoin.org/) are
+    not without fault and [Bitcoin variants](https://vertcoin.org/) are
     exploring technical improvements but the Bitcoin creation process is
     essentially a mathematically secured network phenomenon and it is
     much harder to corrupt than bribing a few central bankers.

@@ -1,5 +1,5 @@
  
-[Review: The Way We Die Now](http://analyzethedatanotthedrivel.org/2017/11/18/review-the-way-we-die-now/)
+[Review: The Way We Die Now](https://analyzethedatanotthedrivel.org/2017/11/18/review-the-way-we-die-now/)
 ----------------------------------------------------------------------------------------
 
 *Posted: 18 Nov 2017 18:11:53*

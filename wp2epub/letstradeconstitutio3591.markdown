@@ -1,5 +1,5 @@
  
-[Let’s Trade Constitutional Amendments](http://bakerjd99.wordpress.com/2012/12/24/lets-trade-constitutional-amendments/)
+[Let’s Trade Constitutional Amendments](https://bakerjd99.wordpress.com/2012/12/24/lets-trade-constitutional-amendments/)
 ------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 24 Dec 2012 22:28:45*
@@ -18,16 +18,16 @@ mention.
 Citizens lose the right to bear arms and government loses the right to
 borrow and print money. To my tiny programmer brain this seems like a
 completely [fair
-trade.](http://www.globalexchange.org/programs/fairtrade) The Second
+trade.](https://www.globalexchange.org/programs/fairtrade) The Second
 Amendment was never about creating a safe cozy society. It was all about
 safe-guarding liberty; it still is. Today, the biggest threat to the
 liberty of Americans is our own government. If it was cut down to a
 fiscally sustainable size the need for firearms, to shoot the bastards
 in DC, would dramatically subside and then all of us, left, right, [up,
 down, top and
-strange](http://public.web.cern.ch/public/en/science/standardmodel-en.html)
+strange](https://public.web.cern.ch/public/en/science/standardmodel-en.html)
 could join hands for one big happy
-[Kumbaya-a-thon.](http://www.urbandictionary.com/define.php?term=kumbaya)
+[Kumbaya-a-thon.](https://www.urbandictionary.com/define.php?term=kumbaya)
 
 Yeah I didn’t think so.
 

@@ -1,5 +1,5 @@
  
-[Too Busy to Blog](http://bakerjd99.wordpress.com/2013/06/30/too-busy-to-blog/)
+[Too Busy to Blog](https://bakerjd99.wordpress.com/2013/06/30/too-busy-to-blog/)
 -------------------------------------------------------------------------------
 
 *Posted: 30 Jun 2013 22:54:21*
@@ -7,7 +7,7 @@
 Blogging is like going to the gym. You tell yourself you’re going to do
 it everyday and then you don’t. The last two months have been all about
 my [mother’s
-death](http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/) and
+death](https://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/) and
 work. Any remaining hours were siphoned off by my other hobbies:
 photography and reading. Yeah I count reading as a hobby.
 
@@ -41,5 +41,5 @@ will enumerate them for you:
 To end June on a happy note and, more importantly, to test a nifty
 WordPress layout feature here’s a collection of recent images. All these
 images, and thousands more, [are always on view on
-SmugMug](http://conceptcontrol.smugmug.com/). Next month I will be a
+SmugMug](https://conceptcontrol.smugmug.com/). Next month I will be a
 better boy and write the epoch defaming rubbish you all love and crave.

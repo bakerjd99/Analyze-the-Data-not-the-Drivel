@@ -1,5 +1,5 @@
  
-[Your Bitcoins are Now Welcome!](http://bakerjd99.wordpress.com/2014/06/07/your-bitcoins-are-now-welcome/)
+[Your Bitcoins are Now Welcome!](https://bakerjd99.wordpress.com/2014/06/07/your-bitcoins-are-now-welcome/)
 ----------------------------------------------------------------------------------------------------------
 
 *Posted: 07 Jun 2014 21:06:28*

@@ -1,11 +1,11 @@
  
-[WordPress to LaTeX with Pandoc and J: LaTeX Directories (2)](http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
+[WordPress to LaTeX with Pandoc and J: LaTeX Directories (2)](https://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 19 Feb 2012 00:32:46*
 
 In this post I will describe the LaTeX directory structure the J script
-[`TeXfrWpxml.ijs`](http://www.box.com/s/9v5b6ub9cya108c03mr7) is
+[`TeXfrWpxml.ijs`](https://www.box.com/s/9v5b6ub9cya108c03mr7) is
 expecting. To convert WordPress export XML to LaTeX with this script you
 will have to set up similar directories.
 
@@ -14,9 +14,9 @@ like a compiled programming language than a word processing program.
 There are advantages and disadvantages to the LaTeX way. In LaTeX’s
 favor, the system is enormously adaptable, versatile and powerful. There
 is very little that LaTeX/TeX and
-[associates](http://www.amazon.com/LaTeX-Companions-Third-Revised-Boxed/dp/0321514432)
+[associates](https://www.amazon.com/LaTeX-Companions-Third-Revised-Boxed/dp/0321514432)
 cannot do. Unfortunately, “[with great power comes great
-responsibility.](http://www.youtube.com/watch?v=IKmQW7JTb6s)” LaTeX is
+responsibility.](https://www.youtube.com/watch?v=IKmQW7JTb6s)” LaTeX is
 demanding! You have to study LaTeX like any other programming language.
 It’s not for everyone but for experienced users it’s the best way to
 produce documents with the highest typographic standards.
@@ -50,7 +50,7 @@ directory with the standard LaTeX `graphicx` package insert
     \graphicspath{{./inclusions/}}
 
 in your preamble. Finally, to track document changes I create a
-[GIT](http://git-scm.com/) repository in the root directory.
+[GIT](https://git-scm.com/) repository in the root directory.
 
     c:/pd/blog/wp2latex/.git
 
@@ -63,7 +63,7 @@ than one document. Many LaTeX users maintain a common directory for such
 files but I’ve found that common directories complicate moving documents
 around. You’re always forgetting something in the damn common directory
 or you are copying a
-[buttload](http://www.urbandictionary.com/define.php?term=buttload) of
+[buttload](https://www.urbandictionary.com/define.php?term=buttload) of
 mostly irrelevant files from one big confusing common directory to
 another.
 
@@ -80,11 +80,11 @@ directory.
 `bm.tex` references `bmtitlepage.tex`. I prefer a separate title page
 file; simply comment out this file if you create titles in other ways.
 **The zip file
-[`wp2latex.zip`](http://www.box.com/s/nioua15kpdod5lvruaxe) contains a
+[`wp2latex.zip`](https://www.box.com/s/nioua15kpdod5lvruaxe) contains a
 test directory in the format expected by `TeXfrWpxml.ijs`.** It also has
 a subset of my blog posts already converted to LaTeX. To get ready for
 [WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs
-(3)](http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
+(3)](https://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/)
 download `wp2latex.zip` and attempt to compile `bm.tex`. You might have
 to download a number of LaTeX packages. Once you have successfully
 compiled `bm.tex `you are ready for the next step.

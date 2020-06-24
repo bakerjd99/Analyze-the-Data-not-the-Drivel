@@ -1,11 +1,11 @@
  
-[Assigning SmugMug Print Size Keys](http://bakerjd99.wordpress.com/2010/02/21/assigning-smugmug-print-size-keys/)
+[Assigning SmugMug Print Size Keys](https://bakerjd99.wordpress.com/2010/02/21/assigning-smugmug-print-size-keys/)
 -----------------------------------------------------------------------------------------------------------------
 
 *Posted: 21 Feb 2010 21:56:27*
 
 I believe that a picture’s [aspect
-ratio](http://en.wikipedia.org/wiki/Aspect\_ratio\_(image)), its *width*
+ratio](https://en.wikipedia.org/wiki/Aspect\_ratio\_(image)), its *width*
 divided by its *height*, should be tuned to its contents. Consequently,
 I am not a slave to standard aspect ratios and print sizes like the ones
 shown in the following table.
@@ -24,18 +24,18 @@ Over the years I have clipped and cropped my pictures producing a large
 number of *nonstandard* ratios. This is not a problem until I decide to
 order prints.
 
-Pictures sites like [SmugMug](http://www.smugmug.com/) offer many
+Pictures sites like [SmugMug](https://www.smugmug.com/) offer many
 standard sizes but they cannot accommodate every crank with an aspect to
 grind. To print a strangely shaped picture on SmugMug you have to open
 up the website’s print selection tool and fit one side or your picture
 to a standard print size. This leaves part of the print blank and is
-often called the [letterbox](http://en.wikipedia.org/wiki/Letterbox)
+often called the [letterbox](https://en.wikipedia.org/wiki/Letterbox)
 method. Letterboxing is not ideal but it gets the job done.
 
 For standard print sizes there is a much better way. The following [J
-verb](http://www.jsoftware.com/) takes the pixel dimensions of my images
+verb](https://www.jsoftware.com/) takes the pixel dimensions of my images
 and computes standard, [300
-DPI](http://www.rideau-info.com/photos/mythdpi.html), print size keys
+DPI](https://www.rideau-info.com/photos/mythdpi.html), print size keys
 like: 4x6, 5x7 and 8x10. After assigning print size keys you can select
 and print all standard sizes with a few mouse clicks.
 

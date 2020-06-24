@@ -1,22 +1,22 @@
  
-[Typesetting UTF8 APL code with the LaTeX lstlisting package](http://bakerjd99.wordpress.com/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/)
+[Typesetting UTF8 APL code with the LaTeX lstlisting package](https://bakerjd99.wordpress.com/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Aug 2011 02:27:57*
 
 Typesetting
-[APL](http://en.wikipedia.org/wiki/APL\_(programming\_language)) source
+[APL](https://en.wikipedia.org/wiki/APL\_(programming\_language)) source
 code has always been a pain in the ass! In the dark ages, ([the
-1970’s](http://www.google.com/search?tbm=isch\&hl=en\&source=hp\&biw=994\&bih=584\&q=the+seventies\&gbv=2\&oq=the+seventi)),
+1970’s](https://www.google.com/search?tbm=isch\&hl=en\&source=hp\&biw=994\&bih=584\&q=the+seventies\&gbv=2\&oq=the+seventi)),
 you had to fiddle with APL type-balls and live without luxuries like
 *lower case letters*. With the advent of general outline fonts it became
 *technically possible* to render APL
-[glyphs](http://www.merriam-webster.com/dictionary/glyph) on standard
+[glyphs](https://www.merriam-webster.com/dictionary/glyph) on standard
 display devices provided you:
 
 1.  Designed your own APL font.
 
-2.  Mapped the *[atomic vector](http://aplwiki.com/AtomicVector)* of
+2.  Mapped the *[atomic vector](https://aplwiki.com/AtomicVector)* of
     your APL to whatever encoding your font demanded.
 
 3.  Wrote WSFULL’s of junk transliteration functions to dump your APL
@@ -30,15 +30,15 @@ fault; if we loved APL more it would stop hitting us!*
 When Unicode appeared APL’ers cheered — our long ASCII nightmare was
 ending. The more politically astute worked to include the [APL
 characters in the Unicode
-standard.](http://aplwiki.com/UnicodeForAplers) Hey if
-[Klingon](http://www.evertype.com/standards/csur/klingon.html) is there
+standard.](https://aplwiki.com/UnicodeForAplers) Hey if
+[Klingon](https://www.evertype.com/standards/csur/klingon.html) is there
 why not APL? Everyone thought it was just a matter of time until APL
 vendors abandoned their nonstandard atomic vectors and fully embraced
 Unicode. With a few notable exceptions we are still waiting. *While we
 wait the problem of typesetting APL source code festers.*
 
 My preferred source code listing tool is the LaTeX [lstlisting
-package](http://en.wikibooks.org/wiki/LaTeX/Packages/Listings).
+package](https://en.wikibooks.org/wiki/LaTeX/Packages/Listings).
 lstlisting works well for standard ANSI source code. I use it for J,
 C\#, SQL, C, XML, Ocaml, Mathematica, F\#, shell scripts and
 LaTeX source code, i.e. everything except APL! lstlisting is an eight
@@ -47,9 +47,9 @@ didn’t know how to get around this so I handled APL by enclosing UTF8
 APL text in plain `\begin{verbatim} … \end{verbatim}` environments. This
 works for XeLaTeX and LuaLaTeX but you lose all the lstlisting goodies. Then I
 saw an interesting
-[tex.stackexchange.com](http://tex.stackexchange.com/) posting about
+[tex.stackexchange.com](https://tex.stackexchange.com/) posting about
 [The ‘listings’ package and
-UTF-8](http://tex.stackexchange.com/questions/25391/the-listings-package-and-utf-8).
+UTF-8](https://tex.stackexchange.com/questions/25391/the-listings-package-and-utf-8).
 One solution to the post’s “French ligature problem” showed how to force
 Unicode down lstlisting’s throat. I wondered if the same method would
 work for APL. It turns out that it does!
@@ -57,7 +57,7 @@ work for APL. It turns out that it does!
 If you insert the following snippet of TeX code in your document
 preamble LuaLaTeX and XeLaTeX will properly process UTF8 APL text in lstlisting
 environments. You will need to download and install the [APL385
-Unicode](http://v4.vector.org.uk/resource/) font if it’s not on your
+Unicode](https://v4.vector.org.uk/resource/) font if it’s not on your
 system. **A test LaTeX document illustrating this hack is available
 [here](https://www.box.net/shared/62x2208x56lrjy5vkesz). The compiled
 PDF is available

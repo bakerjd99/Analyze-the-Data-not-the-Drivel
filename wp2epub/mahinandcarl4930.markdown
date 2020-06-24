@@ -23,7 +23,7 @@ In her later years Mahin suffered from dementia. Her children took turns
 helping her out. We were the last to look after her. She lived with us
 for nearly two years. Mahin and I similar tastes for the absurd. We both
 enjoyed the idiotic television show
-[Wipeout](http://abc.go.com/shows/wipeout). Being knocked on your ass
+[Wipeout](https://abc.go.com/shows/wipeout). Being knocked on your ass
 works equally well in English and Farsi. We’d laugh at people plunging
 into gigantic vats of goo. Dementia slowly ate away at Mahin’s mind.
 Eventually she required twenty-four care and her daughters placed her in
@@ -70,7 +70,7 @@ saying goodbye to my paternal grandfather and I botched my last
 conversation with my mother. Christopher Hitchens recounts some of the
 awkward conversations he had with friends and colleagues while dying of
 cancer in his last book
-[Mortality](http://www.goodreads.com/book/show/13529055-mortality). Many
+[Mortality](https://www.goodreads.com/book/show/13529055-mortality). Many
 avoided the sword overhead while others swung it callously. Hitchens
 didn’t know what to feel. None of their goodbyes really helped.
 

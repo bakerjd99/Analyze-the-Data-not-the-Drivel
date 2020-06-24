@@ -1,5 +1,5 @@
  
-[Using jodliterate](http://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/) 
+[Using jodliterate](https://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/) 
 ----------------------------------------------------------------------------------------
 
 *Posted: 25 May 2020 19:02:26*
@@ -11,7 +11,7 @@ documents.
 The *Bible*, *Koran*, and *Bhagavad Gita* of Literate Programming is Donald Knuth's 
 [masterful tome](https://www.goodreads.com/book/show/112245.Literate_Programming) of the same name.
 
-[Image Link: Literate Programming cover](https://bakerjd99.files.wordpress.com/2020/05/literate_programming_book_cover_smaller.png)
+[Image link: Literate Programming cover](https://bakerjd99.files.wordpress.com/2020/05/literate_programming_book_cover_smaller.png)
 
 Knuth applied Literate Programming to his TeX systems and produced what 
 many consider [enduring masterpieces](https://www.amazon.com/TeXbook-Donald-Knuth/dp/0201134489#customerReviews) 
@@ -160,11 +160,11 @@ NB. 'install' jpkg '*'  NB.
 I mostly use the Windows JQT version of pacman to install and maintain J addons. 
 You can find pacman on the tools menu. 
 
-[Image Link: Pacman Menu](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman_menu-1.png)
+[Image link: Pacman Menu](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman_menu-1.png)
 
 pacman shows all available addons and provides tools for installing, updating, and removing them. 
 
-[Image Link: Pacman Main Screen](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman.png)
+[Image link: Pacman Main Screen](https://bakerjd99.files.wordpress.com/2020/05/jqt_pacman.png)
 
 The GUI version is easy to use. Press the `Select All` button and then press the `Install` button to install
 all the addons. To update addons select the `Upgrades` menu and select the addons you want to update.

@@ -1,11 +1,11 @@
  
-[Controlling Cell Phones the new IT Frontier](http://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/)
+[Controlling Cell Phones the new IT Frontier](https://bakerjd99.wordpress.com/2012/06/09/controlling-cell-phones-the-new-it-frontier/)
 -------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Jun 2012 17:08:31*
 
 It won’t be long before your employer starts jamming or
-[confiscating](http://newsfeed.time.com/2012/05/15/obama-campaign-bans-cell-phones-at-private-fundraisers/)
+[confiscating](https://newsfeed.time.com/2012/05/15/obama-campaign-bans-cell-phones-at-private-fundraisers/)
 your *personal* cell phone. Wait a minute isn’t that just a tad
 hyperbolic? Wouldn’t that trigger an avalanche of “freedom of speech”
 lawsuits? Wouldn’t people yell “fornicate elsewhere” and quit? Ahh, if
@@ -17,7 +17,7 @@ manager. There’s something utterly intoxicating about being in a place
 where reliable minions, (dead computers for the most part), completely
 manifest your vision. I’ve watched the most libertarian of programmers
 turn into [Dilbertian
-despots](http://dilbert.com/strips/comic/2010-09-13/) when tasked with
+despots](https://dilbert.com/strips/comic/2010-09-13/) when tasked with
 network security, software procurement or SOX compliance. IT’s first
 impulse is to control, control and control even if control is
 counterproductive.
@@ -32,16 +32,16 @@ any of my employers ever had was *my personal honesty and integrity*.
 
 Unfortunately my personal honesty and integrity is beyond the control of
 IT and, as I have said before, [control is key when it comes to
-IT](http://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/).
+IT](https://bakerjd99.wordpress.com/2010/06/11/the-real-problem-with-enterprise-software/).
 If IT cannot control it they won’t even recognize it! This is why we end
 up with abominations like
-[SOX](http://www.infoworld.com/d/developer-world/sarbanes-oxley-seen-biggest-it-time-waster-481)
+[SOX](https://www.infoworld.com/d/developer-world/sarbanes-oxley-seen-biggest-it-time-waster-481)
 — perhaps the must ludicrous bit of micro-managing nonsense ever foisted
 on American companies. Incidentally SOX does
-[SFO](http://www.urbandictionary.com/define.php?term=sweet%20fuck%20all)
+[SFO](https://www.urbandictionary.com/define.php?term=sweet%20fuck%20all)
 when it comes to preventing the Enronesque crimes it was intended to
 prevent. Don’t believe me, ask [Jon Corzine about where MF’s billions
-went](http://technorati.com/business/article/jon-corzine-to-be-hoisted-by/).
+went](https://technorati.com/business/article/jon-corzine-to-be-hoisted-by/).
 
 *Exactly where do personal cell phones fit into IT policies?* When cell
 phones first appeared they were just phones. Now they’re web browsers,

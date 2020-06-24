@@ -1,19 +1,19 @@
  
-[Everybody Abandon Facebook Day](http://bakerjd99.wordpress.com/2010/05/21/everybody-abandon-facebook-day/)
+[Everybody Abandon Facebook Day](https://bakerjd99.wordpress.com/2010/05/21/everybody-abandon-facebook-day/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 21 May 2010 18:51:24*
 
 Yesterday was the first ever [Everybody Draw Mohammed
-Day.](http://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/#)
+Day.](https://www.foxnews.com/scitech/2010/05/19/facebook-fracas-breaks-everybody-draw-mohammad-day/#)
 My favorite Everybody Draw Mohammed cartoon is shown below.
 
-[Image link: The Glory-Ass Koran](http://conceptcontrol.smugmug.com/photos/874351252_o23th-S.jpg)
+[Image link: The Glory-Ass Koran](https://conceptcontrol.smugmug.com/photos/874351252_o23th-S.jpg)
 
-For the [troglodytes](http://en.wikipedia.org/wiki/Troglodyte) among us
+For the [troglodytes](https://en.wikipedia.org/wiki/Troglodyte) among us
 Everybody Draw Mohammed Day was a sarcastic reaction to years of
 bullying, death threats and
-[fatwas](http://islam.about.com/od/law/g/fatwa.htm) issued against
+[fatwas](https://islam.about.com/od/law/g/fatwa.htm) issued against
 cartoonists for the horrible crime of drawing caricatures of Mohammed.
 The point of Everybody Draw Mohammed Day was to drive home the simple
 fact that when it comes to free speech there are no sacred cows or

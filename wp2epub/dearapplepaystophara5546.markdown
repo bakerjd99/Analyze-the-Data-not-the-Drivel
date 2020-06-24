@@ -1,5 +1,5 @@
 
-[Dear Apple Pay Stop Harassing Me!](http://analyzethedatanotthedrivel.org/2017/12/26/dear-apple-pay-stop-harassing-me/)
+[Dear Apple Pay Stop Harassing Me!](https://analyzethedatanotthedrivel.org/2017/12/26/dear-apple-pay-stop-harassing-me/)
 -----------------------------------------------------------------------------------------------------------
 
 *Posted: 26 Dec 2017 18:00:41*

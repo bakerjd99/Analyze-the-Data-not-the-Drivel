@@ -1,5 +1,5 @@
  
-[Cosmos Reboot](http://bakerjd99.wordpress.com/2014/04/11/cosmos-reboot/)
+[Cosmos Reboot](https://bakerjd99.wordpress.com/2014/04/11/cosmos-reboot/)
 -------------------------------------------------------------------------
 
 *Posted: 12 Apr 2014 00:34:50*
@@ -34,7 +34,7 @@ is real.
 Science is hard on nonsense but only if it engages. The biggest mistake
 you can make is ceding the battlefield to your enemies. Recently [Bill
 Nye took a lot of heat for debating a
-creationist](http://www.huffingtonpost.com/david-macmillan/bill-nye-creation-debate_b_4775207.html).
+creationist](https://www.huffingtonpost.com/david-macmillan/bill-nye-creation-debate_b_4775207.html).
 In silly lefty circles* talking to these people only elevates them*.
 They felt Nye was making a big mistake by sharing the stage with a young
 earther, but then lefties have always been more comfortable with
@@ -48,8 +48,8 @@ I’m glad people like Nye, Tyson and Sagan suit up and slay nitwits.
 
 And, when it came to slaying nitwits, Sagan was in a rarefied class. He
 debunked [Mars
-facer’s](http://science1.nasa.gov/science-news/science-at-nasa/2001/ast24may_1/),
-[Velikovsky enthusiasts](http://www.skepdic.com/velikov.html), UFO
+facer’s](https://science1.nasa.gov/science-news/science-at-nasa/2001/ast24may_1/),
+[Velikovsky enthusiasts](https://www.skepdic.com/velikov.html), UFO
 fanatics and more with characteristic style. Twenty years later his
 arguments still hold up. Sagan’s adherence to the skeptic’s creed*, it’s
 not the skeptic’s job to prove an assertion false, it’s the proponent’s

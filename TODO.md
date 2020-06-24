@@ -11,13 +11,12 @@ is my key for relating issues, tickets and so forth across systems.
 
 `[begin-todo]`
 
-1. `<_d9bjsc6z7l5bj27suheq2swmw_>` Test marking code fragments in markdown version as various `pandoc` supported
-   syntax high-lighting programming languages. Current eBook readers like
-   [Calibre](https://calibre-ebook.com/) can show highlights.
+1. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
 
-2. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
+2. `<_7oa1iac9gtez9tpxgb8lpqgq8_>` Explore better table of contents layouts in eBook versions.
 
-3. `<_7oa1iac9gtez9tpxgb8lpqgq8_>` Explore better table of contents layouts in eBook versions.
+3. `<_ass0kzc30qat8qqqtichqoy2d_>` Generate single and two level `toc.ncx` xml files from `bm.tex`. Not all eBook readers
+   can some multiple levels in table of contents. Kindle `mobi` is apparently one level only.
 
 4. `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
 
