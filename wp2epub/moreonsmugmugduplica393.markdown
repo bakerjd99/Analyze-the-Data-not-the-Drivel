@@ -20,20 +20,22 @@ metadata](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-m
 execute this [J verb](http://www.jsoftware.com/) to insure I don’t
 introduce duplicates.
 
-    CheckSmugDups=:3 : 0
+```J
+CheckSmugDups=:3 : 0
 
-    NB.*CheckSmugDups v-- checks duplicate SmugMug images.
-    NB.
-    NB. monad:  CheckSmugDups uuIgnore
+NB.*CheckSmugDups v-- checks duplicate SmugMug images.
+NB.
+NB. monad:  CheckSmugDups uuIgnore
 
-    'albums images'=. readsmugtables 0
-    images=. }. images [ imhead=. 0 { images
+'albums images'=. readsmugtables 0
+images=. }. images [ imhead=. 0 { images
 
-    NB. images should be unique in three ways:
-    r=. ,: 'PID unique: '; # ~.(imhead i. <'PID') {"1 images
-    r=. r, 'MD5 unique: '; # ~.(imhead i. <'MD5') {"1 images
-    r=. r, 'FILENAME unique: '; # ~.(imhead i. <'FILENAME') {"1 images
+NB. images should be unique in three ways:
+r=. ,: 'PID unique: '; # ~.(imhead i. <'PID') {"1 images
+r=. r, 'MD5 unique: '; # ~.(imhead i. <'MD5') {"1 images
+r=. r, 'FILENAME unique: '; # ~.(imhead i. <'FILENAME') {"1 images
 
-    if. 1 <# ~. ;{:"1 r do. smoutput 'duplicates present' end.
-    r
-    )
+if. 1 <# ~. ;{:"1 r do. smoutput 'duplicates present' end.
+r
+)
+```

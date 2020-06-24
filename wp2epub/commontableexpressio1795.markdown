@@ -17,43 +17,45 @@ So, taking my own advice, the following is an example of a SQLSever
 Expression](http://msdn.microsoft.com/en-us/library/ms190766.aspx) (CTE)
 query.
 
-    WITH cte1
-         AS (SELECT c.obj_id                            AS obj_id,
-                    a.created                           AS creation_date,
-                    Datediff(DAY, a.created, Getdate()) AS day_cnt
-             FROM   [HIST].[dbo].[History] a
-                    JOIN [HIST].[dbo].[HistorySummary] b
-                      ON a.rowid = b.rowid
-                    JOIN [HIST].[dbo].[ObjectNames] c
-                      ON c.obj_name = b.obj_name),
-         cte2
-         AS (SELECT cte1.obj_id AS obj_id,
-                    CASE
-                      WHEN cte1.day_cnt <= 30 THEN 1
-                      ELSE 0
-                    END         AS d0,
-                    CASE
-                      WHEN ( cte1.day_cnt > 30 )
-                           AND ( cte1.day_cnt <= 60 ) THEN 1
-                      ELSE 0
-                    END         AS d1,
-                    CASE
-                      WHEN ( cte1.day_cnt > 60 )
-                           AND ( cte1.day_cnt <= 90 ) THEN 1
-                      ELSE 0
-                    END         AS d2,
-                    CASE
-                      WHEN ( cte1.day_cnt > 90 ) THEN 1
-                      ELSE 0
-                    END         AS d3
-             FROM   cte1)
-    SELECT obj_id,
-           SUM(d0) AS OneMonth,
-           SUM(d1) AS TwoMonths,
-           SUM(d2) AS ThreeMonths,
-           SUM(d3) AS Overdue
-    FROM   cte2
-    GROUP  BY obj_id
+```SQL
+WITH cte1
+	 AS (SELECT c.obj_id                            AS obj_id,
+				a.created                           AS creation_date,
+				Datediff(DAY, a.created, Getdate()) AS day_cnt
+		 FROM   [HIST].[dbo].[History] a
+				JOIN [HIST].[dbo].[HistorySummary] b
+				  ON a.rowid = b.rowid
+				JOIN [HIST].[dbo].[ObjectNames] c
+				  ON c.obj_name = b.obj_name),
+	 cte2
+	 AS (SELECT cte1.obj_id AS obj_id,
+				CASE
+				  WHEN cte1.day_cnt <= 30 THEN 1
+				  ELSE 0
+				END         AS d0,
+				CASE
+				  WHEN ( cte1.day_cnt > 30 )
+					   AND ( cte1.day_cnt <= 60 ) THEN 1
+				  ELSE 0
+				END         AS d1,
+				CASE
+				  WHEN ( cte1.day_cnt > 60 )
+					   AND ( cte1.day_cnt <= 90 ) THEN 1
+				  ELSE 0
+				END         AS d2,
+				CASE
+				  WHEN ( cte1.day_cnt > 90 ) THEN 1
+				  ELSE 0
+				END         AS d3
+		 FROM   cte1)
+SELECT obj_id,
+	   SUM(d0) AS OneMonth,
+	   SUM(d1) AS TwoMonths,
+	   SUM(d2) AS ThreeMonths,
+	   SUM(d3) AS Overdue
+FROM   cte2
+GROUP  BY obj_id
+```
 
 CTE queries *essentially* create temporary virtual tables during query
 execution. They are similar to nested SQL queries but are easier to
@@ -68,20 +70,22 @@ ODBC](http://www.jsoftware.com/jwiki/ODBC) interface. The following
 assumes a SQLServer ODBC connection
 [dsn](http://www.geeksengine.com/article/mysql-odbc.html) history.
 
-    NB. odbc interface
-    require 'dd'
+```J
+NB. odbc interface
+require 'dd'
 
-    NB. read CTE query
-    HistoryAgeSQL=. read 'c:/temp/HistoryAge.sql'
+NB. read CTE query
+HistoryAgeSQL=. read 'c:/temp/HistoryAge.sql'
 
-    NB. connect sqlserver database
-    ch =. ddcon 'dsn=history'
+NB. connect sqlserver database
+ch =. ddcon 'dsn=history'
 
-    NB. select with CTE query
-    sh =. HistoryAgeSQL ddsel ch
+NB. select with CTE query
+sh =. HistoryAgeSQL ddsel ch
 
-    NB. fetch results
-    data=. ddfet sh,_1
+NB. fetch results
+data=. ddfet sh,_1
+```
 
 As a final note it’s worth comparing the SQL CTE histogram code with J
 equivalents. The two following J verbs taken from the [J
@@ -90,11 +94,13 @@ wiki](http://www.jsoftware.com/jwiki/FrontPage),
 [here](http://www.jsoftware.com/jwiki/BrianSchott/Histogram)), compute
 histograms.
 
-    NB. computes histograms uses right open intervals
-    histogram=:<:@(#/.~)@(i.@#@[ , I.)
+```J
+NB. computes histograms uses right open intervals
+histogram=:<:@(#/.~)@(i.@#@[ , I.)
 
-    NB. variation on (histogram) uses left open intervals
-    histogram2=:<:@(#/.~)@(i.@>:@#@[ , |.@[ (#@[ - I.) ])
+NB. variation on (histogram) uses left open intervals
+histogram2=:<:@(#/.~)@(i.@>:@#@[ , |.@[ (#@[ - I.) ])
+```
 
 They scale to tens of millions of data points; returning results in a
 few seconds on my laptop. The SQL CTE, shown above, takes about three

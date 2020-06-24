@@ -37,62 +37,74 @@ in Python distributions. Use the
 or [conda](https://anaconda.org/anaconda/lxml) tools to install this
 module.
 
-    # imports
-    import os
-    from lxml import etree
+```PYTHON
+# imports
+import os
+from lxml import etree
+```
 
 Set an output directory. I’m running on a Windows machine. If you’re on
 a Mac or Linux machine adjust the path.
 
-    # set sql output directory
-    sql_out = r"C:\temp\dtsxsql"
-    if not os.path.isdir(sql_out):
-        os.makedirs(sql_out)
+```PYTHON
+# set sql output directory
+sql_out = r"C:\temp\dtsxsql"
+if not os.path.isdir(sql_out):
+	os.makedirs(sql_out)
+```
 
 Point to the `dtsx` package you want to extract code from.
 
-    # dtsx files
-    dtsx_path = r'C:\Users\john\AnacondaProjects\testfolder\bixml'
-    ssis_dtsx = dtsx_path + r'\ParseXML.dtsx'
+```PYTHON
+# dtsx files
+dtsx_path = r'C:\Users\john\AnacondaProjects\testfolder\bixml'
+ssis_dtsx = dtsx_path + r'\ParseXML.dtsx'
+```
 
 Read and parse the SSIS package.
 
-    tree = etree.parse(ssis_dtsx)
-    root = tree.getroot()
+```PYTHON
+tree = etree.parse(ssis_dtsx)
+root = tree.getroot()
+```
 
 `lxml` renders XML namespace tags like `<DTS:Executable` as
 `www.microsoft.com/SqlServer/Dts\}Executable`. The following gathers all
 the transformed element tags in the `dtsx` package.
 
-    # collect unique element tags in dtsx
-    ele_set = set()
-    for ele in root.xpath(".//*"):
-        ele_set.add(ele.tag)    
-    print(ele_set)
-    print(len(ele_set))
+```PYTHON
+# collect unique element tags in dtsx
+ele_set = set()
+for ele in root.xpath(".//*"):
+	ele_set.add(ele.tag)    
+print(ele_set)
+print(len(ele_set))
+```
 
 Using transformed element tags of interest blast over the `dtsx` and
 suck out the bits of interest.
 
-    # extract sql code in source statements and write to *.sql files 
-    total_bytes = 0
-    package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
-    for cnt, ele in enumerate(root.xpath(".//*")):
-      if ele.tag == "{www.microsoft.com/SqlServer/Dts}Executable":
-        attr = ele.attrib
-        for child0 in ele:
-          if child0.tag == "{www.microsoft.com/SqlServer/Dts}ObjectData":
-            for child1 in child0:
-              sql_comment = attr["{www.microsoft.com/SqlServer/Dts}ObjectName"].strip()
-              if child1.tag == "{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData":
-                dtsx_sql = child1.attrib["{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlStatementSource"]
-                dtsx_sql = "-- " + sql_comment + "\n" + dtsx_sql
-                sql_file = sql_out + "\\" + package_name + str(cnt) + ".sql"
-                total_bytes += len(dtsx_sql)
-                print((len(dtsx_sql), sql_comment, sql_file))
-                with open(sql_file, "w") as file:
-                  file.write(dtsx_sql)
-    print(('total sql code bytes',total_bytes))
+```PYTHON
+# extract sql code in source statements and write to *.sql files 
+total_bytes = 0
+package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
+for cnt, ele in enumerate(root.xpath(".//*")):
+  if ele.tag == "{www.microsoft.com/SqlServer/Dts}Executable":
+	attr = ele.attrib
+	for child0 in ele:
+	  if child0.tag == "{www.microsoft.com/SqlServer/Dts}ObjectData":
+		for child1 in child0:
+		  sql_comment = attr["{www.microsoft.com/SqlServer/Dts}ObjectName"].strip()
+		  if child1.tag == "{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData":
+			dtsx_sql = child1.attrib["{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlStatementSource"]
+			dtsx_sql = "-- " + sql_comment + "\n" + dtsx_sql
+			sql_file = sql_out + "\\" + package_name + str(cnt) + ".sql"
+			total_bytes += len(dtsx_sql)
+			print((len(dtsx_sql), sql_comment, sql_file))
+			with open(sql_file, "w") as file:
+			  file.write(dtsx_sql)
+print(('total sql code bytes',total_bytes))
+```
 
 The code snippets in this post are available in this Jupyter notebook:
 [Extracting SQL code from SSIS dtsx packages with Python

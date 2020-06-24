@@ -60,55 +60,57 @@ The following `*.tex` file loads packages that are useful for Kindle
 sizing. It also shows how to print out LaTeX dimensions with the
 [printlen](http://www.ctan.org/pkg/printlen) package.
 
-    \documentclass[12pt]{article}
+```LATEX
+\documentclass[12pt]{article}
 
-    \usepackage{graphicx}
-    \graphicspath{{./image/}}
+\usepackage{graphicx}
+\graphicspath{{./image/}}
 
-    \usepackage[usenames,dvipsnames]{color}
+\usepackage[usenames,dvipsnames]{color}
 
-    \usepackage[colorlinks, linkcolor=OliveGreen, urlcolor=blue,
-                pdfauthor={your name}, pdftitle={your title},
-                pdfsubject={your subject},
-                pdfcreator={MikTeX+LaTeXe with hyperref package},
-                pdfkeywords={your,key,words},
-                ]{hyperref}
+\usepackage[colorlinks, linkcolor=OliveGreen, urlcolor=blue,
+			pdfauthor={your name}, pdftitle={your title},
+			pdfsubject={your subject},
+			pdfcreator={MikTeX+LaTeXe with hyperref package},
+			pdfkeywords={your,key,words},
+			]{hyperref}
 
-    \usepackage{breqn}      % automatic equation breaking
-    \usepackage{microtype}  % microtypography, reduces hyphenation
-
-
-    \usepackage[papersize={3.6in,4.8in},
-                hmargin=0.1in,vmargin={0.1in,0.255in}]{geometry}
+\usepackage{breqn}      % automatic equation breaking
+\usepackage{microtype}  % microtypography, reduces hyphenation
 
 
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-    \fancyhead{}      % clear page header
-    \fancyfoot{}      % clear page footer
+\usepackage[papersize={3.6in,4.8in},
+			hmargin=0.1in,vmargin={0.1in,0.255in}]{geometry}
 
-    \setlength{\abovecaptionskip}{2pt} % space above captions
-    \setlength{\belowcaptionskip}{0pt} % space below captions
 
-    \setlength{\textfloatsep}{2pt} 
-    \setlength{\floatsep}{2pt}  % space left between floats
-    \setlength{\intextsep}{2pt} % space left on top and bottom of an in-text float
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}      % clear page header
+\fancyfoot{}      % clear page footer
 
-    \usepackage{printlen}
+\setlength{\abovecaptionskip}{2pt} % space above captions
+\setlength{\belowcaptionskip}{0pt} % space below captions
 
-    \setlength{\footskip}{14pt}
+\setlength{\textfloatsep}{2pt} 
+\setlength{\floatsep}{2pt}  % space left between floats
+\setlength{\intextsep}{2pt} % space left on top and bottom of an in-text float
 
-    \renewcommand*{\thepage}{\footnotesize\arabic{page}}
+\usepackage{printlen}
 
-    \begin{document}
+\setlength{\footskip}{14pt}
 
-    The \verb|\textwidth| is \printlength{\textwidth} which is also
-    \uselengthunit{in}\printlength{\textwidth} and
-    \uselengthunit{mm}\printlength{\textwidth}.
+\renewcommand*{\thepage}{\footnotesize\arabic{page}}
 
-    \uselengthunit{pt}
-    The \verb|\textheight| is \printlength{\textheight} which is also
-    \uselengthunit{in}\printlength{\textheight} and
-    \uselengthunit{mm}\printlength{\textheight}.
+\begin{document}
 
-    \end{document}
+The \verb|\textwidth| is \printlength{\textwidth} which is also
+\uselengthunit{in}\printlength{\textwidth} and
+\uselengthunit{mm}\printlength{\textwidth}.
+
+\uselengthunit{pt}
+The \verb|\textheight| is \printlength{\textheight} which is also
+\uselengthunit{in}\printlength{\textheight} and
+\uselengthunit{mm}\printlength{\textheight}.
+
+\end{document}
+```

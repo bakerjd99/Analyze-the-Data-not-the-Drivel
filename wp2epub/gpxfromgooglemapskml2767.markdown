@@ -24,40 +24,42 @@ script is available here](https://www.box.com/s/09dc770e4821500d222b)
 and in the files sidebar. Browse to the J Scripts directory. Happy KML
 to GPX’ing my friends.
 
-    gpxfrmapkml=:3 : 0
+```J
+gpxfrmapkml=:3 : 0
 
-    NB.*gpxfrmapkml v-- gpx from Google maps kml.
-    NB.
-    NB. monad:  clGpx =. gpxfrmapkml clKml
-    NB.
-    NB.   NB. download Google map waypoints as kml
-    NB.   kml=. read 'c:/temp/arizona annular eclipse.kml'
-    NB.
-    NB.   NB. convert to gpx and save
-    NB.   gpx=. gpxfrmapkml kml
-    NB.   gpx write 'c:/temp/arizona annular eclipse.gpx'  
+NB.*gpxfrmapkml v-- gpx from Google maps kml.
+NB.
+NB. monad:  clGpx =. gpxfrmapkml clKml
+NB.
+NB.   NB. download Google map waypoints as kml
+NB.   kml=. read 'c:/temp/arizona annular eclipse.kml'
+NB.
+NB.   NB. convert to gpx and save
+NB.   gpx=. gpxfrmapkml kml
+NB.   gpx write 'c:/temp/arizona annular eclipse.gpx'  
 
-    NB. parse kml form waypoint table
-    dname=. ;'name' geteletext '<Placemark>' beforestr y
-    wpt=.   ;'Placemark' geteletext y
-    wpt=.   ('name' geteletext wpt) ,. <;._1&> ','&,&.> 'coordinates' geteletext wpt
-    hdr=.   ;:'phototitle longitude latitude'
+NB. parse kml form waypoint table
+dname=. ;'name' geteletext '<Placemark>' beforestr y
+wpt=.   ;'Placemark' geteletext y
+wpt=.   ('name' geteletext wpt) ,. <;._1&> ','&,&.> 'coordinates' geteletext wpt
+hdr=.   ;:'phototitle longitude latitude'
 
-    NB. format gpx header 
-    gpxstamp=.   'Waypoints: ',(":#wpt),' GPX generated: ',timestamp''
-    gpxheader=.  '/{{headername}}/',dname,'/{{headerdescription}}/',gpxstamp
-    gpxheader=.  gpxheader changestr GPXFRKMLHEADER
-    gpxtrailer=. GPXTRAILER
+NB. format gpx header 
+gpxstamp=.   'Waypoints: ',(":#wpt),' GPX generated: ',timestamp''
+gpxheader=.  '/{{headername}}/',dname,'/{{headerdescription}}/',gpxstamp
+gpxheader=.  gpxheader changestr GPXFRKMLHEADER
+gpxtrailer=. GPXTRAILER
 
-    'idx pkml'=. HTMLVARBPATTERN patpartstr GPXSMUGPLACEMARK
-    rvarbs=. idx htmlvarbs pkml
+'idx pkml'=. HTMLVARBPATTERN patpartstr GPXSMUGPLACEMARK
+rvarbs=. idx htmlvarbs pkml
 
-    NB. all row varibles must exist in data header
-    assert. *./ rvarbs e. hdr
-    rows=. (#wpt) # ,: pkml
-    rows=. ((hdr i. <'phototitle'){"1 wpt) (<a:;(rvarbs i. <'phototitle'){idx)} rows
-    rows=. ((hdr i. <'latitude'){"1 wpt) (<a:;(rvarbs i. <'latitude'){idx)} rows
-    rows=. ((hdr i. <'longitude'){"1 wpt) (<a:;(rvarbs i. <'longitude'){idx)} rows
+NB. all row varibles must exist in data header
+assert. *./ rvarbs e. hdr
+rows=. (#wpt) # ,: pkml
+rows=. ((hdr i. <'phototitle'){"1 wpt) (<a:;(rvarbs i. <'phototitle'){idx)} rows
+rows=. ((hdr i. <'latitude'){"1 wpt) (<a:;(rvarbs i. <'latitude'){idx)} rows
+rows=. ((hdr i. <'longitude'){"1 wpt) (<a:;(rvarbs i. <'longitude'){idx)} rows
 
-    gpxheader,(;rows),gpxtrailer
-    )
+gpxheader,(;rows),gpxtrailer
+)
+```

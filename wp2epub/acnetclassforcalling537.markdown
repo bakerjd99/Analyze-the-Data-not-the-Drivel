@@ -58,122 +58,123 @@ Use the type checking Luke!
 The following
 [JServerTest](http://cid-f964330e36001519.skydrive.live.com/self.aspx/Public/cs/JServerTest10may27.zip)
 code snippet shows JServer calls.
+```CS
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Data;
+using JServerClass;  // add reference to JServer.exe
 
-    using System;
-    using System.Collections.Generic;
-    using System.Text;
-    using System.Data;
-    using JServerClass;  // add reference to JServer.exe
+namespace JServerTest
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			// create new j exe server - load only the j profile
+			JServer js = new JServer(JServer.JScriptType.OnlyProfile);
 
-    namespace JServerTest
-    {
-        class Program
-        {
-            static void Main(string[] args)
-            {
-                // create new j exe server - load only the j profile
-                JServer js = new JServer(JServer.JScriptType.OnlyProfile);
+			// make server visible/invisible/visible
+			js.jShowServer = true;
+			System.Threading.Thread.Sleep(200);
+			js.jShowServer = false;
+			System.Threading.Thread.Sleep(200);
+			js.jShowServer = true;
 
-                // make server visible/invisible/visible
-                js.jShowServer = true;
-                System.Threading.Thread.Sleep(200);
-                js.jShowServer = false;
-                System.Threading.Thread.Sleep(200);
-                js.jShowServer = true;
+			// do tests - create j nouns that interface can fetch
 
-                // do tests - create j nouns that interface can fetch
+			js.jDo("18!:5 ''"); // should be in base locale
 
-                js.jDo("18!:5 ''"); // should be in base locale
+			// atoms - rank 0
+			js.jDo("byteAtom=. 'A'");
+			js.jDo("boolAtom=. 1");
+			js.jDo("intAtom=. 42");
+			js.jDo("doubleAtom=. 1x1"); // e in j notation
 
-                // atoms - rank 0
-                js.jDo("byteAtom=. 'A'");
-                js.jDo("boolAtom=. 1");
-                js.jDo("intAtom=. 42");
-                js.jDo("doubleAtom=. 1x1"); // e in j notation
+			// arrays of rank 1 and 2 - higher rank arrays are not
+			// explicitly supported by the C# interface
+			js.jDo("boolArray=. ?50#2");
+			js.jDo("intArray=. 10 10$?100#10");
+			js.jDo("doubleArray=. 5 10$(?50#50) % ?50#50");
+			js.jDo("byteArray=. 20 30$'goaheadbyteme'");
+			js.jDo("stringArray=. ;:'not by the hair of my chinny chin chin'");
+			js.jDo("stringArray2=. 11 7$stringArray");
 
-                // arrays of rank 1 and 2 - higher rank arrays are not
-                // explicitly supported by the C# interface
-                js.jDo("boolArray=. ?50#2");
-                js.jDo("intArray=. 10 10$?100#10");
-                js.jDo("doubleArray=. 5 10$(?50#50) % ?50#50");
-                js.jDo("byteArray=. 20 30$'goaheadbyteme'");
-                js.jDo("stringArray=. ;:'not by the hair of my chinny chin chin'");
-                js.jDo("stringArray2=. 11 7$stringArray");
+			// get tests - fetch j nouns - get and set are C# overloads
 
-                // get tests - fetch j nouns - get and set are C# overloads
+			// rank 0 gets
+			byte byteAtom;
+			js.jGet("byteAtom", out byteAtom);
+			bool boolAtom;
+			js.jGet("boolAtom", out boolAtom);
+			int intAtom;
+			js.jGet("intAtom", out intAtom);
+			double doubleAtom;
+			js.jGet("doubleAtom", out doubleAtom);
 
-                // rank 0 gets
-                byte byteAtom;
-                js.jGet("byteAtom", out byteAtom);
-                bool boolAtom;
-                js.jGet("boolAtom", out boolAtom);
-                int intAtom;
-                js.jGet("intAtom", out intAtom);
-                double doubleAtom;
-                js.jGet("doubleAtom", out doubleAtom);
+			// rank 1 and/or 2 gets
+			bool[] boolArray;
+			js.jGet("boolArray", out boolArray);
+			int[,] intArray;
+			js.jGet("intArray", out intArray);
+			double[,] doubleArray;
+			js.jGet("doubleArray", out doubleArray);
+			byte[,] byteArray;
+			js.jGet("byteArray", out byteArray);
+			string[] stringArray;
+			js.jGet("stringArray", out stringArray);
+			string[,] stringArray2;
+			js.jGet("stringArray2", out stringArray2);
 
-                // rank 1 and/or 2 gets
-                bool[] boolArray;
-                js.jGet("boolArray", out boolArray);
-                int[,] intArray;
-                js.jGet("intArray", out intArray);
-                double[,] doubleArray;
-                js.jGet("doubleArray", out doubleArray);
-                byte[,] byteArray;
-                js.jGet("byteArray", out byteArray);
-                string[] stringArray;
-                js.jGet("stringArray", out stringArray);
-                string[,] stringArray2;
-                js.jGet("stringArray2", out stringArray2);
+			// set tests - set copies of fetched nouns in j and test
+			js.jSet("byteAtomC", byteAtom);
+			js.jDo("byteAtom -: byteAtomC");   // should be identical - result 1
+			js.jSet("boolAtomC", boolAtom);
+			js.jDo("boolAtomC -: boolAtomC");
+			js.jSet("intAtomC", intAtom);
+			js.jDo("intAtomC -: intAtom");
+			js.jSet("doubleAtomC", doubleAtom);
+			js.jDo("doubleAtomC -: doubleAtom");
 
-                // set tests - set copies of fetched nouns in j and test
-                js.jSet("byteAtomC", byteAtom);
-                js.jDo("byteAtom -: byteAtomC");   // should be identical - result 1
-                js.jSet("boolAtomC", boolAtom);
-                js.jDo("boolAtomC -: boolAtomC");
-                js.jSet("intAtomC", intAtom);
-                js.jDo("intAtomC -: intAtom");
-                js.jSet("doubleAtomC", doubleAtom);
-                js.jDo("doubleAtomC -: doubleAtom");
+			js.jSet("boolArrayC", boolArray);
+			js.jDo("boolArrayC -: boolArray");
+			js.jSet("intArrayC", intArray);
+			js.jDo("intArrayC -: intArray");
+			js.jSet("doubleArrayC", doubleArray);
+			js.jDo("doubleArrayC -: doubleArray");
+			js.jSet("byteArrayC", byteArray);
+			js.jDo("byteArrayC -: byteArray");
+			js.jSet("stringArrayC", stringArray);
+			js.jDo("stringArrayC -: stringArray");
 
-                js.jSet("boolArrayC", boolArray);
-                js.jDo("boolArrayC -: boolArray");
-                js.jSet("intArrayC", intArray);
-                js.jDo("intArrayC -: intArray");
-                js.jSet("doubleArrayC", doubleArray);
-                js.jDo("doubleArrayC -: doubleArray");
-                js.jSet("byteArrayC", byteArray);
-                js.jDo("byteArrayC -: byteArray");
-                js.jSet("stringArrayC", stringArray);
-                js.jDo("stringArrayC -: stringArray");
+			// no overload for this case - it's not
+			// as important as the rank 1 case
+			//js.jSet("stringArray2C", stringArray2);
 
-                // no overload for this case - it's not
-                // as important as the rank 1 case
-                //js.jSet("stringArray2C", stringArray2);
+			// Datatable's are supported by the interface
+			// as they can be quickly displayed and manipulated
+			// in DataGridView objects
+			DataTable dt = new DataTable();
+			dt.Clear();
 
-                // Datatable's are supported by the interface
-                // as they can be quickly displayed and manipulated
-                // in DataGridView objects
-                DataTable dt = new DataTable();
-                dt.Clear();
+			// generate test j datatable representation - the interface
+			// loads a support locale CSsrv that contains the necessary
+			// j verbs to support these representations
+			js.jDo("DTTEST=: testDataTable_CSsrv_ >:?100 10");
 
-                // generate test j datatable representation - the interface
-                // loads a support locale CSsrv that contains the necessary
-                // j verbs to support these representations
-                js.jDo("DTTEST=: testDataTable_CSsrv_ >:?100 10");
+			// get the datatable
+			dt = js.jGet("DTTEST");
 
-                // get the datatable
-                dt = js.jGet("DTTEST");
+			// set a copy of the datatable back in j and test equivalence
+			// slight differences in floating number character formats
+			// are reconciled with (testDataTableMatch)
+			js.jSet("DTTESTC", dt);
+			js.jDo("DTTESTC testDataTableMatch_CSsrv_ DTTEST");
 
-                // set a copy of the datatable back in j and test equivalence
-                // slight differences in floating number character formats
-                // are reconciled with (testDataTableMatch)
-                js.jSet("DTTESTC", dt);
-                js.jDo("DTTESTC testDataTableMatch_CSsrv_ DTTEST");
-
-                // wait five seconds before shutting
-                // down so user can view the j exe server
-                System.Threading.Thread.Sleep(5000);
-            }
-        }
-    }
+			// wait five seconds before shutting
+			// down so user can view the j exe server
+			System.Threading.Thread.Sleep(5000);
+		}
+	}
+}
+```

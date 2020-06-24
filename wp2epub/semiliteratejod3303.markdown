@@ -38,24 +38,26 @@ options. JOD directly supports simple J
 leading comment block formatting. For example many of my J verbs start
 with a comment block like:
 
-    betweenstrs=:4 : 0
-    
-    NB.*betweenstrs v-- select sublists between  nonnested delimiters
-    NB. discarding delimiters.
-    NB.
-    NB. dyad:  blcl =. (clStart;clEnd) betweenstrs cl
-    NB.        blnl =. (nlStart;nlEnd) betweenstrs nl
-    NB.
-    NB.   ('start';'end') betweenstrs 'start yada yada end boo hoo start ahh end'
-    NB.
-    NB.   NB. also applies to numeric delimiters
-    NB.   (1 1;2 2) betweenstrs 1 1 66 666 2 2 7 87 1 1 0 2 2
-    
-    's e'=. x
-    llst=. ((-#s) (|.!.0) s E. y) +. e E. y
-    mask=. ~:/\ llst
-    (mask#llst) <;.1 mask#y
-    )
+```J
+betweenstrs=:4 : 0
+
+NB.*betweenstrs v-- select sublists between  nonnested delimiters
+NB. discarding delimiters.
+NB.
+NB. dyad:  blcl =. (clStart;clEnd) betweenstrs cl
+NB.        blnl =. (nlStart;nlEnd) betweenstrs nl
+NB.
+NB.   ('start';'end') betweenstrs 'start yada yada end boo hoo start ahh end'
+NB.
+NB.   NB. also applies to numeric delimiters
+NB.   (1 1;2 2) betweenstrs 1 1 66 666 2 2 7 87 1 1 0 2 2
+
+'s e'=. x
+llst=. ((-#s) (|.!.0) s E. y) +. e E. y
+mask=. ~:/\ llst
+(mask#llst) <;.1 mask#y
+)
+```
 
 Even if you can’t spell J I bet you have a good idea about what this
 “program” does and, if you doubt my claims, I’ve left you with some
@@ -64,13 +66,15 @@ may [be for losers](http://php.dzone.com/news/comments-are-losers-2) but
 telling comments, especially example laden ones, really help! And, if
 you really find comments distracting, JOD has a deal for you!
 
-       ;1{compj 'betweenstrs'
-    betweenstrs=:4 :0
-    's e'=.x
-    a=.((-#s )(|.!.0)s E.y)+.e E.y
-    b=.~:/\a
-    (b#a)<;.1 b#y
-    )
+```J
+   ;1{compj 'betweenstrs'
+betweenstrs=:4 :0
+'s e'=.x
+a=.((-#s )(|.!.0)s E.y)+.e E.y
+b=.~:/\a
+(b#a)<;.1 b#y
+)
+```
 
 `compj` purges pesky comments and reduces tedious long identifiers like
 `mask` to pure compact J. Getting rid of comments is trivial, putting

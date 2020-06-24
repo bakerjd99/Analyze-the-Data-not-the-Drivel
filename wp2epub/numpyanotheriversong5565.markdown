@@ -115,8 +115,8 @@ that profiting from them. I suspect he would be flattered that APL has
 mutated and colonized strange new worlds and I think even zealous
 Pythonistas will agree that Python is a delightfully strange world.
 
-Some Numpy and J examples {#some-numpy-and-j-examples .unnumbered}
--------------------------
+**Some Numpy and J examples** 
+
 
 Selected Examples from
 <https://docs.scipy.org/doc/numpy-dev/user/quickstart.html> Output has
@@ -124,141 +124,201 @@ been suppressed here. For a more detailed look at these examples browse
 the Jupyter notebook:  [NumPy and J Make Sweet Array
 Love](https://github.com/bakerjd99/jacks/blob/master/numpyjlove/NumPy%20and%20J%20make%20Sweet%20Array%20Love.ipynb).
 
-Creating simple arrays {#creating-simple-arrays .unnumbered}
-----------------------
+**Creating simple arrays** 
 
-      # numpy
-      a = np.arange(15).reshape(3, 5)
-        
-      NB. J 
-      a =. 3 5 $ i. 15
+```PYTHON
+# numpy
+a = np.arange(15).reshape(3, 5)
+```
 
-      # numpy 
-      a = np.array([2,3,4]) 
-       
-      NB. J 
-      a =. 2 3 4  
-      
-      # numpy 
-      b = np.array([(1.5,2,3), (4,5,6)]) 
-       
-      NB. J 
-      b =. 1.5 2 3 ,: 4 5 6
+```J
+NB. J 
+a =. 3 5 $ i. 15
+```
 
-      # numpy 
-      c = np.array( [ [1,2], [3,4] ], dtype=complex ) 
-      
-      NB. J 
-      j. 1 2 ,: 3 4  
-      
-      # numpy 
-      np.zeros( (3,4) )  
-      
-      NB. J 
-      3 4 $ 0  
-      
-      # numpy - allocates array with whatever is in memory 
-      np.empty( (2,3) )  
-      
-      NB. J - uses fill - safer but slower than numpy's trust memory method 
-      2 3 $ 0.0001 
+```PYTHON
+# numpy 
+a = np.array([2,3,4])
+```
 
-Basic operations {#basic-operations .unnumbered}
-----------------
+```J
+NB. J 
+a =. 2 3 4
+```
 
-      # numpy 
-      a = np.array( [20,30,40,50] ) 
-      b = np.arange( 4 ) 
-      c = a - b  
-      
-      NB. J 
-      a =. 20 30 40 50 
-      b =. i. 4 
-      c =. a - b  
-      
-      # numpy - uses previously defined (b) 
-      b ** 2  
-      
-      NB. J 
-      b ^ 2
+```PYTHON
+# numpy 
+b = np.array([(1.5,2,3), (4,5,6)])
+```
 
-      # numpy - uses previously defined (a) 
-      10 * np.sin(a)  
-      
-      NB. J 
-      10 * 1 o. a  
-      
-      # numpy - booleans are True and False 
-      a < 35  
-      
-      NB. J - booleans are 1 and 0 
-      a < 35
+```J
+NB. J 
+b =. 1.5 2 3 ,: 4 5 6
+```
 
-Array processing {#array-processing .unnumbered}
-----------------
+```PYTHON
+# numpy 
+c = np.array( [ [1,2], [3,4] ], dtype=complex ) 
+```
 
-      # numpy 
-      a = np.array( [[1,1], [0,1]] ) 
-      b = np.array( [[2,0], [3,4]] ) 
-      # elementwise product 
-      a * b
+```J
+NB. J 
+j. 1 2 ,: 3 4 
+``` 
 
-      NB. J 
-      a =. 1 1 ,: 0 1 
-      b =. 2 0 ,: 3 4 
-      a * b
+```PYTHON
+# numpy 
+np.zeros( (3,4) )  
+```
 
-      # numpy - matrix product 
-      np.dot(a, b)
+```J
+NB. J 
+3 4 $ 0  
+```
 
-      NB. J - matrix product 
-      a +/ . * b    
-      
-      # numpy - uniform pseudo random 
-      a = np.random.random( (2,3) )  
-      
-      NB. J - uniform pseudo random 
-      a =. ? 2 3 $ 0  
-      
-      # numpy - sum all array elements - implicit ravel 
-      a.sum(a)  
-      
-      NB. J - sum all array elements - explicit ravel 
-      +/ , a  
-      
-      # numpy 
-      b = np.arange(12).reshape(3,4) 
-      # sum of each column 
-      b.sum(axis=0) 
-      # min of each row 
-      b.min(axis=1) 
-      # cumulative sum along each row 
-      b.cumsum(axis=1) 
-      # transpose 
-      b.T     
+```PYTHON
+# numpy - allocates array with whatever is in memory 
+np.empty( (2,3) )  
+```
 
-      NB. J  
-      b =. 3 4 $ i. 12 
-      NB. sum of each column 
-      +/ b 
-      NB. min of each row 
-      <./"1 b 
-      NB. cumulative sum along each row 
-      +/\"0 1 b 
-      NB. transpose 
-      |: b
+```J
+NB. J - uses fill - safer but slower than numpy's trust memory method 
+2 3 $ 0.0001 
+```
 
-Indexing and slicing {#indexing-and-slicing .unnumbered}
---------------------
+**Basic operations** 
 
-      # numpy  
-      a = np.arange(10) ** 3  
-      a[2] 
-      a[2:5] 
-      a[ : :-1]   # reversal
+```PYTHON
+# numpy 
+a = np.array( [20,30,40,50] ) 
+b = np.arange( 4 ) 
+c = a - b  
+```
 
-      NB. J 
-      a =. (i. 10) ^ 3 
-      2 { a 
-      (2 + i. 3) { 
-      a |. a
+```J
+NB. J 
+a =. 20 30 40 50 
+b =. i. 4 
+c =. a - b  
+```
+
+```PYTHON
+# numpy - uses previously defined (b) 
+b ** 2  
+```
+
+```J
+NB. J 
+b ^ 2
+```
+
+```PYTHON
+# numpy - uses previously defined (a) 
+10 * np.sin(a)  
+```
+
+```J
+NB. J 
+10 * 1 o. a  
+```
+
+```PYTHON
+# numpy - booleans are True and False 
+a < 35  
+```
+
+```J
+NB. J - booleans are 1 and 0 
+a < 35
+```
+
+**Array processing** 
+
+```PYTHON
+# numpy 
+a = np.array( [[1,1], [0,1]] ) 
+b = np.array( [[2,0], [3,4]] ) 
+# elementwise product 
+a * b
+```
+
+```J
+NB. J 
+a =. 1 1 ,: 0 1 
+b =. 2 0 ,: 3 4 
+a * b
+```
+
+```PYTHON
+# numpy - matrix product 
+np.dot(a, b)
+```
+
+```J
+NB. J - matrix product 
+a +/ . * b   
+``` 
+
+```PYTHON
+# numpy - uniform pseudo random 
+a = np.random.random( (2,3) )
+```  
+
+```J
+NB. J - uniform pseudo random 
+a =. ? 2 3 $ 0  
+```
+
+```PYTHON
+# numpy - sum all array elements - implicit ravel 
+a.sum(a)  
+```
+
+```J
+NB. J - sum all array elements - explicit ravel 
++/ , a  
+```
+
+```PYTHON
+# numpy 
+b = np.arange(12).reshape(3,4) 
+# sum of each column 
+b.sum(axis=0) 
+# min of each row 
+b.min(axis=1) 
+# cumulative sum along each row 
+b.cumsum(axis=1) 
+# transpose 
+b.T  
+```   
+
+```J
+NB. J  
+b =. 3 4 $ i. 12 
+NB. sum of each column 
++/ b 
+NB. min of each row 
+<./"1 b 
+NB. cumulative sum along each row 
++/\"0 1 b 
+NB. transpose 
+|: b
+```
+
+**Indexing and slicing** 
+
+```PYTHON
+# numpy  
+a = np.arange(10) ** 3  
+a[2] 
+a[2:5] 
+a[ : :-1]   # reversal
+```
+
+```J
+NB. J 
+a =. (i. 10) ^ 3 
+2 { a 
+(2 + i. 3) { 
+a |. a
+```

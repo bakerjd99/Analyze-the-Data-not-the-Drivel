@@ -39,55 +39,57 @@ DPI](http://www.rideau-info.com/photos/mythdpi.html), print size keys
 like: 4x6, 5x7 and 8x10. After assigning print size keys you can select
 and print all standard sizes with a few mouse clicks.
 
-    smugprintsizes=:3 : 0
+```J
+smugprintsizes=:3 : 0
 
-    NB.*smugprintsizes v-- compute largest print size for given dpi.
-    NB.
-    NB. Computes the  largest  print size  (relative  to  DPI x)  for
-    NB. SmugMug images. Only images that have aspect ratios  close to
-    NB. the ratios  on  (SMUGPRINTSIZES) are associated  with a print
-    NB. size.
-    NB.
-    NB. monad:  st=. smugprintsizes btclImages
-    NB.
-    NB.   'albums images'=. readsmugtables 0
-    NB.   smugprintsizes images
-    NB.
-    NB. dyad:  st=. iaDpi smugprintsizes btclImages
-    NB.
-    NB.   200 smugprintsizes images
+NB.*smugprintsizes v-- compute largest print size for given dpi.
+NB.
+NB. Computes the  largest  print size  (relative  to  DPI x)  for
+NB. SmugMug images. Only images that have aspect ratios  close to
+NB. the ratios  on  (SMUGPRINTSIZES) are associated  with a print
+NB. size.
+NB.
+NB. monad:  st=. smugprintsizes btclImages
+NB.
+NB.   'albums images'=. readsmugtables 0
+NB.   smugprintsizes images
+NB.
+NB. dyad:  st=. iaDpi smugprintsizes btclImages
+NB.
+NB.   200 smugprintsizes images
 
-    SMUGPRINTDPI smugprintsizes y
-    :
-    nsym=.s:<''
+SMUGPRINTDPI smugprintsizes y
+:
+nsym=.s:<''
 
-    NB. reduce image table on PID
-    images=. }. y [ imhead=. 0 { y
-    pidpos=. imhead i. <'PID'
-    if. 0=#images=. images #~ ~:pidpos {"1 images do. 0 2$nsym return.end.
+NB. reduce image table on PID
+images=. }. y [ imhead=. 0 { y
+pidpos=. imhead i. <'PID'
+if. 0=#images=. images #~ ~:pidpos {"1 images do. 0 2$nsym return.end.
 
-    NB. compute print sizes table
-    pst=. printsizestable SMUGPRINTSIZES
+NB. compute print sizes table
+pst=. printsizestable SMUGPRINTSIZES
 
-    NB. image dimensions short x long
-    idims=. _1&".&> (imhead i. ;:'WIDTH HEIGHT') {"1 images
-    'invalid image dimensions' assert -. _1 e. idims
-    idims=. (/:"1 idims) {"1 idims
+NB. image dimensions short x long
+idims=. _1&".&> (imhead i. ;:'WIDTH HEIGHT') {"1 images
+'invalid image dimensions' assert -. _1 e. idims
+idims=. (/:"1 idims) {"1 idims
 
-    NB. aspect ratio and print area (square inches)
-    ratios=. SMUGASPECTROUND round %/"1 idims
-    areas=.  SMUGAREAROUND round (*/"1 idims) % *: x
+NB. aspect ratio and print area (square inches)
+ratios=. SMUGASPECTROUND round %/"1 idims
+areas=.  SMUGAREAROUND round (*/"1 idims) % *: x
 
-    NB. mask table selecting images with ratio
-    masks=. (SMUGASPECTROUND round ;0 {"1 pst) =/ ratios
-    if. -.1 e. ,masks do. 0 2$nsym return.end.
+NB. mask table selecting images with ratio
+masks=. (SMUGASPECTROUND round ;0 {"1 pst) =/ ratios
+if. -.1 e. ,masks do. 0 2$nsym return.end.
 
-    masks=. <"1 masks
-    pids=.  s:&.> masks #&.> <pidpos {"1 images
+masks=. <"1 masks
+pids=.  s:&.> masks #&.> <pidpos {"1 images
 
-    NB. largest print area for selected images at current DPI
-    masks=. (1 {"1 pst) </&.> masks #&.> <areas
-    pids=.  (<"1&.> masks #"1 &.> pids) -. L: 0 nsym
-    sizes=.  <"0&.> 2 {"1 pst
-    ; |:&.> ; pids ,: L: 0 (# L: 0 pids) # L: 0 sizes
-    )
+NB. largest print area for selected images at current DPI
+masks=. (1 {"1 pst) </&.> masks #&.> <areas
+pids=.  (<"1&.> masks #"1 &.> pids) -. L: 0 nsym
+sizes=.  <"0&.> 2 {"1 pst
+; |:&.> ; pids ,: L: 0 (# L: 0 pids) # L: 0 sizes
+)
+```
