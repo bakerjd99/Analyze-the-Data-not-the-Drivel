@@ -195,30 +195,32 @@ is. This is all you have to do to execute `RunTheNumbers`
 
 The code is simple and shows what’s going on.
 
-    RunTheNumbers=:3 : 0
+```J
+RunTheNumbers=:3 : 0
 
-    NB.*RunTheNumbers v-- compute all scenarios on list (y).
-    NB.
-    NB. monad:  blclFiles =. RunTheNumbers ilScenarios
-    NB.
-    NB.   RunTheNumbers 0 1 2 3 4
+NB.*RunTheNumbers v-- compute all scenarios on list (y).
+NB.
+NB. monad:  blclFiles =. RunTheNumbers ilScenarios
+NB.
+NB.   RunTheNumbers 0 1 2 3 4
 
-    NB. parameters sheet is the last config sheet
-    ModelConfiguration_Swag_=:MainConfiguration_Swag_
-    parms=. ".;{:LoadConfig 0
-    scfx=. ScenarioPrefix
+NB. parameters sheet is the last config sheet
+ModelConfiguration_Swag_=:MainConfiguration_Swag_
+parms=. ".;{:LoadConfig 0
+scfx=. ScenarioPrefix
 
-    ac=. toHOST fmttd ActualSheet 0
-    ac write TABSheetPath,'MainActuals',SheetExt
+ac=. toHOST fmttd ActualSheet 0
+ac write TABSheetPath,'MainActuals',SheetExt
 
-    sf=. 0$a:
-    for_sn. y do.
-      ac write TABSheetPath,scfx,(":sn),'Actuals',SheetExt
-      sf=. sf , parms Swag sn [ LoadSheets sn
-    end.
+sf=. 0$a:
+for_sn. y do.
+    ac write TABSheetPath,scfx,(":sn),'Actuals',SheetExt
+    sf=. sf , parms Swag sn [ LoadSheets sn
+end.
 
-    sf 
-    )
+sf 
+)
+```
 
 `RunTheNumbers` writes a pair of TAB delimited forecast and statistics
 files for each scenario it evaluates.

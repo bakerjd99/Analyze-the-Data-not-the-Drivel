@@ -35,6 +35,8 @@ between organisms are shown on "tree of life" diagrams program
 relationships are displayed on repository branch diagrams. Complex
 programs have pedigrees that look like *inbred* royal family trees.
 
+[Image link: Inbred Royal Family Trees](https://bakerjd99.files.wordpress.com/2020/06/git-royal-inbreeding.jpg)
+
 If you look closely at the left side of the next diagram you'll notice
 that the line of green dots beside the inbreeding graphic is labeled
 **"master"**.

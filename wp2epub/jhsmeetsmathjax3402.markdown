@@ -65,19 +65,21 @@ sentences where each sentence yields valid HTML when executed. JHS
 generates a simple web page from `HBS` and returns it to the browser.
 `MathJaxDemo` `HBS` is:
 
-    HBS=: 0 : 0
-     navul''           
-     '<hr>','treset' jhb 'Reset'
+```J
+HBS=: 0 : 0
+    navul''           
+    '<hr>','treset' jhb 'Reset'
 
-     '<hr>',jhh1 'Typeset with MathJax and J'
-     configjax
-     oltypeset''
-            
-     '<hr>',jhh1 'Typeset Random Expression Tables'
-     tabledesc
-     '<br/>','ttable' jhb'Typeset Random Expression Array' 
-     '<br/>','restable' jhspan''        
-     )
+    '<hr>',jhh1 'Typeset with MathJax and J'
+    configjax
+    oltypeset''
+        
+    '<hr>',jhh1 'Typeset Random Expression Tables'
+    tabledesc
+    '<br/>','ttable' jhb'Typeset Random Expression Array' 
+    '<br/>','restable' jhspan''        
+)
+```
 
 `CSS` is exactly what you expect: CSS style definitions. Finally, `JS`
 is application specific JavaScript. `MathJaxDemo` `JS` matches `HBS`
@@ -85,31 +87,34 @@ page events with corresponding JHS server handlers. This demo uses
 [ajax](https://code.google.com/edu/ajax/tutorials/ajax-tutorial.html) for
 all event handlers.
 
-    JS=: 0 : 0
+```J
+JS=: 0 : 0
 
-     function ev_ttable_click(){jdoajax([],"");}
-     function ev_tquad_click(){jdoajax([],"");}
-     function ev_tmaxwell_click(){jdoajax([],"");}
-     function ev_tramaujan_click(){jdoajax([],"");}
-     function ev_tcrossprod_click(){jdoajax([],"");}
-     function ev_treset_click(){jdoajax([],"");}
+    function ev_ttable_click(){jdoajax([],"");}
+    function ev_tquad_click(){jdoajax([],"");}
+    function ev_tmaxwell_click(){jdoajax([],"");}
+    function ev_tramaujan_click(){jdoajax([],"");}
+    function ev_tcrossprod_click(){jdoajax([],"");}
+    function ev_treset_click(){jdoajax([],"");}
 
-     function ev_ttable_click_ajax(ts){jbyid("restable").innerHTML=ts[0]; 
-                    MathJax.Hub.Typeset();}
-     function ev_tquad_click_ajax(ts){jbyid("resquad").innerHTML=ts[0]; 
-                    MathJax.Hub.Typeset();}
-     function ev_tmaxwell_click_ajax(ts){jbyid("resmaxwell").innerHTML=ts[0];
-                    MathJax.Hub.Typeset();}
-     function ev_tramaujan_click_ajax(ts){jbyid("resramaujan").innerHTML=ts[0];
-                    MathJax.Hub.Typeset();}
-     function ev_tcrossprod_click_ajax(ts){jbyid("rescrossprod").innerHTML=ts[0]; 
-                    MathJax.Hub.Typeset();}
+    function ev_ttable_click_ajax(ts){jbyid("restable").innerHTML=ts[0]; 
+                MathJax.Hub.Typeset();}
+    function ev_tquad_click_ajax(ts){jbyid("resquad").innerHTML=ts[0]; 
+                MathJax.Hub.Typeset();}
+    function ev_tmaxwell_click_ajax(ts){jbyid("resmaxwell").innerHTML=ts[0];
+                MathJax.Hub.Typeset();}
+    function ev_tramaujan_click_ajax(ts){jbyid("resramaujan").innerHTML=ts[0];
+                MathJax.Hub.Typeset();}
+    function ev_tcrossprod_click_ajax(ts){jbyid("rescrossprod").innerHTML=ts[0]; 
+                MathJax.Hub.Typeset();}
 
-     function ev_treset_click_ajax(ts){
-       jbyid("restable").innerHTML=ts[0]; jbyid("resquad").innerHTML=ts[0];
-       jbyid("resmaxwell").innerHTML=ts[0]; jbyid("resramaujan").innerHTML=ts[0];
-       jbyid("rescrossprod").innerHTML=ts[0];
-     }
+    function ev_treset_click_ajax(ts){
+    jbyid("restable").innerHTML=ts[0]; jbyid("resquad").innerHTML=ts[0];
+    jbyid("resmaxwell").innerHTML=ts[0]; jbyid("resramaujan").innerHTML=ts[0];
+    jbyid("rescrossprod").innerHTML=ts[0];
+    }
+)
+```
 
 Running the JHS `MathJaxDemo` is a simple matter of:
 

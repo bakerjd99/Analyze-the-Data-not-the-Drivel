@@ -56,7 +56,9 @@ blocks like:
 
 and issuing shell commands like:
 
-        pandoc --highlight-style tango --metadata title="J test" -s jpdh.md -o jpdh.html
+```BASH
+pandoc --highlight-style tango --metadata title="J test" -s jpdh.md -o jpdh.html
+```
 
 The previous command generated the HTML of this post which I pasted into
 the WordPress.com *Classic Editor.* Not only do I get J code

@@ -97,18 +97,20 @@ volume websites geared towards BHSD staff and service providers. When I
 first ran the following SQL query on the database that backs many
 Falling Colors websites I was alarmed at the results.
 
-    SELECT  iq.WeekNumber ,
-            AVG(iq.ErrorCount) AS AvgWeekErrors ,
-            MIN(iq.ErrorCount) MinWeekErrors ,
-            MAX(iq.ErrorCount) AS MaxWeekErrors ,
-            STDEV(iq.ErrorCount) AS StdDevWeekErrors
-    FROM    ( SELECT    CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER) AS DayNumber ,
-                        COUNT(1) AS ErrorCount ,
-                        MIN(DATEPART(iso_week, TimeUtc)) AS WeekNumber
-              FROM      dbo.ELMAH_Error
-              GROUP BY  CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER)
-            ) iq
-    GROUP BY iq.WeekNumber
+```SQL
+SELECT  iq.WeekNumber ,
+        AVG(iq.ErrorCount) AS AvgWeekErrors ,
+        MIN(iq.ErrorCount) MinWeekErrors ,
+        MAX(iq.ErrorCount) AS MaxWeekErrors ,
+        STDEV(iq.ErrorCount) AS StdDevWeekErrors
+FROM    ( SELECT    CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER) AS DayNumber ,
+                    COUNT(1) AS ErrorCount ,
+                    MIN(DATEPART(iso_week, TimeUtc)) AS WeekNumber
+            FROM      dbo.ELMAH_Error
+            GROUP BY  CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER)
+        ) iq
+GROUP BY iq.WeekNumber
+```
 
 Falling Colors websites were crashing about twenty times per day. On
 some days the crash count exceeded fifty. I thought to myself, “If this

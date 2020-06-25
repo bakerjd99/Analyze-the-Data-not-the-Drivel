@@ -26,9 +26,9 @@ I have encountered. I have this thing about EXIF data; it annoys me when
 software massacres it. Here’s a little poem:
 
 ----------------------------
-*Exterminate EXIF - **NOT***\
-*Let it be*\
-*Set your fricking EXIF free*\
+*Exterminate EXIF - **NOT***
+*Let it be*
+*Set your fricking EXIF free*
 ***Alas, with Instagram, it’s not to be!***
 ----------------------------
 

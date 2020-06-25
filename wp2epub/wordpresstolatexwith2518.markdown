@@ -101,33 +101,37 @@ Run the verb `LatexFrWordpress`. The monadic version of this verb takes
 a single argument: the complete path and file name of the export XML
 file you downloaded in step (1).
 
-    xml=: 'c:/pd/blog/wordpress/analyzethedatanotthedrivel.wordpress.xml'
+```J
+  xml=: 'c:/pd/blog/wordpress/analyzethedatanotthedrivel.wordpress.xml'
 
-    LatexFrWordpress xml
+  LatexFrWordpress xml
+```
 
 As the verb runs you will see output like:
 
-       LatexFrWordpress xml
-    What's In it for Facebook?
-    downloading: c:/pd/blog/wp2latex/inclusions/demotivational-posters-facebook-you.jpg
-    1 downloaded; 0 not downloaded; 0 skipped
-    Fake Programming
-    downloading: c:/pd/blog/wp2latex/inclusions/672169130_vajvn-M.png
-    1 downloaded; 0 not downloaded; 0 skipped
-    Laws or Suggestions
-    downloading: c:/pd/blog/wp2latex/inclusions/i-B5mfdRF-M.jpg
-    1 downloaded; 0 not downloaded; 0 skipped
-    Lens Lust
+```J
+      LatexFrWordpress xml
+  What's In it for Facebook?
+  downloading: c:/pd/blog/wp2latex/inclusions/demotivational-posters-facebook-you.jpg
+  1 downloaded; 0 not downloaded; 0 skipped
+  Fake Programming
+  downloading: c:/pd/blog/wp2latex/inclusions/672169130_vajvn-M.png
+  1 downloaded; 0 not downloaded; 0 skipped
+  Laws or Suggestions
+  downloading: c:/pd/blog/wp2latex/inclusions/i-B5mfdRF-M.jpg
+  1 downloaded; 0 not downloaded; 0 skipped
+  Lens Lust
 
-    ... many lines omitted ...
+  ... many lines omitted ...
 
-    downloading: c:/pd/blog/wp2latex/inclusions/i-mNK4RHL-M.png
-    1 downloaded; 0 not downloaded; 0 skipped
-    WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)
-    0 downloaded; 0 not downloaded; 1 skipped
-    +-++
-    |1||
-    +-++
+  downloading: c:/pd/blog/wp2latex/inclusions/i-mNK4RHL-M.png
+  1 downloaded; 0 not downloaded; 0 skipped
+  WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)
+  0 downloaded; 0 not downloaded; 1 skipped
+  +-++
+  |1||
+  +-++
+```
 
 When the verb terminates you should have a directory
 `c:/pd/blog/wp2latex` full of `*.tex` files: one file for each blog

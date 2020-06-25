@@ -95,13 +95,12 @@ files sidebar in the `WordPress to LaTeX` directory.
 
 Start a J session and enter the following commands:
 
-    require 'task'
-
-    shell  'wget --help'
-
-    site=. 'https://conceptcontrol.smugmug.com/photos/'
-
-    shell  'wget ',site,'i-mNK4RHL/0/L/i-mNK4RHL-L.png'
+```J
+require 'task'
+shell  'wget --help'
+site=. 'https://conceptcontrol.smugmug.com/photos/'
+shell  'wget ',site,'i-mNK4RHL/0/L/i-mNK4RHL-L.png'
+```
 
 If the shell command is properly loaded and `wget.exe` is found you will
 see help text. The second shell command downloads an image file.
