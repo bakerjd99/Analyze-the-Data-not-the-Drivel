@@ -1,5 +1,5 @@
-[I lose another battle with
-Gravity](http://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/)
+ 
+[I lose another battle with Gravity](https://bakerjd99.wordpress.com/2011/11/09/i-lose-another-battle-with-gravity/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Nov 2011 17:08:05*
@@ -31,12 +31,12 @@ EMT guys arrived, strapped me up to an electrocardiogram, started an IV
 and then hauled my ass over to Saint Luke’s where I am almost on first
 name basis with the staff. One of the nurses said, “I remember you,
 weren’t you [the guy that tore his
-quadriceps](http://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)?”
+quadriceps](https://bakerjd99.wordpress.com/2011/02/25/a-walk-in-the-park/)?”
 I enjoy being recognized if only it was somewhere other than emergency.
 Emergency staff plugged me into electric doo-dads, drew my blood,
 measured my oxygen levels measured and shined lights into my eyes. An
 earnest and very nice resident carefully interviewed me and declared I
 had experienced a [syncopal
-episode](http://www.medicineonline.com/topics/S/2/Syncopal-Episode/Fainting.html).
+episode](https://www.medicineonline.com/topics/S/2/Syncopal-Episode/Fainting.html).
 Google it, it doesn’t sound good, I may be a dead man walking or I could
 have just overdone it at the gym. Time will certainly tell.

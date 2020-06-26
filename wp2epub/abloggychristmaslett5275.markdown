@@ -1,6 +1,5 @@
-
-[A Bloggy 
-Christmas Letter](http://analyzethedatanotthedrivel.org/2016/12/25/a-bloggy-christmas-letter/)
+ 
+[A Bloggy Christmas Letter](https://analyzethedatanotthedrivel.org/2016/12/25/a-bloggy-christmas-letter/)
 ----------------------------------------------------------------------------------------------
 
 *Posted: 25 Dec 2016 21:18:40*

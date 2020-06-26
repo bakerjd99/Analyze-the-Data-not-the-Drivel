@@ -1,13 +1,13 @@
-[This Herodotus is a
-Hoot!](http://bakerjd99.wordpress.com/2010/07/11/this-herodotus-is-a-hoot/)
+ 
+[This Herodotus is a Hoot!](https://bakerjd99.wordpress.com/2010/07/11/this-herodotus-is-a-hoot/)
 ------------------------------------------------------------------------------------------------
 
 *Posted: 11 Jul 2010 15:00:09*
 
 Yesterday, while driving to the mall with my wife, I launched into a
 lecture on why the
-[iPad](http://news.cnet.com/8301-17852\_3-20004899-71.html) and it’s
-[Kindle’ly](http://www.amazon.com/Kindle-Wireless-Reading-Display-Globally/dp/B0015T963C)
+[iPad](https://news.cnet.com/8301-17852\_3-20004899-71.html) and it’s
+[Kindle’ly](https://www.amazon.com/Kindle-Wireless-Reading-Display-Globally/dp/B0015T963C)
 kindred will never replace books. As you are reading this on a 21st
 century blog you can infer that I am not a technophobic Luddite. Devices
 like the Kindle are another way to read and for many purposes,
@@ -15,16 +15,16 @@ like the Kindle are another way to read and for many purposes,
 But, *and this is one big butt-ugly but*, when it comes to the book as a
 *objet d’art* the iPad is to a book like a bumper sticker is to the
 [Sistine
-Chapel.](http://www.wga.hu/frames-e.html?/html/m/michelan/3sistina/)
+Chapel.](https://www.wga.hu/frames-e.html?/html/m/michelan/3sistina/)
 
 If you don’t see this I feel sorry for you; you have never read a *real*
 book. It’s not your fault, publishing, like everything in this sad sorry
 world, is subject to [Sturgeon’s
-Law](http://en.wikipedia.org/wiki/Sturgeon's\_Law): “Ninety percent of
+Law](https://en.wikipedia.org/wiki/Sturgeon's\_Law): “Ninety percent of
 everything is crap!” Most of the books you find on the shelves of
 big-box book stores are essentially paper turds — the more current the
 topic, the more *Oprah’ey* the content, the greater the likelihood of
-[turdhood.](http://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773)
+[turdhood.](https://www.amazon.com/Dreams-My-Father-Story-Inheritance/dp/1400082773)
 Paper turds can be great books. In fact there is a thriving niche
 industry that specializes in reissuing great classics as low-cost paper
 turds. Here *the medium is definitely not the message.*
@@ -32,7 +32,7 @@ turds. Here *the medium is definitely not the message.*
 Most of the time we are drowning in a sea of paper turds but every now
 and then a book appears that literally restores your faith in mankind:
 *[The Landmark
-Herodotus](http://www.amazon.com/Landmark-Herodotus-Histories/dp/0375421092)*
+Herodotus](https://www.amazon.com/Landmark-Herodotus-Histories/dp/0375421092)*
 is such a book. The instant I opened the cover I knew I was dealing with
 something special. Book design is a subtle art, when executed at the
 highest level on the best source material it can produce jaw-dropping
@@ -43,9 +43,9 @@ that simultaneously elucidate the original *and stay out-of-the-way.* I
 was completely taken by the end of the front matter.
 
 My reactions are hardly unique. [Panagiotis
-Polichronakis](http://www.openlettersmonthly.com/december-landfall/)
+Polichronakis](https://www.openlettersmonthly.com/december-landfall/)
 wrote in his [we are not
-worthy](http://www.youtube.com/watch?v=-FucbvoFFy0) review:
+worthy](https://www.youtube.com/watch?v=-FucbvoFFy0) review:
 
 > *It’s a rude thing, the march of history. It disabuses us, and we must
 > gracefully acquiesce. Every single aspect of The Landmark Herodotus –
@@ -67,13 +67,13 @@ Being the kingly king he was Astyages resolved to off any of his
 daughter’s offspring. In time Mandane, Astyages daughter, bore a son
 named Cyrus. Astyages charged his right hand man Harpagos with the task
 of terminating Cyrus. Harpagos wanted to obey his king but he [wussed
-out](http://en.wiktionary.org/wiki/wuss\_out) when he saw Cyrus’s cute
+out](https://en.wiktionary.org/wiki/wuss\_out) when he saw Cyrus’s cute
 little innocent baby eyes. He couldn’t kill Cyrus so he did what all
 government bureaucrats do when faced with a tough choice: he delegated.
 Harpagos gave Cyrus to the herdsman Mitradates and told him to expose
 the child and bring back the body so he could be sure the kid was kaput.
 Mitradates knew he was
-[Median](http://www.iranchamber.com/history/median/median.php) toast if
+[Median](https://www.iranchamber.com/history/median/median.php) toast if
 he didn’t obey. He took Cyrus home to his pregnant wife and told her we
 are so screwed if we don’t kill Cyrus. Fortunately for Mitradates, his
 wife and Cyrus she had given birth while Mitradates was away.
@@ -97,10 +97,10 @@ his son.
 
 Stop me if you have heard this family diner story before. Shakespeare
 severed up a version in [Titus
-Andronicus](http://shakespeare.mit.edu/titus/full.html), South Park took
+Andronicus](https://shakespeare.mit.edu/titus/full.html), South Park took
 a stab at it with [Scott Tenorman Must
-Die](http://www.southparkstudios.com/guide/501) and [Jeffery
-Dahmer](http://en.wikipedia.org/wiki/Jeffrey\_Dahmer) seems to have
+Die](https://www.southparkstudios.com/guide/501) and [Jeffery
+Dahmer](https://en.wikipedia.org/wiki/Jeffrey\_Dahmer) seems to have
 confused this story with a recipe but, no matter how you like your
 history served, *The Landmark Herodotus is a magnificent hooting feast
 of a book.*

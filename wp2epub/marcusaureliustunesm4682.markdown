@@ -1,25 +1,24 @@
-
-[Marcus Aurelius
-tunes my RSS Feeds](http://bakerjd99.wordpress.com/2014/05/10/marcus-aurelius-tunes-my-rss-feeds/)
+ 
+[Marcus Aurelius tunes my RSS Feeds](https://bakerjd99.wordpress.com/2014/05/10/marcus-aurelius-tunes-my-rss-feeds/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 10 May 2014 16:08:13*
 
 [The Emperor’s
-Handbook](http://www.amazon.com/The-Emperors-Handbook-Translation-Meditations/dp/0743233832)
+Handbook](https://www.amazon.com/The-Emperors-Handbook-Translation-Meditations/dp/0743233832)
 is a new translation of Marcus Aurelius’ classic *The Meditations*.
 Marcus Aurelius was a second century Roman emperor and stoic
 philosopher. You probably know him as the old guy (Richard Harris) that
 chose Maximus (Russell Crowe) as his successor in
-[Gladiator](http://en.wikipedia.org/wiki/Gladiator_(2000_film)). Marcus
+[Gladiator](https://en.wikipedia.org/wiki/Gladiator_(2000_film)). Marcus
 is counted among the “five good Roman emperors”[^4682a] and his
 *Meditations* has been hailed as the single best book ever written by a
 major ruler. Nowadays every [semi-literate
-hack](http://www.amazon.com/Decision-Points-George-W-Bush/dp/0307590631)
+hack](https://www.amazon.com/Decision-Points-George-W-Bush/dp/0307590631)
 that’s held office dumps
-[memoirs](http://en.wikipedia.org/wiki/My_Life_(Bill_Clinton_autobiography)).
+[memoirs](https://en.wikipedia.org/wiki/My_Life_(Bill_Clinton_autobiography)).
 The more vacuous [excrete before holding
-office](http://www.goodreads.com/book/show/88061.Dreams_from_My_Father)!
+office](https://www.goodreads.com/book/show/88061.Dreams_from_My_Father)!
 While political autobiography is usually the vilest form of pornography
 and begs the question; is book burning all bad? There are exceptions and
 The Meditations is a magnificent example.
@@ -74,7 +73,7 @@ overwhelming, ultra-hard, fully repeatable, and independently verified
 scientific evidence to the contrary, it’s almost certain that life is
 meaningless and random! The “atoms” that smash together in the 21^st^
 century have [a richer
-taxonomy](http://scienceblogs.com/startswithabang/2010/09/27/the-new-nu-news/)
+taxonomy](https://scienceblogs.com/startswithabang/2010/09/27/the-new-nu-news/)
 than their hypothetical 2^nd^ century antecedents but they are just as
 meaningless. The notion that we have a duty or purpose is ludicrous. We
 are, as Richard Dawkins wrote in the Selfish Gene long ago, robots
@@ -103,9 +102,9 @@ also has sound advice on Internet filtering.
 
 If you find something predictable and shrill do a quick calculation.
 Does the signal justify enduring the noise? I went through my long list
-of [Feedly](http://feedly.com/) RSS feeds and deleted two prominent
-sources of noise: [The Raw Story](http://www.rawstory.com/) and
-[Breitbart](http://www.breitbart.com/). These sites are loud
+of [Feedly](https://feedly.com/) RSS feeds and deleted two prominent
+sources of noise: [The Raw Story](https://www.rawstory.com/) and
+[Breitbart](https://www.breitbart.com/). These sites are loud
 practitioners of *look at this idiot journalism*. One side is
 predictably far left-wing and the other is predictably far right-wing.
 Occasionally they cough up something worth a look but usually their

@@ -1,5 +1,5 @@
-[iPhoning It
-In](http://bakerjd99.wordpress.com/2011/03/03/iphoning-it-in/)
+ 
+[iPhoning It In](https://bakerjd99.wordpress.com/2011/03/03/iphoning-it-in/)
 ---------------------------------------------------------------------------
 
 *Posted: 04 Mar 2011 03:23:58*

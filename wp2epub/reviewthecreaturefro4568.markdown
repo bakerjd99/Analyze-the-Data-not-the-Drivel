@@ -1,6 +1,5 @@
-
-[Review: The Creature
-from Jekyll Island](http://bakerjd99.wordpress.com/2014/03/17/review-the-creature-from-jekyll-island/)
+ 
+[Review: The Creature from Jekyll Island](https://bakerjd99.wordpress.com/2014/03/17/review-the-creature-from-jekyll-island/)
 ----------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Mar 2014 01:23:27*
@@ -8,7 +7,7 @@ from Jekyll Island](http://bakerjd99.wordpress.com/2014/03/17/review-the-creatur
 In 2008 whatever residual trust I had in American democratic
 institutions was irrevocably shattered by the larcenous and criminal
 bank bailout. If you recall the bailout, the infamous “[crap
-sandwich](http://abcnews.go.com/blogs/politics/2008/10/a-second-order/),”
+sandwich](https://abcnews.go.com/blogs/politics/2008/10/a-second-order/),”
 was overwhelmingly opposed by the public, initially rejected by
 Congress, but stuffed down our throats anyway. The sky was falling! The
 banks had to be saved or the world would end. At the time I knew the
@@ -31,7 +30,7 @@ Edward Griffin’s “crazy” history of the Federal Reserve, written more
 than a decade before 2008, clearly shows that the only exceptional thing
 about 2008 was scale. The Federal Reserve has been saving banker’s butts
 for a century. As long as we have, fiat currency, [fractional reserve
-banking](http://wiki.mises.org/wiki/Fractional\_reserve\_banking) and
+banking](https://wiki.mises.org/wiki/Fractional\_reserve\_banking) and
 central banks like the Federal Reserve we’ll have, massive government
 debts, never-ending inflation, (money creation), and the relentless
 insidious transfer of the costs of bank screwups to an unsuspecting and
@@ -52,7 +51,7 @@ bankers but Gold, in the duplicitous language of bankers and their
 economist fanboys, is *insufficiently elastic*. What this means is that
 Gold cannot be created and destroyed by *banker will alone*. Barbaric
 old unreactive Gold, [forged in the collision of neutron
-stars](http://www.washingtonpost.com/national/health-science/origin-of-gold-found-in-rare-neutron-star-collisions/2013/07/17/a158bd46-eef2-11e2-bed3-b9b6fe264871\_story.html),
+stars](https://www.washingtonpost.com/national/health-science/origin-of-gold-found-in-rare-neutron-star-collisions/2013/07/17/a158bd46-eef2-11e2-bed3-b9b6fe264871\_story.html),
 and unevenly dispersed in the interstellar medium, is just too damn hard
 to acquire and use as money. What’s needed is something that can be
 “poofed” into being on demand.
@@ -73,10 +72,10 @@ Griffin ends his book with two flights of conspiratorial lunacy: one
 pessimistic and the other realistic. If you’re wondering, Griffen holds
 *there is no optimistic scenario.* We’re in for a world of economic
 butt-hurt when the creature dies. The pessimistic scenario is basically
-[1984](http://en.wikipedia.org/wiki/Nineteen\_Eighty-Four) central
+[1984](https://en.wikipedia.org/wiki/Nineteen\_Eighty-Four) central
 banker style and the realistic outlines the economic disruptions
 required to return to a [silver based
-dollar](http://mises.org/daily/4149). Griffin is a better historian than
+dollar](https://mises.org/daily/4149). Griffin is a better historian than
 a science-fiction writer and *Jekyll* would be a better book without
 the last two chapters.
 

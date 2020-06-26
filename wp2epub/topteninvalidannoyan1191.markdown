@@ -1,5 +1,5 @@
-[Top Ten Invalid
-Annoyances](http://bakerjd99.wordpress.com/2011/03/07/top-ten-invalid-annoyances/)
+ 
+[Top Ten Invalid Annoyances](https://bakerjd99.wordpress.com/2011/03/07/top-ten-invalid-annoyances/)
 ---------------------------------------------------------------------------------------------------
 
 *Posted: 07 Mar 2011 23:18:36*

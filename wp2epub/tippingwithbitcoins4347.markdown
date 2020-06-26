@@ -1,12 +1,11 @@
-
-[Tipping with
-Bitcoins](http://bakerjd99.wordpress.com/2013/12/01/tipping-with-bitcoins/)
+ 
+[Tipping with Bitcoins](https://bakerjd99.wordpress.com/2013/12/01/tipping-with-bitcoins/)
 -----------------------------------------------------------------------------------------
 
 *Posted: 02 Dec 2013 02:10:10*
 
 For the last two days my elderly laptop has struggled with the
-[bitcoin-qt](http://bitcoin.org/en/download) client while it downloaded
+[bitcoin-qt](https://bitcoin.org/en/download) client while it downloaded
 and checked the entire Bitcoin block chain. This is one of the
 fascinating things about this “currency.” Its entire global transaction
 history is public. It occurred to me that the Bitcoin economy is now

@@ -1,6 +1,5 @@
-
-[Corporate
-Social Media Policies](http://bakerjd99.wordpress.com/2013/08/07/corporate-social-media-policies/)
+ 
+[Corporate Social Media Policies](https://bakerjd99.wordpress.com/2013/08/07/corporate-social-media-policies/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 07 Aug 2013 21:27:56*

@@ -1,19 +1,18 @@
-
-[John L. Dobson
-R.I.P.](http://bakerjd99.wordpress.com/2014/01/18/john-l-dobson-r-i-p/)
+ 
+[John L. Dobson R.I.P.](https://bakerjd99.wordpress.com/2014/01/18/john-l-dobson-r-i-p/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 18 Jan 2014 12:37:10*
 
 At tonight’s meeting of the [St. Louis Astronomical
-Society](http://www.slasonline.org/) I learned of [John
-Dobson’s](http://www.universetoday.com/108150/john-dobson-inventor-of-the-popular-dobsonian-telescope-dead-at-98/)
+Society](https://www.slasonline.org/) I learned of [John
+Dobson’s](https://www.universetoday.com/108150/john-dobson-inventor-of-the-popular-dobsonian-telescope-dead-at-98/)
 recent death. John Dobson was widely known as the inventor of the
 homemade “Dobsonian” telescope and the co-founder of the [Sidewalk
-Astronomers](http://www.sidewalkastronomers.us/): perhaps the most
+Astronomers](https://www.sidewalkastronomers.us/): perhaps the most
 famous and effective amateur astronomy outreach group in modern times.
 “Big Dob” light buckets are a staple at [star
-parties](http://stardate.org/nightsky/star\_parties) around the world
+parties](https://stardate.org/nightsky/star\_parties) around the world
 and most of them derive from John’s original designs. John lived a long
 life and touched many people including myself.
 
@@ -87,7 +86,7 @@ out a bright star that was hanging about twenty degrees above the hills
 to the southwest. I knew that looking at stars in the 60mm was, with the
 exception of binaries, kind of dull. Stars appear as points of light in
 even the largest of telescopes. Only in modern times, by using [long
-baseline interferometry](http://isi.ssl.berkeley.edu/), has it become
+baseline interferometry](https://isi.ssl.berkeley.edu/), has it become
 possible to resolve details on distant stars.  Not expecting much I
 aimed the scope at the bright star and focused. Suddenly a new “solar
 system” sprang into view. I could see a tiny ball surrounded by four
@@ -132,7 +131,7 @@ red, hinting at purple, then back to green, red again, rippling and
 roaring, from the north to south, east and west: all ablaze. I had never
 seen a display of such magnitude. Giant auroras are not only beautiful
 they can [shut down power
-grids.](http://www.solarstorms.org/SWChapter1.html)  I love it: natural
+grids.](https://www.solarstorms.org/SWChapter1.html)  I love it: natural
 light pollution shutting down man-made light pollution. I don’t know if
 John saw great auroras but I know he would have loved them.
 
@@ -229,4 +228,4 @@ feel about the sky. Nice work John.
 
 [^4498a]: The best dark sky sites in Texas are in the Davis Mountains near
     the McDonald Observatory. The [Texas Star
-    Party](http://texasstarparty.org/) is held nearby every year.
+    Party](https://texasstarparty.org/) is held nearby every year.

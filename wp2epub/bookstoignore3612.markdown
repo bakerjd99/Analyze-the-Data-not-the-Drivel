@@ -1,6 +1,5 @@
-
-[Books 
-to Ignore](http://bakerjd99.wordpress.com/2012/12/27/books-to-ignore/)
+ 
+[Books to Ignore](https://bakerjd99.wordpress.com/2012/12/27/books-to-ignore/)
 -----------------------------------------------------------------------------
 
 *Posted: 27 Dec 2012 23:31:03*
@@ -27,9 +26,9 @@ well.
     suits. Historical figures, and their entire sycophantic
     bottom-feeding cohort, must be long dead before anything approaching
     perspective is possible. So put down that [Prince of
-    Wales](http://www.amazon.com/Prince-Wales-Biography-Jonathan-Dimbleby/dp/0688146155)
+    Wales](https://www.amazon.com/Prince-Wales-Biography-Jonathan-Dimbleby/dp/0688146155)
     or, don’t make me puke, [Ted
-    Turner](http://www.barnesandnoble.com/w/ted-turner-michael-oconnor/1103045877?cm\_mmc=googlepla-\_-book-\_-q000000633-\_-9780313350429\&cm\_mmca2=pla\&ean=9780313350429\&isbn=9780313350429\&r=1),
+    Turner](https://www.barnesandnoble.com/w/ted-turner-michael-oconnor/1103045877?cm\_mmc=googlepla-\_-book-\_-q000000633-\_-9780313350429\&cm\_mmca2=pla\&ean=9780313350429\&isbn=9780313350429\&r=1),
     biography. They’re trash, worse than pornography, at least porn
     facilitates release.
 
@@ -39,7 +38,7 @@ well.
     for autobiographies. We know you’re misleading, omitting,
     embellishing, polishing, fabricating, composting and just plain
     lying. If you’re one of the rare true worthies, say a [Fields
-    Medalist](http://www.mathunion.org/general/prizes/fields/details/),
+    Medalist](https://www.mathunion.org/general/prizes/fields/details/),
     a hard science Nobel winner, a Caesar, or a Mark Twain then go ahead
     and indulge yourself. Your scribbling’s will show future generations
     that bullshit is the only human universal.
@@ -70,7 +69,7 @@ well.
     cancer cures, Bigfoot does not exist, the pyramids were not built by
     aliens, dowsing is crap, Oswald shot Kennedy, and the world did not
     end on December 21, 2012. Being a [hard-ass
-    skeptic](http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
+    skeptic](https://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
     clears entire drivel laden bookshelves.
 
 7.  **Do not read diet books.** You are not going to learn anything you

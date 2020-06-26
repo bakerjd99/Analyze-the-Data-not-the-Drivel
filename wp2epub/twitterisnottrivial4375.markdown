@@ -1,6 +1,5 @@
-
-[Twitter
-is not Trivial](http://bakerjd99.wordpress.com/2013/12/15/twitter-is-not-trivial/)
+ 
+[Twitter is not Trivial](https://bakerjd99.wordpress.com/2013/12/15/twitter-is-not-trivial/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 16 Dec 2013 04:10:57*
@@ -59,14 +58,14 @@ York. Alex Baldwin would still be hurling feces on MSNBC and Dane
 Deutsch would be happily ensconced in the Wisconsin state legislature.
 Twitter makes it easy for our, in their own heads only, “elites” to
 [self
-destruct](http://content.time.com/time/specials/packages/article/0,28804,2075071\_2075082\_2075118,00.html)
+destruct](https://content.time.com/time/specials/packages/article/0,28804,2075071\_2075082\_2075118,00.html)
 in public. Self humiliation is the best kind.
 
 **Serving as another canary in the liberty coal mine.** Distinctions
 like democratic and totalitarian are almost without merit. One man’s
 democratic republic is another’s Gulag. A more meaningful metric is:
 allows Twitter, bans Twitter. [Here’s a list of Twitter
-banners.](http://www.buzzfeed.com/miriamberger/11-countries-where-twitter-is-not-free)
+banners.](https://www.buzzfeed.com/miriamberger/11-countries-where-twitter-is-not-free)
 Only one country on this list surprised me. If your country is on this
 list you might want to consider emigration, or fleeing, because you are
 living in regime that cannot tolerate even 140 characters of criticism.

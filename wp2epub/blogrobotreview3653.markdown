@@ -1,11 +1,10 @@
-
-[2012
-Blog Robot Review](http://bakerjd99.wordpress.com/2012/12/31/2012-blog-robot-review/)
+ 
+[2012 Blog Robot Review](https://bakerjd99.wordpress.com/2012/12/31/2012-blog-robot-review/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 31 Dec 2012 15:36:11*
 
-The [WordPress.com](http://wordpress.com/) robots gave us an amusing end
+The [WordPress.com](https://wordpress.com/) robots gave us an amusing end
 of year blog *attaboy*.
 
 Here’s an excerpt:
@@ -16,4 +15,4 @@ Here’s an excerpt:
 > many views.
 
 [Click here to see the complete
-report.](http://bakerjd99.wordpress.com/2012/annual-report/)
+report.](https://bakerjd99.wordpress.com/2012/annual-report/)

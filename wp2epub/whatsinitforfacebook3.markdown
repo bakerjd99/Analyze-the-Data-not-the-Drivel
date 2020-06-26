@@ -1,17 +1,17 @@
-[What’s In it for
-Facebook?](http://bakerjd99.wordpress.com/2009/09/05/whats-in-it-for-facebook/)
+ 
+[What’s In it for Facebook?](https://bakerjd99.wordpress.com/2009/09/05/whats-in-it-for-facebook/)
 -------------------------------------------------------------------------------------------------
 
 *Posted: 05 Sep 2009 22:44:50*
 
-[Facebook](http://www.facebook.com) is huge: they brag about a user
+[Facebook](https://www.facebook.com) is huge: they brag about a user
 count well north of one hundred million. If only 0.5% of their users are
 active that’s 500,000 *concurrent users.* How many expensive servers
 does it take to support such a load? How much does Facebook shell out
 for bandwidth? What does it cost them to house the stables of *twenty
 something* web programmers required to keep their pages up and humming?
 Here’s a hint for all you, *“[information wants to be
-free](http://en.wikipedia.org/wiki/Information\_wants\_to\_be\_free),”*
+free](https://en.wikipedia.org/wiki/Information\_wants\_to\_be\_free),”*
 socialists out there; **it’s not free!**
 
 Sites like Facebook blow through hundreds of thousands of dollars every
@@ -28,13 +28,13 @@ liabilities. Maybe you prefer payment in the form of self delusions:
 “I’m doing all this volunteer work because I am a good person.” Perhaps
 you take Mother Teresa accolades, adulation and Nobel Peace Prizes,
 (going to
-[murders](http://nobelprize.org/nobel\_prizes/peace/laureates/1994/arafat-bio.html)
+[murders](https://nobelprize.org/nobel\_prizes/peace/laureates/1994/arafat-bio.html)
 and
-[charlatans](http://nobelprize.org/nobel\_prizes/peace/laureates/2007/)
+[charlatans](https://nobelprize.org/nobel\_prizes/peace/laureates/2007/)
 these days), and if you are a *class A
-[numnut](http://www.urbandictionary.com/define.php?term=numnut) that
+[numnut](https://www.urbandictionary.com/define.php?term=numnut) that
 ultimate noncash payment: [The Order of
-Canada](http://www.gg.ca/honours/nat-ord/oc/index\_e.asp).* Live in
+Canada](https://www.gg.ca/honours/nat-ord/oc/index\_e.asp).* Live in
 Canada long enough, sticking to your politically correct guns, and it’s
 yours for the taking.
 

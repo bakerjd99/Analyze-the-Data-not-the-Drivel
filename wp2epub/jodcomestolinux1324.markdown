@@ -1,12 +1,12 @@
-[JOD comes to
-Linux](http://bakerjd99.wordpress.com/2011/06/10/jod-comes-to-linux/)
+ 
+[JOD comes to Linux](https://bakerjd99.wordpress.com/2011/06/10/jod-comes-to-linux/)
 -----------------------------------------------------------------------------------
 
 *Posted: 10 Jun 2011 13:00:52*
 
 For years I have distributed a [J
-Addon](http://www.jsoftware.com/jwiki/Addons) called
-[JOD](http://bakerjd99.wordpress.com/the-jod-page/). JOD stands for
+Addon](https://www.jsoftware.com/jwiki/Addons) called
+[JOD](https://bakerjd99.wordpress.com/the-jod-page/). JOD stands for
 **J** **O**bject **D**ictionary. JOD is a code database for the J
 programming language. Instead of storing my J programs in text files,
 *like every other programmer in the world*, I break them down into the
@@ -16,8 +16,8 @@ If you are an experienced programmer I wouldn’t blame you for
 questioning my sanity. What could possibly be gained by discounting good
 old-fashioned, superbly supported, ASCII/UTF8 text files? The short
 answer, *in trendy software [engineer
-speak](http://ee.cleversoul.com/fun/engspeak.html),* is
-[refactoring](http://c2.com/cgi/wiki?WhatIsRefactoring). JOD is a
+speak](https://ee.cleversoul.com/fun/engspeak.html),* is
+[refactoring](https://c2.com/cgi/wiki?WhatIsRefactoring). JOD is a
 refactoring engine that works at the J word level.
 
 What does *the word level* mean? Program text files are collections of
@@ -25,9 +25,9 @@ many “words.” They roughly correspond to sentences, paragraphs, sections
 and chapters in ordinary books. When you *reuse*, or quote, a book you
 typically copy passages and paste them into new contexts. Programmers
 call this cut and paste programming. We have all cut and pasted; it’s a
-software sin [our](http://c2.com/cgi/wiki?CopyAndPasteProgramming)
+software sin [our](https://c2.com/cgi/wiki?CopyAndPasteProgramming)
 [prophets are constantly
-nagging](http://c2.com/cgi/wiki?CopyAndPasteProgramming) us about! JOD
+nagging](https://c2.com/cgi/wiki?CopyAndPasteProgramming) us about! JOD
 minimizes cut and paste programming. You no longer cut and paste or
 *include* you simply
 [get](https://docs.google.com/document/d/1Vk-PQrdPEISp0SL4eDaGDgg5HpATarPPvXHryC12I8M/edit?hl=en\_US\&pli=1#)
@@ -35,12 +35,12 @@ lists of words. J words are closer to English words than you might
 expect: hence this dictionary approach pays big dividends!
 
 With the [release of J
-7.01](http://bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/)
+7.01](https://bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/)
 it’s become clear that Windows is no longer the preeminent J platform.
 The new
-[JGTK](http://www.jsoftware.com/jwiki/System/Installation/J701/Gtk#Install)
+[JGTK](https://www.jsoftware.com/jwiki/System/Installation/J701/Gtk#Install)
 interface works well on Windows but it *sings* on Linux. This is hardly
-surprising. [GTK](http://www.gtk.org/) originated in the Linux/Unix
+surprising. [GTK](https://www.gtk.org/) originated in the Linux/Unix
 world and still performs best there. Porting JOD to Linux has been on my
 to-do list for years. The arrival of J 7.01 got me off my butt.
 
@@ -49,7 +49,7 @@ makes limited use of OS facilities. The port consisted of finding Linux
 equivalents for a handful of Windows API calls. The always helpful J
 community provided useful pointers. Joey Tuttle and Bill Lam basically
 solved my Linux
-[GUID](http://en.wikipedia.org/wiki/Globally\_unique\_identifier) and
+[GUID](https://en.wikipedia.org/wiki/Globally\_unique\_identifier) and
 file handling problems. Thanks guys.
 
 My biggest chore was updating [JOD online
@@ -67,7 +67,7 @@ tool to convert old documents to the new format but it:
 
 Despite these irritants the new format is better. You can attach
 comments and download documents in
-[ODT](http://www.coolutils.com/Formats/ODT), PDF, Word, HTML and ZIP
+[ODT](https://www.coolutils.com/Formats/ODT), PDF, Word, HTML and ZIP
 formats. If you find problems with my documents please leave notes.
 
 I am not completely satisfied with some restrictions imposed by JOD
@@ -87,13 +87,13 @@ I am not completely satisfied with some restrictions imposed by JOD
     mounted volumes and not the free space on the volume containing JOD
     directories. I just don’t know how to do this on Linux.
 
-5.  [jod.pdf](http://www.box.net/shared/gajfu50gc0) has not been
+5.  [jod.pdf](https://www.box.net/shared/gajfu50gc0) has not been
     updated.
 
 I am sure there are other problems and limitations that I have missed.
 For more see: [Linux
 Notes](https://docs.google.com/document/d/18pwvvpeuJiU\_HCsuReiKyOxmZORrlMRe45OYE\_cWq0w/edit?hl=en\_US).
 I will be releasing fixes and upgrades via
-[JAL](http://www.jsoftware.com/jwiki/JAL/User%20Guide) and on [the JOD
-page](http://bakerjd99.wordpress.com/the-jod-page/). Give JOD a whirl.
+[JAL](https://www.jsoftware.com/jwiki/JAL/User%20Guide) and on [the JOD
+page](https://bakerjd99.wordpress.com/the-jod-page/). Give JOD a whirl.
 It might change your J ways.

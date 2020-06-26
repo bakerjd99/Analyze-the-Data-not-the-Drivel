@@ -1,10 +1,10 @@
-[Bankrupt Nation Wins the
-Olympics](http://bakerjd99.wordpress.com/2012/08/12/bankrupt-nation-wins-the-olympics/)
+ 
+[Bankrupt Nation Wins the Olympics](https://bakerjd99.wordpress.com/2012/08/12/bankrupt-nation-wins-the-olympics/)
 -----------------------------------------------------------------------------------------------------------------
 
 *Posted: 13 Aug 2012 01:21:58*
 
-Thanks to the all squiggling [FSM](http://www.venganza.org/) it’s
+Thanks to the all squiggling [FSM](https://www.venganza.org/) it’s
 *finally* over! We, (citizens of the USA for the rest of you losers),
 have triumphed! We crushed those upstart crony Chinese communists,
 smothered our long-standing Russian adversaries and overwhelmed our
@@ -19,7 +19,7 @@ Let’s look at the *our* triumph from another point of view. The USA is
 currently running a yearly deficit of 1.27 trillion dollars. Our
 acknowledged debt is 15.92 trillion dollars. Our unfunded liabilities
 exceed 120.13 trillion dollars. If you want to depress yourself just
-load up the [Debt Clock](http://www.usdebtclock.org/) and watch the
+load up the [Debt Clock](https://www.usdebtclock.org/) and watch the
 numbers tick inexorably up and up. In short we are completely and
 thoroughly broke. Dividing the USA medal count into these numbers
 yields:
@@ -36,5 +36,5 @@ American medals from all Olympic games to balance the budget. Now I’m
 sure many American athletes will object to this deficit reduction plan.
 Perhaps with all the stress of training, surreptitious doping and
 getting strangers to pee in bottles they missed the [transcendent
-One’s](http://www.youtube.com/watch?v=YKjPI6no5ng) memo: “You didn’t win
+One’s](https://www.youtube.com/watch?v=YKjPI6no5ng) memo: “You didn’t win
 that medal, someone else won that!”

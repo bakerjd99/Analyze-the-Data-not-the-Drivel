@@ -1,5 +1,5 @@
-[The Wahweap
-Wow](http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/)
+ 
+[The Wahweap Wow](https://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/)
 -----------------------------------------------------------------------------
 
 *Posted: 22 May 2012 21:27:58*
@@ -9,22 +9,22 @@ Last weekend I was in Page Arizona to visit my parents and catch the May
 existence to the construction of the Glen Canyon dam in the early
 1960’s. The reservoir behind the dam, Lake Powell, has appeared in so
 many movies that [it should collect
-royalties](http://www.lakepowellrealty.net/lake-powell-movies/).
+royalties](https://www.lakepowellrealty.net/lake-powell-movies/).
 Charlton Heston crashed his spaceship here in the first and [only good
 Planet of the Apes
-movie](http://en.wikipedia.org/wiki/Planet\_of\_the\_Apes\_(1968\_film)).
+movie](https://en.wikipedia.org/wiki/Planet\_of\_the\_Apes\_(1968\_film)).
 John Travolta nuked the place in [Broken
-Arrow](http://www.imdb.com/title/tt0115759/). Even Jesus Christ used
+Arrow](https://www.imdb.com/title/tt0115759/). Even Jesus Christ used
 Lake Powell as a Dead Sea ringer in [The Greatest Story Ever
-Told](http://www.imdb.com/title/tt0059245/).
+Told](https://www.imdb.com/title/tt0059245/).
 
 Page, the dam and Lake Powell did not disappoint. I had a great time
 toodling around [shooting
-pictures](http://conceptcontrol.smugmug.com/Trips/USA-and-Canada/Arizona-Toodling-1/7475075_MrjqMc).
+pictures](https://conceptcontrol.smugmug.com/Trips/USA-and-Canada/Arizona-Toodling-1/7475075_MrjqMc).
 I only had one day which was partly devoted to the eclipse but I saw
 enough to give Glen Canyon an unqualified thumbs up. If you’re into
 rocks, desert and water this place is [bucket
-list](http://bucketlist.org/) material. Like MacArthur I will return.
+list](https://bucketlist.org/) material. Like MacArthur I will return.
 
 While pleased with Glen Canyon I was surprised by the large number of
 people who turned out for the annular eclipse. The US park service in
@@ -41,7 +41,7 @@ people set up to watch the eclipse. It’s gratifying to see that when a
 Before the eclipse started, and during the early phases when the Moon
 was creeping on the Sun’s disk, I walked around looking through
 telescopes. Two scopes stood out. One expensive large aperture [Hydrogen
-Alpha](http://www.astronomyknowhow.com/hydrogen-alpha.htm) scope served
+Alpha](https://www.astronomyknowhow.com/hydrogen-alpha.htm) scope served
 up gorgeous high-resolution views of the Sun. In Hydrogen Alpha light
 solar prominences , filaments and photosphere mottles are clearly
 visible. The big Hydrogen Alpha scope put on a good show but bang for
@@ -56,9 +56,9 @@ it a try. When the light ring formed I fired off a few shots. The filter
 didn’t cut enough light so I immediately gave up and went to plan B.
 Plan B consisted of covering the lens of my iPhone with eclipse shades
 and [Phd’ing
-it](http://bakerjd99.wordpress.com/2011/12/04/revenge-of-the-phd-camera/).
+it](https://bakerjd99.wordpress.com/2011/12/04/revenge-of-the-phd-camera/).
 I took a few frames and managed to catch the ring. It was a minor
-triumph of [iPhoneography](http://www.iphoneography.com/). After that I
+triumph of [iPhoneography](https://www.iphoneography.com/). After that I
 just gawked through my eclipse shades while the Sun and Moon wowed the
 masses with their dance. The crowd burst into applause when the ring
 broke but, sadly, the performers declined an encore.

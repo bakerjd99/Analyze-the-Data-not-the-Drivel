@@ -1,6 +1,5 @@
-
-[Now for
-a Nursing Home](http://bakerjd99.wordpress.com/2013/04/27/now-for-a-nursing-home/)
+ 
+[Now for a Nursing Home](https://bakerjd99.wordpress.com/2013/04/27/now-for-a-nursing-home/)
 -------------------------------------------------------------------------------------------
 
 *Posted: 27 Apr 2013 22:23:33*

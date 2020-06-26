@@ -1,24 +1,24 @@
-[The 20 seconds that ruined
-Inception](http://bakerjd99.wordpress.com/2010/07/28/the-20-seconds-that-ruined-inception/)
+ 
+[The 20 seconds that ruined Inception](https://bakerjd99.wordpress.com/2010/07/28/the-20-seconds-that-ruined-inception/)
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 28 Jul 2010 18:24:00*
 
-Last week I saw [Inception](http://www.rottentomatoes.com/m/inception/)
+Last week I saw [Inception](https://www.rottentomatoes.com/m/inception/)
 with my daughter. I was seriously considering giving this flick a miss
 after reading [Michelle
-Malkin’s](http://michellemalkin.com/2010/07/17/if-you-miss-just-one-movie-this-year-make-it-inception/)
+Malkin’s](https://michellemalkin.com/2010/07/17/if-you-miss-just-one-movie-this-year-make-it-inception/)
 rant about its empty-headed actors. Nothing ruins a movie faster than an
 actor going off-script! Actors are given scripts ***written by others***
 for very good reasons. Most of them have [stunted childlike
-minds](http://www.huffingtonpost.com/jim-carrey/the-judgment-on-vaccines\_b\_189777.html)
+minds](https://www.huffingtonpost.com/jim-carrey/the-judgment-on-vaccines\_b\_189777.html)
 that rarely emit ideas worth considering. I have no patience for such
 nonsense and I certainly won’t pay for it. Lucky for Inception its
 Cineplex competitors were defining a new standard of [airbending
-suckitude](http://www.rottentomatoes.com/m/last\_airbender/) — move over
-[Plan 9](http://en.wikipedia.org/wiki/Plan\_9\_from\_Outer\_Space)
+suckitude](https://www.rottentomatoes.com/m/last\_airbender/) — move over
+[Plan 9](https://en.wikipedia.org/wiki/Plan\_9\_from\_Outer\_Space)
 there’s a new fetid [pant
-load](http://www.doubletongued.org/index.php/dictionary/pant\_load/) in
+load](https://www.doubletongued.org/index.php/dictionary/pant\_load/) in
 town.
 
 To my relief the juvenile politics of Inception’s actors did not
@@ -34,7 +34,7 @@ such a question even make sense? Are we in a dream? What happens if we
 dream in a dream? The movie tackles these themes with technical gusto.
 The special effects are *so special* you forget about being impressed
 and just enjoy the story. On this account Inception succeeds were
-[Avatar](http://www.avatarmovie.com/) sounded some sour notes. You
+[Avatar](https://www.avatarmovie.com/) sounded some sour notes. You
 cannot fault this movie on technical grounds. Nor can you fault it on
 cheesy subject matter. How many Hollywood blockbusters deal with the
 nature of reality?
@@ -43,7 +43,7 @@ To avoid getting lost in dreams the Inception dreamers carried a
 personal test token. The test token is a small object that *behaves one
 way in dream worlds and another way in reality.* And, *this is crucial
 to Inception’s plot*, only one dreamer should know the token’s trick.
-[DiCaprio’s](http://en.wikipedia.org/wiki/Leonardo\_DiCaprio) character
+[DiCaprio’s](https://en.wikipedia.org/wiki/Leonardo\_DiCaprio) character
 used the spinning top shown above. As some readers have pointed out the
 spinning top is DiCaprio’s wife’s token but *he knows* that in dreams
 the top never stops spinning while in the real world it tips over. By

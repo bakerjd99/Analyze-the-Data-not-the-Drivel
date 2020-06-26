@@ -1,12 +1,11 @@
-
-[The Myth 
-of Sisyphus: Camus’s Absurd Prototype](http://bakerjd99.wordpress.com/2013/03/15/the-myth-of-sisyphus-camuss-absurd-prototype/)
+ 
+[The Myth of Sisyphus: Camus’s Absurd Prototype](https://bakerjd99.wordpress.com/2013/03/15/the-myth-of-sisyphus-camuss-absurd-prototype/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Mar 2013 04:37:34*
 
 In 1942, with World II raging, readers of [The Myth of
-Sisyphus](http://www.amazon.com/Myth-Sisyphus-Other-Essays/dp/0679733736)
+Sisyphus](https://www.amazon.com/Myth-Sisyphus-Other-Essays/dp/0679733736)
 could easily identify with Camus’s absurd man. Not only is man absurd he
 has reduced his entire world to absurdity. Now, seventy-plus years
 later, Sisyphus readers are more likely to politely yawn and wonder what

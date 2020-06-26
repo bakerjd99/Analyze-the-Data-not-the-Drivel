@@ -1,18 +1,18 @@
-[Venus puts a period on our
-Time](http://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/)
+ 
+[Venus puts a period on our Time](https://bakerjd99.wordpress.com/2012/06/06/venus-puts-a-period-on-our-time/)
 -------------------------------------------------------------------------------------------------------------
 
 *Posted: 07 Jun 2012 01:58:30*
 
 I left work early yesterday to scoot down to Forest Park, one of
 St. Louis’s best city parks, and take in the transit of Venus. The
-[St. Louis Astronomical Society](http://www.slasonline.org/) conducted a
+[St. Louis Astronomical Society](https://www.slasonline.org/) conducted a
 public outreach event on the grounds of the World’s Fair Pavilion. The
 pavilion sits atop a small hill with a good view of the western horizon.
 Many club members had set up telescopes for the public. Some scopes
 projected images of the sun and others used solar filters. It was
 [another large daytime star
-party](http://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/).
+party](https://bakerjd99.wordpress.com/2012/05/22/the-wahweap-wow/).
 Hundreds of people showed up and patiently waited in telescope lines to
 get a glimpse of Venus crossing the Sun.
 

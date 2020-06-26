@@ -1,6 +1,5 @@
-
-[I Voted
-for Nothing](http://bakerjd99.wordpress.com/2014/11/04/i-voted-for-nothing/)
+ 
+[I Voted for Nothing](https://bakerjd99.wordpress.com/2014/11/04/i-voted-for-nothing/)
 -------------------------------------------------------------------------------------
 
 *Posted: 04 Nov 2014 13:48:02*

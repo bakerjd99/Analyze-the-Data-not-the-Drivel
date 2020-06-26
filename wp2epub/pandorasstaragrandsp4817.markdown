@@ -1,6 +1,5 @@
-
-[Pandora’s Star: a Grand 
-Sprawling Entertainment](http://bakerjd99.wordpress.com/2014/09/01/pandoras-star-a-grand-sprawling-entertainment/)
+ 
+[Pandora’s Star: a Grand Sprawling Entertainment](https://bakerjd99.wordpress.com/2014/09/01/pandoras-star-a-grand-sprawling-entertainment/)
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 01 Sep 2014 21:00:56*
@@ -30,8 +29,8 @@ greater outrage than mortality!
 
 After Banks’ death I looked around for other operatic authors; it didn’t
 take me long to find [Peter F.
-Hamilton](http://www.peterfhamilton.co.uk/) and [*Pandora’s
-Star*](http://www.barnesandnoble.com/w/pandoras-star-peter-f-hamilton/1100293432?ean=9780345479211).
+Hamilton](https://www.peterfhamilton.co.uk/) and [*Pandora’s
+Star*](https://www.barnesandnoble.com/w/pandoras-star-peter-f-hamilton/1100293432?ean=9780345479211).
 *Pandora’s Star* is a huge, highly entertaining, example of what I call
 *restrained* science fiction.
 
@@ -39,7 +38,7 @@ Restraint is what separates science fiction from fantasy. Fantasy
 tolerates an anything goes mishmash of logical inconsistencies.
 Literature has a term for this: *Deus ex machina.* Modern fantasy is a
 veritable high-tech *Deux ex machina* factory churning out
-[beta-male](http://theredpillroom.blogspot.com/p/masculexicon.html)
+[beta-male](https://theredpillroom.blogspot.com/p/masculexicon.html)
 vampires that take implausible romantic interests in their food,
 prepubescent wizards jerking off in boarding school, (Oh it happened),
 fireproof maximum babes with pet dragons, and armies of oxymoronic
@@ -62,7 +61,7 @@ to scientific bricks and unfolds with lovely consistency.
 Most science fiction writers make impossible assumptions but great ones
 take them in unexpected directions. Consider wormholes. Wormholes have
 been a staple of science fiction forever. Three, not entirely
-restrained, [TV series](http://stargate.mgm.com/) had contemporary
+restrained, [TV series](https://stargate.mgm.com/) had contemporary
 soldiers marching through them every week for years. They’ve popped up
 in every two-bit tale that needed quick point A to B plumbing. Wormholes
 are a cliché and their presence often signals unimaginative hackery. If
@@ -71,7 +70,7 @@ something new or I’m outta your lame book. The opening chapter of
 *Pandora’s Star* is one of the most humorous and imaginative use of
 wormholes in science fiction. A few pages later Hamilton sends trains
 through wormholes. It’s [Sheldon
-Cooper’s](http://www.cbs.com/shows/big\_bang\_theory/) wet dream:
+Cooper’s](https://www.cbs.com/shows/big\_bang\_theory/) wet dream:
 *trains in space.* I had to smile and keep on reading. *Pandora’s Star*
 is a big book, almost one thousand pages, but like all great sprawling
 books it’s too damn short. Fortunately, there’s a second book, *Judas

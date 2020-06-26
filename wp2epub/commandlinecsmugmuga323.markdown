@@ -1,5 +1,5 @@
-[Command Line C\# SmugMug API Metadata
-Download](http://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
+ 
+[Command Line C\# SmugMug API Metadata Download](https://bakerjd99.wordpress.com/2010/02/03/command-line-c-smugmug-api-metadata-download/)
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 03 Feb 2010 21:26:51*
@@ -11,119 +11,121 @@ still get all emotional when I *remember the scent of a fixer.* Ahhh —
 those were the days.
 
 Now, instead of inhaling fumes in the dark, I hang out on picture sites:
-[SmugMug](http://www.smugmug.com/) is my current favorite. Over the last
+[SmugMug](https://www.smugmug.com/) is my current favorite. Over the last
 year I have uploaded thousands of carefully cataloged images: [you can
-view them here.](http://conceptcontrol.smugmug.com/) I may not be much
+view them here.](https://conceptcontrol.smugmug.com/) I may not be much
 of photographer but when it comes to image metadata my anal analytic
 side shines. I can
-[EXIF](http://en.wikipedia.org/wiki/Exchangeable\_image\_file\_format),
-[IPTC](http://www.iptc.org/IPTC4XMP/) and
-[GEOTAG](http://en.wikipedia.org/wiki/Geotagging) with the best of them.
+[EXIF](https://en.wikipedia.org/wiki/Exchangeable\_image\_file\_format),
+[IPTC](https://www.iptc.org/IPTC4XMP/) and
+[GEOTAG](https://en.wikipedia.org/wiki/Geotagging) with the best of them.
 
 Because I tweak metadata online, and I suffer from a *retentive*
 character flaw, it’s only natural that I would seek to download my
 sacred metadata. This is what [SmugMug’s
-API](http://wiki.smugmug.net/display/SmugMug/API) is for! When I started
+API](https://wiki.smugmug.net/display/SmugMug/API) is for! When I started
 experimenting with the SmugMug API I made the mistake of [reading the
-documentation.](http://wiki.smugmug.net/display/SmugMug/API) SmugMug
+documentation.](https://wiki.smugmug.net/display/SmugMug/API) SmugMug
 documentation is, at best, a “work in progress.” It may help but
 probably not! I found trolling the web looking for [code
-examples](http://www.manhattanheavy.com/blog/2008/5/13/simple-smugmug-c-wrapper.aspx/)
+examples](https://www.manhattanheavy.com/blog/2008/5/13/simple-smugmug-c-wrapper.aspx/)
 more productive.
 
 To help the next SmugMug API geek I am posting a fragment of a simple
 command line C\# metadata dump utility I put together. The core of the
 program is shown below and all the [C\# source is available
-here.](http://www.box.net/shared/cfse1t5ef2) This program is to trivial
+here.](https://www.box.net/shared/cfse1t5ef2) This program is to trivial
 to license so help yourself.
 
-    namespace SmugMugMDDumper
-    {
-    class Program
-    {
-    private const string xmlHeader = @"<?xml version=""1.0"" encoding=""UTF-8""?>";
+```CS
+namespace SmugMugMDDumper
+{
+class Program
+{
+private const string xmlHeader = @"<?xml version=""1.0"" encoding=""UTF-8""?>";
 
-    // defaults - insert your own SmugMug apikey, password, email here
-    // defaults are used if corresponding command line arguments are missing
-    private const string apiKey = "<YOUR SMUGMUG APIKEY>";
-    private const string passWord = "<YOUR SMUGMUG PASSWORD";
-    private const string emailAddress = "<YOUR SMUGMUG EMAIL>";
-    private const string outFile = @"c:\temp\smugmugdata.xml";
+// defaults - insert your own SmugMug apikey, password, email here
+// defaults are used if corresponding command line arguments are missing
+private const string apiKey = "<YOUR SMUGMUG APIKEY>";
+private const string passWord = "<YOUR SMUGMUG PASSWORD";
+private const string emailAddress = "<YOUR SMUGMUG EMAIL>";
+private const string outFile = @"c:\temp\smugmugdata.xml";
 
-    static void Main(string[] args)
-    {
-    try
-    {
-    DataSet ds = new DataSet();
-    XmlDocument doc = new XmlDocument();
-    Arguments comline = new Arguments(args);
-    SmugmugMetaData smugmd = new SmugmugMetaData();
+static void Main(string[] args)
+{
+try
+{
+DataSet ds = new DataSet();
+XmlDocument doc = new XmlDocument();
+Arguments comline = new Arguments(args);
+SmugmugMetaData smugmd = new SmugmugMetaData();
 
-    // parse and set any command line arguments
-    if (comline["help"] != null)
-    {
-    string __helpMsg = @"
-    Typical command line calls:
+// parse and set any command line arguments
+if (comline["help"] != null)
+{
+string __helpMsg = @"
+Typical command line calls:
 
-    SmugMugMDDumper.exe -apikey:""xQDzWwLp2I1GUGli88g999VrQWN4Xz56"" -email:""youremail"" -password:""nimcompoop"" -output:""c:\test\smugdata.xml""
-    SmugMugMDDumper.exe -output:""d:\mystuff\smuggy.xml""
-    SmugMugMDDumper.exe -password:""newpassword"" -output:""c:\temp\out.xml""
-    SmugMugMDDumper.exe -help
+SmugMugMDDumper.exe -apikey:""xQDzWwLp2I1GUGli88g999VrQWN4Xz56"" -email:""youremail"" -password:""nimcompoop"" -output:""c:\test\smugdata.xml""
+SmugMugMDDumper.exe -output:""d:\mystuff\smuggy.xml""
+SmugMugMDDumper.exe -password:""newpassword"" -output:""c:\temp\out.xml""
+SmugMugMDDumper.exe -help
 
-    ";
-    Console.Write(__helpMsg);
-    return;
-    }
+";
+Console.Write(__helpMsg);
+return;
+}
 
-    string __apiKey;
-    if (comline["apikey"] != null) __apiKey = comline["apikey"];
-    else __apiKey = apiKey;
+string __apiKey;
+if (comline["apikey"] != null) __apiKey = comline["apikey"];
+else __apiKey = apiKey;
 
-    string __emailAddress;
-    if (comline["email"] != null) __emailAddress = comline["email"];
-    else __emailAddress = emailAddress;
+string __emailAddress;
+if (comline["email"] != null) __emailAddress = comline["email"];
+else __emailAddress = emailAddress;
 
-    string __passWord;
-    if (comline["password"] != null) __passWord = comline["password"];
-    else __passWord = passWord;
+string __passWord;
+if (comline["password"] != null) __passWord = comline["password"];
+else __passWord = passWord;
 
-    string __outputFile;
-    if (comline["output"] != null) __outputFile = comline["output"];
-    else __outputFile = outFile;
+string __outputFile;
+if (comline["output"] != null) __outputFile = comline["output"];
+else __outputFile = outFile;
 
-    // start output file
-    smugmd.WriteToFile(xmlHeader + "<SmugMugData>", __outputFile);
+// start output file
+smugmd.WriteToFile(xmlHeader + "<SmugMugData>", __outputFile);
 
-    // open SmugMusg session - uses https
-    string __sessionID = smugmd.StartSMSession(__apiKey, __emailAddress, __passWord);
+// open SmugMusg session - uses https
+string __sessionID = smugmd.StartSMSession(__apiKey, __emailAddress, __passWord);
 
-    // collect all galleries
-    ds = smugmd.GetGalleries(__sessionID, __apiKey, __outputFile);
-    DataTable myTable = ds.Tables[0];
-    DataRow myRow;
+// collect all galleries
+ds = smugmd.GetGalleries(__sessionID, __apiKey, __outputFile);
+DataTable myTable = ds.Tables[0];
+DataRow myRow;
 
-    // image metadata for each gallery
-    smugmd.AppendToFile("<GalleryImages>", __outputFile);
-    int rowcnt = myTable.Rows.Count;
-    string rowstr = "/" + rowcnt.ToString() + "]: ";
-    for (int i = 0; i < rowcnt; i++)
-    {
-    myRow = myTable.Rows[i];
-    Console.WriteLine("gallery [" + (i + 1).ToString() + rowstr + (string)myRow["Title"]);
-    doc = smugmd.GetGalleryImages(__sessionID, __apiKey, (int)myRow["id"], __outputFile);
-    }
-    smugmd.AppendToFile("</GalleryImages>", __outputFile);
+// image metadata for each gallery
+smugmd.AppendToFile("<GalleryImages>", __outputFile);
+int rowcnt = myTable.Rows.Count;
+string rowstr = "/" + rowcnt.ToString() + "]: ";
+for (int i = 0; i < rowcnt; i++)
+{
+myRow = myTable.Rows[i];
+Console.WriteLine("gallery [" + (i + 1).ToString() + rowstr + (string)myRow["Title"]);
+doc = smugmd.GetGalleryImages(__sessionID, __apiKey, (int)myRow["id"], __outputFile);
+}
+smugmd.AppendToFile("</GalleryImages>", __outputFile);
 
-    // complete output file - end SmugMug session
-    smugmd.AppendToFile("</SmugMugData>", __outputFile);
-    smugmd.EndSMSession(__sessionID, __apiKey);
+// complete output file - end SmugMug session
+smugmd.AppendToFile("</SmugMugData>", __outputFile);
+smugmd.EndSMSession(__sessionID, __apiKey);
 
-    Console.WriteLine("[Complete] output file: " + __outputFile);
-    }
-    catch (Exception ex)
-    {
-    Console.WriteLine("[Fail] SmugMug Metadata Dumper Failure - error message: " + ex.Message);
-    }
-    }
-    }
-    }
+Console.WriteLine("[Complete] output file: " + __outputFile);
+}
+catch (Exception ex)
+{
+Console.WriteLine("[Fail] SmugMug Metadata Dumper Failure - error message: " + ex.Message);
+}
+}
+}
+}
+```

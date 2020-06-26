@@ -1,6 +1,5 @@
-
-[I WannaCry 
-about the Plunging Quality of Evil Geniuses](http://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) 
+ 
+[I WannaCry about the Plunging Quality of Evil Geniuses](https://analyzethedatanotthedrivel.org/2017/05/17/i-wannacry-about-the-plunging-quality-of-evil-geniuses/) 
 -----------------------------------------------------------------------------------------
 
 *Posted: 18 May 2017 04:23:12*
@@ -16,7 +15,7 @@ blame.
 
 What really happened?
 
-1.  The NSA “cataloged”[^1] security flaw in Windows XP and didn’t
+1.  The NSA “cataloged”[^1x5387] security flaw in Windows XP and didn’t
     inform anyone.
 
 2.  The flaw was leaked.
@@ -103,7 +102,7 @@ preserving cryptocurrency. *A proper private and secure cryptocurrency
 should be a nearly perfect money laundering tool!* I’m looking forward
 to the day when real evil geniuses, not WannaCry wannabes, stage a
 massive ransomware attack, collect a massive
-[buttload](http://www.urbandictionary.com/define.php?term=buttload) of
+[buttload](https://www.urbandictionary.com/define.php?term=buttload) of
 untraceable coin, and then spend it right under the noses of the word’s
 taxation and intelligence agencies. When this glorious day arrives we,
 the little wage slaves, the deplorables, the lumpen-proletariat, will
@@ -112,5 +111,5 @@ then neither are you!
 
 Until then I just WannaCry!
 
-[^1]: It’s not clear they discovered the flaw but however it was found
+[^1x5387]: It’s not clear they discovered the flaw but however it was found
     they withheld it.

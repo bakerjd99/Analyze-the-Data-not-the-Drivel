@@ -347,7 +347,10 @@ NB. files=. sortonid files
 
 NB. mash posts together - affix date
 epubamble=. (allwhitetrim epubamble),LF,('% ',timestamp ''),2#LF
-posts=. ; '#' ,&.> (allwhitetrim&.> read&.> files) ,&.> <2#LF
+
+NB. posts=. ; '#' ,&.> (allwhitetrim&.> read&.> files) ,&.> <2#LF
+posts=. ; (allwhitetrim&.> read&.> files) ,&.> <2#LF
+
 posts=. utf8 toHOST epubamble,(2#LF),posts
 posts write file=. epubdir,mdownfile
 1;((":#files),' post(s)');file

@@ -1,6 +1,5 @@
-
-[What hobbies do
-you have? Have you learned anything useful from them?](https://bakerjd99.wordpress.com/2015/04/20/what-hobbies-do-you-have-have-you-learned-anything-useful-from-them/)
+ 
+[What hobbies do you have? Have you learned anything useful from them?](https://bakerjd99.wordpress.com/2015/04/20/what-hobbies-do-you-have-have-you-learned-anything-useful-from-them/)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 20 Apr 2015 19:55:35*
@@ -8,7 +7,7 @@ you have? Have you learned anything useful from them?](https://bakerjd99.wordpre
 This is my first “cross-posted” entry. I composed this on
 [Quora](https://www.quora.com/John-Baker-98/). I was asked to answer
 [the title
-question](http://www.quora.com/What-hobbies-do-you-have-Have-you-learned-anything-useful-from-them/answer/John-Baker-98)
+question](https://www.quora.com/What-hobbies-do-you-have-Have-you-learned-anything-useful-from-them/answer/John-Baker-98)
 and I did. I probably won’t do this very often. Still, a little
 experimenting is fun.
 

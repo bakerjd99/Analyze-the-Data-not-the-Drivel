@@ -1,6 +1,5 @@
-
-[Don’t be a
-Weenie Launch Cassini](http://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/)
+ 
+[Don’t be a Weenie Launch Cassini](https://analyzethedatanotthedrivel.org/2017/09/15/dont-be-a-weenie-launch-cassini/)
 ---------------------------------------------------------------------------------------------------------
 
 *Posted: 15 Sep 2017 17:27:15*
@@ -101,7 +100,7 @@ scenario that had Cassini crashing into a dense urban area with laser
 guided bomb casualty maximizing effectiveness. This bumped the dark wet
 dream body count to 200,000. Both calculations were ridiculous. This
 entire episode is neatly summarized in this [Mother
-Jones](http://www.motherjones.com/politics/1997/09/cassini-controversy/)
+Jones](https://www.motherjones.com/politics/1997/09/cassini-controversy/)
 (can you believe it) article.
 
 The launch of Cassini and its Earth flyby imposed miniscule risks. Even
@@ -120,7 +119,7 @@ planned a march in Washington to screech, wave banners, and go full
 incontinent leftist ape. In their bush baby brains Cassini had to be
 stopped. Before 1997 protesters rarely faced counter protesters but
 Cassini touched a deep nerdy nerve and [a small band
-of](http://www.animatedsoftware.com/cassini/nltrs/nltr0050.htm)
+of](https://www.animatedsoftware.com/cassini/nltrs/nltr0050.htm)
 pro-Cassini protesters showed up shouting “Don’t be a weenie, launch
 Cassini,” and like the Greeks at Marathon, they drove the stunted
 grunting anti-Cassini beasts from the rhetorical field.  I like to

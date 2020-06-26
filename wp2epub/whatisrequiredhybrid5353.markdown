@@ -1,7 +1,5 @@
-
-
-[What is 
-Required: Hybrid Books](http://analyzethedatanotthedrivel.org/2017/03/25/what-is-required-hybrid-books/)
+ 
+[What is Required: Hybrid Books](https://analyzethedatanotthedrivel.org/2017/03/25/what-is-required-hybrid-books/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 25 Mar 2017 17:15:25*

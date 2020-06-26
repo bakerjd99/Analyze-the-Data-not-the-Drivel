@@ -1,19 +1,19 @@
-[Election
-Reflections](http://bakerjd99.wordpress.com/2012/11/09/election-reflections/)
+ 
+[Election Reflections](https://bakerjd99.wordpress.com/2012/11/09/election-reflections/)
 ---------------------------------------------------------------------------------------
 
 *Posted: 09 Nov 2012 23:17:59*
 
 About the only surprise coming out of the recent US election was [Puerto
 Rico’s foolish vote to seek
-statehood.](http://www.guardian.co.uk/commentisfree/2012/nov/09/puerto-rico-vote-us-statehood)
+statehood.](https://www.guardian.co.uk/commentisfree/2012/nov/09/puerto-rico-vote-us-statehood)
 *People, you don’t board the Titanic after it has hit the iceberg.* In
 time Puerto Ricans will learn what Quebec separatists have already
 painfully absorbed. If fence-sitting is your main tactic for extorting
 favors from larger entities stay on the goddamn fence. The minute you
 hop off the larger entity goes back to giving less than a crap about
 you. The [new independent senator from
-Maine](http://www.philly.com/philly/news/nation\_world/20121109\_Maine\_s\_senator-elect\_won\_t\_say\_which\_party\_he\_will\_back.html)
+Maine](https://www.philly.com/philly/news/nation\_world/20121109\_Maine\_s\_senator-elect\_won\_t\_say\_which\_party\_he\_will\_back.html)
 should pay attention. Nobody in the larger United States, or anywhere
 else for that matter, cares a whit about Maine. It only comes up in
 postcards featuring lighthouses. As a person from an even smaller state
@@ -25,7 +25,7 @@ in position to extract favors.* Sending a fence-sitter to the senate is
 smart politics but only if he stays on the fence! The people of Montana
 weren’t smart enough to elect an independent and reelected a [garden
 variety Obama
-stooge.](http://www.washingtonpost.com/blogs/the-fix/wp/2012/11/07/democrat-jon-tester-wins-reelection-in-montana-senate-race/)
+stooge.](https://www.washingtonpost.com/blogs/the-fix/wp/2012/11/07/democrat-jon-tester-wins-reelection-in-montana-senate-race/)
 This only makes sense if you want to be ignored.
 
 My Iranian born wife is a new American citizen and this was her first
@@ -43,7 +43,7 @@ wife holds three citizenships. Countries matter but if you don’t value
 your wife or husband more than your country you’re either in a bad
 marriage or you’re a moron. In a few short years, when our [runaway
 fiscal train finally jumps the
-rails](http://www.hangthebankers.com/economic-collapse-is-inevitable-heres-why/)
+rails](https://www.hangthebankers.com/economic-collapse-is-inevitable-heres-why/)
 and plunges into the abyss, a good spouse will be far more valuable than
 bankrupt government social programs. For lucky bastards like me that’s
 already the case.

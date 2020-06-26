@@ -1,6 +1,5 @@
-
-[APL Software
-Archaeology `.dbi` Edition](http://bakerjd99.wordpress.com/2013/12/26/apl-software-archaeology-dbi-edition/)
+ 
+[APL Software Archaeology `.dbi` Edition](https://bakerjd99.wordpress.com/2013/12/26/apl-software-archaeology-dbi-edition/)
 ------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 27 Dec 2013 03:39:00*
@@ -20,7 +19,7 @@ comes back has more of an APL than `QWERTYUIOP` flavor. Strange Unicode
 characters are creeping into many mainstream languages. This is a good
 thing because restricting programming to the miserly key sets of ancient
 typewriters was, is, and always will be a spectacularly bad idea. [Ken
-Iverson](http://amturing.acm.org/award\_winners/iverson\_9147499.cfm)
+Iverson](https://amturing.acm.org/award\_winners/iverson\_9147499.cfm)
 deserves rich accolades for pointing this out more than fifty years ago
 and beating this drum incessantly during his lifetime. Iverson taught
 that notation is a tool of thought and that *if you care about ideas you
@@ -60,8 +59,8 @@ APL systems of my employer and rendered it in C\#. This system uses the
 extension `.dbi`. I don’t know who created this system; the code is old.
 The most recent code comments date from the year 2000 but I am pretty
 sure that `.dbi` files predate [component
-files](http://dl.acm.org/citation.cfm?id=28339) in
-[APL+WIN](http://www.apl2000.com/), formerly [STSC
+files](https://dl.acm.org/citation.cfm?id=28339) in
+[APL+WIN](https://www.apl2000.com/), formerly [STSC
 APL](https://en.wikipedia.org/wiki/Scientific\_Time\_Sharing\_Corporation),
 which pushes the design back to the 1980’s or earlier. I know many
 APL’ers check this blog. If any of you know who created the original
@@ -70,14 +69,14 @@ APL’ers check this blog. If any of you know who created the original
 Somehow this `.dbi` system survived unsupported, with few user
 complaints, for decades of daily use. How is this possible?
 Astonishingly, good ideas age well and the core `.dbi` idea is inverted
-data. Modern [high performance databases](http://kx.com/) make heavy use
+data. Modern [high performance databases](https://kx.com/) make heavy use
 of this method. Inversion is so effective that hoary old interpreted APL
 code still beats compiled and optimized ADO.Net when fetching large
 numeric vectors and tables.
 
 Restoring the `.dbi` system was a two-step process.[^4415b] I first
 converted the APL system to J. I used [J because it is a close relative
-of APL](http://www.jsoftware.com/jwiki/FrontPage) but not so close that
+of APL](https://www.jsoftware.com/jwiki/FrontPage) but not so close that
 you can cut and paste. Translating nontrivial APL to J forces you to
 understand the APL at the nit-bitty level. The translation to J also
 allowed me to fix the APL interface. The original system used global
@@ -90,7 +89,7 @@ found bugs in all three systems. I fixed the J and C\# bugs but left the
 original APL code unchanged. Software archaeology is a delicate field.
 You don’t “fix” old code just like you don’t correct errors in cuneiform
 tablets. Original and important program code belongs in
-[museums](http://www.computerhistory.org/) with other significant
+[museums](https://www.computerhistory.org/) with other significant
 cultural artifacts.
 
 Original inverted file code probably belongs in a museum. This `.dbi`
@@ -110,7 +109,7 @@ for dealing with indexed binary inverted file data. Enjoy!
     systems.
 
 [^4415b]: Restoring old code is somewhat like [restoring old
-    pictures](http://conceptcontrol.smugmug.com/Themes/Manipulations/Restorations-1).
+    pictures](https://conceptcontrol.smugmug.com/Themes/Manipulations/Restorations-1).
     When working on old pictures you’re always tempted to *improve
     them.* With pictures you usually have a choice. This may not hold
     for old code. Changes in software may force updates.

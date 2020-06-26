@@ -1,12 +1,11 @@
-
-[FCC Follies
-and Monkey Browsing](http://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/)
+ 
+[FCC Follies and Monkey Browsing](https://analyzethedatanotthedrivel.org/2017/03/30/fcc-follies-and-monkey-browsing/)
 -------------------------------------------------------------------------------------------------------
 
 *Posted: 31 Mar 2017 04:03:15*
 
 There is much wailing on the
-[*intertubes*](http://www.urbandictionary.com/define.php?term=intertubes)
+[*intertubes*](https://www.urbandictionary.com/define.php?term=intertubes)
 about proposed changes to FCC Internet privacy rules. That horrible
 orange Russian stooge is desecrating the Lightbringer’s enlightened
 decrees and the [usual
@@ -60,7 +59,7 @@ act](https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act) and
 declare the personal use of VPN an act of domestic terrorism! I know
 this sounds crazy but these days it’s a criminal act in the United
 States for farmers [to fix their own damn
-tractors](http://modernfarmer.com/2016/07/right-to-repair/) if the
+tractors](https://modernfarmer.com/2016/07/right-to-repair/) if the
 repairs bypass or replace embedded device software. Yes, intellectual
 property rights are that screwed up!
 
@@ -70,7 +69,7 @@ idea is simple, cheap and extremely effective. Before data miners can
 extract digital gold they have to purge the garbage in their databases.
 For most corporations cleaning data is an ongoing struggle. It’s always
 time-consuming, expensive, and it always threatens the
-[ROI](http://www.investopedia.com/terms/r/returnoninvestment.asp) of
+[ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) of
 analytic projects. If there’s too much shit in the ice cream the mixture
 tastes more like shit than ice cream. So how do you mix browsing history
 shit into mega-corp ISP ice cream?

@@ -1,16 +1,15 @@
-
-[Falling Colors Technology
-a BHSD Crony that needs Competition](http://analyzethedatanotthedrivel.org/2016/07/05/falling-colors-technology-a-bhsd-crony-that-needs-competition/)
+ 
+[Falling Colors Technology a BHSD Crony that needs Competition](https://analyzethedatanotthedrivel.org/2016/07/05/falling-colors-technology-a-bhsd-crony-that-needs-competition/)
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Jul 2016 20:13:36*
 
 BHSD ([Behavioral Health Services
-Division](http://www.hsd.state.nm.us/Behavioral_health_services_division.aspx))
+Division](https://www.hsd.state.nm.us/Behavioral_health_services_division.aspx))
 is a New Mexico state agency that doles out federal and state funds to a
 variety of small, ostensibly health related, programs. For example, in
 the state of New Mexico, BHSD runs a program called
-[Synar](http://www.samhsa.gov/synar/about)[^5261a] that attempts to cut down
+[Synar](https://www.samhsa.gov/synar/about)[^5261a] that attempts to cut down
 on merchants selling cigarettes to minors. One Falling Colors employee
 characterized the program as “mostly stick and no carrots.” Synar funds
 a stable of ambush inspectors that descend on merchants hoping to catch
@@ -39,7 +38,7 @@ If you are naïve enough to think the intended *clients* of BHSD’s
 largesse, the teenage smokers, the mentally ill, and the drug addicts,
 garner the lion’s share of that fifty million dollars you’re probably a
 statist or a moron, but [I repeat
-myself](http://www.twainquotes.com/Congress.html). Many years ago a wise
+myself](https://www.twainquotes.com/Congress.html). Many years ago a wise
 old wag, when badgered about the high cost of landing a man on the moon,
 chirped, “None of that money was spent on the moon!” While some of
 BHSD’s fifty million is directed to clients, *the moon*, the lion’s
@@ -98,18 +97,20 @@ volume websites geared towards BHSD staff and service providers. When I
 first ran the following SQL query on the database that backs many
 Falling Colors websites I was alarmed at the results.
 
-    SELECT  iq.WeekNumber ,
-            AVG(iq.ErrorCount) AS AvgWeekErrors ,
-            MIN(iq.ErrorCount) MinWeekErrors ,
-            MAX(iq.ErrorCount) AS MaxWeekErrors ,
-            STDEV(iq.ErrorCount) AS StdDevWeekErrors
-    FROM    ( SELECT    CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER) AS DayNumber ,
-                        COUNT(1) AS ErrorCount ,
-                        MIN(DATEPART(iso_week, TimeUtc)) AS WeekNumber
-              FROM      dbo.ELMAH_Error
-              GROUP BY  CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER)
-            ) iq
-    GROUP BY iq.WeekNumber
+```SQL
+SELECT  iq.WeekNumber ,
+        AVG(iq.ErrorCount) AS AvgWeekErrors ,
+        MIN(iq.ErrorCount) MinWeekErrors ,
+        MAX(iq.ErrorCount) AS MaxWeekErrors ,
+        STDEV(iq.ErrorCount) AS StdDevWeekErrors
+FROM    ( SELECT    CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER) AS DayNumber ,
+                    COUNT(1) AS ErrorCount ,
+                    MIN(DATEPART(iso_week, TimeUtc)) AS WeekNumber
+            FROM      dbo.ELMAH_Error
+            GROUP BY  CAST(CONVERT(VARCHAR(8), TimeUtc, 112) AS INTEGER)
+        ) iq
+GROUP BY iq.WeekNumber
+```
 
 Falling Colors websites were crashing about twenty times per day. On
 some days the crash count exceeded fifty. I thought to myself, “If this
@@ -138,7 +139,7 @@ is a Visual Studio shop and Visual Studio has built-in unit testing
 tools and supports a host of third-party add-ons. Developers focused on
 quality, spend as much time implementing internal units test as they do
 writing production code. There is an entire coding regime known as
-[TDD](http://agiledata.org/essays/tdd.html) that strongly promotes
+[TDD](https://agiledata.org/essays/tdd.html) that strongly promotes
 writing tests before you write software to pass the tests. At the end of
 June 2016, there were precisely zero internal unit tests in Falling
 Color’s code base. In addition to missing internal unit tests, there
@@ -153,7 +154,7 @@ we would *click on* and ignore their rubbish. Unfortunately, being
 intertwined with BHSD, the users of Falling Colors websites do not have
 the option of *clicking on*. Making things worse, Falling Colors hosts a
 substantial amount of
-[HIPAA](http://www.hhs.gov/hipaa/for-professionals/privacy/) protected
+[HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/) protected
 information.
 
 HIPAA is a set of federal guidelines that outline how health providers

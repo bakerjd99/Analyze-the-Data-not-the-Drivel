@@ -1,7 +1,5 @@
-
-
-[Who Thought
-Blinking Windfarms was a Good Idea?](http://analyzethedatanotthedrivel.org/2019/11/10/who-thought-blinking-windfarms-was-a-good-idea/)
+ 
+[Who Thought Blinking Windfarms was a Good Idea?](https://analyzethedatanotthedrivel.org/2019/11/10/who-thought-blinking-windfarms-was-a-good-idea/)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 10 Nov 2019 18:41:26*

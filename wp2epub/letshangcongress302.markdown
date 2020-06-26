@@ -1,5 +1,5 @@
-[Let’s Hang
-Congress](http://bakerjd99.wordpress.com/2009/12/07/lets-hang-congress/)
+ 
+[Let’s Hang Congress](https://bakerjd99.wordpress.com/2009/12/07/lets-hang-congress/)
 ------------------------------------------------------------------------------------
 
 *Posted: 07 Dec 2009 19:34:01*
@@ -33,17 +33,17 @@ jelly beans and number the beans from 0 to 534.
 Then every year, instead of listening to boring State of the Union
 speeches, we hold a public drawing. Some lucky blindfolded child,
 *[(because we are doing it for the
-children),](http://captaincapitalism.blogspot.com/2009/12/please-stop-it-with-think-of-children.html)*
+children),](https://captaincapitalism.blogspot.com/2009/12/please-stop-it-with-think-of-children.html)*
 will reach in the jar and grab a bean. If the bean is numbered 0 we hang
 everyone in Congress. If another number comes up it’s back to the trough
 for another year.
 
 The [typical member of Congress serves about ten
-years:](http://docs.google.com/viewer?a=v\&q=cache:P925W\_GMcNwJ:www.senate.gov/reference/resources/pdf/RS22007.pdf+congress+term+average\&hl=en\&gl=us\&pid=bl\&srcid=ADGEESi6G0dwq2fAncmpqw--WUWGaARLZ2-1yYqExeYvjf\_P7ByhvGUlDSKP\_3sbbXFiMfjp6drsojRfNfILIRBkIl1L7ghstd6yoUirPblHoXFco1Q7gFEbNMKtQa55-cEjaT-MkuDi\&sig=AHIEtbSGxJ45QmhPawXiT2TOiB7zpp5u2A)
+years:](https://docs.google.com/viewer?a=v\&q=cache:P925W\_GMcNwJ:www.senate.gov/reference/resources/pdf/RS22007.pdf+congress+term+average\&hl=en\&gl=us\&pid=bl\&srcid=ADGEESi6G0dwq2fAncmpqw--WUWGaARLZ2-1yYqExeYvjf\_P7ByhvGUlDSKP\_3sbbXFiMfjp6drsojRfNfILIRBkIl1L7ghstd6yoUirPblHoXFco1Q7gFEbNMKtQa55-cEjaT-MkuDi\&sig=AHIEtbSGxJ45QmhPawXiT2TOiB7zpp5u2A)
 thank you Google. What are the chances the average member will swing?
 This is easy to compute. Generate 10 random integers between 0 and 534
 and see if 0 pops up. In the [J programming
-language](http://www.jsoftware.com/):
+language](https://www.jsoftware.com/):
 
        ? 10 $ 535
 

@@ -1,6 +1,5 @@
-
-[
-EquiFucked](http://analyzethedatanotthedrivel.org/2017/09/26/equifucked/)
+ 
+[EquiFucked](https://analyzethedatanotthedrivel.org/2017/09/26/equifucked/)
 --------------------------------------------------------------------------
 
 *Posted: 26 Sep 2017 22:41:45*
@@ -8,7 +7,7 @@ EquiFucked](http://analyzethedatanotthedrivel.org/2017/09/26/equifucked/)
 If you have the misfortune of dealing with US Fuckancial orifice
 Insertions (Financial Institutions) you’ve probably heard of the
 [Equifax
-hack](http://www.npr.org/2017/09/14/550949718/after-equifax-data-breach-consumers-are-largely-on-their-own).
+hack](https://www.npr.org/2017/09/14/550949718/after-equifax-data-breach-consumers-are-largely-on-their-own).
 Equifax is one of three large companies in the US that collect, without
 your explicit approval, personal credit information to compute credit
 scores. Your credit score is a single number that *allegedly* measures
@@ -45,7 +44,7 @@ wasn’t trying to soil a sacred one bedroom dump with my unscored person.
 The entire episode pissed me off.
 
 Who allowed large, [clearly
-inept](http://www.marketwatch.com/story/equifax-ceo-hired-a-music-major-as-the-companys-chief-security-officer-2017-09-15?mod=mw_share_twitter),
+inept](https://www.marketwatch.com/story/equifax-ceo-hired-a-music-major-as-the-companys-chief-security-officer-2017-09-15?mod=mw_share_twitter),
 credit agencies to collect detailed personal information on pretty much
 every person in the US? Even worse, what bit of arcane intellectual
 property law, gives credit agencies the right to apply, “proprietary” -
@@ -60,10 +59,10 @@ Meaning any disgruntled ITer, and there are a lot of bitter disgruntled
 ITers, could easily replicate the Equifax hack.
 
 The EquiFucks know they are in deep dodo. [Three company
-executives](http://www.latimes.com/business/la-fi-equifax-insider-trading-20170908-story.html)
+executives](https://www.latimes.com/business/la-fi-equifax-insider-trading-20170908-story.html)
 conveniently unloaded company stock after discovering, *but before
 disclosing* the hack, and today [the CEO “voluntarily
-retired.”](http://abcnews.go.com/Technology/wireStory/equifax-ceo-retires-wake-damaging-data-breach-50102174)
+retired.”](https://abcnews.go.com/Technology/wireStory/equifax-ceo-retires-wake-damaging-data-breach-50102174)
 I know it looks like they’re pulling the ripcords on their golden
 parachutes but I’m sure it’s all as innocent and kosher as unleavened
 bread. The EquiFuck is so bad that the traditional stern admonishment to

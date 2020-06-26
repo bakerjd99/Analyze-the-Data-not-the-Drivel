@@ -1,5 +1,5 @@
-[1421: The Crank History of Gavin
-Menzies](http://bakerjd99.wordpress.com/2011/08/11/1421-the-crank-history-of-gavin-menzies/)
+ 
+[1421: The Crank History of Gavin Menzies](https://bakerjd99.wordpress.com/2011/08/11/1421-the-crank-history-of-gavin-menzies/)
 ------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 11 Aug 2011 05:09:12*
@@ -8,32 +8,32 @@ Crank history is big business and it’s getting bigger. For reasons that
 infuriate skeptics there is a never-ending parade of pseudo-historians
 spouting rubbish that is eagerly devoured by a credulous pig ignorant
 public. Gavin Menzies’ ludicrous tome, [1421: The Year China Discovered
-America](http://www.1421exposed.com/html/1421\_and\_all\_that\_junk.html),
+America](https://www.1421exposed.com/html/1421\_and\_all\_that\_junk.html),
 (also titled 1421: The Year China Discovered the World), is the finest
 example of delusional sophistry I’ve encountered since Graham Hancock’s
 insane [Finger Prints of the
-Gods](http://www.csicop.org/si/show/tracing\_graham\_hancockrsquos\_shifting\_cataclysm/).
+Gods](https://www.csicop.org/si/show/tracing\_graham\_hancockrsquos\_shifting\_cataclysm/).
 
 About the only thing you can say for Gavin’s fantasy is that, (unlike
 Hancock’s Finger Prints – the
-“[science](http://en.wikipedia.org/wiki/Fingerprints\_of\_the\_Gods)”
+“[science](https://en.wikipedia.org/wiki/Fingerprints\_of\_the\_Gods)”
 behind the movie
-[2012](http://blog.moviefone.com/2011/01/03/nasa-names-most-realistic-and-unrealistic-sci-fi-films-of-all-ti/)),
+[2012](https://blog.moviefone.com/2011/01/03/nasa-names-most-realistic-and-unrealistic-sci-fi-films-of-all-ti/)),
 1421 is remotely plausible. It’s to bad that *remotely plausible* does
 not make your case! Skeptics are
-[hard-asses](http://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
+[hard-asses](https://bakerjd99.wordpress.com/2009/10/29/hard-ass-skeptic-rules/)
 we demand rigorous and repeatedly verified evidence before deeming
 suppositions *possibly not crap*! By this standard Gavin falls way
 short. I’m not going to catalog Gavin’s many errors, omissions and
 deceptions. That task has already been done by an army of critics. You
 can look
-[here](http://www.csicop.org/sb/show/zheng\_he\_in\_the\_americas\_and\_other\_unlikely\_tales\_of\_exploration\_and\_discov/)
+[here](https://www.csicop.org/sb/show/zheng\_he\_in\_the\_americas\_and\_other\_unlikely\_tales\_of\_exploration\_and\_discov/)
 and
-[here](https://docs.google.com/viewer?url=http://www.e-perimetron.org/Vol\_2\_4/Wade.pdf\&pli=1)
-and [here](http://www.asianreviewofbooks.com/new/?revID=201) and
-[here](http://badarchaeology.wordpress.com/tag/gavin-menzies/). In
+[here](https://docs.google.com/viewer?url=https://www.e-perimetron.org/Vol\_2\_4/Wade.pdf\&pli=1)
+and [here](https://www.asianreviewofbooks.com/new/?revID=201) and
+[here](https://badarchaeology.wordpress.com/tag/gavin-menzies/). In
 particular [Bill Hartz’s exhaustive
-demolition](http://www.dightonrock.com/gavinsfantalyland.htm) is a
+demolition](https://www.dightonrock.com/gavinsfantalyland.htm) is a
 bracing tonic for Gavin’s numbing elixir.
 
 To get the gist of Gavin’s arguments let’s look at one of his claims. On

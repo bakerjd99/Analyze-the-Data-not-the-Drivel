@@ -1,10 +1,10 @@
-[Ooh Promethean
-Tentacles](http://bakerjd99.wordpress.com/2012/06/17/ooh-promethean-tentacles/)
+ 
+[Ooh Promethean Tentacles](https://bakerjd99.wordpress.com/2012/06/17/ooh-promethean-tentacles/)
 -----------------------------------------------------------------------------------------------
 
 *Posted: 17 Jun 2012 06:02:06*
 
-[Prometheus](http://www.prometheus-movie.com/) breaks the first rule of
+[Prometheus](https://www.prometheus-movie.com/) breaks the first rule of
 movies: *don’t make your audience think!* Any movie that violates this
 taboo gets exactly what it deserves and Prometheus is begging for it.
 
@@ -18,7 +18,7 @@ us in on the shallow thoughts of the too stupid to live protagonists.
 
 I won’t dissect Prometheus’s numerous Promethean logical affronts. The
 blogosphere has already [boiled and
-rendered](http://m15m.livejournal.com/23209.html) that beast. Google the
+rendered](https://m15m.livejournal.com/23209.html) that beast. Google the
 phrase “Prometheus too stupid to live”; the deluge of scorn will restore
 your faith in mankind. I could join in the script-savaging but I’m a
 kind, loving and compassionate man. I like science fiction. I want
@@ -38,7 +38,7 @@ destination the film makes a point of informing us that it’s 3.27 x
 A light year is roughly 10^13^ kilometers thus Prometheus was about
 thirty light years from Earth. I’d turned my cell phone off to watch the
 movie so I didn’t check the [Hipparchus star
-catalogue](http://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html) but
+catalogue](https://heasarc.gsfc.nasa.gov/W3Browse/all/hipparcos.html) but
 I’m pretty sure there are no large visible multiple star groupings that
 close to Earth. It’s possible a grouping of nearby brown dwarfs has
 escaped detection but then the color balance of the giant planet the

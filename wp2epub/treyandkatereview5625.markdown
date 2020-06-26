@@ -1,7 +1,5 @@
-
-
-[Trey 
-and Kate: Review](http://analyzethedatanotthedrivel.org/2019/11/08/trey-and-kate-review/)
+ 
+[Trey and Kate: Review](https://analyzethedatanotthedrivel.org/2019/11/08/trey-and-kate-review/)
 -----------------------------------------------------------------------------------------
 
 *Posted: 08 Nov 2019 22:00:43*

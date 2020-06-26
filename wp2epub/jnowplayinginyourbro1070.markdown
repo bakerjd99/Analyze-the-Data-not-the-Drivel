@@ -1,16 +1,16 @@
-[J 7.01 Now Playing in your
-Browser](http://bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/)
+ 
+[J 7.01 Now Playing in your Browser](https://bakerjd99.wordpress.com/2011/02/12/j-7-01-now-playing-in-your-browser/)
 -------------------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Feb 2011 22:01:31*
 
 Big changes are afoot for J programmers. With the release of [J
-7.01](http://www.jsoftware.com/docs/help701/user/relhigh.htm)
-[JSOFTWARE](http://www.jsoftware.com/) has taken the risky step of
-[deprecating](http://en.wikipedia.org/wiki/Deprecation) two well
+7.01](https://www.jsoftware.com/docs/help701/user/relhigh.htm)
+[JSOFTWARE](https://www.jsoftware.com/) has taken the risky step of
+[deprecating](https://en.wikipedia.org/wiki/Deprecation) two well
 established user
-[IDE’s](http://en.wikipedia.org/wiki/Integrated\_development\_environment)
-and replacing them with brand new [GTK](http://www.gtk.org/) and Web
+[IDE’s](https://en.wikipedia.org/wiki/Integrated\_development\_environment)
+and replacing them with brand new [GTK](https://www.gtk.org/) and Web
 browser-based interfaces. As we all know new software is not necessarily
 better software, (remember that risky bit), but in this case the changes
 make sense.
@@ -27,10 +27,10 @@ non-Windows, (mostly Linux and the Mac), systems it makes no sense to
 treat them like second class citizens. So how do you provide a *state of
 the art portable user IDE* that runs well on Windows, Linux, the Mac,
 smart phones and various
-[IGadgets](http://pinoytutorial.com/techtorial/iboard-and-imat-future-of-apple-products/).
+[IGadgets](https://pinoytutorial.com/techtorial/iboard-and-imat-future-of-apple-products/).
 There is no single answer so JSOFTWARE wisely decided to offer two IDEs:
 JHS and
-[JGTK](http://www.jsoftware.com/jwiki/System/Installation/J701/Gtk).
+[JGTK](https://www.jsoftware.com/jwiki/System/Installation/J701/Gtk).
 
 The JGTK IDE is a desktop application that is similar to the older
 Windows IDE. JGTK is somewhat biased toward Linux but this his doesn’t
@@ -53,11 +53,11 @@ the bulk of my
 [JOD](https://docs.google.com/View?docID=dhnms2p5\_80f4nj56c5\&revision=\_latest)
 update work with JHS and I frequently forget I’m using a browser! *Good
 user interfaces,* *[unlike
-politicians](http://www.nationalreview.com/articles/225959/coming-obama-thugocracy/michael-barone),
+politicians](https://www.nationalreview.com/articles/225959/coming-obama-thugocracy/michael-barone),
 get out of your face!*
 
 As for my [J addon
-JOD](http://www.jsoftware.com/jwiki/Addons/general/jod): J 7.01
+JOD](https://www.jsoftware.com/jwiki/Addons/general/jod): J 7.01
 introduced a number of system script changes that break JOD 0.8.0. I am
 working on JOD 0.9.0, (a beta version is available in the files box
 sidebar of this blog), that fixes these problems and implements some

@@ -1,14 +1,14 @@
-[More about JHS with 
-the DHTMLX Grid](http://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/)
+ 
+[More about JHS with the DHTMLX Grid](https://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/)
 ---------------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Dec 2012 04:22:50*
 
 I have resolved my [DHTMLX standard
-edition](http://dhtmlx.com/docs/download.shtml) row data extraction
+edition](https://dhtmlx.com/docs/download.shtml) row data extraction
 problem. The standard edition does not serialize grids or track user
 cell changes. You have to pay for such luxuries. Because I’m a [foul
-software Grinch](http://www.youtube.com/watch?v=ZgP0aUKlmNw) and this is
+software Grinch](https://www.youtube.com/watch?v=ZgP0aUKlmNw) and this is
 just an exploratory hack I had to roll my own. I am posting the relevant
 JavaScript because I could not find similar examples. Here is how you
 can fetch rows from standard edition DHTMLX grids and save them as JSON

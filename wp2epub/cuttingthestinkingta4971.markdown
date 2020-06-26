@@ -1,6 +1,5 @@
-
-[Cutting the Stinking Tauntaun 
-and other Adventures in Software Archeology](https://bakerjd99.wordpress.com/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/) 
+ 
+[Cutting the Stinking Tauntaun and other Adventures in Software Archeology](https://bakerjd99.wordpress.com/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/) 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Apr 2015 18:51:31*
@@ -58,7 +57,7 @@ only one programmer in your organization knows ancient Batch!  The
 Stinking Tauntaun Project wasn’t this crazy but there were clear signs
 that we were setting out on what has been accurately described as a
 [Death
-March](http://www.amazon.com/Death-March-Edition-Edward-Yourdon/dp/013143635X).
+March](https://www.amazon.com/Death-March-Edition-Edward-Yourdon/dp/013143635X).
 
 Avoiding Death Marches, or finding ways to shift blame for them, is an
 essential survival skill for young corporate programmers. It’s not an
@@ -95,7 +94,7 @@ that does something important.**
 “Refactoring” is a word that [I love to
 mock](https://bakerjd99.wordpress.com/2010/01/28/why-code-when-you-can-steal/)
 but the refactoring literature showcases an astonishingly precise term:
-[“code smell.”](http://en.wikipedia.org/wiki/Code_smell) Code smells are
+[“code smell.”](https://en.wikipedia.org/wiki/Code_smell) Code smells are
 exactly what you expect. Something about the code stinks. The Stinking
 Tauntaun code base didn’t just stink, it reeked like diuretic dog shit
 on choleric vomit. This was well-known throughout the company.  My
@@ -133,11 +132,11 @@ bad system.
 
 There is a tale, possibly apocryphal, from the dawn of programming that
 goes something like this: a young programmer of the
-[ENIAC](http://en.wikipedia.org/wiki/ENIAC) generation was having a bad
+[ENIAC](https://en.wikipedia.org/wiki/ENIAC) generation was having a bad
 day. He was trying to get some program running and was getting
 frustrated “re-wiring.” Our young programmer was experiencing one of the
 first “debugging” sessions back when [real
-insects](http://en.wikipedia.org/wiki/Grace_Hopper) came into play. In a
+insects](https://en.wikipedia.org/wiki/Grace_Hopper) came into play. In a
 moment of life searing insight our young programmer realized that from
 now on most of his time would be consumed hunting down errors in faulty
 programs.  The tale goes dark here. I’ve often wondered what happened to

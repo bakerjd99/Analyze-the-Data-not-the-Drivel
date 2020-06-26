@@ -1,6 +1,5 @@
-
-[For Carl’s
-Memorial](https://bakerjd99.wordpress.com/2015/06/20/for-carls-memorial/)
+ 
+[For Carl’s Memorial](https://bakerjd99.wordpress.com/2015/06/20/for-carls-memorial/)
 -------------------------------------------------------------------------
 
 *Posted: 20 Jun 2015 18:06:47*

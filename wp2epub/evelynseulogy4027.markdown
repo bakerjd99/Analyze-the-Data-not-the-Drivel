@@ -1,12 +1,11 @@
-
-[Evelyn’s 
-Eulogy](http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/)
+ 
+[Evelyn’s Eulogy](https://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/)
 ----------------------------------------------------------------------------
 
 *Posted: 16 May 2013 00:04:44*
 
 *Last Saturday, May 11, 2013, I attended my [mother’s
-funeral](http://www.franzen-davis.com/fh/obituaries/obituary.cfm?o\_id=2084629\&fh\_id=14384)
+funeral](https://www.franzen-davis.com/fh/obituaries/obituary.cfm?o\_id=2084629\&fh\_id=14384)
 and gave this short eulogy. *
 
 I will start with an apology. I hope to make it through this without

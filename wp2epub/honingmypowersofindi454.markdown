@@ -1,5 +1,5 @@
-[Honing my Powers of
-Indifference](http://bakerjd99.wordpress.com/2010/03/11/honing-my-powers-of-indifference/)
+ 
+[Honing my Powers of Indifference](https://bakerjd99.wordpress.com/2010/03/11/honing-my-powers-of-indifference/)
 ---------------------------------------------------------------------------------------------------------------
 
 *Posted: 11 Mar 2010 19:17:54*
@@ -20,21 +20,21 @@ shouldn’t even try. Here are some people and issues I am ignoring.
     higher per capita taxes. It pisses me off that drag queens cannot
     leave their millions to their bum buddies without sleazy estate
     fights. [If your property rights are not protected your human rights
-    are irrelevant.](http://mises.org/daily/2569)
+    are irrelevant.](https://mises.org/daily/2569)
 
 2.  **Global warming:** Yeah, the world is slowly warming and it might
     be a problem by the middle of this century. Unfortunately by the
     middle of the century I am dead so, for me, global warming is like
     the increase in the [Sun’s luminosity a billion years from
-    now](http://j.dollan.home.bresnan.net/MUSunLife.html) or, even
+    now](https://j.dollan.home.bresnan.net/MUSunLife.html) or, even
     worse, [when all the stars go dark in a few hundred trillion
-    years.](http://en.wikipedia.org/wiki/Future\_of\_an\_expanding\_universe#Star\_formation\_ceases)
+    years.](https://en.wikipedia.org/wiki/Future\_of\_an\_expanding\_universe#Star\_formation\_ceases)
     Fifty years, a billion years, a hundred trillion years it doesn’t
     matter I am still dead. Next issue please.
 
 3.  **President Obama**: I had a bad feeling when I heard his [infamous
     oceans rolled back
-    speech](http://www.youtube.com/watch?v=u2pZSvq9bto) during the
+    speech](https://www.youtube.com/watch?v=u2pZSvq9bto) during the
     Democratic convention. It was one of those spectacularly stupid
     remarks that forever stain one’s reputation. Well after two years of
     campaigning and one year of inept governing it’s official: nothing
@@ -45,12 +45,12 @@ shouldn’t even try. Here are some people and issues I am ignoring.
     like mountain ranges and deep-sea trenches do not make sense without
     continental drift. Very few creationists rail against continental
     drift because we can see it happening. The
-    [VLBI](http://www.evlbi.org/links/links.html) radio telescope array
+    [VLBI](https://www.evlbi.org/links/links.html) radio telescope array
     is calibrated on a regular basis because the antennas are sitting on
     moving continental plates and the precise millimeter scale distance
     between them is always changing. The process of evolution is still
     up and running and will be long after [all creationist
-    dipshits](http://creationistidiocy.blogspot.com/2009/02/morons-of-month-holy-trinity-of-stupid.html)
+    dipshits](https://creationistidiocy.blogspot.com/2009/02/morons-of-month-holy-trinity-of-stupid.html)
     are fossilized.
 
 5.  **Stock Tips and other Financial prognostications**: Investing your
@@ -58,7 +58,7 @@ shouldn’t even try. Here are some people and issues I am ignoring.
     If it was so damn easy we would all be rich. I observe the contrary.
 
 6.  **CNN. MSNBC, FOX, ABC, NBC, CBC and BBC news**: Please just
-    [FOAD](http://www.urbandictionary.com/define.php?term=F.O.A.D.) and
+    [FOAD](https://www.urbandictionary.com/define.php?term=F.O.A.D.) and
     free up some valuable bandwidth. You are no longer relevant and are
     simply wasting our time.
 

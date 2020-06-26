@@ -1,6 +1,5 @@
-
-[Ukraine takeaway:
-Don’t give up your Nukes](http://bakerjd99.wordpress.com/2014/04/18/ukraine-takeaway-dont-give-up-your-nukes/)
+ 
+[Ukraine takeaway: Don’t give up your Nukes](https://bakerjd99.wordpress.com/2014/04/18/ukraine-takeaway-dont-give-up-your-nukes/)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Apr 2014 14:07:29*
@@ -12,11 +11,11 @@ turning them in for the magic beans of “international guarantees.” It
 would be interesting to review the anti-nuke sales pitches made to
 Ukrainian officials; I’m guessing large undisclosed deposits were made
 to key bank accounts because [such
-stupidity](http://www.slate.com/blogs/the\_world\_/2014/03/19/the\_budapest\_memorandum\_in\_1994\_russia\_agreed\_to\_respect\_ukraine\_s\_borders.html)
+stupidity](https://www.slate.com/blogs/the\_world\_/2014/03/19/the\_budapest\_memorandum\_in\_1994\_russia\_agreed\_to\_respect\_ukraine\_s\_borders.html)
 is hard to reconcile otherwise.
 
 Nuclear weapons are so icky and evil that [enlightened beings
-pine](http://blogs.telegraph.co.uk/news/nilegardiner/100002371/is-obama-the-most-naive-president-in-us-history/)
+pine](https://blogs.telegraph.co.uk/news/nilegardiner/100002371/is-obama-the-most-naive-president-in-us-history/)
 for a nuke free world. Why? *Because the world before nukes was just so
 peachy wonderful!* Surely you remember that awesome world, great states
 only marched off to world wars every generation or so. The strong never

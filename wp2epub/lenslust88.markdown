@@ -1,5 +1,5 @@
-[Lens 
-Lust](http://bakerjd99.wordpress.com/2009/09/22/lens-lust/)
+ 
+[Lens Lust](https://bakerjd99.wordpress.com/2009/09/22/lens-lust/)
 -----------------------------------------------------------------
 
 *Posted: 22 Sep 2009 19:34:40*
@@ -27,7 +27,7 @@ logical reasons for lusting after this lens are:
 
 6.  I have had good results from prime lenses in the past.
 
-[Image link: AFS f1.8 35mm](http://bakerjd99.files.wordpress.com/2009/09/6502514431.jpg)
+[Image link: AFS f1.8 35mm](https://bakerjd99.files.wordpress.com/2009/09/6502514431.jpg)
 
 I knew I wanted a lens like this even before Nikon started offering it.
 For the last three years legions of Nikon users have been waiting for
@@ -40,15 +40,15 @@ offering something that people will actually buy in a recession.
 After the *f1.8 35* appeared buying one proved difficult. Remember
 those legions of Nikon users: lots of them wanted this lens. For months
 you couldn’t find this item in stock anywhere. The other day I read that
-it was available at [B & H](http://www.bhphotovideo.com/) so I hopped
+it was available at [B & H](https://www.bhphotovideo.com/) so I hopped
 online and ordered instantly.
 
 So how does it work?
 
-It’s apparent from the raw *[NEF](http://filext.com/file-extension/NEF)*
+It’s apparent from the raw *[NEF](https://filext.com/file-extension/NEF)*
 files that it’s sharper and renders straight lines better than the kit
 18-55mm lens. The *f1.8* also does something I have dearly missed. If
 you crank open the aperture you can produce a nice blurred background:
-[bokeh](http://en.wikipedia.org/wiki/Bokeh) baby!
+[bokeh](https://en.wikipedia.org/wiki/Bokeh) baby!
 
-[Image link: Bluffton clown](http://conceptcontrol.smugmug.com/Places/USA-and-Canada/Indiana-Images/fair-ride-clown/658078084_xiMcn-S.jpg)
+[Image link: Bluffton clown](https://conceptcontrol.smugmug.com/Places/USA-and-Canada/Indiana-Images/fair-ride-clown/658078084_xiMcn-S.jpg)

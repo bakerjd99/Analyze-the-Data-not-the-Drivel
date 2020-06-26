@@ -1,6 +1,5 @@
-
-[Still Totally
-Awesome](http://analyzethedatanotthedrivel.org/2017/08/27/still-totally-awesome/)
+ 
+[Still Totally Awesome](https://analyzethedatanotthedrivel.org/2017/08/27/still-totally-awesome/)
 ---------------------------------------------------------------------------------
 
 *Posted: 27 Aug 2017 20:36:53*

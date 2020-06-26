@@ -1,6 +1,5 @@
-
-[My Final Facebook 
-Fuckoff](https://analyzethedatanotthedrivel.org/2017/01/07/my-final-facebook-fuckoff/)
+ 
+[My Final Facebook Fuckoff](https://analyzethedatanotthedrivel.org/2017/01/07/my-final-facebook-fuckoff/)
 --------------------------------------------------------
 
 *Posted: 08 Jan 2017 01:41:28*

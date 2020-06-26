@@ -1,6 +1,5 @@
-
-[Social Security Numbers
-are Broken beyond Repair](https://bakerjd99.wordpress.com/2015/05/17/social-security-numbers-are-broken-beyond-repair/)
+ 
+[Social Security Numbers are Broken beyond Repair](https://bakerjd99.wordpress.com/2015/05/17/social-security-numbers-are-broken-beyond-repair/)
 -----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 17 May 2015 18:24:39*
@@ -59,7 +58,7 @@ completely fails all three of these tests.
 
 Let’s start with unambiguous linking. News flash: your Social Security
 Number [does not uniquely identify
-you](http://www.dailyfinance.com/2010/08/12/your-social-security-number-may-not-be-unique-to-you/).
+you](https://www.dailyfinance.com/2010/08/12/your-social-security-number-may-not-be-unique-to-you/).
 There are many reasons for SSN duplicates with identity theft being the
 leading cause. Is it fair to blame SSN numbers for criminal abuse? Yes
 you dumb fucks! Identity systems must operate on the bedrock principle
@@ -77,7 +76,7 @@ button. While it’s unlikely that nine random digits will form a valid
 SSN it’s clearly not rocket science to concoct plausible SSNs. Good
 identifier keys are unavoidably unique. There are [many high quality
 unique key
-algorithms](http://en.wikipedia.org/wiki/Globally_unique_identifier).
+algorithms](https://en.wikipedia.org/wiki/Globally_unique_identifier).
 SSNs are crappy keys; any database professional that advocated their use
 would be fired on the spot.
 
@@ -86,7 +85,7 @@ complete, so total, and so absolute, that it’s hard to attribute it to
 mere government stupidity. I don’t blame the paranoid for thinking it
 was a clumsy backdoor scheme to label citizens for other purposes. Heh,
 even the official [government Social Security
-Page](http://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html) brags that
+Page](https://www.ssa.gov/policy/docs/ssb/v69n2/v69n2p55.html) brags that
 your SSN has *“come to be used as a nearly universal identifier.”*
 Anyone that contests this is an idiot. Every two-bit database out there
 has an SSN column in it. Many SSNs are still completely unencrypted;
@@ -95,7 +94,7 @@ theft business. Keep that in mind the next time some outfit asks for
 your SSN.
 
 When you make a VISA, MasterCard or Apple Pay purchase with a “[chipped
-card](http://www.creditcards.com/credit-card-news/emv-faq-chip-cards-answers-1264.php)”
+card](https://www.creditcards.com/credit-card-news/emv-faq-chip-cards-answers-1264.php)”
 a onetime transaction code is generated and mixed with your credit card
 number.[^5047a] This allows the central authority, VISA and MasterCard in
 this case, to verify your credit *without creating a permanent number
