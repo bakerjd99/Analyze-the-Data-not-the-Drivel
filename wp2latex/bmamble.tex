@@ -210,6 +210,10 @@
 \definecolor{CodeComment}{rgb}{0,0.50,0.00}           % dark green {0,0.45,0.08}
 \definecolor{TableStripes}{gray}{0.9}                 % odd/even background in tables
 
+% tightlist command for list spacing - inserted by pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
 \lstdefinelanguage{bat}
 {morekeywords={echo,title,pushd,popd,setlocal,endlocal,off,if,not,exist,set,goto,pause},
 sensitive=True,
