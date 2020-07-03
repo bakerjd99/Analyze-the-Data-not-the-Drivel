@@ -117,7 +117,7 @@ lxml](https://github.com/bakerjd99/jacks/blob/master/notebooks/Extracting%20SQL%
 [^2x5673]: Python’s readability is a major asset when disentangling
     *mess-ware*.
 
-[^3x573]: Yes, I’ve railed about the word “refactoring” in the past but I’ve
+[^3x5673]: Yes, I’ve railed about the word “refactoring” in the past but I’ve
     moved on and so should you. [“A foolish consistency is the hobgoblin
     of little
     minds.”](https://www.dictionary.com/browse/a-foolish-consistency-is-the-hobgoblin-of-little-minds)

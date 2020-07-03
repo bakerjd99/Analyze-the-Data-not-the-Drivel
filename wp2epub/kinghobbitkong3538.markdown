@@ -10,7 +10,7 @@ battle](https://www.nydailynews.com/blogs/pageviews/2012/11/law-of-the-rings-pro
 over who would direct the Hobbit and how to split any spoils. After
 Peter Jackson’s cinematic Lord of the Rings triumph people assumed he
 would be The Hobbit guy but an envious and embittered clique of
-Tolkien’s heirs felt the weren’t getting enough for their stuff and
+Tolkien’s heirs felt they weren’t getting enough for their stuff and
 filed suit demanding more. For some reason the spoiled progeny of the
 famous and accomplished think they’re entitled to feed on their glorious
 ancestor’s corpse — oops estate — forever. We’ve seen enough of this in
