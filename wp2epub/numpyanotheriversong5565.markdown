@@ -163,8 +163,18 @@ c = np.array( [ [1,2], [3,4] ], dtype=complex )
 
 ```J
 NB. J 
-j. 1 2 ,: 3 4 
+0 j.~ 1 2 ,: 3 4 
 ``` 
+
+```PYTHON
+# numpy - make complex numbers with nonzero real and imaginary parts
+c + (0+4.7j) 
+```
+
+```J
+NB. J - also for J
+c + 0j4.7
+```
 
 ```PYTHON
 # numpy 
@@ -319,6 +329,6 @@ a[ : :-1]   # reversal
 NB. J 
 a =. (i. 10) ^ 3 
 2 { a 
-(2 + i. 3) { 
-a |. a
+(2 + i. 3) { a
+|. a
 ```
