@@ -164,108 +164,170 @@ and J Make Sweet Array Love}.
 
 \subsection*{Creating simple arrays}
 
-\begin{verbatim}
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy
   a = np.arange(15).reshape(3, 5)
-    
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J 
   a =. 3 5 $ i. 15
+\end{lstlisting}
 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
-  a = np.array([2,3,4]) 
-   
+  a = np.array([2,3,4])
+\end{lstlisting} 
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]    
   NB. J 
-  a =. 2 3 4  
-  
+  a =. 2 3 4 
+\end{lstlisting} 
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
-  b = np.array([(1.5,2,3), (4,5,6)]) 
-   
+  b = np.array([(1.5,2,3), (4,5,6)])
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]    
   NB. J 
   b =. 1.5 2 3 ,: 4 5 6
+\end{lstlisting}
 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
   c = np.array( [ [1,2], [3,4] ], dtype=complex ) 
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]   
   NB. J 
-  j. 1 2 ,: 3 4  
-  
+  0 j.~ 1 2 ,: 3 4  
+\end{lstlisting}
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
+  # numpy - make complex numbers with nonzero real and imaginary parts
+  c + (0+4.7j) 
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]   
+  NB. J - also for J
+  c + 0j4.7
+\end{lstlisting}
+ 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   # numpy 
-  np.zeros( (3,4) )  
-  
+  np.zeros( (3,4) ) 
+\end{lstlisting} 
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]  
   NB. J 
   3 4 $ 0  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   # numpy - allocates array with whatever is in memory 
   np.empty( (2,3) )  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]   
   NB. J - uses fill - safer but slower than numpy's trust memory method 
   2 3 $ 0.0001 
-\end{verbatim}
+\end{lstlisting}
 
 \subsection*{Basic operations}
 
-\begin{verbatim}
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
   a = np.array( [20,30,40,50] ) 
   b = np.arange( 4 ) 
   c = a - b  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]   
   NB. J 
   a =. 20 30 40 50 
   b =. i. 4 
   c =. a - b  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   # numpy - uses previously defined (b) 
   b ** 2  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]  
   NB. J 
   b ^ 2
+\end{lstlisting}
 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy - uses previously defined (a) 
   10 * np.sin(a)  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]  
   NB. J 
   10 * 1 o. a  
+\end{lstlisting}
   
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy - booleans are True and False 
   a < 35  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J - booleans are 1 and 0 
   a < 35
-\end{verbatim}
+\end{lstlisting}
 
 \subsection*{Array processing}
 
-\begin{verbatim}
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
   a = np.array( [[1,1], [0,1]] ) 
   b = np.array( [[2,0], [3,4]] ) 
   # elementwise product 
   a * b
+\end{lstlisting}
 
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J 
   a =. 1 1 ,: 0 1 
   b =. 2 0 ,: 3 4 
   a * b
+\end{lstlisting}
 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy - matrix product 
   np.dot(a, b)
+\end{lstlisting}
 
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J - matrix product 
-  a +/ . * b    
+  a +/ . * b   
+\end{lstlisting} 
   
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy - uniform pseudo random 
   a = np.random.random( (2,3) )  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]   
   NB. J - uniform pseudo random 
   a =. ? 2 3 $ 0  
+\end{lstlisting}
   
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy - sum all array elements - implicit ravel 
   a.sum(a)  
-  
+\end{lstlisting}
+
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]  
   NB. J - sum all array elements - explicit ravel 
   +/ , a  
-  
+\end{lstlisting}
+ 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy 
   b = np.arange(12).reshape(3,4) 
   # sum of each column 
@@ -276,7 +338,10 @@ and J Make Sweet Array Love}.
   b.cumsum(axis=1) 
   # transpose 
   b.T     
+\end{lstlisting}
 
+\lstset{escapeinside={(}{)}} % | characater does not show in lstlisting without escape
+\begin{lstlisting}[language=jdoc, escapeinside={(}{)}, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J  
   b =. 3 4 $ i. 12 
   NB. sum of each column 
@@ -286,24 +351,30 @@ and J Make Sweet Array Love}.
   NB. cumulative sum along each row 
   +/\"0 1 b 
   NB. transpose 
-  |: b
-\end{verbatim}
+  (\verb!|!): b
+\end{lstlisting}
+\lstset{escapeinside={}{}} 
+
 
 \subsection*{Indexing and slicing}
 
-\begin{verbatim}
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize]
   # numpy  
   a = np.arange(10) ** 3  
   a[2] 
   a[2:5] 
   a[ : :-1]   # reversal
+\end{lstlisting}
 
+\lstset{escapeinside={[}{]}}
+\begin{lstlisting}[language=jdoc, frame=single, framerule=0pt, basicstyle=\ttfamily\normalsize, keywordstyle=\bfseries\color{keywcolor}\normalsize] 
   NB. J 
   a =. (i. 10) ^ 3 
   2 { a 
-  (2 + i. 3) { 
-  a |. a
-\end{verbatim}
+  (2 + i. 3) { a
+  [\verb!|!]. a
+\end{lstlisting}
+\lstset{escapeinside={}{}} 
 
 
 
