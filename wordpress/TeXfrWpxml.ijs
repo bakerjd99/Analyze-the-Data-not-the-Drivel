@@ -212,6 +212,12 @@ hash=. ctl ;"1 ' ' ,&.> sha1dir mdpath,'*.epub'
 hash=. hash, LF, ctl ;"1 ' ' ,&.> sha1dir mdpath,'*.mobi'
 hash=. hash, LF, ctl ;"1 ' ' ,&.> sha1dir mdpath,'*.markdown'
 (toJ hash) write mdpath,'bmepubsha1.txt'
+
+xhtmlpath=. 'c:/pd/blog/wp2epub/xhtml/'
+hash=. ctl ;"1 ' ' ,&.> sha1dir xhtmlpath,'*.xhtml'
+hash=. hash, LF, ctl ;"1 ' ' ,&.> sha1dir xhtmlpath,'*.css'
+hash=. hash, LF, ctl ;"1 ' ' ,&.> sha1dir xhtmlpath,'*.ncx'
+(toJ hash) write xhtmlpath,'bmexhtmlsha1.txt'
 )
 
 

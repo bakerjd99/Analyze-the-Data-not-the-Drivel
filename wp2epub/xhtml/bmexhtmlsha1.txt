@@ -1,0 +1,6 @@
+ ec86916f6c3ebeb471b14fd875b3b95a65ea69fe bm.xhtml
+ 29641f141e9d610e92bf0bc8e9c5b1f2ed0243cd cover.xhtml
+ 39ec926b486af7a0e77f4f8415dcab46a7d12a60 nav.xhtml
+ 34020089ebdcf752f7be786aafc98757fa9e78a7 title_page.xhtml
+ 9ab2aeb7ad096be47fae11bfe2d54fa50525bef0 stylesheet1.css
+ 4b14782653be049c1befd4c08ac92a199ea7d021 toc.ncx
