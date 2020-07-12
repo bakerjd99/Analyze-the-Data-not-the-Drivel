@@ -24,6 +24,7 @@ NB. 13dec20 save copy in GitHub (jacks) repository
 NB. 15may06 (BlogHashes) added
 NB. 17may13 (LATEXFIGURETEMPLATES) added
 NB. 17sep29 use J 8.06 sha hash functions - removes need for external dll
+NB. 20jul11 (BlogHashes) adjusted to track xhtml version
 
 require 'task'
 coclass 'TeXfrWpxml' 
@@ -353,10 +354,7 @@ NB. files=. sortonid files
 
 NB. mash posts together - affix date
 epubamble=. (allwhitetrim epubamble),LF,('% ',timestamp ''),2#LF
-
-NB. posts=. ; '#' ,&.> (allwhitetrim&.> read&.> files) ,&.> <2#LF
-posts=. ; (allwhitetrim&.> read&.> files) ,&.> <2#LF
-
+posts=. ; '#' ,&.> (allwhitetrim&.> read&.> files) ,&.> <2#LF
 posts=. utf8 toHOST epubamble,(2#LF),posts
 posts write file=. epubdir,mdownfile
 1;((":#files),' post(s)');file
