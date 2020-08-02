@@ -18,6 +18,8 @@ and J: Using TeXfrWpxml.ijs (Part 3)](https://bakerjd99.wordpress.com/2012/02/25
 
 5. [Better Blogging with Jupyter Notebooks on WordPress.com](https://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/)
 
+6. [Tweaking Jupyter export HTML with Templates](https://analyzethedatanotthedrivel.org/2020/07/31/tweaking-jupyter-export-html-with-templates/)
+
 These files divide into two classes: *plumbing* and *content.* Plumbing
 consists of `LaTeX` preambles, style files, shell scripts and other files
 used to build and format content. Feel free to copy, adapt and tweak
@@ -37,4 +39,4 @@ available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Da
 link download the file and ignore the ever spinning busy circle.
 
 John Baker
-June 23, 2020
+August 2, 2020
