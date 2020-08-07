@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-08-02 15:45"-->
+<!-- generator="WordPress.com" created="2020-08-06 17:20"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel.</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Trust is for imbeciles.</description>
-	<pubDate>Sun, 02 Aug 2020 15:45:08 +0000</pubDate>
+	<pubDate>Thu, 06 Aug 2020 17:20:31 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -396,6 +396,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>11414</wp:term_id><wp:tag_slug>com</wp:tag_slug><wp:tag_name><![CDATA[COM]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>186643</wp:term_id><wp:tag_slug>comet</wp:tag_slug><wp:tag_name><![CDATA[comet]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>208803228</wp:term_id><wp:tag_slug>comet-bennett</wp:tag_slug><wp:tag_name><![CDATA[Comet Bennett]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>33927</wp:term_id><wp:tag_slug>command-line</wp:tag_slug><wp:tag_name><![CDATA[Command Line]]></wp:tag_name>
@@ -715,6 +717,8 @@
 	<wp:tag><wp:term_id>16981</wp:term_id><wp:tag_slug>hack</wp:tag_slug><wp:tag_name><![CDATA[hack]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>2953828</wp:term_id><wp:tag_slug>hale-bopp</wp:tag_slug><wp:tag_name><![CDATA[Hale-Bopp]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>5121666</wp:term_id><wp:tag_slug>haleys-comet</wp:tag_slug><wp:tag_name><![CDATA[Haley&#039;s Comet]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>37144</wp:term_id><wp:tag_slug>haskell</wp:tag_slug><wp:tag_name><![CDATA[Haskell]]></wp:tag_name>
 </wp:tag>
@@ -1091,6 +1095,8 @@
 	<wp:tag><wp:term_id>338334</wp:term_id><wp:tag_slug>neal-stephenson</wp:tag_slug><wp:tag_name><![CDATA[Neal Stephenson]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>2275114</wp:term_id><wp:tag_slug>neil-degrasse-tyson</wp:tag_slug><wp:tag_name><![CDATA[Neil deGrasse Tyson]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>38255567</wp:term_id><wp:tag_slug>neowise</wp:tag_slug><wp:tag_name><![CDATA[Neowise]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>131661350</wp:term_id><wp:tag_slug>new-age-imbeciles</wp:tag_slug><wp:tag_name><![CDATA[new age imbeciles]]></wp:tag_name>
 </wp:tag>
@@ -3586,6 +3592,10 @@ Converting WordPress XML to $latex \LaTeX$ looks simple enough to make a nice C
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_bfa7e5e70ac3a9de748d3d427c367048</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_87f43572eca4a5c1fb0800d80268a071</wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -10952,7 +10962,7 @@ Analogies are never perfect and eventually the $latex CB = OB$ symmetry breaks d
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1730</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_4723" align="alignleft" width="150"]<a href="https://bakerjd99.files.wordpress.com/2014/06/me.jpg" rel="attachment wp-att-4723"><img class="wp-image-4723 size-thumbnail" style="margin-right:10px;" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg?w=150" alt="me" width="150" height="150" /></a> Are you looking at me?[/caption]
+		<content:encoded><![CDATA[[caption id="attachment_4723" align="alignleft" width="150"]<a href="https://conceptcontrol.smugmug.com/search/?q=me" rel="attachment wp-att-4723"><img class="wp-image-4723 size-thumbnail" style="margin-right:10px;" src="https://bakerjd99.files.wordpress.com/2014/06/me.jpg?w=150" alt="me" width="150" height="150" /></a> Click for more me![/caption]
 
 <p style="padding-left:80px;text-align:left;">I am a recusant programmer. I have lived in seven countries on four continents and would like to catch the first starship outta here!</p>
 
@@ -14738,21 +14748,25 @@ The <code>TeXfrWpxml.ijs </code>script searches for these files in the root dir
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=2507</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading -->
-<h2>This page maintains references to "downloadable" versions of this blog.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
 <p>I frequently update these documents but they are not always current. The online version is the source and it is always up to date.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>This page maintains references to "downloadable" versions of this blog.</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an&nbsp;unpredictable&nbsp;mess wrapping text around usually poorly placed images.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><a href="https://bakerjd99.files.wordpress.com/2020/07/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX$ and <code>markdown</code> source.</li></ol>
-<!-- /wp:list -->]]></content:encoded>
+<ol><li><a href="https://bakerjd99.files.wordpress.com/2020/07/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2507</wp:post_id>
 		<wp:post_date>2012-02-22 23:12:59</wp:post_date>
@@ -45089,6 +45103,164 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 		<wp:postmeta>
 			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Neowise Nostalgia</title>
+		<link>http://analyzethedatanotthedrivel.org/2020/08/03/neowise-nostalgia/</link>
+		<pubDate>Mon, 03 Aug 2020 21:47:46 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=6024</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/C/2020_F3_(NEOWISE)">Comet Neowise</a> is fading fast. For the last two weeks, I've been watching Neowise climb higher and higher in the early evening northwestern sky. Neowise was a welcome sight in this shit-storm (2020) year. Gazing at its diffuse tail takes your mind off the Wuhan Coronavirus<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> and the global, mostly self-inflicted, economic clusterfuck it caused.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 15x70 binoculars Neowise was a fine sight; its bifurcated tail spanned the entire field of view but, without binoculars, Neowise was a dud for my cataract compromised eyes. Despite my best <em>averted-vision</em> efforts I never saw it without binoculars. So, as fine as Neowise was, it comes in last on my lifetime comet list. For a longtime amateur astronomer, my lifetime comet list is embarrassingly short. Here it is:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"heading"} -->
+<p class="heading"><strong>Comet Bennet 1970 near Canmore Alberta Canada</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My first naked eye comet was a complete surprise. I was returning from a spring break Vancouver trip with two, now deceased, friends, Carl Sullivan and Lawrence Nazar. It was past midnight, we had just driven through Banff National Park on the way to Calgary when we pulled over to pee. While pissing on crusty highway shoulder snow we looked up at the mountains to the south. Shining high above the dark peaks was the most beautiful comet I’ve ever seen. At the time we didn’t know the comet’s name and we weren’t entirely sure it was a comet. It was just too perfect! It looked exactly like a textbook comet. Later, another friend Bob Blaxley identified the apparition: <a href="https://en.wikipedia.org/wiki/Comet_Bennett">comet Bennet</a>. We saw Bennet under nearly ideal conditions. The sky was pitch black and the comet was very high. The tail was spectacular.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"heading"} -->
+<p class="heading"><strong>Haley’s Comet 1986 Edmonton Alberta Canada</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/Halley's_Comet">Haley’s Comet</a> is easily the most famous comet out there. It’s the one comet every literate person knows. Haley is a short-period comet. It famously returns every 75 to 76 years. Haley’s human lifetime period distinguishes it from most comets. If you’re lucky you can see Haley’s Comet twice. Mark Twain often opined that he came in with Haley’s Comet and expected to go out with it. <a href="http://www.todayifoundout.com/index.php/2013/10/samuel-clemens-born-died-year-halleys-comet/">He did!</a> Contrast this with Neowise. It won’t return for another 6,700 years. Nobody alive today will witness Neowise’s return. Hell, even Bristlecone Pines, trees that can live up to 5,000 years, won’t see Neowise again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of Haley’s passes have been spectacular. The 1910 pass was impressive, but the 1986 pass was a dud. In 1986 Haley’s Comet was far from Earth and appeared as a small fuzzy tailless spot in Edmonton Alberta’s skies. I’m glad I caught Haley’s in 1986. I doubt I’ll see it again in 2061.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"heading"} -->
+<p class="heading"><strong>Comet Hyakutake 1996 Kingston Ontario Canada</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 1996 we were all holding our breath as Hale Bopp approached perihelion. Hale Bopp had been discovered way out and we were hoping it would blossom into the bright enduring comet we craved. We had been bitterly disappointed before; we shall not utter <a href="https://en.wikipedia.org/wiki/Comet_Kohoutek">Kohoutek</a>’s name. With Hale Bopp on the way, <a href="https://en.wikipedia.org/wiki/Comet_Hyakutake">Hyakutake</a> was seen as a warm-up act. But, just like warm-up bands can out-play headliners, Hyakutake, the little comet that could, put on a great show.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the week of Hyakutake's closet approach to Earth, I was eagerly looking for it but Kingston Ontario’s crappy cloudy skies got in the way. Every night, for a week, I gazed up at the butt-holes of clouds not exactly the tail<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> I was looking for. The weather was grim, unrelenting, savage, cruel, relentless; it almost broke me, but then one night, as I was pulling into our driveway I looked up and saw perfectly framed in a cloud gap the long twisty filamentary tail of Hyakutake. The tail spread over twenty degrees. It was the longest comet tail I have ever seen. The following evening Kingston’s skies clouded out and I never saw Hyakutake again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"heading"} -->
+<p class="heading"><strong>Hale Bopp 1997 Kingston Ontario Canada</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You could make a good case that <a href="https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp">Hale Bopp</a> was the comet of the 20<sup>th</sup> century. Most naked eye comets show for a few weeks; Hale Bopp graced Earth’s skies for over a year. Hale Bopp was easily visible to anyone that bothered looking up in 1997. It hung around for so long that we almost got bored<a class="footnote-ref" id="fnref3" role="doc-noteref" href="#fn3"><sup>3</sup></a> with it! As grand as Hale Bopp was it could have been beyond epic. Like Haley’s Comet in 1986 Hale Bopp was very far from the Earth when it zoomed by, but unlike Haley's which appeared as a small fuzzy blob, Hale Bopp glowed like the much closer Bennet for months. If Hale Bopp had passed as close to Earth as Hyakutake had people would have lost their apocalyptic shit!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","id":6028,"width":251,"height":167,"sizeSlug":"large","className":"is-style-rounded"} -->
+<div class="wp-block-image is-style-rounded"><figure class="alignright size-large is-resized"><img src="https://bakerjd99.files.wordpress.com/2020/08/heavens_gate_suicides.jpg" alt="" class="wp-image-6028" width="251" height="167" /><figcaption>Not the best posture for comet viewing but you have to respect the Nike product placement.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Some, too stupid to live, morons lost their apocalyptic shit anyway! Remember the <a href="https://www.escondidograpevine.com/2020/03/25/20-years-ago-heavens-gate-couldnt-wait/">Heaven’s Gate</a> suicide squad that boarded spaceship Hale Bopp with phenobarbital? I’ll never forget their little <a href="https://solecollector.com/news/2015/03/nike-decade-heavens-gate-sneakers">Nike</a> clad feet sticking out from under their purple death sheets. Ahh, good times!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"heading"} -->
+<p class="heading"><strong>Comet Neowise Meridian Idaho United States</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Neowise is the last comet on my list. It didn’t put on a grand show or inspire any suicidal death cults but I’ll miss it anyway. Bon Voyage Neowise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray","className":""} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn1" role="doc-endnote"><p>I don’t give a ding-dong-damn about whether you think Winnie the Chinese Wuhan Coronavirus is racist or not. The virus <em>cannot</em> care about what it’s called, and neither should you. Ignore the <a href="https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0630-wokerati-20190620-story.html"><em>wokerati</em></a>; for them everything is racist. They’ve stripped the word “racist” of its meaning. <a href="https://www.goodreads.com/quotes/553001-it-s-a-beautiful-thing-the-destruction-of-words-of-course">“It’s a beautiful thing, the destruction of words.”</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>How's that for <em>micro-aggressive</em> comet sexual innuendo?<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>It takes a special type of asshole to be bored by a comet.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6024</wp:post_id>
+		<wp:post_date>2020-08-03 15:47:46</wp:post_date>
+		<wp:post_date_gmt>2020-08-03 21:47:46</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>neowise-nostalgia</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="astronomy"><![CDATA[Astronomy]]></category>
+		<category domain="post_tag" nicename="comet"><![CDATA[comet]]></category>
+		<category domain="post_tag" nicename="comet-bennett"><![CDATA[Comet Bennett]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="hale-bopp"><![CDATA[Hale-Bopp]]></category>
+		<category domain="post_tag" nicename="hyakutake"><![CDATA[Hyakutake]]></category>
+		<category domain="post_tag" nicename="neowise"><![CDATA[Neowise]]></category>
+		<category domain="category" nicename="nostalgia"><![CDATA[Nostalgia]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[47313716936]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1596491270]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>heavens_gate_suicides</title>
+		<link>http://analyzethedatanotthedrivel.org/heavens_gate_suicides/</link>
+		<pubDate>Mon, 03 Aug 2020 21:03:39 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/08/heavens_gate_suicides.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6028</wp:post_id>
+		<wp:post_date>2020-08-03 15:03:39</wp:post_date>
+		<wp:post_date_gmt>2020-08-03 21:03:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>heavens_gate_suicides</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/08/heavens_gate_suicides.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/heavens_gate_suicides.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:765;s:6:"height";i:510;s:4:"file";s:96:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/heavens_gate_suicides.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:81828;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
