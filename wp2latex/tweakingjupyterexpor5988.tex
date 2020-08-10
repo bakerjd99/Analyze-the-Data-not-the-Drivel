@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{http://analyzethedatanotthedrivel.org/2020/07/31/tweaking-jupyter-export-html-with-templates/}{Tweaking Jupyter export HTML with Templates}}
 \addcontentsline{toc}{subsection}{Tweaking Jupyter export HTML with Templates}
@@ -6,8 +6,9 @@
 
 \noindent\emph{Posted: 31 Jul 2020 22:34:35}
 \vspace{6pt}
-
-In a
+    
+    
+    In a
 \href{https://analyzethedatanotthedrivel.org/2020/06/01/better-blogging-with-jupyter-notebooks-on-wordpress-com/}{previous
 post}, I outlined some handy hacks for converting Jupyter notebooks to
 WordPress.com oriented HTML. This addendum describes the use of
@@ -15,48 +16,44 @@ WordPress.com oriented HTML. This addendum describes the use of
 templates} and CSS edits to fine-tune exported HTML.
 
 Jupyter exports notebooks in a variety of formats. I regularly export
-notebooks as Markdown, HTML, and $\LaTeX$. When blogging I mainly
-use HTML and Markdown. Standard HTML output labels code blocks with
-numbered prompts and indents text. The following
+notebooks as Markdown, HTML, and \(\LaTeX\). When blogging I mainly use
+HTML and Markdown. Standard HTML output labels code blocks with numbered
+prompts and indents text. The following
 \href{https://www.rust-lang.org/}{Rust}
 \href{https://en.wikipedia.org/wiki/\%22Hello,_World!\%22_program}{hello
 world} program illustrates this layout.
 
-In~
-%{[}2{]}
-:
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+\prompt{In}{incolor}{2}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{// This is the main function}
+\PY{k}{fn} \PY{n+nf}{main}\PY{p}{(}\PY{p}{)}\PY{+w}{ }\PY{p}{\PYZob{}}
+\PY{+w}{    }\PY{c+c1}{// Statements here are executed when the compiled binary is called}
 
-\begin{verbatim}
-// This is the main function
-fn main() {
-    // Statements here are executed when the compiled binary is called
+\PY{+w}{    }\PY{c+c1}{// Print text to the console}
+\PY{+w}{    }\PY{n}{println}\PY{o}{!}\PY{p}{(}\PY{l+s}{\PYZdq{}}\PY{l+s}{Hello World!}\PY{l+s}{\PYZdq{}}\PY{p}{)}\PY{p}{;}
+\PY{p}{\PYZcb{}}
 
-    // Print text to the console
-    println!("Hello World!");
-}
+\PY{n}{main}\PY{p}{(}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
 
-main()
-\end{verbatim}
-
-\begin{verbatim}
+    \begin{Verbatim}[commandchars=\\\{\}]
 Hello World!
-\end{verbatim}
+    \end{Verbatim}
 
-Out
-%{[}2{]}
-:
-
-\begin{verbatim}
+            \begin{tcolorbox}[breakable, size=fbox, boxrule=.5pt, pad at break*=1mm, opacityfill=0]
+\prompt{Out}{outcolor}{2}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
 ()
-\end{verbatim}
-
-For a few simple examples numbered indented blocks are fine but for
+\end{Verbatim}
+\end{tcolorbox}
+        
+    For a few simple examples numbered indented blocks are fine but for
 longer posts, the redundant numbering and space-wasting indents grow
 tiresome. I used standard HTML output for
 \href{https://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/}{Using
-jodliterate} and around prompt \texttt{In
-%{[}7{]}
-:} I was irritated with
+jodliterate} and around prompt \texttt{In{[}7{]}:} I was irritated with
 Jupyter's defaults.
 
 Here's something you should know about me.
@@ -70,35 +67,36 @@ run through \href{https://github.com/bennylp}{Benny's} Jupyter to
 WordPress.com
 \href{https://calvinandhobbes.fandom.com/wiki/Transmogrifier}{transmogrifier}.
 Markdown source code like \texttt{source} code \texttt{McCodeyFace} is
-set off in ugly blocks and any use of $\LaTeX$ generates hideous
+set off in ugly blocks and any use of \(\LaTeX\) generates hideous
 inline images with nontransparent backgrounds like:
 
-$\varphi (u) = \int_{\Omega} \left[
+%\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+\begin{tcolorbox}[breakable, width=9cm, center, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+\[\varphi (u) = \int\_\{\Omega\} \left[
 \dfrac{\|\nabla u\|^2}{2} +
 \lambda\dfrac{u^2}{2} -
-\dfrac{(u^+)^p}{p} \right] d\mu $
+\dfrac{(u^+)^p}{p} \right] d\mu \]
+\end{tcolorbox}
 
-You can hack the background color of WordPress.com $\LaTeX$ by
-bolting in a HEX color code suffix. This blog's background color is
+You can hack the background color of WordPress.com \(\LaTeX\) by bolting
+in a HEX color code suffix. This blog's background color is
 \emph{currently} set to \texttt{cfcdcd} so
-\texttt{\textbackslash{}sqrt
-%{[}n{]}
-\{1+x+x\^{}2+x\^{}3+\textbackslash{}dots+x\^{}n\}\&bg=cfcdcd}
+\texttt{\textbackslash{}sqrt{[}n{]}\{1+x+x\^{}2+x\^{}3+\textbackslash{}dots+x\^{}n\}\&bg=cfcdcd}
 yields:
 
-$\sqrt[n]{1+x+x^2+x^3+\dots+x^n}$
+\[ \sqrt[n]{1+x+x^2+x^3+\dots+x^n} \]
 
-As far as I know, there is no global WordPress.com $\LaTeX$
-background color setting. You are forced to hard code the suffix into
-every expression and if you ever change your theme's background color
-you have to do it all over again.
+As far as I know, there is no global WordPress.com \(\LaTeX\) background
+color setting. You are forced to hard code the suffix into every
+expression and if you ever change your theme's background color you have
+to do it all over again.
 
 \textbf{\emph{Remember that bit about how I don't like being
 irritated?}}
 
 Hard coding is euphemistically called a
-\href{https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-smells/}{"code
-smell."} In this case, it's a foul stench. This isn't Jupyter's fault.
+\href{https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-smells/}{``code
+smell.''} In this case, it's a foul stench. This isn't Jupyter's fault.
 Jupyter sensibly uses \href{https://www.mathjax.org/}{MathJaX} to render
 mathematics with proper scaled outline fonts, but MathJax is an external
 JavaScript library and WordPress.com does not allow cheap peons like
@@ -113,9 +111,10 @@ being pigheaded by not allowing it.
 Some of these problems can be fixed with CSS tweaks, Jupyter templates,
 and \texttt{nb2wp} edits.
 
-\hypertarget{tweaking-jupyter-export-formats}{%
-\paragraph{\texorpdfstring{Tweaking Jupyter export
-formats\protect\hyperlink{Tweaking-Jupyter-export-formats}{}}{Tweaking Jupyter export formats}}\label{tweaking-jupyter-export-formats}}
+    
+    \hypertarget{tweaking-jupyter-export-formats}{%
+\paragraph{Tweaking Jupyter export
+formats}\label{tweaking-jupyter-export-formats}}
 
 You can adjust Jupyter export formats with templates. Templates modify
 how \href{https://nbconvert.readthedocs.io/en/latest/}{nbconvert}
@@ -124,8 +123,8 @@ other formats. Here's a good basic
 \href{https://nbconvert.readthedocs.io/en/latest/customizing.html}{introduction
 to Jupyter templates}.
 
-Jupyter templates are versatile and powerful but with "\emph{great
-formatting power comes extreme annoyance.}" I don't want to learn yet
+Jupyter templates are versatile and powerful but with ``\emph{great
+formatting power comes extreme annoyance.}'' I don't want to learn yet
 another programming language to tweak my fricking blog! Fortunately,
 it's not necessary to get deep in the
 \href{https://jinja.palletsprojects.com/en/2.11.x/}{jinja} weeds to
@@ -133,27 +132,29 @@ remove a few block labels. The following template \texttt{tpl} file
 meets my meager needs.
 
 \hypertarget{a-brain-dead-jupyter-template-blankfull.tpl}{%
-\paragraph{\texorpdfstring{A brain dead Jupyter template:
-blankfull.tpl\href{-blankfull.tpl}{}}{A brain dead Jupyter template: blankfull.tpl}}\label{a-brain-dead-jupyter-template-blankfull.tpl}}
+\paragraph{A brain dead Jupyter template:
+blankfull.tpl}\label{a-brain-dead-jupyter-template-blankfull.tpl}}
 
-\begin{verbatim}
-{% extends 'full.tpl'%}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ extends }\StringTok{'full.tpl'}\OperatorTok{%}\NormalTok{\}}
 
-## change the appearance of execution count
-{% block in_prompt %}
-&nbsp;&nbsp;&nbsp;&nbsp;
-{% endblock in_prompt %}
+\CommentTok{## change the appearance of execution count}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ block in_prompt }\OperatorTok{%}\NormalTok{\}}
+\OperatorTok{&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ endblock in_prompt }\OperatorTok{%}\NormalTok{\}}
 
-{% block prompt %}
-{% endblock prompt %}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ block prompt }\OperatorTok{%}\NormalTok{\}}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ endblock prompt }\OperatorTok{%}\NormalTok{\}}
 
-{% block output_area_prompt %}
-&nbsp;&nbsp;&nbsp;&nbsp;
-{% endblock output_area_prompt %}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ block output_area_prompt }\OperatorTok{%}\NormalTok{\}}
+\OperatorTok{&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;&}\NormalTok{nbsp}\OperatorTok{;}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ endblock output_area_prompt }\OperatorTok{%}\NormalTok{\}}
 
-{% block output_area %}
-{% endblock output_area %}
-\end{verbatim}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ block output_area }\OperatorTok{%}\NormalTok{\}}
+\NormalTok{\{}\OperatorTok{%}\NormalTok{ endblock output_area }\OperatorTok{%}\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
 
 Save the preceding as UTF-8 text with extension \texttt{tpl} in
 Jupyter's \texttt{nbconvert} share directory. The location of this
@@ -176,106 +177,87 @@ values after the line numbers on the left are the settings you need to
 give \texttt{CodeyMcCodeFace} text \texttt{FRAGMENTS} transparent
 backgrounds.
 
-\begin{verbatim}
-1077:   background-color: transparent;  background-color: #fff;
- 1529:   background-color: transparent;  background-color: #f9f2f4;
-10126:   background-color: transparent;  background-color: #fff;
-\end{verbatim}
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{ 1077}\InformationTok{:}\NormalTok{   background-color}\InformationTok{:}\NormalTok{ transparent;  background-color}\InformationTok{:} \PreprocessorTok{#fff}\NormalTok{;}
+\NormalTok{ 1529}\InformationTok{:}\NormalTok{   background-color}\InformationTok{:}\NormalTok{ transparent;  background-color}\InformationTok{:} \PreprocessorTok{#f9f2f4}\NormalTok{;}
+\NormalTok{10126}\InformationTok{:}\NormalTok{   background-color}\InformationTok{:}\NormalTok{ transparent;  background-color}\InformationTok{:} \PreprocessorTok{#fff}\NormalTok{;}
+\end{Highlighting}
+\end{Shaded}
 
-Finally, to control annoying $\LaTeX$ color backgrounds add another
+Finally, to control annoying \(\LaTeX\) color backgrounds add another
 argument \texttt{bg\_color\_hex=\textquotesingle{}\textquotesingle{}} to
 the the Python function \texttt{nb2wp}.
 
-\hypertarget{running-nb2wp-with-adjustments}{%
-\paragraph{\texorpdfstring{Running nb2wp with
-adjustments\protect\hyperlink{Running-nb2wp-with-adjustments}{}}{Running nb2wp with adjustments}}\label{running-nb2wp-with-adjustments}}
+    \hypertarget{running-nb2wp-with-adjustments}{%
+\paragraph{Running nb2wp with
+adjustments}\label{running-nb2wp-with-adjustments}}
 
-~~~~
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{1}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{k+kn}{import} \PY{n+nn}{os}
+\PY{k+kn}{import} \PY{n+nn}{sys}
 
-\begin{verbatim}
-import os
-import sys
+\PY{c+c1}{\PYZsh{} append nb2* script directory to system path}
+\PY{n}{sys}\PY{o}{.}\PY{n}{path}\PY{o}{.}\PY{n}{append}\PY{p}{(}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
 
-# append nb2* script directory to system path
-sys.path.append(r'C:\temp\nb2wp')
+\PY{k+kn}{import} \PY{n+nn}{nb2wput} \PY{k}{as} \PY{n+nn}{nbu}
+\end{Verbatim}
+\end{tcolorbox}
 
-import nb2wput as nbu
-\end{verbatim}
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{2}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{\PYZsh{} set notebook files \PYZhy{} the source for this blog post}
+\PY{n}{nb\PYZus{}file\PYZus{}0} \PY{o}{=} \PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{TweakingJupyterExportTemplates0.ipynb}\PY{l+s+s1}{\PYZsq{}}
+\PY{n}{nb\PYZus{}file\PYZus{}1} \PY{o}{=} \PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{TweakingJupyterExportTemplates1.ipynb}\PY{l+s+s1}{\PYZsq{}}
+\end{Verbatim}
+\end{tcolorbox}
 
-~~~~
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{3}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{\PYZsh{} convert notebook with (nb2wp) using}
+\PY{c+c1}{\PYZsh{} defaults for unspecified arguments}
+\PY{n}{nbu}\PY{o}{.}\PY{n}{nb2wp}\PY{p}{(}\PY{n}{nb\PYZus{}file\PYZus{}0}\PY{p}{,} \PY{n}{out\PYZus{}dir}\PY{o}{=}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{tmp}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,}
+    \PY{n}{css\PYZus{}files}\PY{o}{=}\PY{p}{[}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{style.css}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{save\PYZus{}css}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} 
+    \PY{n}{remove\PYZus{}attrs}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} \PY{n}{template}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{full}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{latex}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{wp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,}
+    \PY{n}{img\PYZus{}dir}\PY{o}{=}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{tmp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{img}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{footer}\PY{o}{=}\PY{k+kc}{False}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
 
-\begin{verbatim}
-# set notebook files - the source for this blog post
-nb_file_0 = r'C:\temp\nb2wp\MoreBetterBloggingWithJupyter0.ipynb'
-nb_file_1 = r'C:\temp\nb2wp\MoreBetterBloggingWithJupyter1.ipynb'
-\end{verbatim}
-
-~~~~
-
-\begin{verbatim}
-# convert notebook with (nb2wp) using
-# defaults for unspecified arguments
-nbu.nb2wp(nb_file_0, out_dir=r'C:\temp\nb2wp\tmp',
-    css_files=[r'C:\temp\nb2wp\style.css'], save_css=True, 
-    remove_attrs=True, template='full', latex="wp",
-    img_dir=r'C:\temp\nb2wp\tmp\img', footer=False)
-\end{verbatim}
-
-~~~~
-
-\begin{verbatim}
+    \begin{Verbatim}[commandchars=\\\{\}]
 Using template: full
-Using CSS files ['C:\\temp\\nb2wp\\style.css']
-Saving CSS to C:\temp\nb2wp\tmp\style.css
-C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter0.html: 23132 bytes written in 5.863s
-\end{verbatim}
+Using CSS files ['C:\textbackslash{}\textbackslash{}temp\textbackslash{}\textbackslash{}nb2wp\textbackslash{}\textbackslash{}style.css']
+Saving CSS to C:\textbackslash{}temp\textbackslash{}nb2wp\textbackslash{}tmp\textbackslash{}style.css
+C:\textbackslash{}temp\textbackslash{}nb2wp\textbackslash{}tmp\textbackslash{}TweakingJupyterExportTemplates0.html: 23132 bytes written in
+7.650s
+    \end{Verbatim}
 
-~~~~
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{4}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{\PYZsh{} convert notebook using tweaked CSS and custom template}
+\PY{n}{nbu}\PY{o}{.}\PY{n}{nb2wp}\PY{p}{(}\PY{n}{nb\PYZus{}file\PYZus{}1}\PY{p}{,} \PY{n}{out\PYZus{}dir}\PY{o}{=}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{tmp}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,}
+    \PY{n}{css\PYZus{}files}\PY{o}{=}\PY{p}{[}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{my\PYZus{}nb2wp\PYZus{}style.css}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}\PY{p}{,} \PY{n}{save\PYZus{}css}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} 
+    \PY{n}{remove\PYZus{}attrs}\PY{o}{=}\PY{k+kc}{True}\PY{p}{,} \PY{n}{template}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{blankfull}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{latex}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{wp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{bg\PYZus{}color\PYZus{}hex}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{cfcdcd}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,}
+    \PY{n}{img\PYZus{}dir}\PY{o}{=}\PY{l+s+sa}{r}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{C:}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{temp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{nb2wp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{tmp}\PY{l+s+s1}{\PYZbs{}}\PY{l+s+s1}{img}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{footer}\PY{o}{=}\PY{k+kc}{False}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
 
-\begin{verbatim}
-# convert notebook using tweaked CSS and custom template
-nbu.nb2wp(nb_file_1, out_dir=r'C:\temp\nb2wp\tmp',
-    css_files=[r'C:\temp\nb2wp\my_nb2wp_style.css'], save_css=True, 
-    remove_attrs=True, template='blankfull', latex="wp", bg_color_hex='cfcdcd',
-    img_dir=r'C:\temp\nb2wp\tmp\img', footer=False)
-\end{verbatim}
-
-~~~~
-
-\begin{verbatim}
+    \begin{Verbatim}[commandchars=\\\{\}]
 Using template: blankfull
-Using CSS files ['C:\\temp\\nb2wp\\my_nb2wp_style.css']
-Saving CSS to C:\temp\nb2wp\tmp\style.css
-C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10.377s
-\end{verbatim}
+Using CSS files ['C:\textbackslash{}\textbackslash{}temp\textbackslash{}\textbackslash{}nb2wp\textbackslash{}\textbackslash{}my\_nb2wp\_style.css']
+Saving CSS to C:\textbackslash{}temp\textbackslash{}nb2wp\textbackslash{}tmp\textbackslash{}style.css
+C:\textbackslash{}temp\textbackslash{}nb2wp\textbackslash{}tmp\textbackslash{}TweakingJupyterExportTemplates1.html: 57127 bytes written in
+12.055s
+    \end{Verbatim}
 
 
 
+    % Add a bibliography block to the postdoc
+    
+    
+    
 %\end{document}
- 
-% standard floating figure
-% \captionsetup[figure]{labelformat=empty}
-% \begin{figure}[htbp]
-% \centering
-% \href{}{\includegraphics[width=0.50\textwidth]{}}
-% \caption{}
-% \label{fig:????x0}
-% \end{figure}
- 
-% captions beside figure
-% \captionsetup[figure]{labelformat=empty}
-% \begin{SCfigure}
-% \centering
-% \href{}{\includegraphics[width=0.40\textwidth]{}}
-% \caption{}
-% \label{fig:????x0}
-% \end{SCfigure}
- 
-% wrapped figure - outer size > inner size
-% \captionsetup[floatingfigure]{labelformat=empty}
-% \begin{floatingfigure}[l]{0.23\textwidth}
-% \centering
-% \href{}{\includegraphics[width=0.22\textwidth]{}}
-% \caption{}
-% \label{fig:????x0}
-% \end{floatingfigure}
