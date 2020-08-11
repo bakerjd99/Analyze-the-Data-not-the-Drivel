@@ -59,39 +59,46 @@ included in Python distributions. Use the
 or \href{https://anaconda.org/anaconda/lxml}{conda} tools to install
 this module.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X0]
 # imports
 import os
 from lxml import etree
 \end{lstlisting}
+\end{tcolorbox}
 
 Set an output directory. I'm running on a Windows machine. If you're on
 a Mac or Linux machine adjust the path.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X1]
 # set sql output directory
 sql_out = r"C:\temp\dtsxsql"
 if not os.path.isdir(sql_out):
     os.makedirs(sql_out)
 \end{lstlisting}
+\end{tcolorbox}
 
 
 Point to the \texttt{dtsx} package you want to extract code from.
 
-
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X2]
 # dtsx files
 dtsx_path = r'C:\Users\john\AnacondaProjects\testfolder\bixml'
 ssis_dtsx = dtsx_path + r'\ParseXML.dtsx'
 \end{lstlisting}
+\end{tcolorbox}
 
 
 Read and parse the SSIS package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X3]
 tree = etree.parse(ssis_dtsx)
 root = tree.getroot()
 \end{lstlisting}
+\end{tcolorbox}
 
 
 \texttt{lxml} renders XML namespace tags like
@@ -99,7 +106,7 @@ root = tree.getroot()
 \verb|www.microsoft.com/SqlServer/Dts\}Executable|. The following
 gathers all the transformed element tags in the \texttt{dtsx} package.
 
-
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X4]
 # collect unique element tags in dtsx
 ele_set = set()
@@ -108,10 +115,12 @@ for ele in root.xpath(".//*"):
 print(ele_set)
 print(len(ele_set))
 \end{lstlisting}
+\end{tcolorbox}
 
 Using transformed element tags of interest blast over the \texttt{dtsx}
 and suck out the bits of interest.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5, basicstyle=\ttfamily\scriptsize]
 # extract sql code in source statements and write to *.sql files 
 total_bytes = 0
@@ -133,6 +142,7 @@ for cnt, ele in enumerate(root.xpath(".//*")):
               file.write(dtsx_sql)
 print(('total sql code bytes',total_bytes))
 \end{lstlisting}
+\end{tcolorbox}
 
 
 The code snippets in this post are available in this Jupyter notebook:

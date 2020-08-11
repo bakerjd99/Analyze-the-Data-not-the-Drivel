@@ -59,9 +59,11 @@ between hanging and the grotesque perks of Congress.
 Currently there are 535 members of Congress. Let's get a big jar of
 jelly beans and number the beans from 0 to 534.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 0, 1, 2, 3, ..., 534
 \end{verbatim}
+\end{tcolorbox}
 Then every year, instead of listening to boring State of the Union
 speeches, we hold a public drawing. Some lucky blindfolded child,
 \emph{\href{http://captaincapitalism.blogspot.com/2009/12/please-stop-it-with-think-of-children.html}{(because
@@ -76,21 +78,23 @@ the chances the average member will swing? This is easy to \emph{estimate}.
 Generate 10 random integers between 0 and 534 and see if 0 pops up. In
 the \href{http://www.jsoftware.com/}{J programming language}:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
    ? 10 $ 535
-\end{verbatim}
-\begin{verbatim}
+   
 195 467 514 498 79 345 306 344 450 530
 \end{verbatim}
+\end{tcolorbox}
 This lucky Congress critter survived. If we run this experiment ten
 million times we get:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
   10000000 %~ +/ 0 e."0 1 ? 10000000 10 $ 535
-\end{verbatim}
-\begin{verbatim}
+  
 0.0185448
 \end{verbatim}
+\end{tcolorbox}
 or a 2\% chance of hanging. Considering the prerogatives, pork, perks,
 and pensions of Congress a measly 2\% chance of hanging seems about
 right. Most of the time it's business as usual and every now and them

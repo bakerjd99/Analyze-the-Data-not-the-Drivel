@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2015/07/04/turning-jod-dump-script-tricks/}{Turning JOD Dump Script Tricks}}
 \addcontentsline{toc}{subsection}{Turning JOD Dump Script Tricks}
@@ -83,6 +83,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
 %
 %\begin{lstlisting}[language=jdoc,escapechar=*,frame=single,framerule=0pt,label=lst:scr5077X1]
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc,escapechar=*,frame=single,framerule=0pt,label=lst:scr5077X1]
    NB. open four dictionaries   
    od ;:'smugdev smug image utils'
@@ -90,6 +91,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
 !1!opened (ro/ro/ro/ro) ->!smugdev!smug!image!utils!
 +-+-----------------------+-------+----+-----+-----+
 \end{lstlisting}
+\end{tcolorbox}
 
   the reference path is \texttt{/smugdev/smug/image/utils}.
 
@@ -100,15 +102,13 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
   part of the path.
 
   To flatten the reference path do:
-
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X2]
    NB. reopen the first three dictionaries on the path   
    od ;:'smugdev smug image' [ 3 od ''
 +-+--------------------+-------+----+-----+
 !1!opened (ro/ro/ro) ->!smugdev!smug!image!
 +-+--------------------+-------+----+-----+
-
-
 
    NB. dump to a temporary file (df)   
    df=: {: showpass make jpath '~jodtemp/smugflat.ijs'
@@ -131,6 +131,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
    NB. reload dump script ... output not shown ...     
    0!:0 df
 \end{lstlisting}
+\end{tcolorbox}
 
   The collapsed path \texttt{/smugflat/utils} will return the same
   objects as the longer path. It is important to understand that the
@@ -144,6 +145,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
   overlapping objects} it might make sense to merge them. This is easily
   achieved with dump scripts. To merge two or more dictionaries do:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X3]
    NB. open and dump first dictionary   
    od 'dict0' [ 3 od ''
@@ -181,6 +183,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
    0!:0 df0     
    0!:0 df1
 \end{lstlisting}
+\end{tcolorbox}
 
   Be careful when merging dictionaries. If there are common objects the
   last object loaded is the one retained in the merged dictionary.
@@ -191,6 +194,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
   and update parameters. To rebuild a dictionary with new or custom
   parameters do:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5077X4]
    NB. save current dictionary registrations   
    (toHOST ; 1 { 5 od '') write_ajod_ jpath '~temp/jodregister.ijs'
@@ -240,6 +244,7 @@ tricks.\footnote{Spicing up one's rhetoric with a double entendre like ``turning
    NB. reload dump script ... output not shown ...   
    0!:0 df  
 \end{lstlisting}
+\end{tcolorbox}
 
   Before executing complex dump script procedures \emph{back up your JOD
   dictionary folders} and play with dump scripts on test dictionaries.

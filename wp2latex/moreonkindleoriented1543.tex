@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2011/07/22/more-on-kindle-oriented-latex/}{More on Kindle Oriented \LaTeX}}
 \addcontentsline{toc}{subsection}{More on Kindle Oriented \LaTeX}
@@ -75,6 +75,7 @@ The following \texttt{*.tex} file loads packages that are useful for Kindle
 sizing. It also shows how to print out \LaTeX\ dimensions with the
 \href{http://www.ctan.org/pkg/printlen}{printlen} package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode wraplines="false" gutter="true" autolinks="false"]
 \lstset{style=smallersource}
 \begin{lstlisting}[language=TeX,frame=single,framerule=0pt,label=lst:scr1543X0]
@@ -154,6 +155,7 @@ The \verb|\textheight| is \printlength{\textheight} which is also
 
 \end{document}
 \end{lstlisting}
+\end{tcolorbox}
 \lstset{style=resetdefaults}
 
 %\captionsetup[floatingfigure]{labelformat=empty}

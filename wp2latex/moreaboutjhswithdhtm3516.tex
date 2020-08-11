@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2012/12/04/more-about-jhs-with-dhtmlx-the-grid/}{More about JHS with the DHTMLX Grid}}
 \addcontentsline{toc}{subsection}{More about JHS with the DHTMLX Grid}
@@ -18,7 +18,7 @@ is how you can fetch rows from standard edition DHTMLX grids and save
 them as JSON in a hidden \texttt{textarea} element. Eric Iverson
 suggested hidden \texttt{textarea}s and they work like a charm.
 
-
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode language="javascript" wraplines="false" gutter="false" autolinks="false"]
 \begin{lstlisting}[language=JavaScript,frame=single,framerule=0pt,label=lst:scr3516X0]
 function ev_saveme_click(){
@@ -68,6 +68,7 @@ function ev_saveme_click(){
   }
 }
 \end{lstlisting}
+\end{tcolorbox}
 
 Passing data back to J is fast but the J JSON addon
 \texttt{convert\textbackslash{}json} burps on large datasets. For this

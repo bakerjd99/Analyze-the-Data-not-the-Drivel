@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2011/08/13/common-table-expression-cte-sqlserver-queries-with-j/}{Common Table Expression (CTE) SQLServer Queries with J}}
 \addcontentsline{toc}{subsection}{Common Table Expression (CTE) SQLServer Queries with J}
@@ -20,6 +20,7 @@ So, taking my own advice, the following is an example of a SQLSever
 \href{http://msdn.microsoft.com/en-us/library/ms190766.aspx}{Common
 Table Expression} (CTE) query.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode language="sql" wraplines="false" gutter="false" autolinks="false"]
 \begin{lstlisting}[language=SQL,frame=single,framerule=0pt,label=lst:scr1795X0]
 WITH cte1
@@ -60,6 +61,7 @@ SELECT obj_id,
 FROM   cte2
 GROUP  BY obj_id
 \end{lstlisting}
+\end{tcolorbox}
 
 CTE queries \emph{essentially} create temporary virtual tables during
 query execution. They are similar to nested SQL queries but are easier
@@ -74,6 +76,7 @@ You can call CTE queries with the
 following assumes a SQLServer ODBC connection
 \href{http://www.geeksengine.com/article/mysql-odbc.html}{dsn} history.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode wraplines="false" gutter="false" autolinks="false"]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr1795X1]
 NB. odbc interface
@@ -91,6 +94,7 @@ sh =. HistoryAgeSQL ddsel ch
 NB. fetch results
 data=. ddfet sh,_1
 \end{lstlisting}
+\end{tcolorbox}
 
 As a final note it's worth comparing the SQL CTE histogram code with J
 equivalents. The two following J verbs taken from the
@@ -99,7 +103,7 @@ equivalents. The two following J verbs taken from the
 \href{http://www.jsoftware.com/jwiki/BrianSchott/Histogram}{here}),
 compute histograms.
 
-
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode wraplines="false" gutter="false" autolinks="false"]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr1795X2]
 NB. computes histograms uses right open intervals
@@ -108,11 +112,11 @@ histogram=:<:@(#/.~)@(i.@#@[ , I.)
 NB. variation on (histogram) uses left open intervals
 histogram2=:<:@(#/.~)@(i.@>:@#@[ , |.@[ (#@[ - I.) ])
 \end{lstlisting}
+\end{tcolorbox}
 
 They scale to tens of millions of data points; returning results in a
 few seconds on my laptop. The SQL CTE, shown above, takes about three
-seconds running on 180,000 row tables on my employer's
-\href{http://www.trekmania.net/science/warp\_scale.htm}{full warp}
+seconds running on 180,000 row tables on my employer's full warp
 servers. If I could convince the masses to adopt languages like J a
 large part of my job would disappear. Fortunately, \emph{the world is
 hostile to terse elegance!}

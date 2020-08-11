@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2011/04/03/smugshot-metadata-mess/}{SmugShot Metadata Mess}}
 \addcontentsline{toc}{subsection}{SmugShot Metadata Mess}
@@ -37,6 +37,7 @@ sure if this is by design or oversight but I don't like it!}
 The fix is straight forward:
 
 \begin{enumerate}
+\tightlist
 \item
   Download SmugMug metadata.
 \item
@@ -57,6 +58,7 @@ also find this script in the J files sidebar of this blog. Look in the J
 Scripts directory. Let's hope the next version of SmugShot fixes the
 date time issue and hacks like this will no longer be necessary.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode gutter="false" wraplines="false"]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr1258X0]
 smugshotexif=:4 : 0
@@ -75,9 +77,6 @@ NB.   NB. load SmugShot specific metadata
 NB.   SMUGSHOTMD=: readsmugshots 0
 NB.   img=: 'c:\pictures\2011\Missouri\wip\1204618219_smugshot_9811805.jpg'
 NB.   SMUGSHOTMD smugshotexif img
-NB.
-NB.   NB. fix all jpg files in a directory
-NB.   (<SMUGSHOTMD) smugshotexif&> 1 dir 'c:\pictures\2011\Missouri\wip\*.jpg'
 
 NB. extract SmugMug id from SmugShot file name
 spid=. <extractsmugid y
@@ -117,6 +116,7 @@ else.
 end.
 )
 \end{lstlisting}
+\end{tcolorbox}
 
 %\captionsetup[floatingfigure]{labelformat=empty}
 %\begin{figure}[htbp]
