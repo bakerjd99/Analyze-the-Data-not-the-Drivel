@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/}{WordPress to \LaTeX with Pandoc and J: Prerequisites (1)}}
 \addcontentsline{toc}{subsection}{WordPress to \LaTeX with Pandoc and J: Prerequisites (1)}
@@ -84,6 +84,7 @@ require additional steps to configure and deploy. If you are already a J
 user there is no need to install a particular system but you will need:
 
 \begin{enumerate}
+\tightlist
 \item
   The task library \texttt{require 'task'}
 \item
@@ -102,9 +103,11 @@ to \LaTeX\ with Pandoc and J: \LaTeX\ Directories (2)}.
 \paragraph{Pandoc Test:} Download the test file: \texttt{cdata.html} and run Pandoc from the
 command line:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 pandoc -o cdata.tex cdata.html
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent \texttt{cdata.html} is an example of the HTML code you find in WordPress
 export XML \texttt{CDATA} elements. \emph{Note:} required files are also
@@ -112,15 +115,16 @@ available in the files sidebar in the \texttt{WordPress to LaTeX}
 directory.
 
 \paragraph{J Test:} Start a J session and enter the following commands:
-\begin{verbatim}
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\begin{verbatim}
+\begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr2374x0]
 require 'task'
-
 shell  'wget --help'
-
 site=. 'http://conceptcontrol.smugmug.com/photos/'
-
 shell  'wget ',site,'i-mNK4RHL/0/L/i-mNK4RHL-L.png'
-\end{verbatim}
+\end{lstlisting}
+%\end{verbatim}
+\end{tcolorbox}
 
 \noindent If the shell command is properly loaded and \texttt{wget.exe} is found
 you will see help text. The second shell command downloads an image

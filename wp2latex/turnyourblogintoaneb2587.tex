@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/}{Turn your Blog into an eBook}}
 \addcontentsline{toc}{subsection}{Turn your Blog into an eBook}
@@ -15,8 +15,8 @@ and
 \href{http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/}{(3)},
 you will be glad to hear that turning your blog into an image free eBook
 is \emph{almost effortless.} In this post I will describe how I convert
-my blog into \href{http://www.web-books.com/Publishing/epub.htm}{EPUB}
-and \href{http://wiki.mobileread.com/wiki/MOBI}{MOBI} eBooks.
+my blog into \href{https://www.w3.org/community/epub3/}{EPUB}
+and \href{https://fileinfo.com/extension/mobi}{MOBI} eBooks.
 
 \paragraph{eBooks how the cool kids are reading}
 
@@ -25,7 +25,7 @@ eBook readers like
 \href{http://www.barnesandnoble.com/u/nook/379003208?r=1\&utm\_source=google\&cm\_mmc=Google-\_-NOOK\%20General-\_-NOOK\%20(exact)-\_-Nook\&cm\_mmca1=1d6c97e6-5d23-2769-73f9-00005e04715e\&utm\_medium=cpc\&utm\_term=no}{Nooks},
 iPads and many cell phones are optimized for plain old prose. They excel
 at displaying
-\href{http://www.pcmag.com/encyclopedia\_term/0,2542,t=reflowable+text\&i=58163,00.asp}{reflowable}
+\href{https://en.wikipedia.org/wiki/Reflowable_document}{reflowable}
 text in a variety of fonts, sizes and styles. One eBook reader feature,
 dear to my old fart eyes, is the ability to increase the size of text.
 All eBooks are potentially large print editions. There are other
@@ -36,9 +36,8 @@ will use from preschool to graduate school. The only obstacle is the
 \href{http://funny-about-money.com/2010/07/20/textbook-ripoffs-why-college-leaves-kids-in-debt/}{rapacious
 textbook industry} and their equally
 \href{http://www.zdnet.com/blog/mobile-news/why-the-apple-textbook-program-will-never-work/6526}{rapacious
-eBook publishing enablers}. But fear not
-\href{http://www.techradar.com/news/software/why-is-open-source-dominated-by-men--1047390}{open
-source man} will save the day. \emph{The days of overpriced digital
+eBook publishing enablers}. But fear not open
+source man will save the day. \emph{The days of overpriced digital
 goods are over!} I will never pay more than a few bucks for an eBook
 because I can make my own and so can you! Let's get together and kill
 off another industry that so has it coming!
@@ -53,13 +52,12 @@ workflows.\footnote{
 of hundreds of PDF workflows.
 } You will save yourself and your readers a
 lot of grief. But, if your document is a prose masterpiece, a veritable
-\href{http://www.thedailybeast.com/newsweek/2010/02/04/is-the-great-american-novel-destroying-novelists.html}{great
-American novel}, then ``publishing'' it as an EPUB or MOBI is a great way
+great American novel, then ``publishing'' it as an EPUB or MOBI is a great way
 to
 \href{http://www.counterpunch.org/2011/01/20/in-praise-of-incivility-in-politics/}{target}
 eBook readers. EPUBs and MOBIs can be compiled from many sources. I
 start with the \LaTeX\ files I created for the
-\href{http://www.box.com/s/8yvm27ag9agtm32nfahd}{PDF version of this
+\href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf}{PDF version of this
 blog} because I hate doing the same boring task twice. By far the most
 time-consuming part of converting WordPress export XML to \LaTeX\ is
 editing the \href{http://johnmacfarlane.net/pandoc/}{pandoc} generated
@@ -76,15 +74,17 @@ are overkill. You could compose markdown with early 20\textsuperscript{th} centu
 mechanical typewriters; it's a low tech format for the ages: perfect for
 prose.
 
-The J verb \href{http://www.box.com/s/1k418f2y706ihlxnat4e}{\texttt{MarkdownFrLatex}}\footnote{
+The J verb \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wordpress/TeXfrWpxml.ijs}{\texttt{MarkdownFrLatex}}\footnote{
 All the J verbs referenced in this post are in
-the script \href{http://www.box.com/s/9v5b6ub9cya108c03mr7}{\texttt{TeXfrWpxml.ijs}}
+the script \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wordpress/TeXfrWpxml.ijs}{\texttt{TeXfrWpxml.ijs}}
 } calls pandoc
 and converts my \texttt{*.tex} files to \texttt{*.markdown}. I place my
 markdown in the directory
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 c:/pd/blog/wp2epub
 \end{verbatim}
+\end{tcolorbox}
 and to track changes to my markdown files I
 \href{http://git-scm.com/}{GIT} this directory. \texttt{MarkdownFrLatex}
 strips out image inclusions and removes typographic flourishes. When it
@@ -94,25 +94,28 @@ contain
 \href{http://en.wikibooks.org/wiki/LaTeX/Packages/Listings}{\texttt{lstlistings}} and
 complex figure environments that are best resolved with manual edits.
 After removing such problematic \LaTeX\ environments the J verb
-\href{http://www.box.com/s/sxmgq2copxot4ahnbzso}{\texttt{FixBaddown}} calls pandoc and turns baddown files into markdown
+\href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wordpress/TeXfrWpxml.ijs}{\texttt{FixBaddown}} calls pandoc and turns baddown files into markdown
 files.
 
 \paragraph{Generating EPUB and MOBI files}
 
-When the conversion to markdown is complete I run \href{http://www.box.com/s/36mzi78mt8tk6oygy2r8}{\texttt{MainMarkdown}}
+When the conversion to markdown is complete I run \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wordpress/TeXfrWpxml.ijs}{\texttt{MainMarkdown}}
 to mash all my files into one large markdown file with an eBook header.
 The eBook header for this blog is:
 
 
 %[sourcecode wraplines="false" gutter="false" autolinks="false"]
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc,frame=single,framerule=0pt,label=lst:scr2587X0]
 % Analyze the Data not the Drivel
 % John D. Baker
 \end{lstlisting}
+\end{tcolorbox}
 
 \noindent The first few lines of the consolidated \texttt{bm.markdown} file are:
 
 %[sourcecode wraplines="false" gutter="false" autolinks="false"]
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc,frame=single,framerule=0pt,label=lst:scr2587X1]
 % Analyze the Data not the Drivel
 % John D. Baker
@@ -129,14 +132,17 @@ count well north of one hundred million. If only 0.5% of their users are
 active that’s 500,000 *concurrent users.* How many expensive servers
 does it take to support such a load? .....
 \end{lstlisting}
+\end{tcolorbox}
 
 \noindent Generating an EPUB from \texttt{bm.markdown} is a simple matter of
 opening up your favorite command line shell and issuing the pandoc
 command:
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 pandoc -S --epub-cover-image=bmcover.jpg -o bm.epub bm.markdown
 \end{verbatim}
-You can read the resulting EPUB file \href{http://www.box.com/s/ep9cgmdu6r3s322z5xim}{\texttt{bm.epub}} on any EPUB eBook
+\end{tcolorbox}
+You can read the resulting EPUB file \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub}{\texttt{bm.epub}} on any EPUB eBook
 reader. Here's a screen shot of \texttt{bm.epub} on my iPhone.
 
 \captionsetup[figure]{labelformat=empty}
@@ -144,14 +150,14 @@ reader. Here's a screen shot of \texttt{bm.epub} on my iPhone.
 \begin{minipage}[b]{0.48\textwidth}
 \centering
 \includegraphics[width=0.50\textwidth]{i-BfnWMFz-M.png}
-\caption{iPhone loaded with \href{http://www.box.com/s/ep9cgmdu6r3s322z5xim}{\texttt{bm.epub}}}
+\caption{iPhone loaded with \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub}{\texttt{bm.epub}}}
 \label{fig:2587X0}
 \end{minipage}
 \hspace{1pt}
 \begin{minipage}[b]{0.48\textwidth}
 \centering
 \includegraphics[width=0.50\textwidth]{i-dhqFDXQ-M.jpg}
-\caption{Kindle loaded with \href{http://www.box.com/s/ttbyijqgmcnjzzsgfs0a}{\texttt{bm.mobi}}}
+\caption{Kindle loaded with \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi}{\texttt{bm.mobi}}}
 \label{fig:2587X1}
 \end{minipage}
 \end{figure}
@@ -167,7 +173,7 @@ reader. Here's a screen shot of \texttt{bm.epub} on my iPhone.
 %\end{figure}
 
 
-The last step converts \texttt{bm.epub} to \href{http://www.box.com/s/ttbyijqgmcnjzzsgfs0a}{\texttt{bm.mobi}}. MOBI is a
+The last step converts \texttt{bm.epub} to \href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi}{\texttt{bm.mobi}}. MOBI is a
 native Kindle format. Pandoc can generate MOBI from \texttt{bm.markdown}
 but it inexplicably omits a table of contents. \emph{No problemo:} I use
 \href{http://calibre-ebook.com/}{Calibre} to convert \texttt{bm.epub} to
