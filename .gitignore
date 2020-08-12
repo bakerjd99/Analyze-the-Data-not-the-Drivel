@@ -1,6 +1,5 @@
 ## latex/markdown files to ignore
 wp2epub/bm.markdown
-*.pdf
 jl*.markdown
 Thumbs.db
 *.aux
