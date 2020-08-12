@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2015/03/22/jod-update-version-0-9-97/}{JOD Update: Version 0.9.97*}}
 \addcontentsline{toc}{subsection}{JOD Update: Version 0.9.97*}
@@ -103,9 +103,11 @@ Using the new version of \texttt{jodhelp} requires installing the addon
 to define a JQT PF key to pop up JOD help with a keystroke. To configure
 a J PDF reader edit the configuration file:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
  ~config/base.cfg
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent this file is directly available from the JQT
 \texttt{Edit\textbackslash{}Configure} menu. \texttt{base.cfg} defines a
@@ -113,6 +115,7 @@ number of operating system dependent utilities. Make changes to the
 systems you use, save your changes, and restart J. The following example
 shows my \texttt{Win64} system settings.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr4946X0]
  case. 'Win' do.   
    BoxForm=: 1   
@@ -124,6 +127,7 @@ shows my \texttt{Win64} system settings.
    Editor=: 'c:/uap/notepad++/notepad++.exe %f'   
    Editor_nox=: '' 
 \end{lstlisting}
+\end{tcolorbox}
 
 I use
 \href{http://www.sumatrapdfreader.org/free-pdf-reader.html}{SumatraPDF}
@@ -135,14 +139,17 @@ To define JQT PK keys edit the configuration
 file:\footnote{\texttt{userkeys.cfg} is only available for J 8.03 systems.
 }
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
  ~config/userkeys.cfg 
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent This file is also directly available from the
 \texttt{Edit\textbackslash{}Configure} menu. My JOD specific PF keys
 are:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr4946X1]
  F3;1;Require JOD;require 'general/jod' 
  Shift+F3;1;JOD Help;jodhelp 0 
@@ -150,6 +157,7 @@ are:
  Shift+F6;1;Fit Dev Dicts;od cut 'jodfit joddev jod utils' [ 3 od '' 
  Ctrl+Shift+F6;1;Test Dev Dicts;od cut 'jodtest joddev jod utils' [ 3 od '' 
 \end{lstlisting}
+\end{tcolorbox}
 
 \noindent Pressing \texttt{Shift+F3} executes \texttt{jodhelp\ 0} which pops up
 JOD help.
@@ -199,9 +207,11 @@ To eliminate all these headaches this version of JOD no longer checks
 volume size when the \texttt{FREESPACE} noun is zero. To restore the
 previous behavior you have to edit the file
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
  ~addons/general/jod.ijs`
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent and change the line \texttt{FREESPACE=:0} to whatever byte count you
 want. Alternatively, you could

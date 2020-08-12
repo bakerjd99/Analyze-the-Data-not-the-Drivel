@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/}{SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob}}
 \addcontentsline{toc}{subsection}{SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob}
@@ -38,7 +38,7 @@ SWAG, (Silly Wild Ass Guess), is a hybrid J/EXCEL/GIT mob\footnote{What
 eccentric needs. I wanted a tool that:
 
 \begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
+\tightlist
 \item
   Abstracted away \href{http://www.investopedia.com/terms/a/accountingnoise.asp}{\emph{accounting noise}}.
 \item
@@ -76,7 +76,7 @@ input and output time series table.
 \begin{sidewaystable}
 \centering
 \scriptsize
-\rowcolors{1}{}{TableStripes}
+\rowcolors{0}{}{TableStripes}
 \begin{tabular}{llllllllllllllllll}
 \bf{Date} &\bf{E0}  &\ldots &\bf{Etotal}   &\bf{I0}  &\ldots &\bf{Itotal}   &\bf{R0}  &\ldots &\bf{Rtotal}  &\bf{D0} &\ldots &\bf{Dtotal}  &\bf{BB}  &\bf{NW}   &\bf{U0} &\ldots \\ \hline
 &&&&&&&&&&&&&&&&\\ 
@@ -273,9 +273,11 @@ The SWAG script is relatively self-contained. It can be run in any J
 session that loads the standard J profile. Load Swag with the standard
 load utility.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
  load 'c:/pd/fd/swag/swag.ijs'
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent Here SWAG is loaded in JHS.
 
@@ -297,14 +299,17 @@ are numbered. I use positive numbers for ``production'' scenarios and
 negative numbers for test scenarios. It sounds more complicated that it
 is. This is all you have to do to execute \texttt{RunTheNumbers}
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
  RunTheNumbers 0 1 2 3 4 
 \end{verbatim}
+\end{tcolorbox}
 
 \noindent The code is simple and shows what's going on.
 
 %NOTE: lstlisting syntax coloring misses for_sn - it's a long standing problem
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{lstlisting}[language=jdoc, frame=single,framerule=0pt,label=lst:scr5175X0]
 RunTheNumbers=:3 : 0
 
@@ -331,6 +336,7 @@ end.
 sf 
 )
 \end{lstlisting}
+\end{tcolorbox}
 
 \noindent \texttt{RunTheNumbers} writes a pair of TAB delimited forecast and
 statistics files for each scenario it evaluates.

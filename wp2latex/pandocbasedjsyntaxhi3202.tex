@@ -1,4 +1,4 @@
-%\input{bmamble.tex}
+%\input{bmamblenew.tex}
 
 \subsection*{\href{https://bakerjd99.wordpress.com/2012/09/20/pandoc-based-j-syntax-highlighting/}{Pandoc based J Syntax Highlighting}}
 \addcontentsline{toc}{subsection}{Pandoc based J Syntax Highlighting}
@@ -16,6 +16,7 @@ formats.
 shell commands are identical.}
 
 \footnotesize
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ pandoc --help
 pandoc [OPTIONS] [FILES]
@@ -27,6 +28,7 @@ Output formats: native, json, html, html5, html+lhs, html5+lhs, s5, slidy,
                 markdown+lhs, plain, rst, rst+lhs, mediawiki, textile, rtf,
                 org, asciidoc, odt, docx, epub
 \end{verbatim}
+\end{tcolorbox}
 \normalsize
 
 Some Pandoc conversions are better than others. Pandoc does a better
@@ -87,19 +89,23 @@ system. Instructions for building Haskell packages are
 reading the package build instructions run the following in your command
 shell:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal update
 $ cabal install pandoc
 \end{verbatim}
+\end{tcolorbox}
 
 This will download, compile and install a number of Haskell packages.
 Where Cabal puts the packages depends on your operating system. Cabal
 saves Linux packages in a hidden local directory. On my machine they
 ended up in:
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 /home/john/.cabal/lib
 \end{verbatim}
+\end{tcolorbox}
 
 If you managed to build Pandoc you're now ready to add a new
 highlighting language. Pandoc uses the
@@ -127,51 +133,63 @@ Now do the following.
   subdirectory in your current directory that contains package source
   code.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal unpack highlighting-kate-0.5.3.2
 Unpacking to highlighting-kate-0.5.3.2/
 \end{verbatim}
+\end{tcolorbox}
 \item
   Move into the temporary subdirectory and copy the Kate \texttt{j.xml}
   file to the package's xml subdirectory.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cd highlighting-kate-0.5.3.2
 $ cp ~/pd/blog/j.xml ~/temp/highlighting-kate-0.5.3.2/xml/j.xml
 \end{verbatim}
+\end{tcolorbox}
 \item
   Configure the package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal configure
 Resolving dependencies...
 Configuring highlighting-kate-0.5.3.2...
 \end{verbatim}
+\end{tcolorbox}
 \item
   Build the \texttt{highlighting-kate} package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal build
 Resolving dependencies...
     ... (omitted) ...
 \end{verbatim}
+\end{tcolorbox}
 \item
   If \texttt{highlighting-kate} builds without problems run the command.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ runhaskell ParseSyntaxFiles.hs xml
 Writing Text/Highlighting/Kate/Syntax/SqlPostgresql.hs
 Writing Text/Highlighting/Kate/Syntax/Scala.hs
     ... (omitted) ...
 \end{verbatim}
+\end{tcolorbox}
 
   \texttt{ParseSyntaxFiles} scans the package's xml subdirectory and
   generates language specific parsers. If all goes well you will find
   \href{https://www.box.com/s/20x4mes7neyj05lppued}{\texttt{J.hs}} in this directory.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 ~/temp/highlighting-kate-0.5.3.2/Text/Highlighting/Kate/Syntax
 \end{verbatim}
+\end{tcolorbox}
 
   \texttt{J.hs}, like all the files referred to in this post, are
   available in the files sidebar in the \href{https://www.box.com/s/vqg6chj0hpysjnxhulz5}{\texttt{Haskell/Pandoc}}
@@ -180,20 +198,24 @@ Writing Text/Highlighting/Kate/Syntax/Scala.hs
   Now rebuild the \texttt{highlighting-kate} package. This compiles your
   new \texttt{J.hs} parser.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal build
 Resolving dependencies...
     ... (omitted) ...
 \end{verbatim}
+\end{tcolorbox}
 \item
   After rebuilding the package run the Cabal copy command to put the
   modified package in the expected library location.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal copy
 Installing library in
 /home/john/.cabal/lib/highlighting-kate-0.5.3.2/ghc-7.4.1
 \end{verbatim}
+\end{tcolorbox}
 \end{enumerate}
 
 Now that the highlighting library is up to date we have to rebuild
@@ -204,42 +226,49 @@ highlighting package.
 \item
   Use Cabal to unpack the Pandoc package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cd ~/temp
 $ cabal unpack pandoc-1.9.4.2
 Unpacking to pandoc-1.9.4.2/
 \end{verbatim}
+\end{tcolorbox}
 \item
   Switch to the Pandoc subdirectory and configure the package.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal configure
 Resolving dependencies...
 [1 of 1] Compiling Main    ( Setup.hs, dist/setup/Main.o )
     ... (omitted) ...
 \end{verbatim}
+\end{tcolorbox}
 \item
   Rebuild Pandoc.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ cabal build 
 Building pandoc-1.9.4.2...
 Preprocessing executable 'pandoc' for pandoc-1.9.4.2...
     ... (omitted) ...
 \end{verbatim}
+\end{tcolorbox}
 
   If all goes well a
   Pandoc executable will be written to this subdirectory.
 
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 ~/temp/pandoc-1.9.4.2/dist/build/pandoc
 \end{verbatim}
+\end{tcolorbox}
 \item
   You can check the new executable by running
   \texttt{pandoc -{}-version}. The result should display J in the list
   of supported languages.
 \end{enumerate}
-
 
 Now that we have a Pandoc that can highlight J we're almost ready to
 blog gaudy J code. However before doing this we need to install some
@@ -282,9 +311,11 @@ these files are available via the files sidebar. You can generate the
 HTML version with the command:
 
 \footnotesize
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{verbatim}
 $ pandoc -s --highlight-style=tango PJHighlight.markdown -o PJHighlight.html
 \end{verbatim}
+\end{tcolorbox}
 \normalsize
 
 \noindent To get other versions simply change the file extension of the output
@@ -307,7 +338,8 @@ discard the \emph{beautiful} bit, is a pretty accurate description of my
 programmer day job.
 
 \small
-\begin{Shaded}
+%\begin{Shaded}
+\begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 \begin{Highlighting}[]
 \NormalTok{bonebridge}\AlertTok{=:}\NormalTok{3 }\OtherTok{:} \NormalTok{0}
 
@@ -379,7 +411,8 @@ programmer day job.
 \NormalTok{settings }\FunctionTok{#}\OtherTok{~} \RegionMarkerTok{((}\FunctionTok{<} \NormalTok{srsm}\RegionMarkerTok{)}\OtherTok{"}\NormalTok{1 grade}\RegionMarkerTok{)} \FunctionTok{+.} \RegionMarkerTok{(}\FunctionTok{>} \NormalTok{srsm}\RegionMarkerTok{)}\OtherTok{"}\NormalTok{1 grade}
 \RegionMarkerTok{)}
 \end{Highlighting}
-\end{Shaded}
+%\end{Shaded}
+\end{tcolorbox}
 \normalsize
 
 %1 J has its own syntax highlighting tools but they are not part of a
