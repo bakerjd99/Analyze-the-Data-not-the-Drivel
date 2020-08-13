@@ -25,7 +25,7 @@ ways. Producing useful \LaTeX\ source from WordPress export XML will
 require manual edits. My goal here is to minimize manual edits,
 produce high quality \LaTeX\ source and to \emph{outline} what you will
 have to contend with. To get an idea of what you can expect download the
-\href{http://www.box.com/s/eqnv3obuy0detf99nruf}{\LaTeX\ compiled version
+\href{https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/wordpresstolatexwith2374.pdf}{\LaTeX\ compiled version
 of this post.}
 
 \paragraph{Visual and Logical composition}
@@ -78,8 +78,8 @@ ready files.
 Download Pandoc from
 \href{http://johnmacfarlane.net/pandoc/installing.html}{here}. I use the
 Windows command line version. There are Linux and Mac versions as well.
-Download J from \href{http://www.jsoftware.com/stable.htm}{here}. The
-easiest J install is the 32 bit Windows J 6.02 version. Other versions
+Download \href{https://code.jsoftware.com/wiki/System/Installation}{J from here}. The
+easiest J install is the 32 bit Windows version. Other versions
 require additional steps to configure and deploy. If you are already a J
 user there is no need to install a particular system but you will need:
 
@@ -100,7 +100,7 @@ tests; if you succeed you're system is ready for
 \href{http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/}{WordPress
 to \LaTeX\ with Pandoc and J: \LaTeX\ Directories (2)}.
 
-\paragraph{Pandoc Test:} Download the test file: \texttt{cdata.html} and run Pandoc from the
+\paragraph{Pandoc Test:} Download the test file: \href{https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/cdata.html}{\texttt{cdata.html}} and run Pandoc from the
 command line:
 
 \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
@@ -110,9 +110,8 @@ pandoc -o cdata.tex cdata.html
 \end{tcolorbox}
 
 \noindent \texttt{cdata.html} is an example of the HTML code you find in WordPress
-export XML \texttt{CDATA} elements. \emph{Note:} required files are also
-available in the files sidebar in the \texttt{WordPress to LaTeX}
-directory.
+export XML \texttt{CDATA} elements. \emph{Note:} required files are 
+available on \href{https://github.com/bakerjd99/jacks/tree/master/texfrwpxml}{GitHub here.}
 
 \paragraph{J Test:} Start a J session and enter the following commands:
 \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
