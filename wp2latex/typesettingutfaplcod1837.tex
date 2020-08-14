@@ -1,6 +1,6 @@
 %\input{bmamblenew.tex}
 
-\subsection*{\href{https://bakerjd99.wordpress.com/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/}{Typesetting UTF8 APL code with the \LaTeX\ lstlisting package}}
+\subsection*{\href{https://bakerjd99.wordpress.com/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/}{Typesetting UTF-8 APL code with the \LaTeX\ lstlisting package}}
 \addcontentsline{toc}{subsection}{Typesetting UTF8 APL code with the \LaTeX\ lstlisting package}
 
 
@@ -40,7 +40,7 @@ our fault; if we loved APL more it would stop hitting us!}
 \begin{SCfigure}
   \centering
 \href{http://www.box.net/shared/62x2208x56lrjy5vkesz}{\includegraphics[width=0.60\textwidth]{aplbadboys.png}}
-\caption{UTF8 APL characters within a \LaTeX\ \texttt{lstlisting} environment. Click for \texttt{*.tex} source  code.}
+\caption{UTF-8 APL characters within a \LaTeX\ \texttt{lstlisting} environment. Click for \texttt{*.tex} source  code.}
 \label{fig:1837X0}
 \end{SCfigure}
 
@@ -69,7 +69,7 @@ package}. lstlisting works well for standard ANSI source code. I use it
 for J, C\#, SQL, C, XML, Ocaml, Mathematica, F\#, shell scripts and
 \LaTeX\ source code, i.e. everything except APL! lstlisting is an
 eight bit package; it will not handle arbitrary Unicode out of the box.
-I didn't know how to get around this so I handled APL by enclosing UTF8
+I didn't know how to get around this so I handled APL by enclosing UTF-8
 APL text in plain \texttt{\textbackslash{}begin\{verbatim\} \ldots{}
 \textbackslash{}end\{verbatim\}} environments. This works for \XeLaTeX\ and
 Lua\LaTeX\ but you lose all the lstlisting goodies. Then I saw an
@@ -82,20 +82,20 @@ I wondered if the same method would work for APL. It turns out that it
 does!
 
 If you insert the following snippet of \TeX\ code in your document
-preamble Lua\LaTeX\ and \XeLaTeX\ will properly process UTF8 APL text in
+preamble Lua\LaTeX\ and \XeLaTeX\ will properly process UTF-8 APL text in
 lstlisting environments. You will need to download and install the
-\href{http://v4.vector.org.uk/resource/}{APL385 Unicode} font if it's
+\href{https://github.com/bakerjd99/jacks/blob/master/latex/Apl385.ttf}{APL385 Unicode} font if it's
 not on your system. \textbf{A test \LaTeX\ document illustrating
-this hack is available
-\href{https://www.box.net/shared/62x2208x56lrjy5vkesz}{here}. The
-compiled PDF is available
-\href{https://www.box.net/shared/bnl3n4sqt2h3bhn8bb79}{here}.} As always
-these files can be accessed in the files sidebar.
+this hack is 
+\href{https://github.com/bakerjd99/jacks/blob/master/latex/apl-lstlisting.tex}{available here}. The
+compiled PDF is 
+\href{https://github.com/bakerjd99/jacks/blob/master/latex/apl-lstlisting.pdf}{available here}.}
+%As always these files can be accessed in the files sidebar.
 
 \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
 %[sourcecode wraplines="false" gutter="true" autolinks="false"]
 \begin{lstlisting}[language=TeX,frame=single,framerule=0pt,label=lst:scr1837X0]
-% set lstlisting to accept UTF8 APL text
+% set lstlisting to accept UTF-8 APL text
 \makeatletter
 \lst@InputCatcodes
 \def\lst@DefEC{%
@@ -123,6 +123,14 @@ these files can be accessed in the files sidebar.
 \makeatother
 \end{lstlisting}
 \end{tcolorbox}
+
+% ::UPDATE POSTSCRIPT::
+%\footnotesize
+%\begin{verse}
+%\emph{From the blog:} \href{https://analyzethedatanotthedrivel.org/}{\emph{Analyze the Data not the Drivel}}\\
+%\emph{John D. Baker} --- \emph{revised: August 14, 2020}
+%\end{verse}
+%\normalsize
 
 %\captionsetup[floatingfigure]{labelformat=empty}
 %\begin{figure}[htbp]

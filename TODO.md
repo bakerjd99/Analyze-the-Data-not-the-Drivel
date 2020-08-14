@@ -11,15 +11,12 @@ is my key for relating issues, tickets and so forth across systems.
 
 `[begin-todo]`
 
-1. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
+1. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/) to [github.com/bakerjd99](https://github.com/bakerjd99).
 
-2. `<_7oa1iac9gtez9tpxgb8lpqgq8_>` Explore better table of contents layouts in eBook versions.
+2. `<_6vzptk3mizfci8xhku2zqph0n_>` For selected posts create updated PDF versions.
 
-3. `<_ass0kzc30qat8qqqtichqoy2d_>` Generate single and two level `toc.ncx` xml files from `bm.tex`. Not all eBook readers
-   can some multiple levels in table of contents. Kindle `mobi` is apparently one level only.
+3. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
 
 4. `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
-
-5. `<_654evucdxhl38fch2q9renkyo_>` Come up with a better blog icon.
 
 `[end-todo]`
