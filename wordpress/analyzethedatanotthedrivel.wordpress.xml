@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-08-06 17:20"-->
+<!-- generator="WordPress.com" created="2020-08-15 17:26"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel.</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Trust is for imbeciles.</description>
-	<pubDate>Thu, 06 Aug 2020 17:20:31 +0000</pubDate>
+	<pubDate>Sat, 15 Aug 2020 17:26:56 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -353,6 +353,8 @@
 	<wp:tag><wp:term_id>247377097</wp:term_id><wp:tag_slug>cassini-grand-finale</wp:tag_slug><wp:tag_name><![CDATA[Cassini Grand Finale]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>20576</wp:term_id><wp:tag_slug>cell-phone</wp:tag_slug><wp:tag_name><![CDATA[cell-phone]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>59436</wp:term_id><wp:tag_slug>cellphone</wp:tag_slug><wp:tag_name><![CDATA[cellphone]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>243364</wp:term_id><wp:tag_slug>chick-flick</wp:tag_slug><wp:tag_name><![CDATA[chick flick]]></wp:tag_name>
 </wp:tag>
@@ -1056,6 +1058,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>197376456</wp:term_id><wp:tag_slug>minnie-e-raver</wp:tag_slug><wp:tag_name><![CDATA[Minnie E. Raver]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>35454118</wp:term_id><wp:tag_slug>missing-phone</wp:tag_slug><wp:tag_name><![CDATA[missing phone]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>180194</wp:term_id><wp:tag_slug>mobi</wp:tag_slug><wp:tag_name><![CDATA[MOBI]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>120</wp:term_id><wp:tag_slug>mobile</wp:tag_slug><wp:tag_name><![CDATA[mobile]]></wp:tag_name>
@@ -1602,7 +1606,7 @@
 	<generator>http://wordpress.com/</generator>
 
 <image>
-	<url>https://bakerjd99.files.wordpress.com/2020/07/cropped-purity-of-analytic-essence.png?w=32</url>
+	<url>https://bakerjd99.files.wordpress.com/2020/08/cropped-assume-corruption.png?w=32</url>
 	<title>Analyze the Data not the Drivel.</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<width>32</width>
@@ -11769,13 +11773,13 @@ A =: createHistogramArg '' NB. perhaps this takes a lot of time
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=1837</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="attachment_1908" align="alignright" width="298" caption="UTF8 APL characters within a LaTeX lstlisting environment. Click for *.tex source code"]<a href="http://www.box.net/shared/62x2208x56lrjy5vkesz"><img class="size-full wp-image-1908 " title="aplbadboys" src="http://bakerjd99.files.wordpress.com/2011/08/aplbadboys.png" alt="" width="298" height="124" /></a>[/caption]
-
+		<content:encoded><![CDATA[[caption id="attachment_1908" align="alignright" width="298"]<a href="http://www.box.net/shared/62x2208x56lrjy5vkesz"><img class="size-full wp-image-1908 " title="aplbadboys" src="http://bakerjd99.files.wordpress.com/2011/08/aplbadboys.png" alt="" width="298" height="124" /></a> UTF8 APL characters within a LaTeX lstlisting environment. Click for *.tex source code[/caption]
+<h4><a href="https://github.com/bakerjd99/jacks/blob/master/latex/typesettingutfaplcod1837.pdf">Click for an updated PDF version of this post.</a></h4>
 Typesetting <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> source code has always been a pain in the ass! In the dark ages, (<a href="http://www.google.com/search?tbm=isch&amp;hl=en&amp;source=hp&amp;biw=994&amp;bih=584&amp;q=the+seventies&amp;gbv=2&amp;oq=the+seventi">the 1970's</a>), you had to fiddle with APL type-balls and live without luxuries like <em>lower case letters</em>. With the advent of general outline fonts it became <em>technically possible</em> to render APL <a href="http://www.merriam-webster.com/dictionary/glyph">glyphs </a>on standard display devices provided you:
 <ol>
-	<li>Designed your own APL font.</li>
-	<li>Mapped the <em><a href="http://aplwiki.com/AtomicVector">atomic vector</a></em> of your APL to whatever encoding your font demanded.</li>
-	<li>Wrote <span style="font-family:Courier;">WSFULL</span>'s of junk transliteration functions to dump your APL objects as font encoded text.</li>
+ 	<li>Designed your own APL font.</li>
+ 	<li>Mapped the <em><a href="http://aplwiki.com/AtomicVector">atomic vector</a></em> of your APL to whatever encoding your font demanded.</li>
+ 	<li>Wrote <span style="font-family:Courier;">WSFULL</span>'s of junk transliteration functions to dump your APL objects as font encoded text.</li>
 </ol>
 It's a testament to either the talent, or pig headedness of APL programmers, that many actually did this. We all hated it! We still hate it! But, like an abused spouse, we kept going back for more.  <em>It's our fault; if we loved APL more it would stop hitting us!</em>
 
@@ -11784,8 +11788,7 @@ When Unicode appeared APL'ers cheered --- our long ASCII nightmare was ending. T
 My preferred source code listing tool is the $latex \LaTeX$ <a href="http://en.wikibooks.org/wiki/LaTeX/Packages/Listings">lstlisting package</a>. <span style="font-family:Courier;">lstlisting</span> works well for standard ANSI source code.  I use it for <span style="font-family:Courier;">J, C#, SQL, C, XML, Ocaml, Mathematica, F#,</span> shell scripts and $latex \LaTeX$ source code, i.e. everything except APL! <span style="font-family:Courier;">lstlisting</span> is an eight bit package; it will not handle arbitrary Unicode out of the box.  I didn't know how to get around this so I handled APL by enclosing UTF8 APL text in plain <span style="font-family:Courier;">\begin{verbatim} ... \end{verbatim}</span> environments. This works for <span style="font-family:Courier;">XeLaTeX</span> and <span style="font-family:Courier;">LuaLaTeX</span> but you lose all the <span style="font-family:Courier;">lstlisting</span> goodies. Then I saw an interesting <a href="http://tex.stackexchange.com/">tex.stackexchange.com</a> posting about <a href="http://tex.stackexchange.com/questions/25391/the-listings-package-and-utf-8">The 'listings' package and UTF-8</a>. One solution to the post's "French ligature problem" showed how to force Unicode down <span style="font-family:Courier;">lstlisting</span>'s throat. I wondered if the same method would work for APL. It turns out that it does!
 
 If you insert the following snippet of <span style="font-family:Courier;">TeX</span> code in your document preamble <span style="font-family:Courier;">LuaLaTeX</span> and <span style="font-family:Courier;">XeLaTeX</span> will properly process UTF8 APL text in <span style="font-family:Courier;">lstlisting</span> environments. You will need to download and install the <a href="http://v4.vector.org.uk/resource/">APL385 Unicode</a> font if it's not on your system.  <strong>A test $latex \LaTeX$ document illustrating this hack is available <a href="https://www.box.net/shared/62x2208x56lrjy5vkesz">here</a>. The compiled PDF is available <a href="https://www.box.net/shared/bnl3n4sqt2h3bhn8bb79">here</a>.</strong> As always these files can be accessed in the files sidebar.
-
-[sourcecode wraplines="false" gutter="true" autolinks="false"]
+<pre>[sourcecode wraplines="false" gutter="true" autolinks="false"]
 % set lstlisting to accept UTF8 APL text
 \makeatletter
 \lst@InputCatcodes
@@ -11812,7 +11815,7 @@ If you insert the following snippet of <span style="font-family:Courier;">TeX</s
   ^^00}
 \lst@RestoreCatcodes
 \makeatother
-[/sourcecode]]]></content:encoded>
+[/sourcecode]</pre>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1837</wp:post_id>
 		<wp:post_date>2011-08-15 21:27:57</wp:post_date>
@@ -14137,53 +14140,40 @@ The <a href="http://www.youtube.com/watch?v=eNaNxo9jFHE">emotional hysterics</a>
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2374</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h4>There are no quick WordPress to LaTeX fixes</h4>
-[caption id="" align="alignleft" width="150" caption="WordPress to LaTeX"]<img class="  " style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70" />[/caption]
+		<content:encoded><![CDATA[<!-- wp:heading {"level":4} -->
+<h4><a href="https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/wordpresstolatexwith2374.pdf">Click for an updated PDF version of this post</a>.</h4>
+<!-- /wp:heading -->
 
-Over the next three posts I will describe how to convert WordPress’s <a href="http://en.blog.wordpress.com/2006/06/12/xml-import-export/">export XML</a> to LaTeX source code.  I know that many of you are looking for a quick WordPress to LaTeX fix; unfortunately there are no quick fixes. The two formats come from different worlds and are used in different ways.  Producing useful LaTeX source from WordPress export XML will require manual edits.  My goal here is to minimize manual edits, produce high quality LaTeX source and to <em>outline</em> what you will have to contend with. To get an idea of what you can expect download the <a href="http://www.box.com/s/eqnv3obuy0detf99nruf">LaTeX compiled version of this post.</a>
+<h4>There are no quick WordPress to LaTeX fixes</h4>
+<p>[caption id="" align="alignleft" width="150"]<img class="  " style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70"> WordPress to LaTeX[/caption]</p>
+<p>Over the next three posts I will describe how to convert WordPress’s <a href="http://en.blog.wordpress.com/2006/06/12/xml-import-export/">export XML</a> to LaTeX source code. &nbsp;I know that many of you are looking for a quick WordPress to LaTeX fix; unfortunately there are no quick fixes. The two formats come from different worlds and are used in different ways. &nbsp;Producing useful LaTeX source from WordPress export XML will require manual edits. &nbsp;My goal here is to minimize manual edits, produce high quality LaTeX source and to <em>outline</em> what you will have to contend with. To get an idea of what you can expect download the <a href="http://www.box.com/s/eqnv3obuy0detf99nruf">LaTeX compiled version of this post.</a></p>
 <h4>Visual and Logical composition</h4>
-WordPress and LaTeX are examples of the two basic approaches, <em>visual</em> and <em>logical, </em>taken by writing software.  Visual systems value appearance. It matters what things look like and no effort is spared to get the right look. Logical systems value content. What’s said is far more important than what it looks like. Logical systems impose order and structure and typically defer visual elements.  As you might expect there is no such thing as a pure visual or logical writing system. Successful systems use both approaches to a greater or lesser degree. Composing WordPress blog posts is roughly 35% visual and 65% logical.<a id="refX1" href="#X1">[1]</a>  LaTeX composition is about 10% visual and 90% logical. The numbers do not line up; there is a basic mismatch here.
-
-<em>Many format X to LaTeX converters tackle this mismatch by attempting to maintain visual fidelity. This is a catastrophic error that renders the entire conversion useless.</em>  Here’s a hint. If you’re using a predominantly logical system like LaTeX you don’t give a rodent's posterior about visual fidelity. This method dispenses with all but the most basic of visual elements. No attempt is made to preserve fonts, type sizes, image scale, justification, hyphenation, text color and so forth.  The goal is to produce working LaTeX source that can be transformed to whatever final layout the author desires.
-<h4>Prerequisite Software</h4>
-I use two programs to transform WordPress export XML to LaTeX:  the <a href="http://www.jsoftware.com/">J programming language</a> and <a href="http://johnmacfarlane.net/">John MacFarlane’s</a> Pandoc.  <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> is an excellent <a href="http://en.wikipedia.org/wiki/Markup_language">text mark-up</a> to mark-up converter.  It wisely avoids attempting to convert entire complex documents and focuses on getting <em>parts</em> of documents right.  It does a particularly good job of converting HTML to LaTeX which is a <em>crucial</em> part of this process.  I use Pandoc to transform the HTML embedded in WordPress export XML <a href="http://en.wikipedia.org/wiki/CDATA"><code>CDATA</code> elements</a> to <code>*.tex</code> files and I use J to preprocess and post process Pandoc inputs and outputs and to stitch everything together into a set of LaTeX ready files.
-
-Download Pandoc from <a href="http://johnmacfarlane.net/pandoc/installing.html">here</a>. I use the Windows command line version. There are Linux and Mac versions as well. Download J from <a href="http://www.jsoftware.com/stable.htm">here</a>.  The easiest J install is the 32 bit Windows J 6.02 version. Other versions require additional steps to configure and deploy. If you are already a J user there is no need to install a particular system but you will need:
+<p>WordPress and LaTeX are examples of the two basic approaches, <em>visual</em>&nbsp;and&nbsp;<em>logical,&nbsp;</em>taken by writing software.&nbsp; Visual systems value appearance. It matters what things look like and no effort is spared to get the right look. Logical systems value content.&nbsp;What’s said is far more important than what it looks like. Logical systems impose order and structure and typically defer visual elements.&nbsp; As you might expect there is no such thing as a pure visual or logical writing system.&nbsp;Successful systems use both approaches to a greater or lesser degree. Composing WordPress blog posts is roughly 35% visual and 65% logical.<a id="refX1" href="#X1">[1]</a>&nbsp; LaTeX composition is about 10% visual and 90% logical. The numbers do not line up; there is a basic mismatch here.</p>
+<p><em>Many format X to LaTeX converters tackle this mismatch by attempting to maintain visual fidelity.&nbsp;This is a catastrophic error that renders the entire conversion useless.</em> &nbsp;Here’s a hint. If you’re using a predominantly logical system like LaTeX you don’t give a rodent's posterior about visual fidelity. This method dispenses with all but the most basic of visual elements.&nbsp;No attempt is made to preserve fonts, type sizes, image scale, justification, hyphenation, text color and so forth.&nbsp; The goal is to produce working LaTeX source that can be transformed to whatever final layout the author desires.</p>
+<h4>Prerequisite&nbsp;Software</h4>
+<p>I use two programs to transform WordPress export XML to LaTeX: &nbsp;the <a href="http://www.jsoftware.com/">J programming language</a> and <a href="http://johnmacfarlane.net/">John MacFarlane’s</a> Pandoc. &nbsp;<a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> is an excellent <a href="http://en.wikipedia.org/wiki/Markup_language">text mark-up</a> to mark-up converter.&nbsp; It wisely avoids attempting to convert entire complex documents and focuses on getting <em>parts</em> of documents right. &nbsp;It does a particularly good job of converting HTML to LaTeX which is a <em>crucial</em> part of this process. &nbsp;I use Pandoc to transform the HTML embedded in WordPress export XML <a href="http://en.wikipedia.org/wiki/CDATA"><code>CDATA</code> elements</a> to <code>*.tex</code> files and I use J to preprocess and post process Pandoc inputs and outputs and to stitch everything together into a set of LaTeX ready files.</p>
+<p>Download Pandoc from <a href="http://johnmacfarlane.net/pandoc/installing.html">here</a>. I use the Windows command line version. There are Linux and Mac versions as well.&nbsp;Download J from <a href="http://www.jsoftware.com/stable.htm">here</a>.&nbsp; The easiest J install is the 32 bit Windows J 6.02 version.&nbsp;Other versions require additional steps to configure and deploy. If you are already a J user there is no need to install a particular system but you will need:</p>
 <ol>
-	<li>The task library <code>require 'task'</code></li>
-	<li>The utility program <a href="http://www.gnu.org/software/wget/"><code>wget.exe</code></a></li>
+<li>The task library <code>require 'task'</code></li>
+<li>The utility program <a href="http://www.gnu.org/software/wget/"><code>wget.exe</code></a></li>
 </ol>
-Both of these components are typically part of the J distribution.
+<p>Both of these components are typically part of the J distribution.</p>
 <h4>Install and check prerequisites</h4>
-To continue download and install Pandoc and J and run the following tests; if you succeed you’re system is ready for <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a>.
-
-<strong>Pandoc Test:</strong>
-
-Download the test file: <code><a href="http://www.box.com/s/sazsyfbrg9xo6b5n91v0">cdata.html</a></code> and run Pandoc from the command line:
-
-<code>pandoc –o cdata.tex cdata.html</code>
-
-<code>cdata.html</code> is an example of the HTML code you find in WordPress export XML <code>CDATA</code> elements.  <em>Note:</em> required files are also available in the files sidebar in the <code>WordPress to LaTeX</code> directory.
-
-<strong>J Test:</strong>
-
-Start a J session and enter the following commands:
-
-<code>require 'task'</code>
-
-<code>shell 'wget –help'</code>
-
-<code>shell 'wget http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/L/i-mNK4RHL-L.png'</code>
-
-If the shell command is properly loaded and <code>wget.exe</code> is found you will see help text. The second shell command downloads an image file.  Downloading post images is part of the overall conversion process.
+<p>To continue download and install Pandoc and J and run the following tests; if you succeed you’re system is ready for <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a>.</p>
+<p><strong>Pandoc Test:</strong></p>
+<p>Download the test file: <code><a href="http://www.box.com/s/sazsyfbrg9xo6b5n91v0">cdata.html</a></code> and run Pandoc from the command line:</p>
+<p><code>pandoc –o cdata.tex cdata.html</code></p>
+<p><code>cdata.html</code> is an example of the HTML code you find in WordPress export XML <code>CDATA</code> elements. &nbsp;<em>Note:</em> required files are also&nbsp;available&nbsp;in the files sidebar in the <code>WordPress to LaTeX</code> directory.</p>
+<p><strong>J Test:</strong></p>
+<p>Start a J session and enter the following commands:</p>
+<p><code>require 'task'</code></p>
+<p><code>shell 'wget –help'</code></p>
+<p><code>shell 'wget http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/L/i-mNK4RHL-L.png'</code></p>
+<p>If the shell command is properly loaded and <code>wget.exe</code> is found you will see help text. The second shell command downloads an image file.&nbsp; Downloading post images is part of the overall conversion process.</p>
 <div>
-
-<hr align="left" size="1" width="33%" />
-
+<hr align="left" size="1" width="33%">
 <div>
-
-<a id="X1" href="#refX1">[1]</a> Actually this is not bad. <a href="http://graphicssoft.about.com/od/findsoftware/a/pagelayout.htm">Page layout systems</a> are far worse. A typical layout system might be 90% visual and 10% logical making layout systems polar opposites of LaTeX.
-
+<p><a id="X1" href="#refX1">[1]</a> Actually this is not bad. <a href="http://graphicssoft.about.com/od/findsoftware/a/pagelayout.htm">Page layout systems</a> are far worse. A typical layout system might be 90% visual and 10% logical making layout systems polar opposites of LaTeX.</p>
 </div>
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14530,13 +14520,15 @@ If the shell command is properly loaded and <code>wget.exe</code> is found you w
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2456</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="" align="alignleft" width="150" caption="WordPress to LaTeX"]<img class="  " style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70" />[/caption]
+		<content:encoded><![CDATA[<!-- wp:heading {"level":4} -->
+<h4><a href="https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/wordpresstolatexwith2456.pdf">Click for an updated PDF version of this post.</a></h4>
+<!-- /wp:heading -->
 
-In this post I will describe the LaTeX directory structure the J script <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> is expecting. To convert WordPress export XML to LaTeX with this script you will have to set up similar directories.
-
-LaTeX documents are built from <code>*.tex</code><a id="refX1" href="#X1">[1]</a> files. This makes LaTeX more like a compiled programming language than a word processing program. There are advantages and disadvantages to the LaTeX way. In LaTeX’s favor, the system is enormously adaptable, versatile and powerful. There is very little that LaTeX/TeX and <a href="http://www.amazon.com/LaTeX-Companions-Third-Revised-Boxed/dp/0321514432">associates</a> cannot do.  Unfortunately, “<a href="http://www.youtube.com/watch?v=IKmQW7JTb6s">with great power comes great responsibility.</a>” LaTeX is demanding! You have to study LaTeX like any other programming language. It’s not for everyone but for experienced users it’s the best way to produce documents with the highest typographic standards.
+<p>[caption id="" align="alignleft" width="150" caption="WordPress to LaTeX"]<img class="  " style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70">[/caption]</p>
+<p>In this post I will describe the LaTeX directory structure the J script <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> is expecting. To convert WordPress export XML to LaTeX with this script you will have to set up similar directories.</p>
+<p>LaTeX documents are built from <code>*.tex</code><a id="refX1" href="#X1">[1]</a> files. This makes LaTeX more like a compiled programming language than a word processing program. There are advantages and disadvantages to the LaTeX way. In LaTeX’s favor, the system is enormously adaptable, versatile and powerful. There is very little that LaTeX/TeX and <a href="http://www.amazon.com/LaTeX-Companions-Third-Revised-Boxed/dp/0321514432">associates</a> cannot do. &nbsp;Unfortunately, “<a href="http://www.youtube.com/watch?v=IKmQW7JTb6s">with great power comes great responsibility.</a>” LaTeX is demanding! You have to study LaTeX like any other programming language. It’s not for everyone but for experienced users it’s the best way to produce documents with the highest typographic standards.</p>
 <h4>LaTeX directory structure</h4>
-To use LaTeX efficiently it’s wise to pick a document directory structure and <em>stick with it. </em>I use a simple directory layout. Each document has a root directory. The root directory used by <code>TeXfrWpxml.ijs </code>is:
+<p>To use LaTeX efficiently it’s wise to pick a document directory structure and <em>stick with it. </em>I use a simple directory layout. Each document has a root directory. The root directory used by <code>TeXfrWpxml.ijs&nbsp;</code>is:</p>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -14549,29 +14541,23 @@ To use LaTeX efficiently it’s wise to pick a document directory structure and 
 </tr>
 </tbody>
 </table>
-I put my document specific <code>*.tex</code>, <code>*.bib</code>, <code>*.sty</code> and other LaTeX/TeX files in the root. To handle graphics I create an immediate subdirectory called <code>inclusions</code>.
+<p>I put my document specific <code>*.tex</code>, <code>*.bib</code>, <code>*.sty</code> and other LaTeX/TeX files in the root. To handle graphics I create an immediate subdirectory called <code>inclusions</code>.</p>
 <div>
-
-<code>c:/pd/blog/wp2latex/inclusions</code>
-
+<p><code>c:/pd/blog/wp2latex/inclusions</code></p>
 </div>
-The inclusions directory holds the document’s <code>*.png</code>, <code>*.jpg</code>, <code>*.pdf</code>, <code>*.eps</code> and other graphics files.  To reference files in the inclusions directory with the standard LaTeX <code>graphicx</code> package insert
+<p>The inclusions directory holds the document’s <code>*.png</code>, <code>*.jpg</code>, <code>*.pdf</code>, <code>*.eps</code> and other graphics files. &nbsp;To reference files in the inclusions directory with the standard LaTeX <code>graphicx</code> package insert</p>
 <div>
-
-<code>\usepackage{color,graphicx,subfigure,sidecap}</code>
-<code>\graphicspath{{./inclusions/}}</code>
-
+<p><code>\usepackage{color,graphicx,subfigure,sidecap}</code><br>
+<code>\graphicspath{{./inclusions/}}</code></p>
 </div>
-in your preamble. Finally, to track document changes I create a <a href="http://git-scm.com/">GIT</a> repository in the root directory.
+<p>in your preamble. Finally, to track document changes I create a <a href="http://git-scm.com/">GIT</a> repository in the root directory.</p>
 <div>
-
-<code>c:/pd/blog/wp2latex/.git</code>
-
+<p><code>c:/pd/blog/wp2latex/.git</code></p>
 </div>
 <h4>Self contained directories</h4>
-I take care to keep my document directories <em>self-contained</em>. Zipping up the root and inclusions directory collects <em>all</em> the document’s files. This means that I sometimes have to copy files that are used in more than one document. Many LaTeX users maintain a common directory for such files but I’ve found that common directories complicate moving documents around. You’re always forgetting something in the damn common directory or you are copying a <a href="http://www.urbandictionary.com/define.php?term=buttload">buttload</a> of mostly irrelevant files from one big confusing common directory to another.
+<p>I take care to keep my document directories <em>self-contained</em>. Zipping up the root and inclusions directory collects <em>all</em> the document’s files. This means that I sometimes have to copy files that are used in more than one document. Many LaTeX users maintain a common directory for such files but I’ve found that common directories complicate moving documents around. You’re always forgetting something in the damn common directory or you are copying a <a href="http://www.urbandictionary.com/define.php?term=buttload">buttload</a> of mostly irrelevant files from one big confusing common directory to another.</p>
 <h4>TeXfrWpxml.ijs files</h4>
-The <code>TeXfrWpxml.ijs </code>script searches for these files in the root directory.
+<p>The <code>TeXfrWpxml.ijs&nbsp;</code>script searches for these files in the root directory.</p>
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -14584,11 +14570,9 @@ The <code>TeXfrWpxml.ijs </code>script searches for these files in the root dir
 </tr>
 </tbody>
 </table>
-<code>bm.tex</code> references <code>bmtitlepage.tex</code>.  I prefer a separate title page file; simply comment out this file if you create titles in other ways. <strong>The zip file <a href="http://www.box.com/s/nioua15kpdod5lvruaxe"><code>wp2latex.zip</code></a> contains a test directory in the format expected by <code>TeXfrWpxml.ijs</code>.</strong>  It also has a subset of my blog posts already converted to LaTeX. To get ready for <a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> download <code>wp2latex.zip</code> and attempt to compile <code>bm.tex</code>.  You might have to download a number of LaTeX packages.  Once you have successfully compiled <code>bm.tex </code>you are ready for the next step.
+<p><code>bm.tex</code> references <code>bmtitlepage.tex</code>. &nbsp;I prefer a separate title page file; simply comment out this file if you create titles in other ways. <strong>The zip file <a href="http://www.box.com/s/nioua15kpdod5lvruaxe"><code>wp2latex.zip</code></a> contains a test directory in the format expected by <code>TeXfrWpxml.ijs</code>.</strong>&nbsp; It also has a subset of my blog posts already converted to LaTeX. To get ready for <a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> download <code>wp2latex.zip</code> and attempt to compile <code>bm.tex</code>. &nbsp;You might have to download a number of LaTeX packages.&nbsp; Once you have successfully compiled <code>bm.tex&nbsp;</code>you are ready for the next step.</p>
 <div>
-
-<hr align="left" size="1" width="33%" />
-
+<hr align="left" size="1" width="33%">
 <div><a id="X1" href="#refX1">[1]</a> LaTeX uses many other file types but key files are usually <code>*.tex</code> files.</div>
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -14748,20 +14732,24 @@ The <code>TeXfrWpxml.ijs </code>script searches for these files in the root dir
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=2507</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>I frequently update these documents but they are not always current. The online version is the source and it is always up to date.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2>This page maintains references to "downloadable" versions of this blog.</h2>
+		<content:encoded><![CDATA[<!-- wp:heading {"level":3} -->
+<h3>This page maintains references to "downloadable" versions of this blog.</h3>
 <!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Blog content is available in PDF, EPUB and MOBI formats.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p>The eBook versions (EPUB and MOBI) are image free. I tested loading all the images found in the PDF version but current eBook readers bog down and make an&nbsp;unpredictable&nbsp;mess wrapping text around usually poorly placed images.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The PDF version is the document of record. </p><p>Additions, updates, and revisions will only be found in the PDF version.</p></blockquote>
+<!-- /wp:quote -->
+
 <!-- wp:list {"ordered":true} -->
-<ol><li><a href="https://bakerjd99.files.wordpress.com/2020/07/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
+<ol><li><a href="https://bakerjd99.files.wordpress.com/2020/08/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -14927,116 +14915,98 @@ The <code>TeXfrWpxml.ijs </code>script searches for these files in the root dir
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2518</guid>
 		<description></description>
-		<content:encoded><![CDATA[[caption id="" align="alignright" width="150" caption="WordPress to LaTeX"]<img style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70" />[/caption]
+		<content:encoded><![CDATA[<!-- wp:heading {"level":4} -->
+<h4><a href="https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/wordpresstolatexwith2518.pdf">Click for an updated PDF version of this post.</a></h4>
+<!-- /wp:heading -->
 
-In this post I will describe how to use the J script <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> to generate LaTeX source from WordPress export XML.  I am assuming you have worked through <a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">(Part 1)</a> and <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">(Part 2)</a> and have:
+<p>[caption id="" align="alignright" width="150" caption="WordPress to LaTeX"]<img style="margin-left:6px;margin-right:6px;" title="WordPress to LaTeX" src="http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/M/i-mNK4RHL-M.png" alt="WordPress to LaTeX" width="150" height="70">[/caption]</p>
+<p>In this post I will describe how to use the J script <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> to generate LaTeX source from WordPress export XML.&nbsp; I am assuming you have worked through <a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">(Part 1)</a> and <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">(Part 2)</a> and have:</p>
 <ol>
-	<li>Successfully installed and tested <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a>.</li>
-	<li>Installed and tested <a href="http://www.jsoftware.com/">a version of J</a>.</li>
-	<li>Set up appropriate directories (<a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">Part 2</a>).</li>
-	<li>Know how to use LaTeX.</li>
+<li>Successfully installed and tested <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a>.</li>
+<li>Installed and tested <a href="http://www.jsoftware.com/">a version of J</a>.</li>
+<li>Set up appropriate directories (<a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">Part 2</a>).</li>
+<li>Know how to use LaTeX.</li>
 </ol>
-Item #4 is a <em>big</em> if.  Inexperienced LaTeX users will probably not enjoy a lot of success with this procedure as the source generated by <code>TeXfrWpxml.ijs</code> requires manual edits to produce good results.  However, if you’re not a LaTeX guru, do not get discouraged. It’s not difficult to create blog documents like <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd"><code>bm.pdf</code></a>.
+<p>Item #4 is a <em>big</em> if.&nbsp; Inexperienced LaTeX users will probably not enjoy a lot of success with this procedure as the source generated by <code>TeXfrWpxml.ijs</code> requires manual edits to produce good results. &nbsp;However, if you’re not a LaTeX guru, do not get discouraged. It’s not difficult to create blog documents like <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd"><code>bm.pdf</code></a>.</p>
 <h4>Step 1: download WordPress Export XML</h4>
-How to download WordPress export XML is described <a href="http://en.blog.wordpress.com/2006/06/12/xml-import-export/">here</a>.  Basically you go to your blog’s dashboard, select <strong>Tools</strong>, choose <strong>Export</strong>  and select the <strong>All content</strong> option.
-
-[caption id="attachment_2521" align="aligncenter" width="260" caption="Tools &gt; Export &gt; All Content"]<a href="http://bakerjd99.files.wordpress.com/2012/02/toolsexport.png"><img class=" wp-image-2521 " title="Tools &gt; Export &gt; All Content" src="http://bakerjd99.files.wordpress.com/2012/02/toolsexport.png" alt="Tools &gt; Export &gt; All Content" width="260" height="314" /></a>[/caption]
-<p style="text-align:left;" align="center">When you press the <strong>Download Export File</strong>  button your browser will download a single XML file that contains all your posts and comments. Remember where you save this file. I put my export XML here.</p>
+<p>How to download WordPress export XML is described <a href="http://en.blog.wordpress.com/2006/06/12/xml-import-export/">here</a>. &nbsp;Basically you go to your blog’s dashboard, select <strong>Tools</strong>, choose <strong>Export</strong> &nbsp;and select the <strong>All content</strong> option.</p>
+<p>[caption id="attachment_2521" align="aligncenter" width="260" caption="Tools &gt; Export &gt; All Content"]<a href="http://bakerjd99.files.wordpress.com/2012/02/toolsexport.png"><img class=" wp-image-2521 "> Export &gt; All Content" src="http://bakerjd99.files.wordpress.com/2012/02/toolsexport.png" alt="Tools &gt; Export &gt; All Content" width="260" height="314"&gt;</a>[/caption]</p>
+<p style="text-align:left;" align="center">When you press the <strong>Download Export File</strong>&nbsp; button your browser will download a single XML file that contains all your posts and comments.&nbsp;Remember where you save this file. I put my export XML here.</p>
 <p style="text-align:left;" align="center"><code>c:/pd/blog/wordpress/analyzethedatanotthedrivel.wordpress.xml</code></p>
-
 <h4>Step 2: download <code>TeXfrWpxml.ijs</code></h4>
-Download <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> and remember where you save it.  I put this script here.
-
-<code>c:/pd/blog/TeXfrWpxml.ijs</code>
+<p>Download <a href="http://www.box.com/s/9v5b6ub9cya108c03mr7"><code>TeXfrWpxml.ijs</code></a> and remember where you save it. &nbsp;I put this script here.</p>
+<p><code>c:/pd/blog/TeXfrWpxml.ijs</code></p>
 <h4>Step 3: start J and load <code>TeXfrWpxml.ijs</code></h4>
-<code>TeXfrWpxml.ijs</code> was generated from <a href="http://bakerjd99.wordpress.com/the-jod-page/">JOD dictionaries</a>. With JOD it’s easy to capture root word dependencies and produce complete standalone scripts. <code>TeXfrWpxml.ijs</code> needs only the standard J load profile to run.  It does not require any libraries or external references and should run on all Windows and Linux versions of J after 6.01.  Loading this script is a simple matter of executing:
-
-<code>load 'c:/pd/blog/TeXfrWpxml.ijs'</code>
-
-The following shows this script running in a J 7.01 console. The console is the most stripped down J runtime.
-
-<a href="http://bakerjd99.files.wordpress.com/2012/02/wp2texjconsole.png"><img class="aligncenter size-full wp-image-2534" title="" src="http://bakerjd99.files.wordpress.com/2012/02/wp2texjconsole.png" alt="" width="630" height="122" /></a>
+<p><code>TeXfrWpxml.ijs</code> was generated from <a href="http://bakerjd99.wordpress.com/the-jod-page/">JOD dictionaries</a>. With JOD it’s easy to capture root word dependencies and produce complete standalone scripts. <code>TeXfrWpxml.ijs</code> needs only the standard J load profile to run. &nbsp;It does not require any libraries or external references and should run on all Windows and Linux versions of J after 6.01. &nbsp;Loading this script is a simple matter of executing:</p>
+<p><code>load 'c:/pd/blog/TeXfrWpxml.ijs'</code></p>
+<p>The following shows this script running in a J 7.01 console. The console is the most stripped down J runtime.</p>
+<p><a href="http://bakerjd99.files.wordpress.com/2012/02/wp2texjconsole.png"><img class="aligncenter size-full wp-image-2534" title="" src="http://bakerjd99.files.wordpress.com/2012/02/wp2texjconsole.png" alt="" width="630" height="122"></a></p>
 <h4>Step 4: review directories and necessary LaTeX files</h4>
-The conversion script assumes proper directories are available up: see <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">Part 2</a>. The first time you run <code>TeXfrWpxml.ijs</code> it’s a good idea to check that the directories and files the script is expecting are the ones you want to process.  You can verify the settings by displaying <code>TEXFRWPDIR, TEXINCLUSIONS, TEXROOTFILE</code> and <code>TEXPREAMBLE</code>.
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-  TEXPREAMBLE
-bmamble.tex
-  TEXFRWPDIR
-c:/pd/blog/wp2latex/
-  TEXINCLUSIONS
-inclusions
-  TEXROOTFILE
-bm.tex
-  TEXPREAMBLE
-bmamble.tex
-[/sourcecode]
-
-If all these directories and files exist go to step (5).
+<p>The conversion script assumes proper directories are available&nbsp;up: see <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">Part 2</a>. The first time you run <code>TeXfrWpxml.ijs</code> it’s a good idea to check that the directories and files the script is expecting are the ones you want to process.&nbsp; You can verify the settings by displaying <code>TEXFRWPDIR, TEXINCLUSIONS, TEXROOTFILE</code> and <code>TEXPREAMBLE</code>.</p>
+<p>[sourcecode wraplines="false" gutter="false" autolinks="false"]<br>
+  TEXPREAMBLE<br>
+bmamble.tex<br>
+  TEXFRWPDIR<br>
+c:/pd/blog/wp2latex/<br>
+  TEXINCLUSIONS<br>
+inclusions<br>
+  TEXROOTFILE<br>
+bm.tex<br>
+  TEXPREAMBLE<br>
+bmamble.tex<br>
+[/sourcecode]</p>
+<p>If all these directories and files exist go to step (5).</p>
 <h4>Step 5: make sure you are online</h4>
-The first time you run the converter it will attempt to download all the images referenced in your blog. This is where <code>wget.exe</code> gets executed.  Obviously to download anything you must be connected to the Internet.
+<p>The first time you run the converter it will attempt to download all the images referenced in your blog. This is where <code>wget.exe</code> gets executed.&nbsp; Obviously to download anything you must be connected to the Internet.</p>
 <h4>Step 6: run <code>LatexFrWordpress</code></h4>
-Run the verb <code>LatexFrWordpress</code>.  The monadic version of this verb takes a single argument: the complete path and file name of the export XML file you downloaded in step (1).
-
-<code>xml=: 'c:/pd/blog/wordpress/analyzethedatanotthedrivel.wordpress.xml'</code>
-
-<code>LatexFrWordpress xml</code>
-
-As the verb runs you will see output like:
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-   LatexFrWordpress xml
-What's In it for Facebook?
-downloading: c:/pd/blog/wp2latex/inclusions/demotivational-posters-facebook-you.jpg
-1 downloaded; 0 not downloaded; 0 skipped
-Fake Programming
-downloading: c:/pd/blog/wp2latex/inclusions/672169130_vajvn-M.png
-1 downloaded; 0 not downloaded; 0 skipped
-Laws or Suggestions
-downloading: c:/pd/blog/wp2latex/inclusions/i-B5mfdRF-M.jpg
-1 downloaded; 0 not downloaded; 0 skipped
-Lens Lust
-
-... many lines omitted ...
-
-downloading: c:/pd/blog/wp2latex/inclusions/i-mNK4RHL-M.png
-1 downloaded; 0 not downloaded; 0 skipped
-WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)
-0 downloaded; 0 not downloaded; 1 skipped
-+-++
-|1||
-+-++
-[/sourcecode]
-
-When the verb terminates you should have a directory <code>c:/pd/blog/wp2latex</code> full of <code>*.tex</code> files:  one file for each blog post. Now the hard work starts.
+<p>Run the verb <code>LatexFrWordpress</code>.&nbsp; The monadic version of this verb takes a single argument: the complete path and file name of the export XML file you downloaded in step (1).</p>
+<p><code>xml=: 'c:/pd/blog/wordpress/analyzethedatanotthedrivel.wordpress.xml'</code></p>
+<p><code>LatexFrWordpress xml</code></p>
+<p>As the verb runs you will see output like:</p>
+<p>[sourcecode wraplines="false" gutter="false" autolinks="false"]<br>
+   LatexFrWordpress xml<br>
+What's In it for Facebook?<br>
+downloading: c:/pd/blog/wp2latex/inclusions/demotivational-posters-facebook-you.jpg<br>
+1 downloaded; 0 not downloaded; 0 skipped<br>
+Fake Programming<br>
+downloading: c:/pd/blog/wp2latex/inclusions/672169130_vajvn-M.png<br>
+1 downloaded; 0 not downloaded; 0 skipped<br>
+Laws or Suggestions<br>
+downloading: c:/pd/blog/wp2latex/inclusions/i-B5mfdRF-M.jpg<br>
+1 downloaded; 0 not downloaded; 0 skipped<br>
+Lens Lust</p>
+<p>... many lines omitted ...</p>
+<p>downloading: c:/pd/blog/wp2latex/inclusions/i-mNK4RHL-M.png<br>
+1 downloaded; 0 not downloaded; 0 skipped<br>
+WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)<br>
+0 downloaded; 0 not downloaded; 1 skipped<br>
++-++<br>
+|1||<br>
++-++<br>
+[/sourcecode]</p>
+<p>When the verb terminates you should have a directory <code>c:/pd/blog/wp2latex</code> full of <code>*.tex</code> files:&nbsp; one file for each blog post. Now the hard work starts.</p>
 <h4>Step 7: editing LaTeX posts</h4>
-The conversion from WordPress XML to LaTeX produces files that require manual edits. The more images, video, tables and other elements in your posts the more demanding these edits will become.  My blog has about one image per post.  Most of these images are wrapped by text. LaTeX has a mind of its own when it comes to <em>floating figures</em> and getting illustrations to behave requires far more parameter tweaking than it should. This is a longstanding weakness of LaTeX that pretty much everyone bitches about. My advice is start at the front of your document and work through it post by post. The files generated by <code>LatexFrWordpress</code> do not attempt to place figures for you but they do bolt in ready-made figure templates as comments that you can experiment with.  Each post file is also set up for separate LaTeX compilation. You don’t have to compile your entire blog to tweak one post. The one good thing about this edit step is once you have sorted out your old posts you do not have to revisit them unless you make major global document changes. The next time you run <code>LatexFrWordpress</code> it will only bring down new posts and images.
+<p>The conversion from WordPress XML to LaTeX produces files that require manual edits. The more images, video, tables and other elements in your posts the more demanding these edits will become.&nbsp; My blog has about one image per post.&nbsp; Most of these images are wrapped by text. LaTeX has a mind of its own when it comes to <em>floating figures</em>&nbsp;and getting illustrations to behave requires far more parameter tweaking than it should. This is a longstanding weakness of LaTeX that pretty much everyone bitches about. My advice is start at the front of your document and work through it post by post. The files generated by <code>LatexFrWordpress</code> do not attempt to place figures for you but they do bolt in ready-made figure templates as comments that you can experiment with.&nbsp; Each post file is also set up for separate LaTeX compilation. You don’t have to compile your entire blog to tweak one post. The one good thing about this edit step is once you have sorted out your old posts you do not have to revisit them unless you make major global document changes. The next time you run <code>LatexFrWordpress</code> it will only bring down new posts and images.</p>
 <h4>Step 8: compile your LaTeX blog</h4>
-I use batch files and shell scripts to drive LaTeX compilations.  I processed my blog with this batch file.
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-echo off
-rem process blog posting (bm.tex) root file
-title Running Blog Master/LaTeX ...
-
-rem first pass for aux file needed by bibtex
-lualatex bm
-
-rem generate/reset bbl file
-bibtex bm
-makeindex bm
-
-rem resolve all internal references - may
-rem comment out when debugging entire document
-lualatex bm
-lualatex bm
-
-rem display pdf - point to prefered PDF reader
-title Blog Master/LaTeX complete displaying PDF ...
-&quot;C:\Program Files\SumatraPDF\SumatraPDF.exe&quot; bm.pdf
-[/sourcecode]
-
-The presence of Unicode APL, see <a href="http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/">this post</a>, forced me to use <code>lualatex</code>. I needed some very nonstandard APL fonts.  <strong>See <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf</a> --- also available on the <em><a href="http://bakerjd99.wordpress.com/download-this-blog/">Download this Blog</a></em> page ---</strong> to judge the effectiveness of my edits. Producing nice figure laden typeset blog documents is work but, as I will describe in the next post, <em>producing image free eBooks is a simple and far less laborious variation on this process</em>.]]></content:encoded>
+<p>I use batch files and shell scripts to drive LaTeX compilations. &nbsp;I processed my blog with this batch file.</p>
+<p>[sourcecode wraplines="false" gutter="false" autolinks="false"]<br>
+echo off<br>
+rem process blog posting (bm.tex) root file<br>
+title Running Blog Master/LaTeX ...</p>
+<p>rem first pass for aux file needed by bibtex<br>
+lualatex bm</p>
+<p>rem generate/reset bbl file<br>
+bibtex bm<br>
+makeindex bm</p>
+<p>rem resolve all internal references - may<br>
+rem comment out when debugging entire document<br>
+lualatex bm<br>
+lualatex bm</p>
+<p>rem display pdf - point to prefered PDF reader<br>
+title Blog Master/LaTeX complete displaying PDF ...<br>
+"C:\Program Files\SumatraPDF\SumatraPDF.exe" bm.pdf<br>
+[/sourcecode]</p>
+<p>The presence of Unicode APL, see <a href="http://bakerjd99.wordpress.com/2010/11/12/the-return-of-apl-fingers-2/">this post</a>, forced me to use <code>lualatex</code>. I needed some very nonstandard APL fonts. &nbsp;<strong>See <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd">bm.pdf</a>&nbsp;---&nbsp;also available on the <em><a href="http://bakerjd99.wordpress.com/download-this-blog/">Download this Blog</a></em> page ---</strong> to judge the effectiveness of my edits.&nbsp;Producing nice figure laden typeset blog documents is work but, as I will describe in the next post, <em>producing image free eBooks is a simple and far less laborious variation on this process</em>.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>2518</wp:post_id>
 		<wp:post_date>2012-02-25 20:38:53</wp:post_date>
@@ -15585,69 +15555,51 @@ Changing TeXfrWpxml.ijs will not work for you but the source XML document contai
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=2587</guid>
 		<description></description>
-		<content:encoded><![CDATA[If you have worked through the exhausting procedure of converting your blog to LaTeX: see posts <a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">(1)</a>, <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">(2)</a> and <a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">(3)</a>, you will be glad to hear that turning your blog into an image free eBook is <em>almost effortless.</em> In this post I will describe how I convert my blog into <a href="http://www.web-books.com/Publishing/epub.htm">EPUB</a> and <a href="http://wiki.mobileread.com/wiki/MOBI">MOBI</a> eBooks.
+		<content:encoded><![CDATA[<!-- wp:heading {"level":4} -->
+<h4><a href="https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/turnyourblogintoaneb2587.pdf">Click here for an updated PDF version of this post.</a></h4>
+<!-- /wp:heading -->
+
+<p>If you have worked through the exhausting procedure of converting your blog to LaTeX: see posts <a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">(1)</a>, <a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">(2)</a> and <a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">(3)</a>, you will be glad to hear that turning your blog into an image free eBook is <em>almost effortless.</em> In this post I will describe how I convert my blog into <a href="http://www.web-books.com/Publishing/epub.htm">EPUB</a> and <a href="http://wiki.mobileread.com/wiki/MOBI">MOBI</a> eBooks.</p>
 <h4>eBooks how the cool kids are reading</h4>
-eBook readers like <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000750701&amp;tag=googhydr-20&amp;hvadid=9562889797&amp;ref=pd_sl_1hhrk6zi46_e">Kindles</a>, <a href="http://www.barnesandnoble.com/u/nook/379003208?r=1&amp;utm_source=google&amp;cm_mmc=Google-_-NOOK%20General-_-NOOK%20(exact)-_-Nook&amp;cm_mmca1=1d6c97e6-5d23-2769-73f9-00005e04715e&amp;utm_medium=cpc&amp;utm_term=no">Nooks</a>, iPads and many cell phones are optimized for plain old prose. They excel at displaying <a href="http://www.pcmag.com/encyclopedia_term/0,2542,t=reflowable+text&amp;i=58163,00.asp">reflowable</a> text in a variety of fonts, sizes and styles. One eBook reader feature, dear to my old fart eyes, is the ability to increase the size of text.  All eBooks are potentially large print editions. There are other advantages: most readers can store hundreds, if not thousands of books, making them portable libraries. It’s now technically possible to hand a kindergarten student a little tablet that holds every single book he will use from preschool to graduate school. The only obstacle is the <a href="http://funny-about-money.com/2010/07/20/textbook-ripoffs-why-college-leaves-kids-in-debt/">rapacious textbook industry</a> and their equally <a href="http://www.zdnet.com/blog/mobile-news/why-the-apple-textbook-program-will-never-work/6526">rapacious eBook publishing enablers</a>. But fear not <a href="http://www.techradar.com/news/software/why-is-open-source-dominated-by-men--1047390">open source man</a> will save the day. <em>The days of overpriced digital goods are over!</em> I will never pay more than a few bucks for an eBook because I can make my own and so can you! Let’s get together and kill off another industry that so has it coming!
+<p>eBook readers like <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&amp;docId=1000750701&amp;tag=googhydr-20&amp;hvadid=9562889797&amp;ref=pd_sl_1hhrk6zi46_e">Kindles</a>, <a href="http://www.barnesandnoble.com/u/nook/379003208?r=1&amp;utm_source=google&amp;cm_mmc=Google-_-NOOK%20General-_-NOOK%20(exact)-_-Nook&amp;cm_mmca1=1d6c97e6-5d23-2769-73f9-00005e04715e&amp;utm_medium=cpc&amp;utm_term=no">Nooks</a>, iPads and many cell phones are optimized for plain old prose. They excel at displaying <a href="http://www.pcmag.com/encyclopedia_term/0,2542,t=reflowable+text&amp;i=58163,00.asp">reflowable</a> text in a variety of fonts, sizes and styles. One eBook reader feature, dear to my old fart eyes, is the ability to increase the size of text. &nbsp;All eBooks are potentially large print editions. There are other advantages: most readers can store hundreds, if not thousands of books, making them portable libraries. It’s now technically possible to hand a kindergarten student a little tablet that holds every single book he will use from preschool to graduate school. The only obstacle is the <a href="http://funny-about-money.com/2010/07/20/textbook-ripoffs-why-college-leaves-kids-in-debt/">rapacious textbook industry</a> and their equally <a href="http://www.zdnet.com/blog/mobile-news/why-the-apple-textbook-program-will-never-work/6526">rapacious eBook publishing enablers</a>. But fear not <a href="http://www.techradar.com/news/software/why-is-open-source-dominated-by-men--1047390">open source man</a> will save the day. <em>The days of overpriced digital goods are over!</em> I will never pay more than a few bucks for an eBook because I can make my own and so can you! Let’s get together and kill off another industry that so has it coming!</p>
 <h4>PDFs, EPUBs and MOBIs</h4>
-Native eBook file formats like EPUB and MOBI do not handle complex page layouts well. If your document contains a lot of mathematics, figures and well placed illustrations stick with PDF workflows.<a id="refX1" href="#X1">[1]</a> You will save yourself and your readers a lot of grief.  But, if your document is a prose masterpiece, a veritable <a href="http://www.thedailybeast.com/newsweek/2010/02/04/is-the-great-american-novel-destroying-novelists.html">great American novel</a>, then “publishing” it as an EPUB or MOBI is great way to <a href="http://www.counterpunch.org/2011/01/20/in-praise-of-incivility-in-politics/">target</a> eBook readers. EPUBs and MOBIs can be compiled from many sources.  I start with the LaTeX files I created for the <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd">PDF version of this blog</a> because I hate doing the same boring task twice. By far the most time-consuming part of converting WordPress export XML to LaTeX is editing the <a href="http://johnmacfarlane.net/pandoc/">pandoc</a> generated <code>*.tex</code> files to resolve figures and fix odd run-together-words and paragraphs. To preserve these edits I use pandoc to convert my edited <code>*.tex</code> to <code>*.markdown</code> files.
+<p>Native eBook file formats like EPUB and MOBI do not handle complex page layouts well. If your document contains a lot of mathematics, figures and well placed illustrations stick with PDF workflows.<a id="refX1" href="#X1">[1]</a> You will save yourself and your readers a lot of grief. &nbsp;But, if your document is a prose masterpiece, a veritable <a href="http://www.thedailybeast.com/newsweek/2010/02/04/is-the-great-american-novel-destroying-novelists.html">great American novel</a>, then “publishing” it as an EPUB or MOBI is great way to <a href="http://www.counterpunch.org/2011/01/20/in-praise-of-incivility-in-politics/">target</a> eBook readers. EPUBs and MOBIs can be compiled from many sources. &nbsp;I start with the LaTeX files I created for the <a href="http://www.box.com/s/8yvm27ag9agtm32nfahd">PDF version of this blog</a> because I hate doing the same boring task twice. By far the most time-consuming part of converting WordPress export XML to LaTeX is editing the <a href="http://johnmacfarlane.net/pandoc/">pandoc</a> generated <code>*.tex</code> files to resolve figures and fix odd run-together-words and paragraphs. To preserve these edits I use pandoc to convert my edited <code>*.tex</code> to <code>*.markdown</code> files.</p>
 <h4>Markdown</h4>
-<a href="http://daringfireball.net/projects/markdown/">Markdown</a> is a very simple text oriented format. A markdown file is completely readable exactly the way it is. All you need is a text editor. Even text editors are overkill. You could compose markdown with early 20th century mechanical typewriters; it’s a low tech format for the ages: perfect for prose.
-
-The J verb <code><a href="http://www.box.com/s/1k418f2y706ihlxnat4e">MarkdownFrLatex</a> </code><a id="refX2" href="#X2">[2]</a> calls pandoc and converts my <code>*.tex</code> files to <code>*.markdown</code>. I place my markdown in the directory
-
-<code>c:/pd/blog/wp2epub</code>
-
-and to track changes to my markdown files I <a href="http://git-scm.com/">GIT</a> this directory. <code>MarkdownFrLatex</code> strips out image inclusions and removes typographic flourishes.  When it succeeds it writes a simple markdown file and when it fails it writes a <code>*.baddown</code> file. Baddown files are <code>*.tex</code> files that contain <a href="http://en.wikibooks.org/wiki/LaTeX/Packages/Listings"><code>lstlistings</code> </a>and complex figure environments that are best resolved with manual edits. After removing such problematic LaTeX environments the J verb <code><a href="http://www.box.com/s/sxmgq2copxot4ahnbzso">FixBaddown</a></code> calls pandoc and turns baddown files into markdown files.
+<p><a href="http://daringfireball.net/projects/markdown/">Markdown</a> is a very simple text oriented format. A markdown file is completely readable exactly the way it is. All you need is a text editor. Even text editors are overkill. You could compose markdown with early 20th century mechanical typewriters; it’s a low tech format for the ages: perfect for prose.</p>
+<p>The J verb <code><a href="http://www.box.com/s/1k418f2y706ihlxnat4e">MarkdownFrLatex</a>&nbsp;</code><a id="refX2" href="#X2">[2]</a> calls pandoc and converts my <code>*.tex</code> files to&nbsp;<code>*.markdown</code>. I place my markdown in the directory</p>
+<p><code>c:/pd/blog/wp2epub</code></p>
+<p>and to track changes to my markdown files I <a href="http://git-scm.com/">GIT</a> this directory. <code>MarkdownFrLatex</code> strips out image inclusions and removes typographic flourishes. &nbsp;When it succeeds it writes a simple markdown file and when it fails it writes a <code>*.baddown</code> file. Baddown files are <code>*.tex</code> files that contain <a href="http://en.wikibooks.org/wiki/LaTeX/Packages/Listings"><code>lstlistings</code> </a>and complex figure environments that are best resolved with manual edits. After removing such problematic LaTeX environments the J verb <code><a href="http://www.box.com/s/sxmgq2copxot4ahnbzso">FixBaddown</a></code> calls pandoc and turns baddown files into markdown files.</p>
 <h4>Generating EPUB and MOBI files</h4>
-When the conversion to markdown is complete I run <code><a href="http://www.box.com/s/36mzi78mt8tk6oygy2r8">MainMarkdown</a></code> to mash all my files into one large markdown file with an eBook header. The eBook header for this blog is:
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-% Analyze the Data not the Drivel
-% John D. Baker
-[/sourcecode]
-
-The first few lines of the consolidated <code>bm.markdown</code> file are:
-
-[sourcecode wraplines="false" gutter="false" autolinks="false"]
-% Analyze the Data not the Drivel
-% John D. Baker
-
-#[What’s In it for
-Facebook?](http://bakerjd99.wordpress.com/2009/09/05/whats-in-it-for-facebook/)
-
--------------------------------------------------------------------------------------------------
-
-*Posted: 05 Sep 2009 22:44:50*
-
-[Facebook](http://www.facebook.com) is huge: they brag about a user
-count well north of one hundred million. If only 0.5% of their users are
-active that’s 500,000 *concurrent users.* How many expensive servers
-does it take to support such a load? .....
-[/sourcecode]
-
-Generating an EPUB from <code>bm.markdown</code> is a simple matter of opening up your favorite command line shell and issuing the pandoc command:
-
-<code>pandoc -S --epub-cover-image=bmcover.jpg -o bm.epub bm.markdown</code>
-
-You can read the resulting EPUB file <code><a href="http://www.box.com/s/ep9cgmdu6r3s322z5xim">bm.epub</a></code> on any EPUB eBook reader. Here’s a screen shot of <code>bm.epub</code> on my iPhone.
-
-[caption id="" align="aligncenter" width="162" caption="iPhone loaded with my blog"]<img class="  " title="iPhone loaded with my blog" src="http://conceptcontrol.smugmug.com/photos/i-BfnWMFz/0/M/i-BfnWMFz-M.png" alt="iPhone loaded with my blog" width="162" height="243" />[/caption]
-
-The last step converts <code>bm.epub</code> to <code>bm.mobi</code>. MOBI is a native Kindle format. Pandoc can generate MOBI from <code>bm.markdown</code> but it inexplicably omits a table of contents.<em> No problemo:</em>  I use <a href="http://calibre-ebook.com/">Calibre</a> to convert <code>bm.epub</code> to <code><a href="http://www.box.com/s/ttbyijqgmcnjzzsgfs0a">bm.mobi</a></code>. Calibre properly converts the embedded EPUB table of contents to MOBI.  Here’s <code>bm.mobi</code> on a Kindle.
-
-[caption id="" align="aligncenter" width="179" caption="Kindle loaded with my blog"]<img class=" " title="Kindle loaded with my blog" src="http://conceptcontrol.smugmug.com/photos/i-dhqFDXQ/0/M/i-dhqFDXQ-M.jpg" alt="Kindle loaded with my blog" width="179" height="270" />[/caption]
-
-All the “published” versions of this blog are available on the <strong><em><a href="http://bakerjd99.wordpress.com/download-this-blog/">Download this Blog</a></em></strong> page so please help yourself!
+<p>When the conversion to markdown is complete I run <code><a href="http://www.box.com/s/36mzi78mt8tk6oygy2r8">MainMarkdown</a></code> to mash all my files into one large markdown file with an eBook header. The eBook header for this blog is:</p>
+<p>[sourcecode wraplines="false" gutter="false" autolinks="false"]<br>
+% Analyze the Data not the Drivel<br>
+% John D. Baker<br>
+[/sourcecode]</p>
+<p>The first few lines of the consolidated <code>bm.markdown</code> file are:</p>
+<p>[sourcecode wraplines="false" gutter="false" autolinks="false"]<br>
+% Analyze the Data not the Drivel<br>
+% John D. Baker</p>
+<p>#[What’s In it for<br>
+Facebook?](http://bakerjd99.wordpress.com/2009/09/05/whats-in-it-for-facebook/)</p>
+<p>-------------------------------------------------------------------------------------------------</p>
+<p>*Posted: 05 Sep 2009 22:44:50*</p>
+<p>[Facebook](http://www.facebook.com) is huge: they brag about a user<br>
+count well north of one hundred million. If only 0.5% of their users are<br>
+active that’s 500,000 *concurrent users.* How many expensive servers<br>
+does it take to support such a load? .....<br>
+[/sourcecode]</p>
+<p>Generating an EPUB from <code>bm.markdown</code> is a simple matter of opening up your favorite command line shell and issuing the pandoc command:</p>
+<p><code>pandoc -S --epub-cover-image=bmcover.jpg -o bm.epub bm.markdown</code></p>
+<p>You can read the resulting EPUB file <code><a href="http://www.box.com/s/ep9cgmdu6r3s322z5xim">bm.epub</a></code>&nbsp;on&nbsp;any EPUB eBook reader. Here’s a screen shot of <code>bm.epub</code> on my iPhone.</p>
+<p>[caption id="" align="aligncenter" width="162" caption="iPhone loaded with my blog"]<img class="  " title="iPhone loaded with my blog" src="http://conceptcontrol.smugmug.com/photos/i-BfnWMFz/0/M/i-BfnWMFz-M.png" alt="iPhone loaded with my blog" width="162" height="243">[/caption]</p>
+<p>The last step converts <code>bm.epub</code> to <code>bm.mobi</code>. MOBI is a native Kindle format. Pandoc can generate MOBI from <code>bm.markdown</code> but it inexplicably omits a table of contents.<em> No problemo:</em> &nbsp;I use <a href="http://calibre-ebook.com/">Calibre</a> to convert <code>bm.epub</code> to <code><a href="http://www.box.com/s/ttbyijqgmcnjzzsgfs0a">bm.mobi</a></code>. Calibre properly converts the embedded EPUB table of contents to MOBI.&nbsp; Here’s <code>bm.mobi</code> on a Kindle.</p>
+<p>[caption id="" align="aligncenter" width="179" caption="Kindle loaded with my blog"]<img class=" " title="Kindle loaded with my blog" src="http://conceptcontrol.smugmug.com/photos/i-dhqFDXQ/0/M/i-dhqFDXQ-M.jpg" alt="Kindle loaded with my blog" width="179" height="270">[/caption]</p>
+<p>All the “published” versions of this blog are available on the <strong><em><a href="http://bakerjd99.wordpress.com/download-this-blog/">Download this Blog</a></em></strong> page so please help yourself!</p>
 <div>
-
-<hr align="left" size="1" width="33%" />
-
+<hr align="left" size="1" width="33%">
 <div>
-
-<a id="X1" href="#refX1">[1]</a> LaTeX is usually compiled to PDF making it one of hundreds of PDF workflows.
-
-<a id="X2" href="#refX2">[2]</a> All the J verbs referenced in this post are in the script <code><a href="http://www.box.com/s/9v5b6ub9cya108c03mr7">TeXfrWpxml.ijs</a></code>
-
+<p><a id="X1" href="#refX1">[1]</a> LaTeX is usually compiled to PDF making it one of hundreds of PDF workflows.</p>
+<p><a id="X2" href="#refX2">[2]</a> All the J verbs referenced in this post are in the script <code><a href="http://www.box.com/s/9v5b6ub9cya108c03mr7">TeXfrWpxml.ijs</a></code></p>
 </div>
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -39701,6 +39653,10 @@ post your queries there.</p>
 			<wp:meta_key>_oembed_cd0f6498b536c82c14287b0c72bd58b4</wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_056595744e7559a39b83939f5907862d</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>2288</wp:comment_id>
 			<wp:comment_author><![CDATA[Better Blogging with Jupyter Notebooks on WordPress.com | Analyze the Data not the Drivel.]]></wp:comment_author>
@@ -40653,95 +40609,6 @@ C:\temp\nb2wp\tmp\UsingJodliterate-code-21.html: 8683 bytes written in 5.437s
 		</wp:comment>
 	</item>
 	<item>
-		<title>bm</title>
-		<link>http://analyzethedatanotthedrivel.org/bm-2/</link>
-		<pubDate>Sun, 12 Jul 2020 16:20:51 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/07/bm.pdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5880</wp:post_id>
-		<wp:post_date>2020-07-12 10:20:51</wp:post_date>
-		<wp:post_date_gmt>2020-07-12 16:20:51</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bm-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/07/bm.pdf</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/bm.pdf]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>folded_pair_light</title>
-		<link>http://analyzethedatanotthedrivel.org/folded_pair_light/</link>
-		<pubDate>Mon, 20 Jul 2020 19:45:21 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/07/folded_pair_light.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5883</wp:post_id>
-		<wp:post_date>2020-07-20 13:45:21</wp:post_date>
-		<wp:post_date_gmt>2020-07-20 19:45:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>folded_pair_light</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/07/folded_pair_light.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/folded_pair_light.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1008;s:4:"file";s:92:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/folded_pair_light.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:466600;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>folded_pair</title>
-		<link>http://analyzethedatanotthedrivel.org/folded_pair/</link>
-		<pubDate>Mon, 20 Jul 2020 19:45:44 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/07/folded_pair.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5884</wp:post_id>
-		<wp:post_date>2020-07-20 13:45:44</wp:post_date>
-		<wp:post_date_gmt>2020-07-20 19:45:44</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>folded_pair</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/07/folded_pair.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/folded_pair.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1008;s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/folded_pair.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:474991;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>cropped-folded_pair_light.png</title>
 		<link>http://analyzethedatanotthedrivel.org/cropped-folded_pair_light-png/</link>
 		<pubDate>Mon, 20 Jul 2020 19:46:54 +0000</pubDate>
@@ -40844,37 +40711,6 @@ C:\temp\nb2wp\tmp\UsingJodliterate-code-21.html: 8683 bytes written in 5.437s
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:102:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/cropped-folded_pair_light-1.png";s:5:"sizes";a:4:{s:13:"site_icon-270";a:4:{s:4:"file";s:39:"cropped-folded_pair_light-1-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:39:"cropped-folded_pair_light-1-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:39:"cropped-folded_pair_light-1-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:37:"cropped-folded_pair_light-1-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:218992;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>purity of analytic essence</title>
-		<link>http://analyzethedatanotthedrivel.org/purity-of-analytic-essence/</link>
-		<pubDate>Wed, 22 Jul 2020 16:20:25 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/07/purity-of-analytic-essence.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5894</wp:post_id>
-		<wp:post_date>2020-07-22 10:20:25</wp:post_date>
-		<wp:post_date_gmt>2020-07-22 16:20:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>purity-of-analytic-essence</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/07/purity-of-analytic-essence.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/purity-of-analytic-essence.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1121;s:6:"height";i:1121;s:4:"file";s:101:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/07/purity-of-analytic-essence.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:4621542;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -45180,13 +45016,12 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 <p>Neowise is the last comet on my list. It didn’t put on a grand show or inspire any suicidal death cults but I’ll miss it anyway. Bon Voyage Neowise.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:separator {"color":"dark-gray","className":""} -->
+<!-- wp:separator {"color":"dark-gray"} -->
 <hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
 <!-- /wp:separator -->
 
 <!-- wp:html -->
 <section class="footnotes" role="doc-endnotes">
-<hr>
 <ol>
 <li id="fn1" role="doc-endnote"><p>I don’t give a ding-dong-damn about whether you think Winnie the Chinese Wuhan Coronavirus is racist or not. The virus <em>cannot</em> care about what it’s called, and neither should you. Ignore the <a href="https://www.baltimoresun.com/opinion/op-ed/bs-ed-op-0630-wokerati-20190620-story.html"><em>wokerati</em></a>; for them everything is racist. They’ve stripped the word “racist” of its meaning. <a href="https://www.goodreads.com/quotes/553001-it-s-a-beautiful-thing-the-destruction-of-words-of-course">“It’s a beautiful thing, the destruction of words.”</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2" role="doc-endnote"><p>How's that for <em>micro-aggressive</em> comet sexual innuendo?<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
@@ -45261,6 +45096,159 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:765;s:6:"height";i:510;s:4:"file";s:96:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/heavens_gate_suicides.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:81828;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>assume corruption</title>
+		<link>http://analyzethedatanotthedrivel.org/assume-corruption/</link>
+		<pubDate>Sat, 08 Aug 2020 15:57:13 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/08/assume-corruption.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6043</wp:post_id>
+		<wp:post_date>2020-08-08 09:57:13</wp:post_date>
+		<wp:post_date_gmt>2020-08-08 15:57:13</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>assume-corruption</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/08/assume-corruption.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/assume-corruption.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1121;s:6:"height";i:1121;s:4:"file";s:92:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/assume-corruption.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:4530079;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-assume-corruption.png</title>
+		<link>http://analyzethedatanotthedrivel.org/cropped-assume-corruption-png/</link>
+		<pubDate>Sat, 08 Aug 2020 15:58:15 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://bakerjd99.files.wordpress.com/2020/08/cropped-assume-corruption.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://bakerjd99.files.wordpress.com/2020/08/cropped-assume-corruption.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6044</wp:post_id>
+		<wp:post_date>2020-08-08 09:58:15</wp:post_date>
+		<wp:post_date_gmt>2020-08-08 15:58:15</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>cropped-assume-corruption-png</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/08/cropped-assume-corruption.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/cropped-assume-corruption.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:100:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/cropped-assume-corruption.png";s:5:"sizes";a:4:{s:13:"site_icon-270";a:4:{s:4:"file";s:37:"cropped-assume-corruption-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-192";a:4:{s:4:"file";s:37:"cropped-assume-corruption-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";}s:13:"site_icon-180";a:4:{s:4:"file";s:37:"cropped-assume-corruption-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";}s:12:"site_icon-32";a:4:{s:4:"file";s:35:"cropped-assume-corruption-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:193873;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bm</title>
+		<link>http://analyzethedatanotthedrivel.org/bm/</link>
+		<pubDate>Mon, 10 Aug 2020 19:38:51 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/08/bm.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6047</wp:post_id>
+		<wp:post_date>2020-08-10 13:38:51</wp:post_date>
+		<wp:post_date_gmt>2020-08-10 19:38:51</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>bm</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/08/bm.pdf</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/bm.pdf]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Broken Cellphone Dream</title>
+		<link>http://analyzethedatanotthedrivel.org/2020/08/14/the-broken-cellphone-dream/</link>
+		<pubDate>Fri, 14 Aug 2020 21:21:44 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=6065</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Tell me if you’ve had this dream. For urgent <em>dream-reasons</em><a class="footnote-ref" id="fnref1" role="doc-noteref" href="#fn1"><sup>1</sup></a> you must call someone. You reach for your phone but it isn’t there! You frantically search for it. It isn’t in your pockets, on your desk, beside the couch, or in your car. Where the Hell is it? In desperation, you root through your closets and find one of your old phones. You’re saved! Relieved you try calling only to find the old phone doesn’t work; it’s broken. Lately, I’ve had repeated versions of this dream. The missing and broken cellphone dream is the new <em>going-to-school-without-pants</em> dream.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray","className":"is-style-default"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color is-style-default" />
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>Dream reasons are compelling in the dream but often vanish on waking.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6065</wp:post_id>
+		<wp:post_date>2020-08-14 15:21:44</wp:post_date>
+		<wp:post_date_gmt>2020-08-14 21:21:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>the-broken-cellphone-dream</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="cellphone"><![CDATA[cellphone]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="dream"><![CDATA[dream]]></category>
+		<category domain="post_tag" nicename="missing-phone"><![CDATA[missing phone]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[47719841942]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1597440108]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
