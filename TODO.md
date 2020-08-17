@@ -11,12 +11,29 @@ is my key for relating issues, tickets and so forth across systems.
 
 `[begin-todo]`
 
-1. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/) to [github.com/bakerjd99](https://github.com/bakerjd99).
+1. `<_7t5z8mzamsru31xcpm2h1me69_>` Consider adding PDF internal cross references to previous blog posts.
+   Currently all such references point online.
 
-2. `<_6vzptk3mizfci8xhku2zqph0n_>` For selected posts create updated PDF versions.
+2. `<_2u83zfr6pcghzx21yjjqm7rvk_>` Standardize syntax colors for  `lstlisting` and `pandoc/pygments`. Source code
+   is displayed with two packages and there are good reasons to use both.
 
-3. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
+3. `<_cbwcaloj3hsqz1t1hr4346zio_>` Standardize source code fonts for `lstlisting` and `pandoc/pygments`.
 
-4. `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
+4. `<_1lcv2mj4m3jhmqnmx0dm0407d_>` Make sure there are no font substitutions for PDF versions.
+   This may require the installation of fonts.
+
+5. `<_0rcowpb3vtoukbriwjqhuf906_>` Add an appendix to the PDF version that exposes all internal URLs.
+
+6. `<_b40i9ac9s7a27oaq638qcx9fl_>` Start work on building PDF overall index, list of figures, tables so forth.
+
+7. `<_dyemvqi0zwbcr1rgzdvup2mg4_>` Start work on changing the PDF document geometry to match a standard book size.
+
+8. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/) to [github.com/bakerjd99](https://github.com/bakerjd99).
+
+9.  `<_6vzptk3mizfci8xhku2zqph0n_>` For selected posts create updated PDF versions.
+
+10. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
+
+11.  `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
 
 `[end-todo]`
