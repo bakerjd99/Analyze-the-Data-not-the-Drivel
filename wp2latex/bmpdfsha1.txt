@@ -1,5 +1,4 @@
- a9cb8c3caa4f9ff980f9fb83ba2b90544231daa2 bm.pdf
- 1802fa34cf71737da32e6103b4451dce8c8220df soonwewillallbesoftw903.pdf
+ 70273f484c0fa93e24d79debd467c777e95aeb3a bm.pdf
  f6fcb24c5d07af39d67afa10e981734ab4c13253 ablackswansong985.tex
  85b3d4457bc79bed5b78acf542c56dd7b83c4a2a abloggychristmaslett5275.tex
  646fbfaaa5f2796be4a7fa5771284d5b4428dc87 acnetclassforcalling537.tex
@@ -25,7 +24,7 @@
  29a1523722dae5741571deeb03bdde6aff964d77 blogrobotreview3653.tex
  418dcf471e72338449c57baac9f133b3ca7359d1 bloodmorons4643.tex
  56225deee599bcd339af6ba6c548f17c5160b83b blurbnicklombstransi2744.tex
- 10e5608464141fdb2cd1e13926e55cda9170317c bm.tex
+ 611ca20ea0d8d14ba4f2950cdd2e9793f91570be bm.tex
  1b85bedffef6b35248f6b455c3cea152c0acb598 bmamble.tex
  04bf0fcc0b01c71c0094148e852b160df2ef75a3 bmamblenew.tex
  d79d4d15d966c58a79016a37f1848d267213dc8f bmtitlepage.tex
@@ -157,6 +156,7 @@
  eaa9fba4c8aefa43c2e4cee64e848a6516b1a042 semiliteratejod3303.tex
  3a575b85caa41ecac3078b0ed7dd04d32fa6aff4 settinggoodsmugmugke416.tex
  f574069e54d5d3d8c00ca6bf47449d5757458dc6 settingsmugmugprints5555.tex
+ 2a7d61889196b1ebfa2fc6375ee2c992ea3e15d4 sinkinginblogsand6613.tex
  f003f7ad96c2643f8a257db6563dbae50c4bbd39 smugmugduplicateimag369.tex
  40d48aa31d81e11e52b19960270209c0addce4b5 smugshotmetadatamess1258.tex
  0e6a5c22871c0d1eaea777258c3c0ec7429e4d9a socialsecuritynumber5047.tex
