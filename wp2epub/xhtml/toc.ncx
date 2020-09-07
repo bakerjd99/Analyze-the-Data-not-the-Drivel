@@ -1,1352 +1,1316 @@
 <?xml version='1.0' encoding='utf-8'?>
-<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta content="urn:uuid:793ab087-c535-4288-97cf-ad8deab1df6d" name="dtb:uid"/>
-    <meta content="4" name="dtb:depth"/>
-    <meta content="calibre (4.19.0)" name="dtb:generator"/>
-    <meta content="0" name="dtb:totalPageCount"/>
-    <meta content="0" name="dtb:maxPageNumber"/>
+    <meta name="dtb:uid" content="urn:uuid:786f1754-cab7-4208-a165-23d86166d1d7"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+    <meta name="cover" content="blogbanner06_jpg"/>
   </head>
   <docTitle>
     <text>Analyze the Data not the Drivel</text>
   </docTitle>
   <navMap>
-    <navPoint id="num_1" playOrder="1">
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Analyze the Data not the Drivel</text>
+      </navLabel>
+      <content src="text/title_page.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-1">
       <navLabel>
         <text>Analyze the Data not the Drivel</text>
       </navLabel>
       <content src="text/bm.xhtml#analyze-the-data-not-the-drivel"/>
-      <navPoint id="num_2" playOrder="2">
+      <navPoint id="navPoint-2">
         <navLabel>
-          <text>2009</text>
+          <text>What’s In it for Facebook?</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_3" playOrder="3">
-          <navLabel>
-            <text>What’s In it for Facebook?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#whats-in-it-for-facebook"/>
-        </navPoint>
-        <navPoint id="num_4" playOrder="4">
-          <navLabel>
-            <text>Fake Programming</text>
-          </navLabel>
-          <content src="text/bm.xhtml#fake-programming"/>
-        </navPoint>
-        <navPoint id="num_5" playOrder="5">
-          <navLabel>
-            <text>Laws or Suggestions</text>
-          </navLabel>
-          <content src="text/bm.xhtml#laws-or-suggestions"/>
-        </navPoint>
-        <navPoint id="num_6" playOrder="6">
-          <navLabel>
-            <text>Lens Lust</text>
-          </navLabel>
-          <content src="text/bm.xhtml#lens-lust"/>
-        </navPoint>
-        <navPoint id="num_7" playOrder="7">
-          <navLabel>
-            <text>My Olympic Spirit</text>
-          </navLabel>
-          <content src="text/bm.xhtml#my-olympic-spirit"/>
-        </navPoint>
-        <navPoint id="num_8" playOrder="8">
-          <navLabel>
-            <text>Google Earth Image Touring</text>
-          </navLabel>
-          <content src="text/bm.xhtml#google-earth-image-touring"/>
-        </navPoint>
-        <navPoint id="num_9" playOrder="9">
-          <navLabel>
-            <text>Nobel Peace Prize Idol</text>
-          </navLabel>
-          <content src="text/bm.xhtml#nobel-peace-prize-idol"/>
-        </navPoint>
-        <navPoint id="num_10" playOrder="10">
-          <navLabel>
-            <text>F# Sirens are Seducing</text>
-          </navLabel>
-          <content src="text/bm.xhtml#f-sirens-are-seducing"/>
-        </navPoint>
-        <navPoint id="num_11" playOrder="11">
-          <navLabel>
-            <text>Counting Gods</text>
-          </navLabel>
-          <content src="text/bm.xhtml#counting-gods"/>
-        </navPoint>
-        <navPoint id="num_12" playOrder="12">
-          <navLabel>
-            <text>Hard Ass Skeptic Rules</text>
-          </navLabel>
-          <content src="text/bm.xhtml#hard-ass-skeptic-rules"/>
-        </navPoint>
-        <navPoint id="num_13" playOrder="13">
-          <navLabel>
-            <text>2012 Business Opportunity</text>
-          </navLabel>
-          <content src="text/bm.xhtml#business-opportunity"/>
-        </navPoint>
-        <navPoint id="num_14" playOrder="14">
-          <navLabel>
-            <text>Let’s Hang Congress</text>
-          </navLabel>
-          <content src="text/bm.xhtml#lets-hang-congress"/>
-        </navPoint>
+        <content src="text/bm.xhtml#whats-in-it-for-facebook"/>
       </navPoint>
-      <navPoint id="num_15" playOrder="15">
+      <navPoint id="navPoint-3">
         <navLabel>
-          <text>2010</text>
+          <text>Fake Programming</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_16" playOrder="16">
-          <navLabel>
-            <text>Why Code when you can Steal</text>
-          </navLabel>
-          <content src="text/bm.xhtml#why-code-when-you-can-steal"/>
-        </navPoint>
-        <navPoint id="num_17" playOrder="17">
-          <navLabel>
-            <text>Command Line C# SmugMug API Metadata Download</text>
-          </navLabel>
-          <content src="text/bm.xhtml#command-line-c-smugmug-api-metadata-download"/>
-        </navPoint>
-        <navPoint id="num_18" playOrder="18">
-          <navLabel>
-            <text>SmugMug Duplicate Image Hunting</text>
-          </navLabel>
-          <content src="text/bm.xhtml#smugmug-duplicate-image-hunting"/>
-        </navPoint>
-        <navPoint id="num_19" playOrder="19">
-          <navLabel>
-            <text>More on SmugMug Duplicates</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-on-smugmug-duplicates"/>
-        </navPoint>
-        <navPoint id="num_20" playOrder="20">
-          <navLabel>
-            <text>Setting Good SmugMug Key Words</text>
-          </navLabel>
-          <content src="text/bm.xhtml#setting-good-smugmug-key-words"/>
-        </navPoint>
-        <navPoint id="num_21" playOrder="21">
-          <navLabel>
-            <text>Assigning SmugMug Print Size Keys</text>
-          </navLabel>
-          <content src="text/bm.xhtml#assigning-smugmug-print-size-keys"/>
-        </navPoint>
-        <navPoint id="num_22" playOrder="22">
-          <navLabel>
-            <text>Honing my Powers of Indifference</text>
-          </navLabel>
-          <content src="text/bm.xhtml#honing-my-powers-of-indifference"/>
-        </navPoint>
-        <navPoint id="num_23" playOrder="23">
-          <navLabel>
-            <text>Only Now at the End do you Understand</text>
-          </navLabel>
-          <content src="text/bm.xhtml#only-now-at-the-end-do-you-understand"/>
-        </navPoint>
-        <navPoint id="num_24" playOrder="24">
-          <navLabel>
-            <text>WordPress to LaTeX Hack</text>
-          </navLabel>
-          <content src="text/bm.xhtml#wordpress-to-latex-hack"/>
-        </navPoint>
-        <navPoint id="num_25" playOrder="25">
-          <navLabel>
-            <text>Why I Still Use my Ten Year Old Garmin GPS</text>
-          </navLabel>
-          <content src="text/bm.xhtml#why-i-still-use-my-ten-year-old-garmin-gps"/>
-        </navPoint>
-        <navPoint id="num_26" playOrder="26">
-          <navLabel>
-            <text>The Reports of Library Death are Exaggerated</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-reports-of-library-death-are-exaggerated"/>
-        </navPoint>
-        <navPoint id="num_27" playOrder="27">
-          <navLabel>
-            <text>Everybody Abandon Facebook Day</text>
-          </navLabel>
-          <content src="text/bm.xhtml#everybody-abandon-facebook-day"/>
-        </navPoint>
-        <navPoint id="num_28" playOrder="28">
-          <navLabel>
-            <text>Oh Crap Martin Gardner has Died!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#oh-crap-martin-gardner-has-died"/>
-        </navPoint>
-        <navPoint id="num_29" playOrder="29">
-          <navLabel>
-            <text>Plug the Damn Hole</text>
-          </navLabel>
-          <content src="text/bm.xhtml#plug-the-damn-hole"/>
-        </navPoint>
-        <navPoint id="num_30" playOrder="30">
-          <navLabel>
-            <text>A C# .Net Class for calling J</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-c-.net-class-for-calling-j"/>
-        </navPoint>
-        <navPoint id="num_31" playOrder="31">
-          <navLabel>
-            <text>The Real Problem with Enterprise Software</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-real-problem-with-enterprise-software"/>
-        </navPoint>
-        <navPoint id="num_32" playOrder="32">
-          <navLabel>
-            <text>I did not have sex with that Oil Spill!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-did-not-have-sex-with-that-oil-spill"/>
-        </navPoint>
-        <navPoint id="num_33" playOrder="33">
-          <navLabel>
-            <text>My Tag Wordle</text>
-          </navLabel>
-          <content src="text/bm.xhtml#my-tag-wordle"/>
-        </navPoint>
-        <navPoint id="num_34" playOrder="34">
-          <navLabel>
-            <text>G20 fails to end G20</text>
-          </navLabel>
-          <content src="text/bm.xhtml#g20-fails-to-end-g20"/>
-        </navPoint>
-        <navPoint id="num_35" playOrder="35">
-          <navLabel>
-            <text>This Herodotus is a Hoot!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#this-herodotus-is-a-hoot"/>
-        </navPoint>
-        <navPoint id="num_36" playOrder="36">
-          <navLabel>
-            <text>The 20 seconds that ruined Inception</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-20-seconds-that-ruined-inception"/>
-        </navPoint>
-        <navPoint id="num_37" playOrder="37">
-          <navLabel>
-            <text>How’s that for Inception?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#hows-that-for-inception"/>
-        </navPoint>
-        <navPoint id="num_38" playOrder="38">
-          <navLabel>
-            <text>The Kindle is just like the KKK</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-kindle-is-just-like-the-kkk"/>
-        </navPoint>
-        <navPoint id="num_39" playOrder="39">
-          <navLabel>
-            <text>C. K. Raju: Genius or Crank (Part 1)</text>
-          </navLabel>
-          <content src="text/bm.xhtml#c.-k.-raju-genius-or-crank-part-1"/>
-        </navPoint>
-        <navPoint id="num_40" playOrder="40">
-          <navLabel>
-            <text>Binge Pretend Boink</text>
-          </navLabel>
-          <content src="text/bm.xhtml#binge-pretend-boink"/>
-        </navPoint>
-        <navPoint id="num_41" playOrder="41">
-          <navLabel>
-            <text>Resume blues partly alleviated by LaTeX</text>
-          </navLabel>
-          <content src="text/bm.xhtml#resume-blues-partly-alleviated-by-latex"/>
-        </navPoint>
-        <navPoint id="num_42" playOrder="42">
-          <navLabel>
-            <text>The Return of APL Fingers</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-return-of-apl-fingers"/>
-        </navPoint>
-        <navPoint id="num_43" playOrder="43">
-          <navLabel>
-            <text>Soon we will all be Software Archaeologists</text>
-          </navLabel>
-          <content src="text/bm.xhtml#soon-we-will-all-be-software-archaeologists"/>
-        </navPoint>
-        <navPoint id="num_44" playOrder="44">
-          <navLabel>
-            <text>A Black Swan Song</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-black-swan-song"/>
-        </navPoint>
+        <content src="text/bm.xhtml#fake-programming"/>
       </navPoint>
-      <navPoint id="num_45" playOrder="45">
+      <navPoint id="navPoint-4">
         <navLabel>
-          <text>2011</text>
+          <text>Laws or Suggestions</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_46" playOrder="46">
-          <navLabel>
-            <text>It’s all over for Broadcast TV</text>
-          </navLabel>
-          <content src="text/bm.xhtml#its-all-over-for-broadcast-tv"/>
-        </navPoint>
-        <navPoint id="num_47" playOrder="47">
-          <navLabel>
-            <text>The UN Space Treaty is Holding Us Back!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-un-space-treaty-is-holding-us-back"/>
-        </navPoint>
-        <navPoint id="num_48" playOrder="48">
-          <navLabel>
-            <text>J 7.01 Now Playing in your Browser</text>
-          </navLabel>
-          <content src="text/bm.xhtml#j-7.01-now-playing-in-your-browser"/>
-        </navPoint>
-        <navPoint id="num_49" playOrder="49">
-          <navLabel>
-            <text>Anathem: Plato’s Parallel World</text>
-          </navLabel>
-          <content src="text/bm.xhtml#anathem-platos-parallel-world"/>
-        </navPoint>
-        <navPoint id="num_50" playOrder="50">
-          <navLabel>
-            <text>A Walk in the Park</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-walk-in-the-park"/>
-        </navPoint>
-        <navPoint id="num_51" playOrder="51">
-          <navLabel>
-            <text>iPhoning It In</text>
-          </navLabel>
-          <content src="text/bm.xhtml#iphoning-it-in"/>
-        </navPoint>
-        <navPoint id="num_52" playOrder="52">
-          <navLabel>
-            <text>Top Ten Invalid Annoyances</text>
-          </navLabel>
-          <content src="text/bm.xhtml#top-ten-invalid-annoyances"/>
-        </navPoint>
-        <navPoint id="num_53" playOrder="53">
-          <navLabel>
-            <text>Cripple Chronicles Continue</text>
-          </navLabel>
-          <content src="text/bm.xhtml#cripple-chronicles-continue"/>
-        </navPoint>
-        <navPoint id="num_54" playOrder="54">
-          <navLabel>
-            <text>Walking: It’s not Overrated</text>
-          </navLabel>
-          <content src="text/bm.xhtml#walking-its-not-overrated"/>
-        </navPoint>
-        <navPoint id="num_55" playOrder="55">
-          <navLabel>
-            <text>Hospital Staff Training</text>
-          </navLabel>
-          <content src="text/bm.xhtml#hospital-staff-training"/>
-        </navPoint>
-        <navPoint id="num_56" playOrder="56">
-          <navLabel>
-            <text>SmugShot Metadata Mess</text>
-          </navLabel>
-          <content src="text/bm.xhtml#smugshot-metadata-mess"/>
-        </navPoint>
-        <navPoint id="num_57" playOrder="57">
-          <navLabel>
-            <text>More on that SmugShot Metadata Mess</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-on-that-smugshot-metadata-mess"/>
-        </navPoint>
-        <navPoint id="num_58" playOrder="58">
-          <navLabel>
-            <text>JOD comes to Linux</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jod-comes-to-linux"/>
-        </navPoint>
-        <navPoint id="num_59" playOrder="59">
-          <navLabel>
-            <text>A Peculiar Book Club</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-peculiar-book-club"/>
-        </navPoint>
-        <navPoint id="num_60" playOrder="60">
-          <navLabel>
-            <text>Open Source Hilbert for the Kindle</text>
-          </navLabel>
-          <content src="text/bm.xhtml#open-source-hilbert-for-the-kindle"/>
-        </navPoint>
-        <navPoint id="num_61" playOrder="61">
-          <navLabel>
-            <text>More on Kindle Oriented LaTeX</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-on-kindle-oriented-latex"/>
-        </navPoint>
-        <navPoint id="num_62" playOrder="62">
-          <navLabel>
-            <text>PIP News: Isabelle is Up!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#pip-news-isabelle-is-up"/>
-        </navPoint>
-        <navPoint id="num_63" playOrder="63">
-          <navLabel>
-            <text>Debt Dolts Diddle and Drone!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#debt-dolts-diddle-and-drone"/>
-        </navPoint>
-        <navPoint id="num_64" playOrder="64">
-          <navLabel>
-            <text>Cowboys and Aliens and Obama</text>
-          </navLabel>
-          <content src="text/bm.xhtml#cowboys-and-aliens-and-obama"/>
-        </navPoint>
-        <navPoint id="num_65" playOrder="65">
-          <navLabel>
-            <text>1421: The Crank History of Gavin Menzies</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-crank-history-of-gavin-menzies"/>
-        </navPoint>
-        <navPoint id="num_66" playOrder="66">
-          <navLabel>
-            <text>Common Table Expression (CTE) SQLServer Queries with J</text>
-          </navLabel>
-          <content src="text/bm.xhtml#common-table-expression-cte-sqlserver-queries-with-j"/>
-        </navPoint>
-        <navPoint id="num_67" playOrder="67">
-          <navLabel>
-            <text>Typesetting UTF8 APL code with the LaTeX lstlisting package</text>
-          </navLabel>
-          <content src="text/bm.xhtml#typesetting-utf8-apl-code-with-the-latex-lstlisting-package"/>
-        </navPoint>
-        <navPoint id="num_68" playOrder="68">
-          <navLabel>
-            <text>New Conan not as Philosophical as Old Conan</text>
-          </navLabel>
-          <content src="text/bm.xhtml#new-conan-not-as-philosophical-as-old-conan"/>
-        </navPoint>
-        <navPoint id="num_69" playOrder="69">
-          <navLabel>
-            <text>Iranian Regime Justice is pathetic Sharia Savagery.</text>
-          </navLabel>
-          <content src="text/bm.xhtml#iranian-regime-justice-is-pathetic-sharia-savagery."/>
-        </navPoint>
-        <navPoint id="num_70" playOrder="70">
-          <navLabel>
-            <text>I lose another battle with Gravity</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-lose-another-battle-with-gravity"/>
-        </navPoint>
-        <navPoint id="num_71" playOrder="71">
-          <navLabel>
-            <text>Old white guys look at the sky!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#old-white-guys-look-at-the-sky"/>
-        </navPoint>
-        <navPoint id="num_72" playOrder="72">
-          <navLabel>
-            <text>Revenge of the PhD Camera</text>
-          </navLabel>
-          <content src="text/bm.xhtml#revenge-of-the-phd-camera"/>
-        </navPoint>
-        <navPoint id="num_73" playOrder="73">
-          <navLabel>
-            <text>The Instagram Metadata Massacre</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-instagram-metadata-massacre"/>
-        </navPoint>
-        <navPoint id="num_74" playOrder="74">
-          <navLabel>
-            <text>Blogging off for Christmas</text>
-          </navLabel>
-          <content src="text/bm.xhtml#blogging-off-for-christmas"/>
-        </navPoint>
+        <content src="text/bm.xhtml#laws-or-suggestions"/>
       </navPoint>
-      <navPoint id="num_75" playOrder="75">
+      <navPoint id="navPoint-5">
         <navLabel>
-          <text>2012</text>
+          <text>Lens Lust</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_76" playOrder="76">
-          <navLabel>
-            <text>Mike Brown Punts Pluto</text>
-          </navLabel>
-          <content src="text/bm.xhtml#mike-brown-punts-pluto"/>
-        </navPoint>
-        <navPoint id="num_77" playOrder="77">
-          <navLabel>
-            <text>WordPress to LaTeXwith Pandoc and J: Prerequisites (1)</text>
-          </navLabel>
-          <content src="text/bm.xhtml#wordpress-to-latexwith-pandoc-and-j-prerequisites-1"/>
-        </navPoint>
-        <navPoint id="num_78" playOrder="78">
-          <navLabel>
-            <text>WordPress to LaTeX with Pandoc and J: LaTeX Directories (2)</text>
-          </navLabel>
-          <content src="text/bm.xhtml#wordpress-to-latex-with-pandoc-and-j-latex-directories-2"/>
-        </navPoint>
-        <navPoint id="num_79" playOrder="79">
-          <navLabel>
-            <text>WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (3)</text>
-          </navLabel>
-          <content src="text/bm.xhtml#wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml.ijs-3"/>
-        </navPoint>
-        <navPoint id="num_80" playOrder="80">
-          <navLabel>
-            <text>Turn your Blog into an eBook</text>
-          </navLabel>
-          <content src="text/bm.xhtml#turn-your-blog-into-an-ebook"/>
-        </navPoint>
-        <navPoint id="num_81" playOrder="81">
-          <navLabel>
-            <text>The Joys of Photographic Waybacking</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-joys-of-photographic-waybacking"/>
-        </navPoint>
-        <navPoint id="num_82" playOrder="82">
-          <navLabel>
-            <text>The Hunger Games: a Libertarian Dead Teenager Movie.</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-hunger-games-a-libertarian-dead-teenager-movie."/>
-        </navPoint>
-        <navPoint id="num_83" playOrder="83">
-          <navLabel>
-            <text>2012 Venus Transit and Annular Eclipse</text>
-          </navLabel>
-          <content src="text/bm.xhtml#venus-transit-and-annular-eclipse"/>
-        </navPoint>
-        <navPoint id="num_84" playOrder="84">
-          <navLabel>
-            <text>Blurb: Nick Lomb’s Transit of Venus</text>
-          </navLabel>
-          <content src="text/bm.xhtml#blurb-nick-lombs-transit-of-venus"/>
-        </navPoint>
-        <navPoint id="num_85" playOrder="85">
-          <navLabel>
-            <text>GPX from Google Maps KML J Script</text>
-          </navLabel>
-          <content src="text/bm.xhtml#gpx-from-google-maps-kml-j-script"/>
-        </navPoint>
-        <navPoint id="num_86" playOrder="86">
-          <navLabel>
-            <text>The Wahweap Wow</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-wahweap-wow"/>
-        </navPoint>
-        <navPoint id="num_87" playOrder="87">
-          <navLabel>
-            <text>Brett Kimblerlin Free Speech Hating Criminal SOS</text>
-          </navLabel>
-          <content src="text/bm.xhtml#brett-kimblerlin-free-speech-hating-criminal-sos"/>
-        </navPoint>
-        <navPoint id="num_88" playOrder="88">
-          <navLabel>
-            <text>RAW development rubs me Raw</text>
-          </navLabel>
-          <content src="text/bm.xhtml#raw-development-rubs-me-raw"/>
-        </navPoint>
-        <navPoint id="num_89" playOrder="89">
-          <navLabel>
-            <text>Evil Queens are getting Hotter</text>
-          </navLabel>
-          <content src="text/bm.xhtml#evil-queens-are-getting-hotter"/>
-        </navPoint>
-        <navPoint id="num_90" playOrder="90">
-          <navLabel>
-            <text>Venus puts a period on our Time</text>
-          </navLabel>
-          <content src="text/bm.xhtml#venus-puts-a-period-on-our-time"/>
-        </navPoint>
-        <navPoint id="num_91" playOrder="91">
-          <navLabel>
-            <text>Controlling Cell Phones the new IT Frontier</text>
-          </navLabel>
-          <content src="text/bm.xhtml#controlling-cell-phones-the-new-it-frontier"/>
-        </navPoint>
-        <navPoint id="num_92" playOrder="92">
-          <navLabel>
-            <text>Ooh Promethean Tentacles</text>
-          </navLabel>
-          <content src="text/bm.xhtml#ooh-promethean-tentacles"/>
-        </navPoint>
-        <navPoint id="num_93" playOrder="93">
-          <navLabel>
-            <text>Turn your iPhone into a jPhone</text>
-          </navLabel>
-          <content src="text/bm.xhtml#turn-your-iphone-into-a-jphone"/>
-        </navPoint>
-        <navPoint id="num_94" playOrder="94">
-          <navLabel>
-            <text>Mac JOD</text>
-          </navLabel>
-          <content src="text/bm.xhtml#mac-jod"/>
-        </navPoint>
-        <navPoint id="num_95" playOrder="95">
-          <navLabel>
-            <text>Playing the Blog hit game</text>
-          </navLabel>
-          <content src="text/bm.xhtml#playing-the-blog-hit-game"/>
-        </navPoint>
-        <navPoint id="num_96" playOrder="96">
-          <navLabel>
-            <text>Writing Portable J addons</text>
-          </navLabel>
-          <content src="text/bm.xhtml#writing-portable-j-addons"/>
-        </navPoint>
-        <navPoint id="num_97" playOrder="97">
-          <navLabel>
-            <text>Executioners should be selected like jurors</text>
-          </navLabel>
-          <content src="text/bm.xhtml#executioners-should-be-selected-like-jurors"/>
-        </navPoint>
-        <navPoint id="num_98" playOrder="98">
-          <navLabel>
-            <text>Where’s the Olympic beach?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#wheres-the-olympic-beach"/>
-        </navPoint>
-        <navPoint id="num_99" playOrder="99">
-          <navLabel>
-            <text>Bankrupt Nation Wins the Olympics</text>
-          </navLabel>
-          <content src="text/bm.xhtml#bankrupt-nation-wins-the-olympics"/>
-        </navPoint>
-        <navPoint id="num_100" playOrder="100">
-          <navLabel>
-            <text>Faith a guilty pleasure</text>
-          </navLabel>
-          <content src="text/bm.xhtml#faith-a-guilty-pleasure"/>
-        </navPoint>
-        <navPoint id="num_101" playOrder="101">
-          <navLabel>
-            <text>Pandoc based J Syntax Highlighting</text>
-          </navLabel>
-          <content src="text/bm.xhtml#pandoc-based-j-syntax-highlighting"/>
-        </navPoint>
-        <navPoint id="num_102" playOrder="102">
-          <navLabel>
-            <text>Semi-Literate JOD</text>
-          </navLabel>
-          <content src="text/bm.xhtml#semi-literate-jod"/>
-        </navPoint>
-        <navPoint id="num_103" playOrder="103">
-          <navLabel>
-            <text>Election Reflections</text>
-          </navLabel>
-          <content src="text/bm.xhtml#election-reflections"/>
-        </navPoint>
-        <navPoint id="num_104" playOrder="104">
-          <navLabel>
-            <text>Git me a Hub’bery</text>
-          </navLabel>
-          <content src="text/bm.xhtml#git-me-a-hubbery"/>
-        </navPoint>
-        <navPoint id="num_105" playOrder="105">
-          <navLabel>
-            <text>JHS meets MathJax</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jhs-meets-mathjax"/>
-        </navPoint>
-        <navPoint id="num_106" playOrder="106">
-          <navLabel>
-            <text>JHS with the DHTMLX Grid</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jhs-with-the-dhtmlx-grid"/>
-        </navPoint>
-        <navPoint id="num_107" playOrder="107">
-          <navLabel>
-            <text>More about JHS with the DHTMLX Grid</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-about-jhs-with-the-dhtmlx-grid"/>
-        </navPoint>
-        <navPoint id="num_108" playOrder="108">
-          <navLabel>
-            <text>King Hobbit Kong</text>
-          </navLabel>
-          <content src="text/bm.xhtml#king-hobbit-kong"/>
-        </navPoint>
-        <navPoint id="num_109" playOrder="109">
-          <navLabel>
-            <text>Apocalypse Never or I Told You So Day</text>
-          </navLabel>
-          <content src="text/bm.xhtml#apocalypse-never-or-i-told-you-so-day"/>
-        </navPoint>
-        <navPoint id="num_110" playOrder="110">
-          <navLabel>
-            <text>Let’s Trade Constitutional Amendments</text>
-          </navLabel>
-          <content src="text/bm.xhtml#lets-trade-constitutional-amendments"/>
-        </navPoint>
-        <navPoint id="num_111" playOrder="111">
-          <navLabel>
-            <text>Books to Ignore</text>
-          </navLabel>
-          <content src="text/bm.xhtml#books-to-ignore"/>
-        </navPoint>
-        <navPoint id="num_112" playOrder="112">
-          <navLabel>
-            <text>2012 Blog Robot Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#blog-robot-review"/>
-        </navPoint>
+        <content src="text/bm.xhtml#lens-lust"/>
       </navPoint>
-      <navPoint id="num_113" playOrder="113">
+      <navPoint id="navPoint-6">
         <navLabel>
-          <text>2013</text>
+          <text>My Olympic Spirit</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_114" playOrder="114">
-          <navLabel>
-            <text>Argentina or Australia</text>
-          </navLabel>
-          <content src="text/bm.xhtml#argentina-or-australia"/>
-        </navPoint>
-        <navPoint id="num_115" playOrder="115">
-          <navLabel>
-            <text>My Dream of Liberty Encased</text>
-          </navLabel>
-          <content src="text/bm.xhtml#my-dream-of-liberty-encased"/>
-        </navPoint>
-        <navPoint id="num_116" playOrder="116">
-          <navLabel>
-            <text>A Memo to the next Murdering Dorner</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-memo-to-the-next-murdering-dorner"/>
-        </navPoint>
-        <navPoint id="num_117" playOrder="117">
-          <navLabel>
-            <text>Australia It Is</text>
-          </navLabel>
-          <content src="text/bm.xhtml#australia-it-is"/>
-        </navPoint>
-        <navPoint id="num_118" playOrder="118">
-          <navLabel>
-            <text>Oz the Gratuitous and Purile</text>
-          </navLabel>
-          <content src="text/bm.xhtml#oz-the-gratuitous-and-purile"/>
-        </navPoint>
-        <navPoint id="num_119" playOrder="119">
-          <navLabel>
-            <text>The Myth of Sisyphus: Camus’s Absurd Prototype</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-myth-of-sisyphus-camuss-absurd-prototype"/>
-        </navPoint>
-        <navPoint id="num_120" playOrder="120">
-          <navLabel>
-            <text>Review: The Signal and the Noise</text>
-          </navLabel>
-          <content src="text/bm.xhtml#review-the-signal-and-the-noise"/>
-        </navPoint>
-        <navPoint id="num_121" playOrder="121">
-          <navLabel>
-            <text>At the PalliativeCare Ward</text>
-          </navLabel>
-          <content src="text/bm.xhtml#at-the-palliativecare-ward"/>
-        </navPoint>
-        <navPoint id="num_122" playOrder="122">
-          <navLabel>
-            <text>Now for a Nursing Home</text>
-          </navLabel>
-          <content src="text/bm.xhtml#now-for-a-nursing-home"/>
-        </navPoint>
-        <navPoint id="num_123" playOrder="123">
-          <navLabel>
-            <text>Evelyn’s Eulogy</text>
-          </navLabel>
-          <content src="text/bm.xhtml#evelyns-eulogy"/>
-        </navPoint>
-        <navPoint id="num_124" playOrder="124">
-          <navLabel>
-            <text>More Photographic Waybacking</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-photographic-waybacking"/>
-        </navPoint>
-        <navPoint id="num_125" playOrder="125">
-          <navLabel>
-            <text>Too Busy to Blog</text>
-          </navLabel>
-          <content src="text/bm.xhtml#too-busy-to-blog"/>
-        </navPoint>
-        <navPoint id="num_126" playOrder="126">
-          <navLabel>
-            <text>The New SmugMug</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-new-smugmug"/>
-        </navPoint>
-        <navPoint id="num_127" playOrder="127">
-          <navLabel>
-            <text>Corporate Social Media Policies</text>
-          </navLabel>
-          <content src="text/bm.xhtml#corporate-social-media-policies"/>
-        </navPoint>
-        <navPoint id="num_128" playOrder="128">
-          <navLabel>
-            <text>Yellowstone and Me</text>
-          </navLabel>
-          <content src="text/bm.xhtml#yellowstone-and-me"/>
-        </navPoint>
-        <navPoint id="num_129" playOrder="129">
-          <navLabel>
-            <text>I write my Congresswoman about Syria</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-write-my-congresswoman-about-syria"/>
-        </navPoint>
-        <navPoint id="num_130" playOrder="130">
-          <navLabel>
-            <text>Minnie’s Pictures</text>
-          </navLabel>
-          <content src="text/bm.xhtml#minnies-pictures"/>
-        </navPoint>
-        <navPoint id="num_131" playOrder="131">
-          <navLabel>
-            <text>Sorry PBS you already have my Money</text>
-          </navLabel>
-          <content src="text/bm.xhtml#sorry-pbs-you-already-have-my-money"/>
-        </navPoint>
-        <navPoint id="num_132" playOrder="132">
-          <navLabel>
-            <text>Fifty Years of Nauseating Kennedy Nostalgia</text>
-          </navLabel>
-          <content src="text/bm.xhtml#fifty-years-of-nauseating-kennedy-nostalgia"/>
-        </navPoint>
-        <navPoint id="num_133" playOrder="133">
-          <navLabel>
-            <text>Tipping with Bitcoins</text>
-          </navLabel>
-          <content src="text/bm.xhtml#tipping-with-bitcoins"/>
-        </navPoint>
-        <navPoint id="num_134" playOrder="134">
-          <navLabel>
-            <text>My Colon’s Merry Christmas</text>
-          </navLabel>
-          <content src="text/bm.xhtml#my-colons-merry-christmas"/>
-        </navPoint>
-        <navPoint id="num_135" playOrder="135">
-          <navLabel>
-            <text>Twitter is not Trivial</text>
-          </navLabel>
-          <content src="text/bm.xhtml#twitter-is-not-trivial"/>
-        </navPoint>
-        <navPoint id="num_136" playOrder="136">
-          <navLabel>
-            <text>Jacks Repository</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jacks-repository"/>
-        </navPoint>
-        <navPoint id="num_137" playOrder="137">
-          <navLabel>
-            <text>APL Software Archaeology .dbi Edition</text>
-          </navLabel>
-          <content src="text/bm.xhtml#apl-software-archaeology-.dbi-edition"/>
-        </navPoint>
-        <navPoint id="num_138" playOrder="138">
-          <navLabel>
-            <text>Fun with Farsi Text in LaTeX</text>
-          </navLabel>
-          <content src="text/bm.xhtml#fun-with-farsi-text-in-latex"/>
-        </navPoint>
-        <navPoint id="num_139" playOrder="139">
-          <navLabel>
-            <text>Blogging Bad 2013</text>
-          </navLabel>
-          <content src="text/bm.xhtml#blogging-bad-2013"/>
-        </navPoint>
+        <content src="text/bm.xhtml#my-olympic-spirit"/>
       </navPoint>
-      <navPoint id="num_140" playOrder="140">
+      <navPoint id="navPoint-7">
         <navLabel>
-          <text>2014</text>
+          <text>Google Earth Image Touring</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_141" playOrder="141">
-          <navLabel>
-            <text>The Great Verizon Data Famine</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-great-verizon-data-famine"/>
-        </navPoint>
-        <navPoint id="num_142" playOrder="142">
-          <navLabel>
-            <text>John L. Dobson R.I.P.</text>
-          </navLabel>
-          <content src="text/bm.xhtml#john-l.-dobson-r.i.p."/>
-        </navPoint>
-        <navPoint id="num_143" playOrder="143">
-          <navLabel>
-            <text>Bitcoin is a Perfect Protest</text>
-          </navLabel>
-          <content src="text/bm.xhtml#bitcoin-is-a-perfect-protest"/>
-        </navPoint>
-        <navPoint id="num_144" playOrder="144">
-          <navLabel>
-            <text>The Singularity is Not Near Enough</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-singularity-is-not-near-enough"/>
-        </navPoint>
-        <navPoint id="num_145" playOrder="145">
-          <navLabel>
-            <text>Review: The Creature from Jekyll Island</text>
-          </navLabel>
-          <content src="text/bm.xhtml#review-the-creature-from-jekyll-island"/>
-        </navPoint>
-        <navPoint id="num_146" playOrder="146">
-          <navLabel>
-            <text>Review: Into the Wild</text>
-          </navLabel>
-          <content src="text/bm.xhtml#review-into-the-wild"/>
-        </navPoint>
-        <navPoint id="num_147" playOrder="147">
-          <navLabel>
-            <text>Cosmos Reboot</text>
-          </navLabel>
-          <content src="text/bm.xhtml#cosmos-reboot"/>
-        </navPoint>
-        <navPoint id="num_148" playOrder="148">
-          <navLabel>
-            <text>Blood Morons</text>
-          </navLabel>
-          <content src="text/bm.xhtml#blood-morons"/>
-        </navPoint>
-        <navPoint id="num_149" playOrder="149">
-          <navLabel>
-            <text>Pussydent Hildabeast</text>
-          </navLabel>
-          <content src="text/bm.xhtml#pussydent-hildabeast"/>
-        </navPoint>
-        <navPoint id="num_150" playOrder="150">
-          <navLabel>
-            <text>Ukraine takeaway: Don’t give up your Nukes</text>
-          </navLabel>
-          <content src="text/bm.xhtml#ukraine-takeaway-dont-give-up-your-nukes"/>
-        </navPoint>
-        <navPoint id="num_151" playOrder="151">
-          <navLabel>
-            <text>What’s the opposite of Transcendence?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#whats-the-opposite-of-transcendence"/>
-        </navPoint>
-        <navPoint id="num_152" playOrder="152">
-          <navLabel>
-            <text>Marcus Aurelius tunes my RSS Feeds</text>
-          </navLabel>
-          <content src="text/bm.xhtml#marcus-aurelius-tunes-my-rss-feeds"/>
-        </navPoint>
-        <navPoint id="num_153" playOrder="153">
-          <navLabel>
-            <text>Review: Finding Vivian Maier</text>
-          </navLabel>
-          <content src="text/bm.xhtml#review-finding-vivian-maier"/>
-        </navPoint>
-        <navPoint id="num_154" playOrder="154">
-          <navLabel>
-            <text>Your Bitcoins are Now Welcome!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#your-bitcoins-are-now-welcome"/>
-        </navPoint>
-        <navPoint id="num_155" playOrder="155">
-          <navLabel>
-            <text>JOD Update: J 8.02 QT/JHS/64 bit Systems</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jod-update-j-8.02-qtjhs64-bit-systems"/>
-        </navPoint>
-        <navPoint id="num_156" playOrder="156">
-          <navLabel>
-            <text>Parsing the Bitcoin Genesis Block with J</text>
-          </navLabel>
-          <content src="text/bm.xhtml#parsing-the-bitcoin-genesis-block-with-j"/>
-        </navPoint>
-        <navPoint id="num_157" playOrder="157">
-          <navLabel>
-            <text>JD Bitcoin Blockchain Spelunking</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jd-bitcoin-blockchain-spelunking"/>
-        </navPoint>
-        <navPoint id="num_158" playOrder="158">
-          <navLabel>
-            <text>There will never be a Literature of Reality</text>
-          </navLabel>
-          <content src="text/bm.xhtml#there-will-never-be-a-literature-of-reality"/>
-        </navPoint>
-        <navPoint id="num_159" playOrder="159">
-          <navLabel>
-            <text>Pandora’s Star: a Grand Sprawling Entertainment</text>
-          </navLabel>
-          <content src="text/bm.xhtml#pandoras-star-a-grand-sprawling-entertainment"/>
-        </navPoint>
-        <navPoint id="num_160" playOrder="160">
-          <navLabel>
-            <text>Photospheres Away!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#photospheres-away"/>
-        </navPoint>
-        <navPoint id="num_161" playOrder="161">
-          <navLabel>
-            <text>I Voted for Nothing</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-voted-for-nothing"/>
-        </navPoint>
-        <navPoint id="num_162" playOrder="162">
-          <navLabel>
-            <text>Incoherent Interstellar</text>
-          </navLabel>
-          <content src="text/bm.xhtml#incoherent-interstellar"/>
-        </navPoint>
-        <navPoint id="num_163" playOrder="163">
-          <navLabel>
-            <text>Ferguson and Dark Matter</text>
-          </navLabel>
-          <content src="text/bm.xhtml#ferguson-and-dark-matter"/>
-        </navPoint>
+        <content src="text/bm.xhtml#google-earth-image-touring"/>
       </navPoint>
-      <navPoint id="num_164" playOrder="164">
+      <navPoint id="navPoint-8">
         <navLabel>
-          <text>2015</text>
+          <text>Nobel Peace Prize Idol</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_165" playOrder="165">
-          <navLabel>
-            <text>Mahin and Carl</text>
-          </navLabel>
-          <content src="text/bm.xhtml#mahin-and-carl"/>
-        </navPoint>
-        <navPoint id="num_166" playOrder="166">
-          <navLabel>
-            <text>JOD Update: Version 0.9.97*</text>
-          </navLabel>
-          <content src="text/bm.xhtml#jod-update-version-0.9.97"/>
-        </navPoint>
-        <navPoint id="num_167" playOrder="167">
-          <navLabel>
-            <text>Cutting the Stinking Tauntaun and other Adventures in Software Archeology</text>
-          </navLabel>
-          <content src="text/bm.xhtml#cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology"/>
-        </navPoint>
-        <navPoint id="num_168" playOrder="168">
-          <navLabel>
-            <text>Dark Energy Entities</text>
-          </navLabel>
-          <content src="text/bm.xhtml#dark-energy-entities"/>
-        </navPoint>
-        <navPoint id="num_169" playOrder="169">
-          <navLabel>
-            <text>What hobbies do you have? Have you learned anything useful from them?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#what-hobbies-do-you-have-have-you-learned-anything-useful-from-them"/>
-        </navPoint>
-        <navPoint id="num_170" playOrder="170">
-          <navLabel>
-            <text>Mauna Kea Morons on the March</text>
-          </navLabel>
-          <content src="text/bm.xhtml#mauna-kea-morons-on-the-march"/>
-        </navPoint>
-        <navPoint id="num_171" playOrder="171">
-          <navLabel>
-            <text>An Honest Resume Personal Statement</text>
-          </navLabel>
-          <content src="text/bm.xhtml#an-honest-resume-personal-statement"/>
-        </navPoint>
-        <navPoint id="num_172" playOrder="172">
-          <navLabel>
-            <text>Social Security Numbers are Broken beyond Repair</text>
-          </navLabel>
-          <content src="text/bm.xhtml#social-security-numbers-are-broken-beyond-repair"/>
-        </navPoint>
-        <navPoint id="num_173" playOrder="173">
-          <navLabel>
-            <text>Copulation, Cooking and Cleaning</text>
-          </navLabel>
-          <content src="text/bm.xhtml#copulation-cooking-and-cleaning"/>
-        </navPoint>
-        <navPoint id="num_174" playOrder="174">
-          <navLabel>
-            <text>For Carl’s Memorial</text>
-          </navLabel>
-          <content src="text/bm.xhtml#for-carls-memorial"/>
-        </navPoint>
-        <navPoint id="num_175" playOrder="175">
-          <navLabel>
-            <text>Turning JOD Dump Script Tricks</text>
-          </navLabel>
-          <content src="text/bm.xhtml#turning-jod-dump-script-tricks"/>
-        </navPoint>
-        <navPoint id="num_176" playOrder="176">
-          <navLabel>
-            <text>How Dante Can Save Your Life: Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#how-dante-can-save-your-life-review"/>
-        </navPoint>
-        <navPoint id="num_177" playOrder="177">
-          <navLabel>
-            <text>Euphoria: Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#euphoria-review"/>
-        </navPoint>
-        <navPoint id="num_178" playOrder="178">
-          <navLabel>
-            <text>American Star Chamber creates Foreign Passport Business Opportunity</text>
-          </navLabel>
-          <content src="text/bm.xhtml#american-star-chamber-creates-foreign-passport-business-opportunity"/>
-        </navPoint>
-        <navPoint id="num_179" playOrder="179">
-          <navLabel>
-            <text>Milliblog: Religous and Comic Origin Stories</text>
-          </navLabel>
-          <content src="text/bm.xhtml#milliblog1x5154-religous-and-comic-origin-stories"/>
-        </navPoint>
-        <navPoint id="num_180" playOrder="180">
-          <navLabel>
-            <text>What is Required: Print Captions on the back of Photographs</text>
-          </navLabel>
-          <content src="text/bm.xhtml#what-is-required-print-captions-on-the-back-of-photographs"/>
-        </navPoint>
+        <content src="text/bm.xhtml#nobel-peace-prize-idol"/>
       </navPoint>
-      <navPoint id="num_181" playOrder="181">
+      <navPoint id="navPoint-9">
         <navLabel>
-          <text>2016</text>
+          <text>F# Sirens are Seducing</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_182" playOrder="182">
-          <navLabel>
-            <text>SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob</text>
-          </navLabel>
-          <content src="text/bm.xhtml#swag-a-jexcelgit-personal-cash-flow-forecasting-mob"/>
-        </navPoint>
-        <navPoint id="num_183" playOrder="183">
-          <navLabel>
-            <text>On Shiny Pony and Witch Berning</text>
-          </navLabel>
-          <content src="text/bm.xhtml#on-shiny-pony-and-witch-berning"/>
-        </navPoint>
-        <navPoint id="num_184" playOrder="184">
-          <navLabel>
-            <text>The Santa Fe Trail</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-santa-fe-trail"/>
-        </navPoint>
-        <navPoint id="num_185" playOrder="185">
-          <navLabel>
-            <text>Milliblog: Photo Captions</text>
-          </navLabel>
-          <content src="text/bm.xhtml#milliblog-photo-captions"/>
-        </navPoint>
-        <navPoint id="num_186" playOrder="186">
-          <navLabel>
-            <text>Falling Colors Technology a BHSD Crony that needs Competition</text>
-          </navLabel>
-          <content src="text/bm.xhtml#falling-colors-technology-a-bhsd-crony-that-needs-competition"/>
-        </navPoint>
-        <navPoint id="num_187" playOrder="187">
-          <navLabel>
-            <text>A Bloggy Christmas Letter</text>
-          </navLabel>
-          <content src="text/bm.xhtml#a-bloggy-christmas-letter"/>
-        </navPoint>
+        <content src="text/bm.xhtml#f-sirens-are-seducing"/>
       </navPoint>
-      <navPoint id="num_188" playOrder="188">
+      <navPoint id="navPoint-10">
         <navLabel>
-          <text>2017</text>
+          <text>Counting Gods</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_189" playOrder="189">
-          <navLabel>
-            <text>My Final Facebook Fuckoff</text>
-          </navLabel>
-          <content src="text/bm.xhtml#my-final-facebook-fuckoff"/>
-        </navPoint>
-        <navPoint id="num_190" playOrder="190">
-          <navLabel>
-            <text>Affinity Photo Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#affinity-photo-review"/>
-        </navPoint>
-        <navPoint id="num_191" playOrder="191">
-          <navLabel>
-            <text>What is Required: Hybrid Books</text>
-          </navLabel>
-          <content src="text/bm.xhtml#what-is-required-hybrid-books"/>
-        </navPoint>
-        <navPoint id="num_192" playOrder="192">
-          <navLabel>
-            <text>FCC Follies and Monkey Browsing</text>
-          </navLabel>
-          <content src="text/bm.xhtml#fcc-follies-and-monkey-browsing"/>
-        </navPoint>
-        <navPoint id="num_193" playOrder="193">
-          <navLabel>
-            <text>The Collapsing Empire: Goodreads Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-collapsing-empire-goodreads-review"/>
-        </navPoint>
-        <navPoint id="num_194" playOrder="194">
-          <navLabel>
-            <text>What is Required: Citizen Environment Sampling Drones</text>
-          </navLabel>
-          <content src="text/bm.xhtml#what-is-required-citizen-environment-sampling-drones"/>
-        </navPoint>
-        <navPoint id="num_195" playOrder="195">
-          <navLabel>
-            <text>I WannaCry about the Plunging Quality of Evil Geniuses</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-wannacry-about-the-plunging-quality-of-evil-geniuses"/>
-        </navPoint>
-        <navPoint id="num_196" playOrder="196">
-          <navLabel>
-            <text>I Help Fat Little Kim Pick Nuke Targets</text>
-          </navLabel>
-          <content src="text/bm.xhtml#i-help-fat-little-kim-pick-nuke-targets"/>
-        </navPoint>
-        <navPoint id="num_197" playOrder="197">
-          <navLabel>
-            <text>Idaho Statesman Regurgitates High Precision Hate Calculations</text>
-          </navLabel>
-          <content src="text/bm.xhtml#idaho-statesman-regurgitates-high-precision-hate-calculations"/>
-        </navPoint>
-        <navPoint id="num_198" playOrder="198">
-          <navLabel>
-            <text>Still Totally Awesome</text>
-          </navLabel>
-          <content src="text/bm.xhtml#still-totally-awesome"/>
-        </navPoint>
-        <navPoint id="num_199" playOrder="199">
-          <navLabel>
-            <text>Stop Writing Dead Tree Letters to the Editor</text>
-          </navLabel>
-          <content src="text/bm.xhtml#stop-writing-dead-tree-letters-to-the-editor"/>
-        </navPoint>
-        <navPoint id="num_200" playOrder="200">
-          <navLabel>
-            <text>Don’t be a Weenie Launch Cassini</text>
-          </navLabel>
-          <content src="text/bm.xhtml#dont-be-a-weenie-launch-cassini"/>
-        </navPoint>
-        <navPoint id="num_201" playOrder="201">
-          <navLabel>
-            <text>EquiFucked</text>
-          </navLabel>
-          <content src="text/bm.xhtml#equifucked"/>
-        </navPoint>
-        <navPoint id="num_202" playOrder="202">
-          <navLabel>
-            <text>The Mass Kill as Performance Art</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-mass-kill-as-performance-art"/>
-        </navPoint>
-        <navPoint id="num_203" playOrder="203">
-          <navLabel>
-            <text>Review: The Way We Die Now</text>
-          </navLabel>
-          <content src="text/bm.xhtml#review-the-way-we-die-now"/>
-        </navPoint>
-        <navPoint id="num_204" playOrder="204">
-          <navLabel>
-            <text>Downloading SmugMug Captions with Python and Jupyter</text>
-          </navLabel>
-          <content src="text/bm.xhtml#downloading-smugmug-captions-with-python-and-jupyter"/>
-        </navPoint>
-        <navPoint id="num_205" playOrder="205">
-          <navLabel>
-            <text>Dear Apple Pay Stop Harassing Me!</text>
-          </navLabel>
-          <content src="text/bm.xhtml#dear-apple-pay-stop-harassing-me"/>
-        </navPoint>
+        <content src="text/bm.xhtml#counting-gods"/>
       </navPoint>
-      <navPoint id="num_206" playOrder="206">
+      <navPoint id="navPoint-11">
         <navLabel>
-          <text>2018</text>
+          <text>Hard Ass Skeptic Rules</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_207" playOrder="207">
-          <navLabel>
-            <text>Government Shutdown and Rapture 2018</text>
-          </navLabel>
-          <content src="text/bm.xhtml#government-shutdown-and-rapture-2018"/>
-        </navPoint>
-        <navPoint id="num_208" playOrder="208">
-          <navLabel>
-            <text>Setting SmugMug Print Size Keywords with Jupyter and Python</text>
-          </navLabel>
-          <content src="text/bm.xhtml#setting-smugmug-print-size-keywords-with-jupyter-and-python"/>
-        </navPoint>
-        <navPoint id="num_209" playOrder="209">
-          <navLabel>
-            <text>NumPy another Iverson Ghost</text>
-          </navLabel>
-          <content src="text/bm.xhtml#numpy-another-iverson-ghost"/>
-        </navPoint>
-        <navPoint id="num_210" playOrder="210">
-          <navLabel>
-            <text>Informed Naked Ape Protocol</text>
-          </navLabel>
-          <content src="text/bm.xhtml#informed-naked-ape-protocol"/>
-        </navPoint>
-        <navPoint id="num_211" playOrder="211">
-          <navLabel>
-            <text>iNap #1: Enough People are Scum</text>
-          </navLabel>
-          <content src="text/bm.xhtml#inap-1-enough-people-are-scum"/>
-        </navPoint>
+        <content src="text/bm.xhtml#hard-ass-skeptic-rules"/>
       </navPoint>
-      <navPoint id="num_212" playOrder="212">
+      <navPoint id="navPoint-12">
         <navLabel>
-          <text>2019</text>
+          <text>2012 Business Opportunity</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_213" playOrder="213">
-          <navLabel>
-            <text>The Return of the Prodigal Blogger</text>
-          </navLabel>
-          <content src="text/bm.xhtml#the-return-of-the-prodigal-blogger"/>
-        </navPoint>
-        <navPoint id="num_214" playOrder="214">
-          <navLabel>
-            <text>Trey and Kate: Review</text>
-          </navLabel>
-          <content src="text/bm.xhtml#trey-and-kate-review"/>
-        </navPoint>
-        <navPoint id="num_215" playOrder="215">
-          <navLabel>
-            <text>Who Thought Blinking Windfarms was a Good Idea?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#who-thought-blinking-windfarms-was-a-good-idea"/>
-        </navPoint>
-        <navPoint id="num_216" playOrder="216">
-          <navLabel>
-            <text>Sudden Genocide</text>
-          </navLabel>
-          <content src="text/bm.xhtml#sudden-genocide"/>
-        </navPoint>
+        <content src="text/bm.xhtml#business-opportunity"/>
       </navPoint>
-      <navPoint id="num_217" playOrder="217">
+      <navPoint id="navPoint-13">
         <navLabel>
-          <text>2020</text>
+          <text>Let’s Hang Congress</text>
         </navLabel>
-        <content src="text/bm.xhtml"/>
-        <navPoint id="num_218" playOrder="218">
-          <navLabel>
-            <text>Extracting SQL code from SSIS dtsx packages with Python lxml</text>
-          </navLabel>
-          <content src="text/bm.xhtml#extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml"/>
-        </navPoint>
-        <navPoint id="num_219" playOrder="219">
-          <navLabel>
-            <text>More J Pandoc Syntax HighLighting</text>
-          </navLabel>
-          <content src="text/bm.xhtml#more-j-pandoc-syntax-highlighting"/>
-        </navPoint>
-        <navPoint id="num_220" playOrder="220">
-          <navLabel>
-            <text>Using jodliterate</text>
-          </navLabel>
-          <content src="text/bm.xhtml#using-jodliterate"/>
-        </navPoint>
-        <navPoint id="num_221" playOrder="221">
-          <navLabel>
-            <text>Better Blogging with Jupyter Notebooks on WordPress.com</text>
-          </navLabel>
-          <content src="text/bm.xhtml#better-blogging-with-jupyter-notebooks-on-wordpress.com"/>
-        </navPoint>
-        <navPoint id="num_222" playOrder="222">
-          <navLabel>
-            <text>GitHub’s Silly Master Plan</text>
-          </navLabel>
-          <content src="text/bm.xhtml#githubs-silly-master-plan"/>
-        </navPoint>
-        <navPoint id="num_223" playOrder="223">
-          <navLabel>
-            <text>How Do You Check Your Vote?</text>
-          </navLabel>
-          <content src="text/bm.xhtml#how-do-you-check-your-vote"/>
-        </navPoint>
+        <content src="text/bm.xhtml#lets-hang-congress"/>
+      </navPoint>
+      <navPoint id="navPoint-14">
+        <navLabel>
+          <text>Why Code when you can Steal</text>
+        </navLabel>
+        <content src="text/bm.xhtml#why-code-when-you-can-steal"/>
+      </navPoint>
+      <navPoint id="navPoint-15">
+        <navLabel>
+          <text>Command Line C# SmugMug API Metadata Download</text>
+        </navLabel>
+        <content src="text/bm.xhtml#command-line-c-smugmug-api-metadata-download"/>
+      </navPoint>
+      <navPoint id="navPoint-16">
+        <navLabel>
+          <text>SmugMug Duplicate Image Hunting</text>
+        </navLabel>
+        <content src="text/bm.xhtml#smugmug-duplicate-image-hunting"/>
+      </navPoint>
+      <navPoint id="navPoint-17">
+        <navLabel>
+          <text>More on SmugMug Duplicates</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-on-smugmug-duplicates"/>
+      </navPoint>
+      <navPoint id="navPoint-18">
+        <navLabel>
+          <text>Setting Good SmugMug Key Words</text>
+        </navLabel>
+        <content src="text/bm.xhtml#setting-good-smugmug-key-words"/>
+      </navPoint>
+      <navPoint id="navPoint-19">
+        <navLabel>
+          <text>Assigning SmugMug Print Size Keys</text>
+        </navLabel>
+        <content src="text/bm.xhtml#assigning-smugmug-print-size-keys"/>
+      </navPoint>
+      <navPoint id="navPoint-20">
+        <navLabel>
+          <text>Honing my Powers of Indifference</text>
+        </navLabel>
+        <content src="text/bm.xhtml#honing-my-powers-of-indifference"/>
+      </navPoint>
+      <navPoint id="navPoint-21">
+        <navLabel>
+          <text>Only Now at the End do you Understand</text>
+        </navLabel>
+        <content src="text/bm.xhtml#only-now-at-the-end-do-you-understand"/>
+      </navPoint>
+      <navPoint id="navPoint-22">
+        <navLabel>
+          <text>WordPress to LaTeX Hack</text>
+        </navLabel>
+        <content src="text/bm.xhtml#wordpress-to-latex-hack"/>
+      </navPoint>
+      <navPoint id="navPoint-23">
+        <navLabel>
+          <text>Why I Still Use my Ten Year Old Garmin GPS</text>
+        </navLabel>
+        <content src="text/bm.xhtml#why-i-still-use-my-ten-year-old-garmin-gps"/>
+      </navPoint>
+      <navPoint id="navPoint-24">
+        <navLabel>
+          <text>The Reports of Library Death are Exaggerated</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-reports-of-library-death-are-exaggerated"/>
+      </navPoint>
+      <navPoint id="navPoint-25">
+        <navLabel>
+          <text>Everybody Abandon Facebook Day</text>
+        </navLabel>
+        <content src="text/bm.xhtml#everybody-abandon-facebook-day"/>
+      </navPoint>
+      <navPoint id="navPoint-26">
+        <navLabel>
+          <text>Oh Crap Martin Gardner has Died!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#oh-crap-martin-gardner-has-died"/>
+      </navPoint>
+      <navPoint id="navPoint-27">
+        <navLabel>
+          <text>Plug the Damn Hole</text>
+        </navLabel>
+        <content src="text/bm.xhtml#plug-the-damn-hole"/>
+      </navPoint>
+      <navPoint id="navPoint-28">
+        <navLabel>
+          <text>A C# .Net Class for calling J</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-c-.net-class-for-calling-j"/>
+      </navPoint>
+      <navPoint id="navPoint-29">
+        <navLabel>
+          <text>The Real Problem with Enterprise Software</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-real-problem-with-enterprise-software"/>
+      </navPoint>
+      <navPoint id="navPoint-30">
+        <navLabel>
+          <text>I did not have sex with that Oil Spill!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-did-not-have-sex-with-that-oil-spill"/>
+      </navPoint>
+      <navPoint id="navPoint-31">
+        <navLabel>
+          <text>My Tag Wordle</text>
+        </navLabel>
+        <content src="text/bm.xhtml#my-tag-wordle"/>
+      </navPoint>
+      <navPoint id="navPoint-32">
+        <navLabel>
+          <text>G20 fails to end G20</text>
+        </navLabel>
+        <content src="text/bm.xhtml#g20-fails-to-end-g20"/>
+      </navPoint>
+      <navPoint id="navPoint-33">
+        <navLabel>
+          <text>This Herodotus is a Hoot!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#this-herodotus-is-a-hoot"/>
+      </navPoint>
+      <navPoint id="navPoint-34">
+        <navLabel>
+          <text>The 20 seconds that ruined Inception</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-20-seconds-that-ruined-inception"/>
+      </navPoint>
+      <navPoint id="navPoint-35">
+        <navLabel>
+          <text>How’s that for Inception?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#hows-that-for-inception"/>
+      </navPoint>
+      <navPoint id="navPoint-36">
+        <navLabel>
+          <text>The Kindle is just like the KKK</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-kindle-is-just-like-the-kkk"/>
+      </navPoint>
+      <navPoint id="navPoint-37">
+        <navLabel>
+          <text>C. K. Raju: Genius or Crank (Part 1)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#c.-k.-raju-genius-or-crank-part-1"/>
+      </navPoint>
+      <navPoint id="navPoint-38">
+        <navLabel>
+          <text>Binge Pretend Boink</text>
+        </navLabel>
+        <content src="text/bm.xhtml#binge-pretend-boink"/>
+      </navPoint>
+      <navPoint id="navPoint-39">
+        <navLabel>
+          <text>Resume blues partly alleviated by LaTeX</text>
+        </navLabel>
+        <content src="text/bm.xhtml#resume-blues-partly-alleviated-by-latex"/>
+      </navPoint>
+      <navPoint id="navPoint-40">
+        <navLabel>
+          <text>The Return of APL Fingers</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-return-of-apl-fingers"/>
+      </navPoint>
+      <navPoint id="navPoint-41">
+        <navLabel>
+          <text>Soon we will all be Software Archaeologists</text>
+        </navLabel>
+        <content src="text/bm.xhtml#soon-we-will-all-be-software-archaeologists"/>
+      </navPoint>
+      <navPoint id="navPoint-42">
+        <navLabel>
+          <text>A Black Swan Song</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-black-swan-song"/>
+      </navPoint>
+      <navPoint id="navPoint-43">
+        <navLabel>
+          <text>It’s all over for Broadcast TV</text>
+        </navLabel>
+        <content src="text/bm.xhtml#its-all-over-for-broadcast-tv"/>
+      </navPoint>
+      <navPoint id="navPoint-44">
+        <navLabel>
+          <text>The UN Space Treaty is Holding Us Back!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-un-space-treaty-is-holding-us-back"/>
+      </navPoint>
+      <navPoint id="navPoint-45">
+        <navLabel>
+          <text>J 7.01 Now Playing in your Browser</text>
+        </navLabel>
+        <content src="text/bm.xhtml#j-7.01-now-playing-in-your-browser"/>
+      </navPoint>
+      <navPoint id="navPoint-46">
+        <navLabel>
+          <text>Anathem: Plato’s Parallel World</text>
+        </navLabel>
+        <content src="text/bm.xhtml#anathem-platos-parallel-world"/>
+      </navPoint>
+      <navPoint id="navPoint-47">
+        <navLabel>
+          <text>A Walk in the Park</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-walk-in-the-park"/>
+      </navPoint>
+      <navPoint id="navPoint-48">
+        <navLabel>
+          <text>iPhoning It In</text>
+        </navLabel>
+        <content src="text/bm.xhtml#iphoning-it-in"/>
+      </navPoint>
+      <navPoint id="navPoint-49">
+        <navLabel>
+          <text>Top Ten Invalid Annoyances</text>
+        </navLabel>
+        <content src="text/bm.xhtml#top-ten-invalid-annoyances"/>
+      </navPoint>
+      <navPoint id="navPoint-50">
+        <navLabel>
+          <text>Cripple Chronicles Continue</text>
+        </navLabel>
+        <content src="text/bm.xhtml#cripple-chronicles-continue"/>
+      </navPoint>
+      <navPoint id="navPoint-51">
+        <navLabel>
+          <text>Walking: It’s not Overrated</text>
+        </navLabel>
+        <content src="text/bm.xhtml#walking-its-not-overrated"/>
+      </navPoint>
+      <navPoint id="navPoint-52">
+        <navLabel>
+          <text>Hospital Staff Training</text>
+        </navLabel>
+        <content src="text/bm.xhtml#hospital-staff-training"/>
+      </navPoint>
+      <navPoint id="navPoint-53">
+        <navLabel>
+          <text>SmugShot Metadata Mess</text>
+        </navLabel>
+        <content src="text/bm.xhtml#smugshot-metadata-mess"/>
+      </navPoint>
+      <navPoint id="navPoint-54">
+        <navLabel>
+          <text>More on that SmugShot Metadata Mess</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-on-that-smugshot-metadata-mess"/>
+      </navPoint>
+      <navPoint id="navPoint-55">
+        <navLabel>
+          <text>JOD comes to Linux</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jod-comes-to-linux"/>
+      </navPoint>
+      <navPoint id="navPoint-56">
+        <navLabel>
+          <text>A Peculiar Book Club</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-peculiar-book-club"/>
+      </navPoint>
+      <navPoint id="navPoint-57">
+        <navLabel>
+          <text>Open Source Hilbert for the Kindle</text>
+        </navLabel>
+        <content src="text/bm.xhtml#open-source-hilbert-for-the-kindle"/>
+      </navPoint>
+      <navPoint id="navPoint-58">
+        <navLabel>
+          <text>More on Kindle Oriented LaTeX</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-on-kindle-oriented-latex"/>
+      </navPoint>
+      <navPoint id="navPoint-59">
+        <navLabel>
+          <text>PIP News: Isabelle is Up!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#pip-news-isabelle-is-up"/>
+      </navPoint>
+      <navPoint id="navPoint-60">
+        <navLabel>
+          <text>Debt Dolts Diddle and Drone!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#debt-dolts-diddle-and-drone"/>
+      </navPoint>
+      <navPoint id="navPoint-61">
+        <navLabel>
+          <text>Cowboys and Aliens and Obama</text>
+        </navLabel>
+        <content src="text/bm.xhtml#cowboys-and-aliens-and-obama"/>
+      </navPoint>
+      <navPoint id="navPoint-62">
+        <navLabel>
+          <text>1421: The Crank History of Gavin Menzies</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-crank-history-of-gavin-menzies"/>
+      </navPoint>
+      <navPoint id="navPoint-63">
+        <navLabel>
+          <text>Common Table Expression (CTE) SQLServer Queries with J</text>
+        </navLabel>
+        <content src="text/bm.xhtml#common-table-expression-cte-sqlserver-queries-with-j"/>
+      </navPoint>
+      <navPoint id="navPoint-64">
+        <navLabel>
+          <text>Typesetting UTF8 APL code with the LaTeX lstlisting package</text>
+        </navLabel>
+        <content src="text/bm.xhtml#typesetting-utf8-apl-code-with-the-latex-lstlisting-package"/>
+      </navPoint>
+      <navPoint id="navPoint-65">
+        <navLabel>
+          <text>New Conan not as Philosophical as Old Conan</text>
+        </navLabel>
+        <content src="text/bm.xhtml#new-conan-not-as-philosophical-as-old-conan"/>
+      </navPoint>
+      <navPoint id="navPoint-66">
+        <navLabel>
+          <text>Iranian Regime Justice is pathetic Sharia Savagery.</text>
+        </navLabel>
+        <content src="text/bm.xhtml#iranian-regime-justice-is-pathetic-sharia-savagery."/>
+      </navPoint>
+      <navPoint id="navPoint-67">
+        <navLabel>
+          <text>I lose another battle with Gravity</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-lose-another-battle-with-gravity"/>
+      </navPoint>
+      <navPoint id="navPoint-68">
+        <navLabel>
+          <text>Old white guys look at the sky!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#old-white-guys-look-at-the-sky"/>
+      </navPoint>
+      <navPoint id="navPoint-69">
+        <navLabel>
+          <text>Revenge of the PhD Camera</text>
+        </navLabel>
+        <content src="text/bm.xhtml#revenge-of-the-phd-camera"/>
+      </navPoint>
+      <navPoint id="navPoint-70">
+        <navLabel>
+          <text>The Instagram Metadata Massacre</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-instagram-metadata-massacre"/>
+      </navPoint>
+      <navPoint id="navPoint-71">
+        <navLabel>
+          <text>Blogging off for Christmas</text>
+        </navLabel>
+        <content src="text/bm.xhtml#blogging-off-for-christmas"/>
+      </navPoint>
+      <navPoint id="navPoint-72">
+        <navLabel>
+          <text>Mike Brown Punts Pluto</text>
+        </navLabel>
+        <content src="text/bm.xhtml#mike-brown-punts-pluto"/>
+      </navPoint>
+      <navPoint id="navPoint-73">
+        <navLabel>
+          <text>WordPress to LaTeXwith Pandoc and J: Prerequisites (1)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#wordpress-to-latexwith-pandoc-and-j-prerequisites-1"/>
+      </navPoint>
+      <navPoint id="navPoint-74">
+        <navLabel>
+          <text>WordPress to LaTeX with Pandoc and J: LaTeX Directories (2)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#wordpress-to-latex-with-pandoc-and-j-latex-directories-2"/>
+      </navPoint>
+      <navPoint id="navPoint-75">
+        <navLabel>
+          <text>WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (3)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml.ijs-3"/>
+      </navPoint>
+      <navPoint id="navPoint-76">
+        <navLabel>
+          <text>Turn your Blog into an eBook</text>
+        </navLabel>
+        <content src="text/bm.xhtml#turn-your-blog-into-an-ebook"/>
+      </navPoint>
+      <navPoint id="navPoint-77">
+        <navLabel>
+          <text>The Joys of Photographic Waybacking</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-joys-of-photographic-waybacking"/>
+      </navPoint>
+      <navPoint id="navPoint-78">
+        <navLabel>
+          <text>The Hunger Games: a Libertarian Dead Teenager Movie.</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-hunger-games-a-libertarian-dead-teenager-movie."/>
+      </navPoint>
+      <navPoint id="navPoint-79">
+        <navLabel>
+          <text>2012 Venus Transit and Annular Eclipse</text>
+        </navLabel>
+        <content src="text/bm.xhtml#venus-transit-and-annular-eclipse"/>
+      </navPoint>
+      <navPoint id="navPoint-80">
+        <navLabel>
+          <text>Blurb: Nick Lomb’s Transit of Venus</text>
+        </navLabel>
+        <content src="text/bm.xhtml#blurb-nick-lombs-transit-of-venus"/>
+      </navPoint>
+      <navPoint id="navPoint-81">
+        <navLabel>
+          <text>GPX from Google Maps KML J Script</text>
+        </navLabel>
+        <content src="text/bm.xhtml#gpx-from-google-maps-kml-j-script"/>
+      </navPoint>
+      <navPoint id="navPoint-82">
+        <navLabel>
+          <text>The Wahweap Wow</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-wahweap-wow"/>
+      </navPoint>
+      <navPoint id="navPoint-83">
+        <navLabel>
+          <text>Brett Kimblerlin Free Speech Hating Criminal SOS</text>
+        </navLabel>
+        <content src="text/bm.xhtml#brett-kimblerlin-free-speech-hating-criminal-sos"/>
+      </navPoint>
+      <navPoint id="navPoint-84">
+        <navLabel>
+          <text>RAW development rubs me Raw</text>
+        </navLabel>
+        <content src="text/bm.xhtml#raw-development-rubs-me-raw"/>
+      </navPoint>
+      <navPoint id="navPoint-85">
+        <navLabel>
+          <text>Evil Queens are getting Hotter</text>
+        </navLabel>
+        <content src="text/bm.xhtml#evil-queens-are-getting-hotter"/>
+      </navPoint>
+      <navPoint id="navPoint-86">
+        <navLabel>
+          <text>Venus puts a period on our Time</text>
+        </navLabel>
+        <content src="text/bm.xhtml#venus-puts-a-period-on-our-time"/>
+      </navPoint>
+      <navPoint id="navPoint-87">
+        <navLabel>
+          <text>Controlling Cell Phones the new IT Frontier</text>
+        </navLabel>
+        <content src="text/bm.xhtml#controlling-cell-phones-the-new-it-frontier"/>
+      </navPoint>
+      <navPoint id="navPoint-88">
+        <navLabel>
+          <text>Ooh Promethean Tentacles</text>
+        </navLabel>
+        <content src="text/bm.xhtml#ooh-promethean-tentacles"/>
+      </navPoint>
+      <navPoint id="navPoint-89">
+        <navLabel>
+          <text>Turn your iPhone into a jPhone</text>
+        </navLabel>
+        <content src="text/bm.xhtml#turn-your-iphone-into-a-jphone"/>
+      </navPoint>
+      <navPoint id="navPoint-90">
+        <navLabel>
+          <text>Mac JOD</text>
+        </navLabel>
+        <content src="text/bm.xhtml#mac-jod"/>
+      </navPoint>
+      <navPoint id="navPoint-91">
+        <navLabel>
+          <text>Playing the Blog hit game</text>
+        </navLabel>
+        <content src="text/bm.xhtml#playing-the-blog-hit-game"/>
+      </navPoint>
+      <navPoint id="navPoint-92">
+        <navLabel>
+          <text>Writing Portable J addons</text>
+        </navLabel>
+        <content src="text/bm.xhtml#writing-portable-j-addons"/>
+      </navPoint>
+      <navPoint id="navPoint-93">
+        <navLabel>
+          <text>Executioners should be selected like jurors</text>
+        </navLabel>
+        <content src="text/bm.xhtml#executioners-should-be-selected-like-jurors"/>
+      </navPoint>
+      <navPoint id="navPoint-94">
+        <navLabel>
+          <text>Where’s the Olympic beach?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#wheres-the-olympic-beach"/>
+      </navPoint>
+      <navPoint id="navPoint-95">
+        <navLabel>
+          <text>Bankrupt Nation Wins the Olympics</text>
+        </navLabel>
+        <content src="text/bm.xhtml#bankrupt-nation-wins-the-olympics"/>
+      </navPoint>
+      <navPoint id="navPoint-96">
+        <navLabel>
+          <text>Faith a guilty pleasure</text>
+        </navLabel>
+        <content src="text/bm.xhtml#faith-a-guilty-pleasure"/>
+      </navPoint>
+      <navPoint id="navPoint-97">
+        <navLabel>
+          <text>Pandoc based J Syntax Highlighting</text>
+        </navLabel>
+        <content src="text/bm.xhtml#pandoc-based-j-syntax-highlighting"/>
+      </navPoint>
+      <navPoint id="navPoint-98">
+        <navLabel>
+          <text>Semi-Literate JOD</text>
+        </navLabel>
+        <content src="text/bm.xhtml#semi-literate-jod"/>
+      </navPoint>
+      <navPoint id="navPoint-99">
+        <navLabel>
+          <text>Election Reflections</text>
+        </navLabel>
+        <content src="text/bm.xhtml#election-reflections"/>
+      </navPoint>
+      <navPoint id="navPoint-100">
+        <navLabel>
+          <text>Git me a Hub’bery</text>
+        </navLabel>
+        <content src="text/bm.xhtml#git-me-a-hubbery"/>
+      </navPoint>
+      <navPoint id="navPoint-101">
+        <navLabel>
+          <text>JHS meets MathJax</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jhs-meets-mathjax"/>
+      </navPoint>
+      <navPoint id="navPoint-102">
+        <navLabel>
+          <text>JHS with the DHTMLX Grid</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jhs-with-the-dhtmlx-grid"/>
+      </navPoint>
+      <navPoint id="navPoint-103">
+        <navLabel>
+          <text>More about JHS with the DHTMLX Grid</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-about-jhs-with-the-dhtmlx-grid"/>
+      </navPoint>
+      <navPoint id="navPoint-104">
+        <navLabel>
+          <text>King Hobbit Kong</text>
+        </navLabel>
+        <content src="text/bm.xhtml#king-hobbit-kong"/>
+      </navPoint>
+      <navPoint id="navPoint-105">
+        <navLabel>
+          <text>Apocalypse Never or I Told You So Day</text>
+        </navLabel>
+        <content src="text/bm.xhtml#apocalypse-never-or-i-told-you-so-day"/>
+      </navPoint>
+      <navPoint id="navPoint-106">
+        <navLabel>
+          <text>Let’s Trade Constitutional Amendments</text>
+        </navLabel>
+        <content src="text/bm.xhtml#lets-trade-constitutional-amendments"/>
+      </navPoint>
+      <navPoint id="navPoint-107">
+        <navLabel>
+          <text>Books to Ignore</text>
+        </navLabel>
+        <content src="text/bm.xhtml#books-to-ignore"/>
+      </navPoint>
+      <navPoint id="navPoint-108">
+        <navLabel>
+          <text>2012 Blog Robot Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#blog-robot-review"/>
+      </navPoint>
+      <navPoint id="navPoint-109">
+        <navLabel>
+          <text>Argentina or Australia</text>
+        </navLabel>
+        <content src="text/bm.xhtml#argentina-or-australia"/>
+      </navPoint>
+      <navPoint id="navPoint-110">
+        <navLabel>
+          <text>My Dream of Liberty Encased</text>
+        </navLabel>
+        <content src="text/bm.xhtml#my-dream-of-liberty-encased"/>
+      </navPoint>
+      <navPoint id="navPoint-111">
+        <navLabel>
+          <text>A Memo to the next Murdering Dorner</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-memo-to-the-next-murdering-dorner"/>
+      </navPoint>
+      <navPoint id="navPoint-112">
+        <navLabel>
+          <text>Australia It Is</text>
+        </navLabel>
+        <content src="text/bm.xhtml#australia-it-is"/>
+      </navPoint>
+      <navPoint id="navPoint-113">
+        <navLabel>
+          <text>Oz the Gratuitous and Purile</text>
+        </navLabel>
+        <content src="text/bm.xhtml#oz-the-gratuitous-and-purile"/>
+      </navPoint>
+      <navPoint id="navPoint-114">
+        <navLabel>
+          <text>The Myth of Sisyphus: Camus’s Absurd Prototype</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-myth-of-sisyphus-camuss-absurd-prototype"/>
+      </navPoint>
+      <navPoint id="navPoint-115">
+        <navLabel>
+          <text>Review: The Signal and the Noise</text>
+        </navLabel>
+        <content src="text/bm.xhtml#review-the-signal-and-the-noise"/>
+      </navPoint>
+      <navPoint id="navPoint-116">
+        <navLabel>
+          <text>At the PalliativeCare Ward</text>
+        </navLabel>
+        <content src="text/bm.xhtml#at-the-palliativecare-ward"/>
+      </navPoint>
+      <navPoint id="navPoint-117">
+        <navLabel>
+          <text>Now for a Nursing Home</text>
+        </navLabel>
+        <content src="text/bm.xhtml#now-for-a-nursing-home"/>
+      </navPoint>
+      <navPoint id="navPoint-118">
+        <navLabel>
+          <text>Evelyn’s Eulogy</text>
+        </navLabel>
+        <content src="text/bm.xhtml#evelyns-eulogy"/>
+      </navPoint>
+      <navPoint id="navPoint-119">
+        <navLabel>
+          <text>More Photographic Waybacking</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-photographic-waybacking"/>
+      </navPoint>
+      <navPoint id="navPoint-120">
+        <navLabel>
+          <text>Too Busy to Blog</text>
+        </navLabel>
+        <content src="text/bm.xhtml#too-busy-to-blog"/>
+      </navPoint>
+      <navPoint id="navPoint-121">
+        <navLabel>
+          <text>The New SmugMug</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-new-smugmug"/>
+      </navPoint>
+      <navPoint id="navPoint-122">
+        <navLabel>
+          <text>Corporate Social Media Policies</text>
+        </navLabel>
+        <content src="text/bm.xhtml#corporate-social-media-policies"/>
+      </navPoint>
+      <navPoint id="navPoint-123">
+        <navLabel>
+          <text>Yellowstone and Me</text>
+        </navLabel>
+        <content src="text/bm.xhtml#yellowstone-and-me"/>
+      </navPoint>
+      <navPoint id="navPoint-124">
+        <navLabel>
+          <text>I write my Congresswoman about Syria</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-write-my-congresswoman-about-syria"/>
+      </navPoint>
+      <navPoint id="navPoint-125">
+        <navLabel>
+          <text>Minnie’s Pictures</text>
+        </navLabel>
+        <content src="text/bm.xhtml#minnies-pictures"/>
+      </navPoint>
+      <navPoint id="navPoint-126">
+        <navLabel>
+          <text>Sorry PBS you already have my Money</text>
+        </navLabel>
+        <content src="text/bm.xhtml#sorry-pbs-you-already-have-my-money"/>
+      </navPoint>
+      <navPoint id="navPoint-127">
+        <navLabel>
+          <text>Fifty Years of Nauseating Kennedy Nostalgia</text>
+        </navLabel>
+        <content src="text/bm.xhtml#fifty-years-of-nauseating-kennedy-nostalgia"/>
+      </navPoint>
+      <navPoint id="navPoint-128">
+        <navLabel>
+          <text>Tipping with Bitcoins</text>
+        </navLabel>
+        <content src="text/bm.xhtml#tipping-with-bitcoins"/>
+      </navPoint>
+      <navPoint id="navPoint-129">
+        <navLabel>
+          <text>My Colon’s Merry Christmas</text>
+        </navLabel>
+        <content src="text/bm.xhtml#my-colons-merry-christmas"/>
+      </navPoint>
+      <navPoint id="navPoint-130">
+        <navLabel>
+          <text>Twitter is not Trivial</text>
+        </navLabel>
+        <content src="text/bm.xhtml#twitter-is-not-trivial"/>
+      </navPoint>
+      <navPoint id="navPoint-131">
+        <navLabel>
+          <text>Jacks Repository</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jacks-repository"/>
+      </navPoint>
+      <navPoint id="navPoint-132">
+        <navLabel>
+          <text>APL Software Archaeology .dbi Edition</text>
+        </navLabel>
+        <content src="text/bm.xhtml#apl-software-archaeology-.dbi-edition"/>
+      </navPoint>
+      <navPoint id="navPoint-133">
+        <navLabel>
+          <text>Fun with Farsi Text in LaTeX</text>
+        </navLabel>
+        <content src="text/bm.xhtml#fun-with-farsi-text-in-latex"/>
+      </navPoint>
+      <navPoint id="navPoint-134">
+        <navLabel>
+          <text>Blogging Bad 2013</text>
+        </navLabel>
+        <content src="text/bm.xhtml#blogging-bad-2013"/>
+      </navPoint>
+      <navPoint id="navPoint-135">
+        <navLabel>
+          <text>The Great Verizon Data Famine</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-great-verizon-data-famine"/>
+      </navPoint>
+      <navPoint id="navPoint-136">
+        <navLabel>
+          <text>John L. Dobson R.I.P.</text>
+        </navLabel>
+        <content src="text/bm.xhtml#john-l.-dobson-r.i.p."/>
+      </navPoint>
+      <navPoint id="navPoint-137">
+        <navLabel>
+          <text>Bitcoin is a Perfect Protest</text>
+        </navLabel>
+        <content src="text/bm.xhtml#bitcoin-is-a-perfect-protest"/>
+      </navPoint>
+      <navPoint id="navPoint-138">
+        <navLabel>
+          <text>The Singularity is Not Near Enough</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-singularity-is-not-near-enough"/>
+      </navPoint>
+      <navPoint id="navPoint-139">
+        <navLabel>
+          <text>Review: The Creature from Jekyll Island</text>
+        </navLabel>
+        <content src="text/bm.xhtml#review-the-creature-from-jekyll-island"/>
+      </navPoint>
+      <navPoint id="navPoint-140">
+        <navLabel>
+          <text>Review: Into the Wild</text>
+        </navLabel>
+        <content src="text/bm.xhtml#review-into-the-wild"/>
+      </navPoint>
+      <navPoint id="navPoint-141">
+        <navLabel>
+          <text>Cosmos Reboot</text>
+        </navLabel>
+        <content src="text/bm.xhtml#cosmos-reboot"/>
+      </navPoint>
+      <navPoint id="navPoint-142">
+        <navLabel>
+          <text>Blood Morons</text>
+        </navLabel>
+        <content src="text/bm.xhtml#blood-morons"/>
+      </navPoint>
+      <navPoint id="navPoint-143">
+        <navLabel>
+          <text>Pussydent Hildabeast</text>
+        </navLabel>
+        <content src="text/bm.xhtml#pussydent-hildabeast"/>
+      </navPoint>
+      <navPoint id="navPoint-144">
+        <navLabel>
+          <text>Ukraine takeaway: Don’t give up your Nukes</text>
+        </navLabel>
+        <content src="text/bm.xhtml#ukraine-takeaway-dont-give-up-your-nukes"/>
+      </navPoint>
+      <navPoint id="navPoint-145">
+        <navLabel>
+          <text>What’s the opposite of Transcendence?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#whats-the-opposite-of-transcendence"/>
+      </navPoint>
+      <navPoint id="navPoint-146">
+        <navLabel>
+          <text>Marcus Aurelius tunes my RSS Feeds</text>
+        </navLabel>
+        <content src="text/bm.xhtml#marcus-aurelius-tunes-my-rss-feeds"/>
+      </navPoint>
+      <navPoint id="navPoint-147">
+        <navLabel>
+          <text>Review: Finding Vivian Maier</text>
+        </navLabel>
+        <content src="text/bm.xhtml#review-finding-vivian-maier"/>
+      </navPoint>
+      <navPoint id="navPoint-148">
+        <navLabel>
+          <text>Your Bitcoins are Now Welcome!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#your-bitcoins-are-now-welcome"/>
+      </navPoint>
+      <navPoint id="navPoint-149">
+        <navLabel>
+          <text>JOD Update: J 8.02 QT/JHS/64 bit Systems</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jod-update-j-8.02-qtjhs64-bit-systems"/>
+      </navPoint>
+      <navPoint id="navPoint-150">
+        <navLabel>
+          <text>Parsing the Bitcoin Genesis Block with J</text>
+        </navLabel>
+        <content src="text/bm.xhtml#parsing-the-bitcoin-genesis-block-with-j"/>
+      </navPoint>
+      <navPoint id="navPoint-151">
+        <navLabel>
+          <text>JD Bitcoin Blockchain Spelunking</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jd-bitcoin-blockchain-spelunking"/>
+      </navPoint>
+      <navPoint id="navPoint-152">
+        <navLabel>
+          <text>There will never be a Literature of Reality</text>
+        </navLabel>
+        <content src="text/bm.xhtml#there-will-never-be-a-literature-of-reality"/>
+      </navPoint>
+      <navPoint id="navPoint-153">
+        <navLabel>
+          <text>Pandora’s Star: a Grand Sprawling Entertainment</text>
+        </navLabel>
+        <content src="text/bm.xhtml#pandoras-star-a-grand-sprawling-entertainment"/>
+      </navPoint>
+      <navPoint id="navPoint-154">
+        <navLabel>
+          <text>Photospheres Away!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#photospheres-away"/>
+      </navPoint>
+      <navPoint id="navPoint-155">
+        <navLabel>
+          <text>I Voted for Nothing</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-voted-for-nothing"/>
+      </navPoint>
+      <navPoint id="navPoint-156">
+        <navLabel>
+          <text>Incoherent Interstellar</text>
+        </navLabel>
+        <content src="text/bm.xhtml#incoherent-interstellar"/>
+      </navPoint>
+      <navPoint id="navPoint-157">
+        <navLabel>
+          <text>Ferguson and Dark Matter</text>
+        </navLabel>
+        <content src="text/bm.xhtml#ferguson-and-dark-matter"/>
+      </navPoint>
+      <navPoint id="navPoint-158">
+        <navLabel>
+          <text>Mahin and Carl</text>
+        </navLabel>
+        <content src="text/bm.xhtml#mahin-and-carl"/>
+      </navPoint>
+      <navPoint id="navPoint-159">
+        <navLabel>
+          <text>JOD Update: Version 0.9.97*</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jod-update-version-0.9.97"/>
+      </navPoint>
+      <navPoint id="navPoint-160">
+        <navLabel>
+          <text>Cutting the Stinking Tauntaun and other Adventures in Software Archeology</text>
+        </navLabel>
+        <content src="text/bm.xhtml#cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology"/>
+      </navPoint>
+      <navPoint id="navPoint-161">
+        <navLabel>
+          <text>Dark Energy Entities</text>
+        </navLabel>
+        <content src="text/bm.xhtml#dark-energy-entities"/>
+      </navPoint>
+      <navPoint id="navPoint-162">
+        <navLabel>
+          <text>What hobbies do you have? Have you learned anything useful from them?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#what-hobbies-do-you-have-have-you-learned-anything-useful-from-them"/>
+      </navPoint>
+      <navPoint id="navPoint-163">
+        <navLabel>
+          <text>Mauna Kea Morons on the March</text>
+        </navLabel>
+        <content src="text/bm.xhtml#mauna-kea-morons-on-the-march"/>
+      </navPoint>
+      <navPoint id="navPoint-164">
+        <navLabel>
+          <text>An Honest Resume Personal Statement</text>
+        </navLabel>
+        <content src="text/bm.xhtml#an-honest-resume-personal-statement"/>
+      </navPoint>
+      <navPoint id="navPoint-165">
+        <navLabel>
+          <text>Social Security Numbers are Broken beyond Repair</text>
+        </navLabel>
+        <content src="text/bm.xhtml#social-security-numbers-are-broken-beyond-repair"/>
+      </navPoint>
+      <navPoint id="navPoint-166">
+        <navLabel>
+          <text>Copulation, Cooking and Cleaning</text>
+        </navLabel>
+        <content src="text/bm.xhtml#copulation-cooking-and-cleaning"/>
+      </navPoint>
+      <navPoint id="navPoint-167">
+        <navLabel>
+          <text>For Carl’s Memorial</text>
+        </navLabel>
+        <content src="text/bm.xhtml#for-carls-memorial"/>
+      </navPoint>
+      <navPoint id="navPoint-168">
+        <navLabel>
+          <text>Turning JOD Dump Script Tricks</text>
+        </navLabel>
+        <content src="text/bm.xhtml#turning-jod-dump-script-tricks"/>
+      </navPoint>
+      <navPoint id="navPoint-169">
+        <navLabel>
+          <text>How Dante Can Save Your Life: Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#how-dante-can-save-your-life-review"/>
+      </navPoint>
+      <navPoint id="navPoint-170">
+        <navLabel>
+          <text>Euphoria: Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#euphoria-review"/>
+      </navPoint>
+      <navPoint id="navPoint-171">
+        <navLabel>
+          <text>American Star Chamber creates Foreign Passport Business Opportunity</text>
+        </navLabel>
+        <content src="text/bm.xhtml#american-star-chamber-creates-foreign-passport-business-opportunity"/>
+      </navPoint>
+      <navPoint id="navPoint-172">
+        <navLabel>
+          <text>Milliblog: Religous and Comic Origin Stories</text>
+        </navLabel>
+        <content src="text/bm.xhtml#milliblog1x5154-religous-and-comic-origin-stories"/>
+      </navPoint>
+      <navPoint id="navPoint-173">
+        <navLabel>
+          <text>What is Required: Print Captions on the back of Photographs</text>
+        </navLabel>
+        <content src="text/bm.xhtml#what-is-required-print-captions-on-the-back-of-photographs"/>
+      </navPoint>
+      <navPoint id="navPoint-174">
+        <navLabel>
+          <text>SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob</text>
+        </navLabel>
+        <content src="text/bm.xhtml#swag-a-jexcelgit-personal-cash-flow-forecasting-mob"/>
+      </navPoint>
+      <navPoint id="navPoint-175">
+        <navLabel>
+          <text>On Shiny Pony and Witch Berning</text>
+        </navLabel>
+        <content src="text/bm.xhtml#on-shiny-pony-and-witch-berning"/>
+      </navPoint>
+      <navPoint id="navPoint-176">
+        <navLabel>
+          <text>The Santa Fe Trail</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-santa-fe-trail"/>
+      </navPoint>
+      <navPoint id="navPoint-177">
+        <navLabel>
+          <text>Milliblog: Photo Captions</text>
+        </navLabel>
+        <content src="text/bm.xhtml#milliblog-photo-captions"/>
+      </navPoint>
+      <navPoint id="navPoint-178">
+        <navLabel>
+          <text>Falling Colors Technology a BHSD Crony that needs Competition</text>
+        </navLabel>
+        <content src="text/bm.xhtml#falling-colors-technology-a-bhsd-crony-that-needs-competition"/>
+      </navPoint>
+      <navPoint id="navPoint-179">
+        <navLabel>
+          <text>A Bloggy Christmas Letter</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-bloggy-christmas-letter"/>
+      </navPoint>
+      <navPoint id="navPoint-180">
+        <navLabel>
+          <text>My Final Facebook Fuckoff</text>
+        </navLabel>
+        <content src="text/bm.xhtml#my-final-facebook-fuckoff"/>
+      </navPoint>
+      <navPoint id="navPoint-181">
+        <navLabel>
+          <text>Affinity Photo Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#affinity-photo-review"/>
+      </navPoint>
+      <navPoint id="navPoint-182">
+        <navLabel>
+          <text>What is Required: Hybrid Books</text>
+        </navLabel>
+        <content src="text/bm.xhtml#what-is-required-hybrid-books"/>
+      </navPoint>
+      <navPoint id="navPoint-183">
+        <navLabel>
+          <text>FCC Follies and Monkey Browsing</text>
+        </navLabel>
+        <content src="text/bm.xhtml#fcc-follies-and-monkey-browsing"/>
+      </navPoint>
+      <navPoint id="navPoint-184">
+        <navLabel>
+          <text>The Collapsing Empire: Goodreads Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-collapsing-empire-goodreads-review"/>
+      </navPoint>
+      <navPoint id="navPoint-185">
+        <navLabel>
+          <text>What is Required: Citizen Environment Sampling Drones</text>
+        </navLabel>
+        <content src="text/bm.xhtml#what-is-required-citizen-environment-sampling-drones"/>
+      </navPoint>
+      <navPoint id="navPoint-186">
+        <navLabel>
+          <text>I WannaCry about the Plunging Quality of Evil Geniuses</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-wannacry-about-the-plunging-quality-of-evil-geniuses"/>
+      </navPoint>
+      <navPoint id="navPoint-187">
+        <navLabel>
+          <text>I Help Fat Little Kim Pick Nuke Targets</text>
+        </navLabel>
+        <content src="text/bm.xhtml#i-help-fat-little-kim-pick-nuke-targets"/>
+      </navPoint>
+      <navPoint id="navPoint-188">
+        <navLabel>
+          <text>Idaho Statesman Regurgitates High Precision Hate Calculations</text>
+        </navLabel>
+        <content src="text/bm.xhtml#idaho-statesman-regurgitates-high-precision-hate-calculations"/>
+      </navPoint>
+      <navPoint id="navPoint-189">
+        <navLabel>
+          <text>Still Totally Awesome</text>
+        </navLabel>
+        <content src="text/bm.xhtml#still-totally-awesome"/>
+      </navPoint>
+      <navPoint id="navPoint-190">
+        <navLabel>
+          <text>Stop Writing Dead Tree Letters to the Editor</text>
+        </navLabel>
+        <content src="text/bm.xhtml#stop-writing-dead-tree-letters-to-the-editor"/>
+      </navPoint>
+      <navPoint id="navPoint-191">
+        <navLabel>
+          <text>Don’t be a Weenie Launch Cassini</text>
+        </navLabel>
+        <content src="text/bm.xhtml#dont-be-a-weenie-launch-cassini"/>
+      </navPoint>
+      <navPoint id="navPoint-192">
+        <navLabel>
+          <text>EquiFucked</text>
+        </navLabel>
+        <content src="text/bm.xhtml#equifucked"/>
+      </navPoint>
+      <navPoint id="navPoint-193">
+        <navLabel>
+          <text>The Mass Kill as Performance Art</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-mass-kill-as-performance-art"/>
+      </navPoint>
+      <navPoint id="navPoint-194">
+        <navLabel>
+          <text>Review: The Way We Die Now</text>
+        </navLabel>
+        <content src="text/bm.xhtml#review-the-way-we-die-now"/>
+      </navPoint>
+      <navPoint id="navPoint-195">
+        <navLabel>
+          <text>Downloading SmugMug Captions with Python and Jupyter</text>
+        </navLabel>
+        <content src="text/bm.xhtml#downloading-smugmug-captions-with-python-and-jupyter"/>
+      </navPoint>
+      <navPoint id="navPoint-196">
+        <navLabel>
+          <text>Dear Apple Pay Stop Harassing Me!</text>
+        </navLabel>
+        <content src="text/bm.xhtml#dear-apple-pay-stop-harassing-me"/>
+      </navPoint>
+      <navPoint id="navPoint-197">
+        <navLabel>
+          <text>Government Shutdown and Rapture 2018</text>
+        </navLabel>
+        <content src="text/bm.xhtml#government-shutdown-and-rapture-2018"/>
+      </navPoint>
+      <navPoint id="navPoint-198">
+        <navLabel>
+          <text>Setting SmugMug Print Size Keywords with Jupyter and Python</text>
+        </navLabel>
+        <content src="text/bm.xhtml#setting-smugmug-print-size-keywords-with-jupyter-and-python"/>
+      </navPoint>
+      <navPoint id="navPoint-199">
+        <navLabel>
+          <text>NumPy another Iverson Ghost</text>
+        </navLabel>
+        <content src="text/bm.xhtml#numpy-another-iverson-ghost"/>
+      </navPoint>
+      <navPoint id="navPoint-200">
+        <navLabel>
+          <text>Informed Naked Ape Protocol</text>
+        </navLabel>
+        <content src="text/bm.xhtml#informed-naked-ape-protocol"/>
+      </navPoint>
+      <navPoint id="navPoint-201">
+        <navLabel>
+          <text>iNap #1: Enough People are Scum</text>
+        </navLabel>
+        <content src="text/bm.xhtml#inap-1-enough-people-are-scum"/>
+      </navPoint>
+      <navPoint id="navPoint-202">
+        <navLabel>
+          <text>The Return of the Prodigal Blogger</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-return-of-the-prodigal-blogger"/>
+      </navPoint>
+      <navPoint id="navPoint-203">
+        <navLabel>
+          <text>Trey and Kate: Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#trey-and-kate-review"/>
+      </navPoint>
+      <navPoint id="navPoint-204">
+        <navLabel>
+          <text>Who Thought Blinking Windfarms was a Good Idea?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#who-thought-blinking-windfarms-was-a-good-idea"/>
+      </navPoint>
+      <navPoint id="navPoint-205">
+        <navLabel>
+          <text>Sudden Genocide</text>
+        </navLabel>
+        <content src="text/bm.xhtml#sudden-genocide"/>
+      </navPoint>
+      <navPoint id="navPoint-206">
+        <navLabel>
+          <text>Extracting SQL code from SSIS dtsx packages with Python lxml</text>
+        </navLabel>
+        <content src="text/bm.xhtml#extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml"/>
+      </navPoint>
+      <navPoint id="navPoint-207">
+        <navLabel>
+          <text>More J Pandoc Syntax HighLighting</text>
+        </navLabel>
+        <content src="text/bm.xhtml#more-j-pandoc-syntax-highlighting"/>
+      </navPoint>
+      <navPoint id="navPoint-208">
+        <navLabel>
+          <text>Using jodliterate</text>
+        </navLabel>
+        <content src="text/bm.xhtml#using-jodliterate"/>
+      </navPoint>
+      <navPoint id="navPoint-209">
+        <navLabel>
+          <text>Better Blogging with Jupyter Notebooks on WordPress.com</text>
+        </navLabel>
+        <content src="text/bm.xhtml#better-blogging-with-jupyter-notebooks-on-wordpress.com"/>
+      </navPoint>
+      <navPoint id="navPoint-210">
+        <navLabel>
+          <text>GitHub’s Silly Master Plan</text>
+        </navLabel>
+        <content src="text/bm.xhtml#githubs-silly-master-plan"/>
+      </navPoint>
+      <navPoint id="navPoint-211">
+        <navLabel>
+          <text>How Do You Check Your Vote?</text>
+        </navLabel>
+        <content src="text/bm.xhtml#how-do-you-check-your-vote"/>
+      </navPoint>
+      <navPoint id="navPoint-212">
+        <navLabel>
+          <text>Tweaking Jupyter export HTML with Templates</text>
+        </navLabel>
+        <content src="text/bm.xhtml#tweaking-jupyter-export-html-with-templates"/>
+      </navPoint>
+      <navPoint id="navPoint-213">
+        <navLabel>
+          <text>Neowise Nostalgia</text>
+        </navLabel>
+        <content src="text/bm.xhtml#neowise-nostalgia"/>
+      </navPoint>
+      <navPoint id="navPoint-214">
+        <navLabel>
+          <text>The Broken Cellphone Dream</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-broken-cellphone-dream"/>
+      </navPoint>
+      <navPoint id="navPoint-215">
+        <navLabel>
+          <text>JOD goes into the Arctic Code Vault</text>
+        </navLabel>
+        <content src="text/bm.xhtml#jod-goes-into-the-arctic-code-vault"/>
+      </navPoint>
+      <navPoint id="navPoint-216">
+        <navLabel>
+          <text>Sinking in Blog Sand</text>
+        </navLabel>
+        <content src="text/bm.xhtml#sinking-in-blog-sand"/>
       </navPoint>
     </navPoint>
   </navMap>

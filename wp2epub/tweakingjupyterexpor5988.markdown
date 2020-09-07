@@ -29,14 +29,14 @@ Here's something you should know about me.
 
 In addition to indented numbered prompts the standard format suffers from other [*boo-boos*](https://www.dictionary.com/browse/boo-boo) when run through [Benny's](https://github.com/bennylp) Jupyter to WordPress.com [transmogrifier](https://calvinandhobbes.fandom.com/wiki/Transmogrifier). Markdown source code like `source` code `McCodeyFace` is set off in ugly blocks and any use of LaTeX generates hideous inline images with nontransparent backgrounds like:
 
-$\varphi (u) = \int_{\Omega} \left[
+$$ \varphi (u) = \int_{\Omega} \left[
 \dfrac{\|\nabla u\|^2}{2} +
 \lambda\dfrac{u^2}{2} -
-\dfrac{(u^+)^p}{p} \right] d\mu $
+\dfrac{(u^+)^p}{p} \right] d\mu $$
 
 You can hack the background color of WordPress.com LaTeX by bolting in a HEX color code suffix. This blog's background color is *currently* set to `cfcdcd` so `\sqrt[n]{1+x+x^2+x^3+\dots+x^n}&bg=cfcdcd` yields:
 
-$\sqrt[n]{1+x+x^2+x^3+\dots+x^n}$
+$$ \sqrt[n]{1+x+x^2+x^3+\dots+x^n} $$
 
 As far as I know, there is no global WordPress.com 
 LaTeX background color setting. You are forced to hard code the suffix into
