@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-09-02 18:09"-->
+<!-- generator="WordPress.com" created="2020-09-11 15:09"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel.</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Trust is for imbeciles.</description>
-	<pubDate>Wed, 02 Sep 2020 18:09:58 +0000</pubDate>
+	<pubDate>Fri, 11 Sep 2020 15:09:05 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -724,6 +724,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>5121666</wp:term_id><wp:tag_slug>haleys-comet</wp:tag_slug><wp:tag_name><![CDATA[Haley&#039;s Comet]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>176053</wp:term_id><wp:tag_slug>hamlet</wp:tag_slug><wp:tag_name><![CDATA[Hamlet]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>37144</wp:term_id><wp:tag_slug>haskell</wp:tag_slug><wp:tag_name><![CDATA[Haskell]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>380715</wp:term_id><wp:tag_slug>hate-group</wp:tag_slug><wp:tag_name><![CDATA[hate group]]></wp:tag_name>
@@ -751,6 +753,8 @@
 	<wp:tag><wp:term_id>100238558</wp:term_id><wp:tag_slug>hitnosis</wp:tag_slug><wp:tag_name><![CDATA[Hitnosis]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>238908</wp:term_id><wp:tag_slug>hol</wp:tag_slug><wp:tag_name><![CDATA[HOL]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>31009552</wp:term_id><wp:tag_slug>hollywood-diversity</wp:tag_slug><wp:tag_name><![CDATA[Hollywood Diversity]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>139820</wp:term_id><wp:tag_slug>hot-spots</wp:tag_slug><wp:tag_name><![CDATA[hot spots]]></wp:tag_name>
 </wp:tag>
@@ -1155,6 +1159,8 @@
 	<wp:tag><wp:term_id>3002</wp:term_id><wp:tag_slug>oops</wp:tag_slug><wp:tag_name><![CDATA[oops]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>25</wp:term_id><wp:tag_slug>open-source</wp:tag_slug><wp:tag_name><![CDATA[open source]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>56926</wp:term_id><wp:tag_slug>oscars</wp:tag_slug><wp:tag_name><![CDATA[Oscars]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>9673</wp:term_id><wp:tag_slug>outdoors</wp:tag_slug><wp:tag_name><![CDATA[outdoors]]></wp:tag_name>
 </wp:tag>
@@ -1579,6 +1585,8 @@
 	<wp:tag><wp:term_id>472002106</wp:term_id><wp:tag_slug>witch-berning</wp:tag_slug><wp:tag_name><![CDATA[witch Berning]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>288100</wp:term_id><wp:tag_slug>wizard-of-oz</wp:tag_slug><wp:tag_name><![CDATA[Wizard of Oz]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>2738999</wp:term_id><wp:tag_slug>woke</wp:tag_slug><wp:tag_name><![CDATA[Woke]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>7759021</wp:term_id><wp:tag_slug>wordle</wp:tag_slug><wp:tag_name><![CDATA[Wordle]]></wp:tag_name>
 </wp:tag>
@@ -6962,7 +6970,7 @@ By the same logic no one cares a rats ass about jesus but for the "heathen" (you
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li><a href="http://www.box.net/shared/ef8yxegr0i">cvh2010pub.zip</a> zipped resume LaTeX source</li><li><a href="http://www.box.net/shared/u27ntub3nr">cvh2010pub.pdf</a> final typeset resume</li></ul>
+<ul><li><a href="https://github.com/bakerjd99/jacks/blob/master/latex/cvh2010pub.zip">cvh2010pub.zip</a> zipped resume LaTeX source</li><li><a href="https://github.com/bakerjd99/jacks/blob/master/latex/cvh2010pub.pdf">cvh2010pub.pdf</a> final typeset resume</li></ul>
 <!-- /wp:list -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>771</wp:post_id>
@@ -20497,7 +20505,7 @@ The carring cost could fund an army, and has devalued the dollar.  Trickle down 
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>You have to start somewhere so I opted to use DHTMLX to build a simple CSV file editor. The CSV files I am going to edit are TAB delimited text files. Each file has a fixed number of columns with column names in the first row. Here is <a href="https://www.box.com/s/0sm9bjgclnqu0czlpal6">an example</a> TAB delimited file. The idea is to load the file data into the grid. Tweak a few rows and save the result. By increasing the size of the CSV file we can gauge the performance of the grid. Let's get started.</p>
+<p>You have to start somewhere so I opted to use DHTMLX to build a simple CSV file editor. The CSV files I am going to edit are TAB delimited text files. Each file has a fixed number of columns with column names in the first row. Here is <a href="https://github.com/bakerjd99/jacks/blob/master/griddemo/t100rows.txt">an example TAB delimited file</a>. The idea is to load the file data into the grid. Tweak a few rows and save the result. By increasing the size of the CSV file we can gauge the performance of the grid. Let's get started.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -20505,7 +20513,7 @@ The carring cost could fund an army, and has devalued the dollar.  Trickle down 
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>Create a local directory and edit J's <em>~config/folders.cfg</em> to reference the directory with the name GridDemo.<em> jpath '~GridDemo' </em>should return the full directory path.</li><li>Download the files in the <a href="https://www.box.com/s/n7ty82nv6nslia4drphs">GridDemo</a> folder and copy them to <em>~GridDemo</em>.</li><li>Download the Standard Edition (Version 3.5) of <a href="http://dhtmlx.com/docs/products/dhtmlxGrid/index.shtml">DHTMLX</a>. The distribution file <em>dhtmlxGrid.zip</em> contains the grid source and supporting files.</li><li>Extract the<em> /dhtmlxGrid/codebase/</em> directory from <em>dhtmlxGrid.zip</em> and copy the entire directory tree to <em>~GridDemo</em>.</li><li>Also extract <em>/dhtmlxGrid/samples/common/</em> from <em>dhtmlxGrid.zip</em> and copy the directory to <em>~GridDemo</em>.</li></ol>
+<ol><li>Create a local directory and edit J's <em>~config/folders.cfg</em> to reference the directory with the name GridDemo.<em> jpath '~GridDemo' </em>should return the full directory path.</li><li>Download the files in the <a href="https://github.com/bakerjd99/jacks/tree/master/griddemo">GridDemo</a> folder and copy them to <em>~GridDemo</em>.</li><li>Download the Standard Edition (Version 3.5) of <a href="http://dhtmlx.com/docs/products/dhtmlxGrid/index.shtml">DHTMLX</a>. The distribution file <em>dhtmlxGrid.zip</em> contains the grid source and supporting files.</li><li>Extract the<em> /dhtmlxGrid/codebase/</em> directory from <em>dhtmlxGrid.zip</em> and copy the entire directory tree to <em>~GridDemo</em>.</li><li>Also extract <em>/dhtmlxGrid/samples/common/</em> from <em>dhtmlxGrid.zip</em> and copy the directory to <em>~GridDemo</em>.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -40520,10 +40528,6 @@ Maintaining off-line copies was made easier by <a href="https://wordpress.com/">
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1597823222.396443;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:2:"aa";s:20:"comment_author_email";s:25:"myspamcatcher07@gmail.com";s:18:"comment_author_url";s:0:"";s:15:"comment_content";s:84:"Loops are not linear operators. That is all that is needed to understand this stuff.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:0;s:7:"user_id";i:0;s:7:"user_ip";s:14:"146.90.103.114";s:10:"user_agent";s:121:"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:78:"https://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1597827805.369889;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -40615,10 +40619,6 @@ https://www.academia.edu/10031088/ORDINAL_FRACTIONS_-_the_algebra_of_data]]></wp
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1598312091.970679;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:11:{s:14:"comment_author";s:77:"NumPy another Iverson Ghost – Analyze the Data not the Drivel &gt; Seekalgo";s:18:"comment_author_url";s:81:"https://seekalgo.net/numpy-another-iverson-ghost-analyze-the-data-not-the-drivel/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:70:"[&#8230;] View Reddit by MegaManMusic_HS &#8211; View Source [&#8230;]";s:12:"comment_type";s:8:"pingback";s:7:"user_ip";s:12:"81.16.28.163";s:10:"user_agent";s:50:"The Incutio XML-RPC PHP Library -- WordPress/5.4.2";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:77:"http://analyzethedatanotthedrivel.org/2018/03/31/numpy-another-iverson-ghost/";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
@@ -43125,6 +43125,10 @@ post your queries there.</p>
 		<category domain="category" nicename="programming"><![CDATA[Programming]]></category>
 		<category domain="category" nicename="tex-latex"><![CDATA[TeX/LaTeX]]></category>
 		<wp:postmeta>
+			<wp:meta_key>_oembed_5ec13deab20af2d443af4f9b45cadcd3</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
 			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -43206,6 +43210,30 @@ post your queries there.</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_oembed_056595744e7559a39b83939f5907862d</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_45423c34726262002d278a1225feee26</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_b95ff4624172a058f4339aa2e1e3dcd6</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_9c3c232d2a9f73f6efd0cf505c6596bc</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_35a217473c8f6590296d6977144d7b84</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_5a1ede5815deb5f88bb52c63e5d136fd</wp:meta_key>
+			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_oembed_a703f4e872c7677b7fece3b6a4895295</wp:meta_key>
 			<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
@@ -45511,6 +45539,82 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1012;s:6:"height";i:807;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/08/whatisjod.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:96148;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Oscars Now as Meaningless as Nobel Peace Prizes</title>
+		<link>http://analyzethedatanotthedrivel.org/2020/09/10/oscars-now-as-meaningless-as-nobel-peace-prizes/</link>
+		<pubDate>Thu, 10 Sep 2020 18:08:55 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=6975</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Eons ago, upon learning that Barak Obama, aka the <a href="https://www.nationalreview.com/the-campaign-spot/magic-lightbringer-messiah-not-new-terms-obama-jim-geraghty/">Magic Lightbringer</a>, had been awarded the Nobel Peace Prize for <a href="https://analyzethedatanotthedrivel.org/2009/10/09/nobel-peace-prize-idol/">doing sweet diddly-squat</a>, I rightfully concluded that the Nobel Peace Prize had completed its long embarrassing journey to absolute irrelevance. I opined that frivolous <a href="https://en.wikipedia.org/wiki/Canadian_Idol">Canadian Idol</a> awards meant more because at least Idol recipients had to “do stuff.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Well, I'm happy to report that the Oscars have also completed their long sanctimonious, holier-than-thou, pilgrimage to pure pointlessness. With today's woke-minded announcement that films must be “sufficiently diverse” to qualify for a Best Picture Oscar, the Oscars are no longer even pretending to be about quality. Frankly, it would be more honest to simply “cancel” the Best Picture Oscar and replace it with a “Wokist Picture Oscar.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I know I should just ignore this shit, but it's hard to resist looking down the outhouse toilet hole. To qualify for the Wokist Picture Oscar <a href="https://www.nytimes.com/2020/09/09/movies/oscars-best-picture-diversity.html">a film must meet some basic</a> (Standard A)<a class="footnote-ref" id="fnref1" role="doc-noteref" href="#fn1"><sup>1</sup></a> criteria:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"type":"1"} -->
+<ol type="1"><li><p>At least one actor from an underrepresented racial or ethnic group must be cast in a significant role.</p></li><li><p>The story must center on women, L.G.T.B.Q. people, a racial or ethnic group or the disabled.</p></li><li><p>At least 30 percent of the cast must be actors from at least two of those four underrepresented categories.</p></li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Strictly applied, <em>Hollyweirdo’s</em> new diversity rules would eliminate <em>Hamlet.</em> Hamlet has no <em>overtly-out</em> gay characters<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>, no preening lesbians, no bitchy bull dykes, no flouncing pussy boys. And, even worse, Hamlet, in all its iambic pentameter’ized glory, is all about <em>pale white Danes.</em> Where’s the diversity?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <em>Hollyidiots</em> have really <a href="https://www.urbandictionary.com/define.php?term=jump-the-shark">jumped the shark</a> here. The creation of art is hard enough without moronic <em>HR-Grant-Application-Legalistic-AA</em><a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> bullshit piled on!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>Yes, there are more “standards.” It’s not enough to wreak the Oscars with art killing mandates; the entire process must have the exquisite eyeball rolling tedium of a corporate HR policy.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>We’ve all had our suspicions about Rosencrantz and Guildenstern.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p><em>Asinine</em> <em>Action</em>.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6975</wp:post_id>
+		<wp:post_date>2020-09-10 12:08:55</wp:post_date>
+		<wp:post_date_gmt>2020-09-10 18:08:55</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>oscars-now-as-meaningless-as-nobel-peace-prizes</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="hamlet"><![CDATA[Hamlet]]></category>
+		<category domain="post_tag" nicename="hollywood-diversity"><![CDATA[Hollywood Diversity]]></category>
+		<category domain="post_tag" nicename="nobel-peace-prize"><![CDATA[Nobel Peace Prize]]></category>
+		<category domain="post_tag" nicename="oscars"><![CDATA[Oscars]]></category>
+		<category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+		<category domain="post_tag" nicename="woke"><![CDATA[Woke]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[48678341883]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1599761339]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

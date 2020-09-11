@@ -121,26 +121,37 @@ Using transformed element tags of interest blast over the \texttt{dtsx}
 and suck out the bits of interest.
 
 \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
-\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5, basicstyle=\ttfamily\scriptsize]
-# extract sql code in source statements and write to *.sql files 
+\begin{lstlisting}[language=python, frame=single, framerule=0pt, label=lst:scr5673X5] %, basicstyle=\ttfamily\scriptsize]
+
+pfx = '{www.microsoft.com/'
+exe_tag = pfx + 'SqlServer/Dts}Executable'
+obj_tag = pfx + 'SqlServer/Dts}ObjectName'
+dat_tag = pfx + 'SqlServer/Dts}ObjectData'
+tsk_tag = pfx + 'sqlserver/dts/tasks/sqltask}SqlTaskData'
+src_tag = pfx + 'sqlserver/dts/tasks/sqltask}SqlStatementSource'
+  
+# extract sql source statements and write to *.sql files 
 total_bytes = 0
-package_name = root.attrib['{www.microsoft.com/SqlServer/Dts}ObjectName'].replace(" ","")
+package_name = root.attrib[obj_tag].replace(" ","")
 for cnt, ele in enumerate(root.xpath(".//*")):
-  if ele.tag == "{www.microsoft.com/SqlServer/Dts}Executable":
-    attr = ele.attrib
-    for child0 in ele:
-      if child0.tag == "{www.microsoft.com/SqlServer/Dts}ObjectData":
-        for child1 in child0:
-          sql_comment = attr["{www.microsoft.com/SqlServer/Dts}ObjectName"].strip()
-          if child1.tag == "{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlTaskData":
-            dtsx_sql = child1.attrib["{www.microsoft.com/sqlserver/dts/tasks/sqltask}SqlStatementSource"]
-            dtsx_sql = "-- " + sql_comment + "\n" + dtsx_sql
-            sql_file = sql_out + "\\" + package_name + str(cnt) + ".sql"
-            total_bytes += len(dtsx_sql)
-            print((len(dtsx_sql), sql_comment, sql_file))
-            with open(sql_file, "w") as file:
-              file.write(dtsx_sql)
-print(('total sql code bytes',total_bytes))
+    if ele.tag == exe_tag:
+        attr = ele.attrib
+        for child0 in ele:
+            if child0.tag == dat_tag:
+                for child1 in child0:
+                    sql_comment = attr[obj_tag].strip()
+                    if child1.tag == tsk_tag:
+                        dtsx_sql = child1.attrib[src_tag]
+                        dtsx_sql = "-- " + \
+                            sql_comment + "\n" + dtsx_sql
+                        sql_file = sql_out + "\\" \
+                             + package_name + str(cnt) + ".sql"
+                        total_bytes += len(dtsx_sql)
+                        print((len(dtsx_sql), 
+                             sql_comment, sql_file))
+                        with open(sql_file, "w") as file:
+                              file.write(dtsx_sql)
+print(('total bytes',total_bytes))
 \end{lstlisting}
 \end{tcolorbox}
 
