@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:786f1754-cab7-4208-a165-23d86166d1d7"/>
+    <meta name="dtb:uid" content="urn:uuid:3ac06a95-37cd-4dd6-80ce-4ce06fae7000"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1311,6 +1311,12 @@
           <text>Sinking in Blog Sand</text>
         </navLabel>
         <content src="text/bm.xhtml#sinking-in-blog-sand"/>
+      </navPoint>
+      <navPoint id="navPoint-217">
+        <navLabel>
+          <text>Oscars Now as Meaningless as Nobel Peace Prizes</text>
+        </navLabel>
+        <content src="text/bm.xhtml#oscars-now-as-meaningless-as-nobel-peace-prizes"/>
       </navPoint>
     </navPoint>
   </navMap>
