@@ -101,7 +101,7 @@ on the left are the settings you need to give `CodeyMcCodeFace` text `FRAGMENTS`
 ```
 
 Finally, to control annoying LaTeX color backgrounds add another argument
-`bg_color_hex=''` to the the Python function `nb2wp`. 
+`bg_color_hex=''` to the Python function `nb2wp`. 
 
 #### Running nb2wp with adjustments
 
