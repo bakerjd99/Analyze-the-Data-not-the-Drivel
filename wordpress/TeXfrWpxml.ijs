@@ -2,7 +2,9 @@ NB.*TeXfrWpxml s-- LaTeX source from WordPress export XML.
 NB.
 NB. verbatim:
 NB.
-NB. http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/
+NB. https://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/
+NB. https://github.com/bakerjd99/jacks/tree/master/texfrwpxml
+NB. https://github.com/bakerjd99/jacks/blob/master/texfrwpxml/wordpresstolatexwith2374.pdf
 NB.
 NB. interface word(s): 
 NB. ------------------------------------------------------------------------------
@@ -179,7 +181,7 @@ MDSECTIONPFX=:''
 NB. pandoc shell command prefix
 PANDOCCMD=:'pandoc -o '
 
-NB. root words (ROOTWORDSTeXfrWpxml) group      
+NB. root words (ROOTWORDSTeXfrWpxml) group
 ROOTWORDSTeXfrWpxml=:<;._1 ' BlogHashes FixBaddown IFACEWORDSTeXfrWpxml LatexFrWordpress MainMarkdown MarkdownFrLatex ROOTWORDSTeXfrWpxml SetTeXfrWpxmlPaths blogimgs postfiles posttex showpass uedposts'
 
 NB. placeholder substitute for WordPress source blocks - must be untouched by LaTeX
