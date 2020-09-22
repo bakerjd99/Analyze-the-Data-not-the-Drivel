@@ -181,7 +181,7 @@ MDSECTIONPFX=:''
 NB. pandoc shell command prefix
 PANDOCCMD=:'pandoc -o '
 
-NB. root words (ROOTWORDSTeXfrWpxml) group
+NB. root words (ROOTWORDSTeXfrWpxml) group      
 ROOTWORDSTeXfrWpxml=:<;._1 ' BlogHashes FixBaddown IFACEWORDSTeXfrWpxml LatexFrWordpress MainMarkdown MarkdownFrLatex ROOTWORDSTeXfrWpxml SetTeXfrWpxmlPaths blogimgs postfiles posttex showpass uedposts'
 
 NB. placeholder substitute for WordPress source blocks - must be untouched by LaTeX
