@@ -56,7 +56,7 @@ control is a standard political gimmick.
 "Hey man, this shit isn't on me!", said every whining weasel ever.
 
 For the sake of argument, assume we can *instantly fix* Climate Change.
-Let's wave our magical woke-wand and make all the bad emissions go away.
+Let's wave our magic woke-wand and make all the bad emissions go away.
 Here's a little question.
 
 > *If greenhouse gas emissions are suddenly reduced to zero, how long
