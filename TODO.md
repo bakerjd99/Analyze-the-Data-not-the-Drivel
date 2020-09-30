@@ -28,7 +28,9 @@ is my key for relating issues, tickets and so forth across systems.
 
 7. `<_dyemvqi0zwbcr1rgzdvup2mg4_>` Start work on changing the PDF document geometry to match a standard book size.
 
-8. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/) to [github.com/bakerjd99](https://github.com/bakerjd99).
+8. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/) 
+   and [box.net](https://www.net.com/) to [github.com/bakerjd99](https://github.com/bakerjd99). Also hunt
+   down references to old Google Documents and redirect.
 
 9.  `<_6vzptk3mizfci8xhku2zqph0n_>` For selected posts create updated PDF versions.
 
