@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2020-09-20 15:13"-->
+<!-- generator="WordPress.com" created="2020-12-27 18:48"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,16 @@
 >
 
 <channel>
-	<title>Analyze the Data not the Drivel.</title>
+	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
-	<description>Trust is for imbeciles.</description>
-	<pubDate>Sun, 20 Sep 2020 15:13:36 +0000</pubDate>
+	<description>Practice relentless verification</description>
+	<pubDate>Sun, 27 Dec 2020 18:48:37 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
 	<wp:base_blog_url>http://analyzethedatanotthedrivel.org</wp:base_blog_url>
 
-	<wp:author><wp:author_id>9672033</wp:author_id><wp:author_login><![CDATA[bakerjd99]]></wp:author_login><wp:author_email><![CDATA[bakerjd99@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[John Baker]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Baker]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>9672033</wp:author_id><wp:author_login><![CDATA[bakerjd99]]></wp:author_login><wp:author_email><![CDATA[bakerjd99@hotmail.com]]></wp:author_email><wp:author_display_name><![CDATA[John Baker]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Baker]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>4526</wp:term_id><wp:category_nicename>posts</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Posts]]></wp:cat_name>
 <wp:category_description><![CDATA[Post categories]]></wp:category_description>
@@ -131,6 +131,8 @@
 	<wp:tag><wp:term_id>13549578</wp:term_id><wp:tag_slug>2012-review</wp:tag_slug><wp:tag_name><![CDATA[2012 review]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>30826154</wp:term_id><wp:tag_slug>2012-transit-of-venus</wp:tag_slug><wp:tag_name><![CDATA[2012 transit of Venus]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>65608</wp:term_id><wp:tag_slug>2020</wp:tag_slug><wp:tag_name><![CDATA[2020]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>2131</wp:term_id><wp:tag_slug>3d</wp:tag_slug><wp:tag_name><![CDATA[3D]]></wp:tag_name>
 </wp:tag>
@@ -354,6 +356,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>247377097</wp:term_id><wp:tag_slug>cassini-grand-finale</wp:tag_slug><wp:tag_name><![CDATA[Cassini Grand Finale]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>775126</wp:term_id><wp:tag_slug>cataract</wp:tag_slug><wp:tag_name><![CDATA[cataract]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>20576</wp:term_id><wp:tag_slug>cell-phone</wp:tag_slug><wp:tag_name><![CDATA[cell-phone]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>59436</wp:term_id><wp:tag_slug>cellphone</wp:tag_slug><wp:tag_name><![CDATA[cellphone]]></wp:tag_name>
@@ -425,6 +429,8 @@
 	<wp:tag><wp:term_id>565680</wp:term_id><wp:tag_slug>control-freak</wp:tag_slug><wp:tag_name><![CDATA[control freak]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>309945</wp:term_id><wp:tag_slug>corona</wp:tag_slug><wp:tag_name><![CDATA[corona]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>1899315</wp:term_id><wp:tag_slug>coronavirus</wp:tag_slug><wp:tag_name><![CDATA[Coronavirus]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>7100</wp:term_id><wp:tag_slug>corporate</wp:tag_slug><wp:tag_name><![CDATA[corporate]]></wp:tag_name>
 </wp:tag>
@@ -705,6 +711,10 @@
 	<wp:tag><wp:term_id>19010</wp:term_id><wp:tag_slug>graphic</wp:tag_slug><wp:tag_name><![CDATA[graphic]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>382275</wp:term_id><wp:tag_slug>graphviz</wp:tag_slug><wp:tag_name><![CDATA[graphviz]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>27788299</wp:term_id><wp:tag_slug>great-conjunction</wp:tag_slug><wp:tag_name><![CDATA[Great Conjunction]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>711523345</wp:term_id><wp:tag_slug>great-conjunction2020</wp:tag_slug><wp:tag_name><![CDATA[Great Conjunction;2020]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>177699</wp:term_id><wp:tag_slug>gtk</wp:tag_slug><wp:tag_name><![CDATA[GTK]]></wp:tag_name>
 </wp:tag>
@@ -1604,6 +1614,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>78832716</wp:term_id><wp:tag_slug>wordpress-to-latex</wp:tag_slug><wp:tag_name><![CDATA[WordPress to LaTeX]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>144700</wp:term_id><wp:tag_slug>working-from-home</wp:tag_slug><wp:tag_name><![CDATA[working from home]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>349</wp:term_id><wp:tag_slug>writing</wp:tag_slug><wp:tag_name><![CDATA[Writing]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>6825753</wp:term_id><wp:tag_slug>xelatex</wp:tag_slug><wp:tag_name><![CDATA[XeLaTeX]]></wp:tag_name>
@@ -1629,7 +1641,7 @@
 
 <image>
 	<url>https://bakerjd99.files.wordpress.com/2020/08/cropped-assume-corruption.png?w=32</url>
-	<title>Analyze the Data not the Drivel.</title>
+	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<width>32</width>
 	<height>32</height>
@@ -2025,37 +2037,6 @@
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>650251443_thumb.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/650251443_thumb-jpg/</link>
-		<pubDate>Tue, 22 Sep 2009 21:04:36 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/650251443_thumb.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>98</wp:post_id>
-		<wp:post_date>2009-09-22 21:04:36</wp:post_date>
-		<wp:post_date_gmt>2009-09-22 21:04:36</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>650251443_thumb-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2009/09/650251443_thumb.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2009/09/650251443_thumb.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"104";s:6:"height";s:3:"104";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2009/09/650251443_thumb.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>650251443.jpg</title>
 		<link>http://analyzethedatanotthedrivel.org/650251443-jpg-2/</link>
 		<pubDate>Tue, 22 Sep 2009 21:19:24 +0000</pubDate>
@@ -2084,37 +2065,6 @@
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"100";s:6:"height";s:3:"100";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:85:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2009/09/6502514431.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>650251443_thumb.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/650251443_thumb-jpg-2/</link>
-		<pubDate>Tue, 22 Sep 2009 21:19:25 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2009/09/650251443_thumb1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>101</wp:post_id>
-		<wp:post_date>2009-09-22 21:19:25</wp:post_date>
-		<wp:post_date_gmt>2009-09-22 21:19:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>650251443_thumb-jpg-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2009/09/650251443_thumb1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2009/09/650251443_thumb1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"100";s:6:"height";s:3:"100";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:91:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2009/09/650251443_thumb1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4663,37 +4613,6 @@ In the bin diretory of installed J 6.02 systems you will find a jreg.bat file. T
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>jblue_thumb.png</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/05/28/a-c-net-class-for-calling-j/jblue_thumb-png/</link>
-		<pubDate>Fri, 04 Jun 2010 14:21:17 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/06/jblue_thumb.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>549</wp:post_id>
-		<wp:post_date>2010-06-04 14:21:17</wp:post_date>
-		<wp:post_date_gmt>2010-06-04 14:21:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>jblue_thumb-png</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>537</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/06/jblue_thumb.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/jblue_thumb.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"132";s:6:"height";s:3:"132";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/jblue_thumb.png";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>bitmap.png</title>
 		<link>http://analyzethedatanotthedrivel.org/2010/05/28/a-c-net-class-for-calling-j/bitmap-png/</link>
 		<pubDate>Fri, 04 Jun 2010 14:56:13 +0000</pubDate>
@@ -4722,37 +4641,6 @@ In the bin diretory of installed J 6.02 systems you will find a jreg.bat file. T
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"128";s:6:"height";s:3:"128";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:81:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bitmap.png";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>bitmap_thumb.png</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/05/28/a-c-net-class-for-calling-j/bitmap_thumb-png/</link>
-		<pubDate>Fri, 04 Jun 2010 14:56:15 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/06/bitmap_thumb.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>553</wp:post_id>
-		<wp:post_date>2010-06-04 14:56:15</wp:post_date>
-		<wp:post_date_gmt>2010-06-04 14:56:15</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bitmap_thumb-png</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>537</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/06/bitmap_thumb.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bitmap_thumb.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:2:"64";s:6:"height";s:2:"64";s:14:"hwstring_small";s:22:"height='64' width='64'";s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bitmap_thumb.png";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -4924,68 +4812,6 @@ Mike Boozer, http://somebodyhadtosayit.com]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>bpoilshores.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/06/16/i-did-not-have-sex-with-that-oil-spill/bpoilshores-jpg/</link>
-		<pubDate>Wed, 16 Jun 2010 16:00:32 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/06/bpoilshores.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>618</wp:post_id>
-		<wp:post_date>2010-06-16 16:00:32</wp:post_date>
-		<wp:post_date_gmt>2010-06-16 16:00:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bpoilshores-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>616</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/06/bpoilshores.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"500";s:6:"height";s:3:"394";s:14:"hwstring_small";s:23:"height='96' width='121'";s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>bpoilshores_thumb.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/06/16/i-did-not-have-sex-with-that-oil-spill/bpoilshores_thumb-jpg/</link>
-		<pubDate>Wed, 16 Jun 2010 16:00:33 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>619</wp:post_id>
-		<wp:post_date>2010-06-16 16:00:33</wp:post_date>
-		<wp:post_date_gmt>2010-06-16 16:00:33</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bpoilshores_thumb-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>616</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"198";s:6:"height";s:3:"157";s:14:"hwstring_small";s:23:"height='96' width='121'";s:4:"file";s:92:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores_thumb.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores_thumb.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>I did not have sex with that Oil Spill!</title>
 		<link>http://analyzethedatanotthedrivel.org/2010/06/16/i-did-not-have-sex-with-that-oil-spill/</link>
 		<pubDate>Wed, 16 Jun 2010 23:55:00 +0000</pubDate>
@@ -5126,6 +4952,37 @@ Mike Boozer, http://somebodyhadtosayit.com]]></wp:comment_content>
 				<wp:meta_value><![CDATA[2012-07-10 03:43:52]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>bpoilshores_thumb.jpg</title>
+		<link>http://analyzethedatanotthedrivel.org/2010/06/16/i-did-not-have-sex-with-that-oil-spill/bpoilshores_thumb-jpg/</link>
+		<pubDate>Wed, 16 Jun 2010 16:00:33 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>619</wp:post_id>
+		<wp:post_date>2010-06-16 16:00:33</wp:post_date>
+		<wp:post_date_gmt>2010-06-16 16:00:33</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bpoilshores_thumb-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>616</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/06/bpoilshores_thumb.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"198";s:6:"height";s:3:"157";s:14:"hwstring_small";s:23:"height='96' width='121'";s:4:"file";s:92:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores_thumb.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/06/bpoilshores_thumb.jpg]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>My Tag Wordle</title>
@@ -5340,37 +5197,6 @@ Mike Boozer, http://somebodyhadtosayit.com]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>reddit</wp:meta_key>
 			<wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1423196835;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>inception_reordered.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/07/28/the-20-seconds-that-ruined-inception/inception_reordered-jpg/</link>
-		<pubDate>Wed, 28 Jul 2010 17:29:22 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/07/inception_reordered.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>694</wp:post_id>
-		<wp:post_date>2010-07-28 17:29:22</wp:post_date>
-		<wp:post_date_gmt>2010-07-28 17:29:22</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>inception_reordered-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>696</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/07/inception_reordered.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/07/inception_reordered.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"140";s:6:"height";s:3:"140";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:94:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/07/inception_reordered.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -6224,37 +6050,6 @@ Finally, Cobb's use of her token is utterly invalid as it does whatever he wants
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1415676384.8139469623565673828125;s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
-	</item>
-	<item>
-		<title>spoiler_alert.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/07/28/the-20-seconds-that-ruined-inception/spoiler_alert-jpg/</link>
-		<pubDate>Wed, 28 Jul 2010 18:20:25 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/07/spoiler_alert.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>698</wp:post_id>
-		<wp:post_date>2010-07-28 18:20:25</wp:post_date>
-		<wp:post_date_gmt>2010-07-28 18:20:25</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>spoiler_alert-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>696</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/07/spoiler_alert.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/07/spoiler_alert.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"275";s:6:"height";s:3:"275";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/07/spoiler_alert.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>spoiler_alert_thumb.jpg</title>
@@ -7358,37 +7153,6 @@ By the same logic no one cares a rats ass about jesus but for the "heathen" (you
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>rosetta_disk.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2010/12/06/soon-we-will-all-be-software-archeologists/rosetta_disk-jpg/</link>
-		<pubDate>Mon, 06 Dec 2010 05:19:02 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2010/12/rosetta_disk.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>910</wp:post_id>
-		<wp:post_date>2010-12-06 05:19:02</wp:post_date>
-		<wp:post_date_gmt>2010-12-06 05:19:02</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>rosetta_disk-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>903</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2010/12/rosetta_disk.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/12/rosetta_disk.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"286";s:6:"height";s:3:"264";s:14:"hwstring_small";s:23:"height='96' width='104'";s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2010/12/rosetta_disk.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>rosetta_disk_thumb.jpg</title>
 		<link>http://analyzethedatanotthedrivel.org/2010/12/06/soon-we-will-all-be-software-archeologists/rosetta_disk_thumb-jpg/</link>
 		<pubDate>Mon, 06 Dec 2010 05:19:04 +0000</pubDate>
@@ -7678,99 +7442,6 @@ By the same logic no one cares a rats ass about jesus but for the "heathen" (you
 				<wp:meta_value><![CDATA[2012-04-25 04:28:35]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
-	</item>
-	<item>
-		<title>moonrise.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/moonrise-jpg/</link>
-		<pubDate>Sat, 15 Jan 2011 02:41:53 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/01/moonrise.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1026</wp:post_id>
-		<wp:post_date>2011-01-15 02:41:53</wp:post_date>
-		<wp:post_date_gmt>2011-01-15 02:41:53</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>moonrise-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1022</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/01/moonrise.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"300";s:6:"height";s:3:"300";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>moonrise_thumb.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/moonrise_thumb-jpg/</link>
-		<pubDate>Sat, 15 Jan 2011 02:41:54 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1027</wp:post_id>
-		<wp:post_date>2011-01-15 02:41:54</wp:post_date>
-		<wp:post_date_gmt>2011-01-15 02:41:54</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>moonrise_thumb-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1022</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/01/moonrise_thumb.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise_thumb.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"198";s:6:"height";s:3:"198";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise_thumb.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>moonrise.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/01/14/the-un-space-treaty-is-holding-us-back/moonrise-jpg-2/</link>
-		<pubDate>Sat, 15 Jan 2011 03:22:57 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1031</wp:post_id>
-		<wp:post_date>2011-01-15 03:22:57</wp:post_date>
-		<wp:post_date_gmt>2011-01-15 03:22:57</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>moonrise-jpg-2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1022</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/01/moonrise1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"300";s:6:"height";s:3:"300";s:14:"hwstring_small";s:22:"height='96' width='96'";s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/01/moonrise1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>moonrise_thumb.jpg</title>
@@ -8082,16 +7753,16 @@ Cheers, bob]]></wp:comment_content>
 		<dc:creator>bakerjd99</dc:creator>
 		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=1101</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"align":"left","id":5963,"className":""} -->
+		<content:encoded><![CDATA[<!-- wp:image {"align":"left","id":5963} -->
 <div class="wp-block-image"><figure class="alignleft"><a href="https://code.jsoftware.com/wiki/Addons/general/jod"><img src="https://bakerjd99.files.wordpress.com/2020/07/jodlittlecube2.png?w=150" alt="" class="wp-image-5963" /></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool. </p>
+<p>JOD is a <strong><a href="http://www.jsoftware.com/">J language</a></strong> programming tool.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 1.0.1 released March  28, 2020</a> </strong></p>
+<p><strong><a href="https://github.com/bakerjd99/jod/blob/master/jod/history.md">Version: 1.0.2 released November&nbsp;13, 2020</a>&nbsp;</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -8103,7 +7774,7 @@ Cheers, bob]]></wp:comment_content>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://bakerjd99.files.wordpress.com/2020/03/jod.pdf"><strong>JOD PDF Help</strong></a>&nbsp;- current JOD system documentation in one PDF document. The same document is also available on this <a href="https://github.com/jsoftware/general_joddocument/blob/master/pdfdoc/jod.pdf">alternate server.</a></p>
+<p><strong><a href="https://bakerjd99.files.wordpress.com/2020/11/jod.pdf">JOD PDF Help</a></strong>&nbsp;- current JOD system documentation in one PDF document. The same document is also available on this <a href="https://github.com/jsoftware/general_joddocument/blob/master/pdfdoc/jod.pdf">alternate server.</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -8111,7 +7782,7 @@ Cheers, bob]]></wp:comment_content>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="http://www.lulu.com/shop/john-baker/jod-j-object-dictionary/paperback/product-20076245.html"><strong>Hard Copy JOD documentation</strong></a>&nbsp;- you can order JOD documentation in a spiral book bound form.&nbsp; The book is printed on demand at&nbsp;<a href="http://www.lulu.com/">www.lulu.com</a>.&nbsp; The pricing is at cost.</p>
+<p><strong><a href="https://www.amazon.com/dp/B08M2KBMND">Hard Copy JOD documentation</a></strong>&nbsp;- you can order JOD documentation in book form from <a href="https://www.amazon.com/dp/B08M2KBMND">Amazon</a>.  If this link does not work search&nbsp;Amazon&nbsp;books&nbsp;for&nbsp;ISBN-13:&nbsp;979-8554921117. You&nbsp;can&nbsp;also&nbsp;search&nbsp;with&nbsp;Amazon's&nbsp;ASIN&nbsp;key&nbsp;B08M2KBMND.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -8123,7 +7794,7 @@ Cheers, bob]]></wp:comment_content>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>JOD dictionary database dumps - install the <a href="http://www.jsoftware.com/jwiki/Addons/general/jodsource">jodsource</a> addon with the J package manager.</li><li>A <a href="https://github.com/bakerjd99/jod">GitHub JOD repository</a>. Pull into an <em>empty local repository</em> with: <pre><code>git remote add jod https://github.com/bakerjd99/jod.git  git pull jod master</code></pre></li><li>This repository is the official <a href="https://github.com/jsoftware">GitHub J Software</a> repository for <a href="http://www.jsoftware.com/jwiki/JAL">JAL addons</a>.</li><li>A <a href="https://www-cs-faculty.stanford.edu/~knuth/lp.html">Knuth style literate programming</a> single <a href="https://bakerjd99.files.wordpress.com/2020/05/zzzjodmain-1.pdf">PDF document</a>.</li></ol>
+<ol><li>JOD dictionary database dumps - install the <a href="http://www.jsoftware.com/jwiki/Addons/general/jodsource">jodsource</a> addon with the J package manager.</li><li>A <a href="https://github.com/bakerjd99/jod">GitHub JOD repository</a>. Pull into an <em>empty local repository</em> with: <pre><code>git remote add jod https://github.com/bakerjd99/jod.git  git pull jod master</code></pre></li><li>This repository is the official <a href="https://github.com/jsoftware">GitHub J Software</a> repository for <a href="https://code.jsoftware.com/wiki/Pacman">pacman addons</a>.</li><li>A <a href="https://www-cs-faculty.stanford.edu/~knuth/lp.html">Knuth style literate programming</a> single <a href="https://bakerjd99.files.wordpress.com/2020/11/zzzjodmain-1.pdf">PDF document</a>.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -8142,6 +7813,10 @@ Cheers, bob]]></wp:comment_content>
 		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[9672033]]></wp:meta_value>
@@ -9461,6 +9136,44 @@ Bill]]></wp:comment_content>
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1503124699.8735520839691162109375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>2554</wp:comment_id>
+			<wp:comment_author><![CDATA[Cataract Conjunction Caps Coronavirus Year &#8211; Analyze the Data not the Drivel]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>http://analyzethedatanotthedrivel.org/2020/12/26/cataract-conjunction-caps-coronavirus-year/</wp:comment_author_url>
+			<wp:comment_author_IP>192.0.116.204</wp:comment_author_IP>
+			<wp:comment_date>2020-12-26 17:01:01</wp:comment_date>
+			<wp:comment_date_gmt>2020-12-27 00:01:01</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[&#8230;] The JOD Page [&#8230;]]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1609094487]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1609094488.090647;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1609027262.260795;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_as_submitted</wp:meta_key>
+				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:82:"Cataract Conjunction Caps Coronavirus Year &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:92:"http://analyzethedatanotthedrivel.org/2020/12/26/cataract-conjunction-caps-coronavirus-year/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:32:"[&#8230;] The JOD Page [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:13:"192.0.116.204";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:13:"192.0.116.204";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:51:"http://analyzethedatanotthedrivel.org/the-jod-page/";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1609031870.550704;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Anathem: Plato&#039;s Parallel World</title>
@@ -9530,37 +9243,6 @@ Bill]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_wpas_skip_fb</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>anathem.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/02/20/anathem-platos-parallel-world/anathem-jpg/</link>
-		<pubDate>Mon, 21 Feb 2011 04:57:19 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/02/anathem.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1127</wp:post_id>
-		<wp:post_date>2011-02-20 22:57:19</wp:post_date>
-		<wp:post_date_gmt>2011-02-21 04:57:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>anathem-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1124</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/02/anathem.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/02/anathem.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"319";s:6:"height";s:3:"480";s:14:"hwstring_small";s:22:"height='96' width='63'";s:4:"file";s:82:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/02/anathem.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -10266,37 +9948,6 @@ Nurse Bri]]></wp:comment_content>
 		</wp:comment>
 	</item>
 	<item>
-		<title>20110327-090020.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/03/27/hospital-staff-training/20110327-090020-jpg/</link>
-		<pubDate>Mon, 28 Mar 2011 02:00:30 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/03/20110327-090020.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1251</wp:post_id>
-		<wp:post_date>2011-03-27 21:00:30</wp:post_date>
-		<wp:post_date_gmt>2011-03-28 02:00:30</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>20110327-090020-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1241</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/03/20110327-090020.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/03/20110327-090020.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"360";s:6:"height";s:3:"482";s:14:"hwstring_small";s:22:"height='96' width='71'";s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/03/20110327-090020.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>20110327-090236.jpg</title>
 		<link>http://analyzethedatanotthedrivel.org/2011/03/27/hospital-staff-training/20110327-090236-jpg/</link>
 		<pubDate>Mon, 28 Mar 2011 02:02:48 +0000</pubDate>
@@ -10799,6 +10450,41 @@ Nurse Bri]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>David Hilbert</title>
+		<link>http://analyzethedatanotthedrivel.org/2011/07/12/open-source-hilbert-for-the-kindle/david-hilbert-1/</link>
+		<pubDate>Wed, 13 Jul 2011 03:19:28 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/07/david-hilbert-1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[David Hilbert]]></excerpt:encoded>
+		<wp:post_id>1513</wp:post_id>
+		<wp:post_date>2011-07-12 22:19:28</wp:post_date>
+		<wp:post_date_gmt>2011-07-13 03:19:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>david-hilbert-1</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>1463</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/07/david-hilbert-1.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/07/david-hilbert-1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"268";s:6:"height";s:3:"326";s:14:"hwstring_small";s:22:"height='96' width='78'";s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/07/david-hilbert-1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[David Hilbert]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Open Source Hilbert for the Kindle</title>
 		<link>http://analyzethedatanotthedrivel.org/2011/07/12/open-source-hilbert-for-the-kindle/</link>
 		<pubDate>Wed, 13 Jul 2011 04:02:12 +0000</pubDate>
@@ -11113,41 +10799,6 @@ You will find that the J community is always happy to welcome new users and help
 				<wp:meta_value><![CDATA[2012-06-05 17:53:56]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
-	</item>
-	<item>
-		<title>David Hilbert</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/07/12/open-source-hilbert-for-the-kindle/david-hilbert-1/</link>
-		<pubDate>Wed, 13 Jul 2011 03:19:28 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/07/david-hilbert-1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[David Hilbert]]></excerpt:encoded>
-		<wp:post_id>1513</wp:post_id>
-		<wp:post_date>2011-07-12 22:19:28</wp:post_date>
-		<wp:post_date_gmt>2011-07-13 03:19:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>david-hilbert-1</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1463</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/07/david-hilbert-1.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/07/david-hilbert-1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"268";s:6:"height";s:3:"326";s:14:"hwstring_small";s:22:"height='96' width='78'";s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/07/david-hilbert-1.jpg";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
-			<wp:meta_value><![CDATA[David Hilbert]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>More on Kindle Oriented LaTeX</title>
@@ -12621,37 +12272,6 @@ A =: createHistogramArg '' NB. perhaps this takes a lot of time
 		<wp:postmeta>
 			<wp:meta_key>_wpas_skip_fb</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>aplbadboys2</title>
-		<link>http://analyzethedatanotthedrivel.org/2011/08/15/typesetting-utf8-apl-code-with-the-latex-lstlisting-package/aplbadboys2/</link>
-		<pubDate>Wed, 17 Aug 2011 17:45:11 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2011/08/aplbadboys2.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Handling UTF8 encoded APL within a LaTeX lstlisting environment.]]></excerpt:encoded>
-		<wp:post_id>1907</wp:post_id>
-		<wp:post_date>2011-08-17 12:45:11</wp:post_date>
-		<wp:post_date_gmt>2011-08-17 17:45:11</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>aplbadboys2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>1837</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2011/08/aplbadboys2.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";s:3:"532";s:6:"height";s:3:"325";s:14:"hwstring_small";s:23:"height='78' width='128'";s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/08/aplbadboys2.png";s:10:"image_meta";a:10:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2011/08/aplbadboys2.png]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -19267,37 +18887,6 @@ I saw where you wrote "Belief" is a bullshit word. You know or you don't know!" 
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Faith Korean Drama</title>
-		<link>http://analyzethedatanotthedrivel.org/2012/09/02/faith-a-guilty-pleasure/faith-korean-drama/</link>
-		<pubDate>Sun, 02 Sep 2012 22:31:51 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2012/09/faith-korean-drama.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3167</wp:post_id>
-		<wp:post_date>2012-09-02 17:31:51</wp:post_date>
-		<wp:post_date_gmt>2012-09-02 22:31:51</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>faith-korean-drama</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>3163</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2012/09/faith-korean-drama.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/faith-korean-drama.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:875;s:6:"height";i:270;s:14:"hwstring_small";s:23:"height='39' width='128'";s:4:"file";s:93:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/faith-korean-drama.jpg";s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Faith Korean TV</title>
 		<link>http://analyzethedatanotthedrivel.org/2012/09/02/faith-a-guilty-pleasure/faith-korean-tv/</link>
 		<pubDate>Sun, 02 Sep 2012 22:50:12 +0000</pubDate>
@@ -19326,37 +18915,6 @@ I saw where you wrote "Belief" is a bullshit word. You know or you don't know!" 
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:250;s:6:"height";i:254;s:14:"hwstring_small";s:22:"height='96' width='94'";s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/faith-korean-tv.jpg";s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>bonebridge2</title>
-		<link>http://analyzethedatanotthedrivel.org/2012/09/20/pandoc-based-j-syntax-highlighting/bonebridge2/</link>
-		<pubDate>Thu, 20 Sep 2012 19:18:35 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2012/09/bonebridge2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Bonebridge puzzle in MYST IV]]></excerpt:encoded>
-		<wp:post_id>3240</wp:post_id>
-		<wp:post_date>2012-09-20 14:18:35</wp:post_date>
-		<wp:post_date_gmt>2012-09-20 19:18:35</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bonebridge2</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>3202</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2012/09/bonebridge2.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:522;s:6:"height";i:354;s:14:"hwstring_small";s:23:"height='86' width='128'";s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/bonebridge2.jpg";s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/bonebridge2.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -19741,6 +19299,37 @@ here at web, however I know I am getting experience all the time by reading thes
 				<wp:meta_value><![CDATA[2014-07-03 04:52:40]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>bonebridge2</title>
+		<link>http://analyzethedatanotthedrivel.org/2012/09/20/pandoc-based-j-syntax-highlighting/bonebridge2/</link>
+		<pubDate>Thu, 20 Sep 2012 19:18:35 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2012/09/bonebridge2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Bonebridge puzzle in MYST IV]]></excerpt:encoded>
+		<wp:post_id>3240</wp:post_id>
+		<wp:post_date>2012-09-20 14:18:35</wp:post_date>
+		<wp:post_date_gmt>2012-09-20 19:18:35</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bonebridge2</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>3202</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2012/09/bonebridge2.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:522;s:6:"height";i:354;s:14:"hwstring_small";s:23:"height='86' width='128'";s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/bonebridge2.jpg";s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2012/09/bonebridge2.jpg]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
@@ -23159,37 +22748,6 @@ We have a good life as they sheltered us taught us.  Our sympathies,  Fred &amp;
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My wife&#039;s father reading a newspaper.</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/05/23/more-photographic-waybacking/my-wifes-father-reading-a-newspaper/</link>
-		<pubDate>Tue, 21 May 2013 01:51:47 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/05/mahmood-with-newspaper-259125453.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4055</wp:post_id>
-		<wp:post_date>2013-05-20 20:51:47</wp:post_date>
-		<wp:post_date_gmt>2013-05-21 01:51:47</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>my-wifes-father-reading-a-newspaper</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4048</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/05/mahmood-with-newspaper-259125453.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/05/mahmood-with-newspaper-259125453.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2009;s:6:"height";i:1354;s:4:"file";s:107:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/05/mahmood-with-newspaper-259125453.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:14:"Mahmood Soheil";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:37:"My wife's father reading a newspaper.";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>More Photographic Waybacking</title>
 		<link>http://analyzethedatanotthedrivel.org/2013/05/23/more-photographic-waybacking/</link>
 		<pubDate>Thu, 23 May 2013 15:25:16 +0000</pubDate>
@@ -23337,6 +22895,37 @@ Tell Mali there is not a minute that goes by that something reminders me of Evel
 				<wp:meta_value><![CDATA[2013-05-26 20:36:48]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>My wife&#039;s father reading a newspaper.</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/05/23/more-photographic-waybacking/my-wifes-father-reading-a-newspaper/</link>
+		<pubDate>Tue, 21 May 2013 01:51:47 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/05/mahmood-with-newspaper-259125453.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4055</wp:post_id>
+		<wp:post_date>2013-05-20 20:51:47</wp:post_date>
+		<wp:post_date_gmt>2013-05-21 01:51:47</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>my-wifes-father-reading-a-newspaper</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4048</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/05/mahmood-with-newspaper-259125453.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/05/mahmood-with-newspaper-259125453.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2009;s:6:"height";i:1354;s:4:"file";s:107:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/05/mahmood-with-newspaper-259125453.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:14:"Mahmood Soheil";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:37:"My wife's father reading a newspaper.";}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>evelyn eggar bruno studio portrait</title>
@@ -23495,89 +23084,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:2443;s:6:"height";i:1387;s:4:"file";s:100:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/05/evelyn-alberta-puppy-1944.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:11:"Hazel Eggar";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:35:"Evelyn and Alberta with puppy 1944.";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Too Busy to Blog</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/06/30/too-busy-to-blog/</link>
-		<pubDate>Sun, 30 Jun 2013 22:54:21 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4086</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Blogging is like going to the gym. You tell yourself you're going to do it everyday and then you don't. &nbsp;The last two months have been all about my <a href="http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/">mother's death</a> and work. &nbsp;Any remaining hours &nbsp;were siphoned off by my other hobbies: photography and reading. Yeah I count reading as a hobby.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If we're going to have the long happy writer-reader relationship that we're all looking for you are going to have to put up with my ticks. I will enumerate them for you:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>I blow hot and cold on things.</strong> I am either all in or all out. If I am blogging that's pretty much all I am doing. If I am taking pictures or programming that's pretty much it. Balance is for rocks on pinnacles not me.</li><li><strong>I always return to my passions.</strong> I never give up on things I just put them aside. My affection for amateur astronomy has not gone away it's just difficult to indulge it in the wretched quasi-opaque low altitude skies of St. Louis. &nbsp;This city has many charms but clear skies is not one of them.</li><li><strong>I don't give a crap about what people think.</strong> This is a problem for anyone that pretends to write. Authors, even lowly bloggers, cannot ignore their audience or they won't have one. My manly impulse is to ignore you, but &nbsp;I will, on occasion, profusely apologize and beg you to keep reading. It's all crocodile tears. My apologies are as insincere as Obama's: another guy that doesn't give a crap about what you think.</li><li><strong>I will never change: at least while alive.</strong> Guys get this instantly. &nbsp;A few women have vainly tried to correct my bad habits; they didn't succeed.</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>To end June on a happy note and, more importantly, to test a nifty WordPress layout feature here's a collection of recent images. &nbsp;Click on any one to enlarge. All these images, and thousands more, <a href="http://conceptcontrol.smugmug.com/">are always on view on SmugMug</a>. Next month I will&nbsp;be a better boy and write the epoch defaming rubbish you all love and crave.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"ids":[4104,4103,4102,4101,4100,4099,4098,4112,4114],"columns":3,"imageCrop":false} -->
-<figure class="wp-block-gallery columns-3"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-in-police-hat-and-underpants.jpg?w=683" alt="" data-id="4104" class="wp-image-4104" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-caribe-venezuela-1979.jpg?w=682" alt="" data-id="4103" class="wp-image-4103" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/giraffe-profile.jpg?w=1024" alt="" data-id="4102" class="wp-image-4102" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/feeding-forest-park-sea-lion.jpg?w=1024" alt="" data-id="4101" class="wp-image-4101" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/evelyn-five-years-1940.jpg?w=683" alt="" data-id="4100" class="wp-image-4100" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/delvaux-painting-saint-louis-art-museum.jpg?w=1024" alt="" data-id="4099" class="wp-image-4099" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-zoo-gorilla-statue.jpg?w=1024" alt="" data-id="4098" class="wp-image-4098" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/grandmother-meets-granddaughter-294058734.jpg?w=1024" alt="" data-id="4112" class="wp-image-4112" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/golden-converging-griffens.jpg?w=1024" alt="" data-id="4114" class="wp-image-4114" /></figure></li></ul></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4086</wp:post_id>
-		<wp:post_date>2013-06-30 17:54:21</wp:post_date>
-		<wp:post_date_gmt>2013-06-30 22:54:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>too-busy-to-blog</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="post_tag" nicename="blogging-about-blogging"><![CDATA[blogging about blogging]]></category>
-		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpas_done_3970069</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>publicize_reach</wp:meta_key>
-			<wp:meta_value><![CDATA[a:2:{s:7:"twitter";a:1:{i:2529595;i:7;}s:2:"wp";a:1:{i:0;i:15;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>publicize_twitter_user</wp:meta_key>
-			<wp:meta_value><![CDATA[bakerjd99]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpas_done_2529595</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_done_external</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:1031226127;b:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_2529595</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_3970069</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpas_skip_2529586</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_publicize_job_id</wp:meta_key>
-			<wp:meta_value><![CDATA[48192925643]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -23860,6 +23366,89 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Too Busy to Blog</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/06/30/too-busy-to-blog/</link>
+		<pubDate>Sun, 30 Jun 2013 22:54:21 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=4086</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Blogging is like going to the gym. You tell yourself you're going to do it everyday and then you don't. &nbsp;The last two months have been all about my <a href="http://bakerjd99.wordpress.com/2013/05/15/evelyns-eulogy/">mother's death</a> and work. &nbsp;Any remaining hours &nbsp;were siphoned off by my other hobbies: photography and reading. Yeah I count reading as a hobby.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If we're going to have the long happy writer-reader relationship that we're all looking for you are going to have to put up with my ticks. I will enumerate them for you:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li><strong>I blow hot and cold on things.</strong> I am either all in or all out. If I am blogging that's pretty much all I am doing. If I am taking pictures or programming that's pretty much it. Balance is for rocks on pinnacles not me.</li><li><strong>I always return to my passions.</strong> I never give up on things I just put them aside. My affection for amateur astronomy has not gone away it's just difficult to indulge it in the wretched quasi-opaque low altitude skies of St. Louis. &nbsp;This city has many charms but clear skies is not one of them.</li><li><strong>I don't give a crap about what people think.</strong> This is a problem for anyone that pretends to write. Authors, even lowly bloggers, cannot ignore their audience or they won't have one. My manly impulse is to ignore you, but &nbsp;I will, on occasion, profusely apologize and beg you to keep reading. It's all crocodile tears. My apologies are as insincere as Obama's: another guy that doesn't give a crap about what you think.</li><li><strong>I will never change: at least while alive.</strong> Guys get this instantly. &nbsp;A few women have vainly tried to correct my bad habits; they didn't succeed.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>To end June on a happy note and, more importantly, to test a nifty WordPress layout feature here's a collection of recent images. &nbsp;Click on any one to enlarge. All these images, and thousands more, <a href="http://conceptcontrol.smugmug.com/">are always on view on SmugMug</a>. Next month I will&nbsp;be a better boy and write the epoch defaming rubbish you all love and crave.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"ids":[4104,4103,4102,4101,4100,4099,4098,4112,4114],"columns":3,"imageCrop":false} -->
+<figure class="wp-block-gallery columns-3"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-in-police-hat-and-underpants.jpg?w=683" alt="" data-id="4104" class="wp-image-4104" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-caribe-venezuela-1979.jpg?w=682" alt="" data-id="4103" class="wp-image-4103" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/giraffe-profile.jpg?w=1024" alt="" data-id="4102" class="wp-image-4102" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/feeding-forest-park-sea-lion.jpg?w=1024" alt="" data-id="4101" class="wp-image-4101" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/evelyn-five-years-1940.jpg?w=683" alt="" data-id="4100" class="wp-image-4100" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/delvaux-painting-saint-louis-art-museum.jpg?w=1024" alt="" data-id="4099" class="wp-image-4099" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/me-zoo-gorilla-statue.jpg?w=1024" alt="" data-id="4098" class="wp-image-4098" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/grandmother-meets-granddaughter-294058734.jpg?w=1024" alt="" data-id="4112" class="wp-image-4112" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://bakerjd99.files.wordpress.com/2013/06/golden-converging-griffens.jpg?w=1024" alt="" data-id="4114" class="wp-image-4114" /></figure></li></ul></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4086</wp:post_id>
+		<wp:post_date>2013-06-30 17:54:21</wp:post_date>
+		<wp:post_date_gmt>2013-06-30 22:54:21</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>too-busy-to-blog</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="blogging-about-blogging"><![CDATA[blogging about blogging]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpas_done_3970069</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>publicize_reach</wp:meta_key>
+			<wp:meta_value><![CDATA[a:2:{s:7:"twitter";a:1:{i:2529595;i:7;}s:2:"wp";a:1:{i:0;i:15;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>publicize_twitter_user</wp:meta_key>
+			<wp:meta_value><![CDATA[bakerjd99]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpas_done_2529595</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_done_external</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:7:"twitter";a:1:{i:1031226127;b:1;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpas_skip_2529595</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpas_skip_3970069</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpas_skip_2529586</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[48192925643]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>cropped-golden-converging-griffens.jpg</title>
 		<link>http://analyzethedatanotthedrivel.org/cropped-golden-converging-griffens-jpg/</link>
 		<pubDate>Fri, 02 Aug 2013 23:30:24 +0000</pubDate>
@@ -23896,115 +23485,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
 			<wp:meta_value><![CDATA[pub/zoren]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>dilbert-attaboy</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/08/05/the-new-smugmug/dilbert-attaboy/</link>
-		<pubDate>Tue, 06 Aug 2013 03:20:07 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/dilbert-attaboy.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4132</wp:post_id>
-		<wp:post_date>2013-08-05 22:20:07</wp:post_date>
-		<wp:post_date_gmt>2013-08-06 03:20:07</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>dilbert-attaboy</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4126</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/dilbert-attaboy.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/dilbert-attaboy.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:296;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/dilbert-attaboy.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>adndlbanner00.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/adndlbanner00-jpg/</link>
-		<pubDate>Tue, 06 Aug 2013 04:13:38 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[http://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4139</wp:post_id>
-		<wp:post_date>2013-08-05 23:13:38</wp:post_date>
-		<wp:post_date_gmt>2013-08-06 04:13:38</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>adndlbanner00-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/adndlbanner00.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_context</wp:meta_key>
-			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:288;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/adndlbanner00.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
-			<wp:meta_value><![CDATA[pub/twentyeleven]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>cropped-adndlbanner00.jpg</title>
-		<link>http://analyzethedatanotthedrivel.org/cropped-adndlbanner00-jpg/</link>
-		<pubDate>Tue, 06 Aug 2013 04:15:41 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[http://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4140</wp:post_id>
-		<wp:post_date>2013-08-05 23:15:41</wp:post_date>
-		<wp:post_date_gmt>2013-08-06 04:15:41</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>cropped-adndlbanner00-jpg</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/cropped-adndlbanner00.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_context</wp:meta_key>
-			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:191;s:4:"file";s:96:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/cropped-adndlbanner00.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
-			<wp:meta_value><![CDATA[pub/twentyeleven]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -24377,6 +23857,115 @@ Thanks in advance for your help.]]></wp:comment_content>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1390155153.9596760272979736328125;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>dilbert-attaboy</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/08/05/the-new-smugmug/dilbert-attaboy/</link>
+		<pubDate>Tue, 06 Aug 2013 03:20:07 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/dilbert-attaboy.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4132</wp:post_id>
+		<wp:post_date>2013-08-05 22:20:07</wp:post_date>
+		<wp:post_date_gmt>2013-08-06 03:20:07</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>dilbert-attaboy</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4126</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/dilbert-attaboy.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/dilbert-attaboy.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:296;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/dilbert-attaboy.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>adndlbanner00.jpg</title>
+		<link>http://analyzethedatanotthedrivel.org/adndlbanner00-jpg/</link>
+		<pubDate>Tue, 06 Aug 2013 04:13:38 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[http://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4139</wp:post_id>
+		<wp:post_date>2013-08-05 23:13:38</wp:post_date>
+		<wp:post_date_gmt>2013-08-06 04:13:38</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>adndlbanner00-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/adndlbanner00.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/adndlbanner00.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:288;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/adndlbanner00.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
+			<wp:meta_value><![CDATA[pub/twentyeleven]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cropped-adndlbanner00.jpg</title>
+		<link>http://analyzethedatanotthedrivel.org/cropped-adndlbanner00-jpg/</link>
+		<pubDate>Tue, 06 Aug 2013 04:15:41 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[http://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4140</wp:post_id>
+		<wp:post_date>2013-08-05 23:15:41</wp:post_date>
+		<wp:post_date_gmt>2013-08-06 04:15:41</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cropped-adndlbanner00-jpg</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/cropped-adndlbanner00.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/cropped-adndlbanner00.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_context</wp:meta_key>
+			<wp:meta_value><![CDATA[custom-header]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1000;s:6:"height";i:191;s:4:"file";s:96:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/cropped-adndlbanner00.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_is_custom_header</wp:meta_key>
+			<wp:meta_value><![CDATA[pub/twentyeleven]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>My new SmugMug</title>
@@ -26215,6 +25804,99 @@ Thanks in advance for your help.]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>mali yellowstone roosevelt gate winter</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/mali-yellowstone-roosevelt-gate-winter/</link>
+		<pubDate>Thu, 22 Aug 2013 03:40:58 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[Mali under the Teddy Roosevelt Yellowstone arch. The road up to Mammoth and the Lamar valley is usually open in the winter.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4201</wp:post_id>
+		<wp:post_date>2013-08-21 22:40:58</wp:post_date>
+		<wp:post_date_gmt>2013-08-22 03:40:58</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>mali-yellowstone-roosevelt-gate-winter</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4186</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1123;s:6:"height";i:1576;s:4:"file";s:113:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";d:8;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:9:"NIKON D40";s:7:"caption";s:123:"Mali under the Teddy Roosevelt Yellowstone arch. The road up to Mammoth and the Lamar valley is usually open in the winter.";s:17:"created_timestamp";i:1230458617;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:2:"30";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";s:8:"latitude";d:45.02962000000000131194610730744898319244384765625;s:9:"longitude";d:-110.7089299999999951751306070946156978607177734375;}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>View of Yellowstone Lake from West Thumb.</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/view-of-yellowstone-lake-from-west-thumb/</link>
+		<pubDate>Thu, 22 Aug 2013 03:55:53 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/geyser-yellowstone-lake-2242391.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4204</wp:post_id>
+		<wp:post_date>2013-08-21 22:55:53</wp:post_date>
+		<wp:post_date_gmt>2013-08-22 03:55:53</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>view-of-yellowstone-lake-from-west-thumb</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4186</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/geyser-yellowstone-lake-2242391.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/geyser-yellowstone-lake-2242391.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1607;s:6:"height";i:1077;s:4:"file";s:106:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/geyser-yellowstone-lake-2242391.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:41:"View of Yellowstone Lake from West Thumb.";s:8:"latitude";d:44.4171070000000014488250599242746829986572265625;s:9:"longitude";d:-110.5704669999999936180756776593625545501708984375;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bakers and margo yellowstone 1967 [329798671]</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/bakers-and-margo-yellowstone-1967-329798671/</link>
+		<pubDate>Sat, 24 Aug 2013 04:59:14 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[I snapped this slide of Margo, my grandparents, parents and siblings in Yellowstone park almost forty years ago with an Instamatic camera.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4208</wp:post_id>
+		<wp:post_date>2013-08-23 23:59:14</wp:post_date>
+		<wp:post_date_gmt>2013-08-24 04:59:14</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>bakers-and-margo-yellowstone-1967-329798671</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4186</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1367;s:6:"height";i:1367;s:4:"file";s:118:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:138:"I snapped this slide of Margo, my grandparents, parents and siblings in Yellowstone park almost forty years ago with an Instamatic camera.";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Yellowstone and Me</title>
 		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/</link>
 		<pubDate>Sat, 24 Aug 2013 06:32:35 +0000</pubDate>
@@ -26384,99 +26066,6 @@ Thanks in advance for your help.]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_wpas_done_5415134</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>mali yellowstone roosevelt gate winter</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/mali-yellowstone-roosevelt-gate-winter/</link>
-		<pubDate>Thu, 22 Aug 2013 03:40:58 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[Mali under the Teddy Roosevelt Yellowstone arch. The road up to Mammoth and the Lamar valley is usually open in the winter.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4201</wp:post_id>
-		<wp:post_date>2013-08-21 22:40:58</wp:post_date>
-		<wp:post_date_gmt>2013-08-22 03:40:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>mali-yellowstone-roosevelt-gate-winter</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4186</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1123;s:6:"height";i:1576;s:4:"file";s:113:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";d:8;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:9:"NIKON D40";s:7:"caption";s:123:"Mali under the Teddy Roosevelt Yellowstone arch. The road up to Mammoth and the Lamar valley is usually open in the winter.";s:17:"created_timestamp";i:1230458617;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:2:"30";s:3:"iso";s:3:"200";s:13:"shutter_speed";s:5:"0.004";s:5:"title";s:0:"";s:8:"latitude";d:45.02962000000000131194610730744898319244384765625;s:9:"longitude";d:-110.7089299999999951751306070946156978607177734375;}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/mali-yellowstone-roosevelt-gate-winter.jpg]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>View of Yellowstone Lake from West Thumb.</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/view-of-yellowstone-lake-from-west-thumb/</link>
-		<pubDate>Thu, 22 Aug 2013 03:55:53 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/geyser-yellowstone-lake-2242391.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4204</wp:post_id>
-		<wp:post_date>2013-08-21 22:55:53</wp:post_date>
-		<wp:post_date_gmt>2013-08-22 03:55:53</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>view-of-yellowstone-lake-from-west-thumb</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4186</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/geyser-yellowstone-lake-2242391.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/geyser-yellowstone-lake-2242391.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1607;s:6:"height";i:1077;s:4:"file";s:106:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/geyser-yellowstone-lake-2242391.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:41:"View of Yellowstone Lake from West Thumb.";s:8:"latitude";d:44.4171070000000014488250599242746829986572265625;s:9:"longitude";d:-110.5704669999999936180756776593625545501708984375;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>bakers and margo yellowstone 1967 [329798671]</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/08/24/yellowstone-and-me/bakers-and-margo-yellowstone-1967-329798671/</link>
-		<pubDate>Sat, 24 Aug 2013 04:59:14 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[I snapped this slide of Margo, my grandparents, parents and siblings in Yellowstone park almost forty years ago with an Instamatic camera.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4208</wp:post_id>
-		<wp:post_date>2013-08-23 23:59:14</wp:post_date>
-		<wp:post_date_gmt>2013-08-24 04:59:14</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>bakers-and-margo-yellowstone-1967-329798671</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4186</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1367;s:6:"height";i:1367;s:4:"file";s:118:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/08/bakers-and-margo-yellowstone-1967-329798671.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:138:"I snapped this slide of Margo, my grandparents, parents and siblings in Yellowstone park almost forty years ago with an Instamatic camera.";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -26704,37 +26293,6 @@ Thanks in advance for your help.]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>minnie e raver</title>
-		<link>http://analyzethedatanotthedrivel.org/2013/10/16/minnies-pictures/minnie-e-raver/</link>
-		<pubDate>Sun, 13 Oct 2013 21:18:28 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/10/minnie-e-raver.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[Minnie E. Raver 1881-1977. Minnie was one of my greatgrandmothers. She was married to Bert Raver and her maiden name was Davis. Minnie was the mother of Hazel. Until I inheireted some of Minnies pictures I didn't even know her first name. I remember her as an old woman. This partially hand tinted studio portrait was not dated but I would place it at least ten years before my birth.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4233</wp:post_id>
-		<wp:post_date>2013-10-13 16:18:28</wp:post_date>
-		<wp:post_date_gmt>2013-10-13 21:18:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>minnie-e-raver</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4230</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/10/minnie-e-raver.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/10/minnie-e-raver.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:924;s:6:"height";i:1388;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/10/minnie-e-raver.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:7:"unknown";s:6:"camera";s:0:"";s:7:"caption";s:384:"Minnie E. Raver 1881-1977. Minnie was one of my greatgrandmothers. She was married to Bert Raver and her maiden name was Davis. Minnie was the mother of Hazel. Until I inheireted some of Minnies pictures I didn't even know her first name. I remember her as an old woman. This partially hand tinted studio portrait was not dated but I would place it at least ten years before my birth.";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Minnie&#039;s Pictures</title>
 		<link>http://analyzethedatanotthedrivel.org/2013/10/16/minnies-pictures/</link>
 		<pubDate>Thu, 17 Oct 2013 03:11:52 +0000</pubDate>
@@ -26912,6 +26470,37 @@ Thanks in advance for your help.]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_publicize_job_id</wp:meta_key>
 			<wp:meta_value><![CDATA[48077184674]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>minnie e raver</title>
+		<link>http://analyzethedatanotthedrivel.org/2013/10/16/minnies-pictures/minnie-e-raver/</link>
+		<pubDate>Sun, 13 Oct 2013 21:18:28 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/10/minnie-e-raver.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[Minnie E. Raver 1881-1977. Minnie was one of my greatgrandmothers. She was married to Bert Raver and her maiden name was Davis. Minnie was the mother of Hazel. Until I inheireted some of Minnies pictures I didn't even know her first name. I remember her as an old woman. This partially hand tinted studio portrait was not dated but I would place it at least ten years before my birth.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4233</wp:post_id>
+		<wp:post_date>2013-10-13 16:18:28</wp:post_date>
+		<wp:post_date_gmt>2013-10-13 21:18:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>minnie-e-raver</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4230</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/10/minnie-e-raver.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/10/minnie-e-raver.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:924;s:6:"height";i:1388;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/10/minnie-e-raver.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:7:"unknown";s:6:"camera";s:0:"";s:7:"caption";s:384:"Minnie E. Raver 1881-1977. Minnie was one of my greatgrandmothers. She was married to Bert Raver and her maiden name was Davis. Minnie was the mother of Hazel. Until I inheireted some of Minnies pictures I didn't even know her first name. I remember her as an old woman. This partially hand tinted studio portrait was not dated but I would place it at least ten years before my birth.";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -27501,37 +27090,6 @@ Thanks in advance for your help.]]></wp:comment_content>
 	</item>
 	<item>
 		<title></title>
-		<link>http://analyzethedatanotthedrivel.org/2013/12/01/tipping-with-bitcoins/adndbitcoin/</link>
-		<pubDate>Mon, 02 Dec 2013 00:53:49 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/adndbitcoin.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4349</wp:post_id>
-		<wp:post_date>2013-12-01 18:53:49</wp:post_date>
-		<wp:post_date_gmt>2013-12-02 00:53:49</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>adndbitcoin</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4347</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/adndbitcoin.png</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/adndbitcoin.png]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:281;s:6:"height";i:284;s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/adndbitcoin.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
 		<link>http://analyzethedatanotthedrivel.org/2013/12/01/tipping-with-bitcoins/adndbitcoin-2/</link>
 		<pubDate>Mon, 09 Dec 2013 22:56:59 +0000</pubDate>
 		<dc:creator>bakerjd99</dc:creator>
@@ -27794,99 +27352,6 @@ Thanks in advance for your help.]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>urinetest</title>
-		<link>http://analyzethedatanotthedrivel.org/urinetest/</link>
-		<pubDate>Mon, 16 Dec 2013 01:01:17 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/urinetest.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4378</wp:post_id>
-		<wp:post_date>2013-12-15 19:01:17</wp:post_date>
-		<wp:post_date_gmt>2013-12-16 01:01:17</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>urinetest</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/urinetest.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/urinetest.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:516;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/urinetest.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>commoncorekids</title>
-		<link>http://analyzethedatanotthedrivel.org/commoncorekids/</link>
-		<pubDate>Mon, 16 Dec 2013 01:01:19 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/commoncorekids.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4379</wp:post_id>
-		<wp:post_date>2013-12-15 19:01:19</wp:post_date>
-		<wp:post_date_gmt>2013-12-16 01:01:19</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>commoncorekids</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/commoncorekids.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/commoncorekids.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:550;s:6:"height";i:366;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/commoncorekids.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>cyberbullying</title>
-		<link>http://analyzethedatanotthedrivel.org/cyberbullying/</link>
-		<pubDate>Mon, 16 Dec 2013 01:01:20 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/cyberbullying.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4380</wp:post_id>
-		<wp:post_date>2013-12-15 19:01:20</wp:post_date>
-		<wp:post_date_gmt>2013-12-16 01:01:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>cyberbullying</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/cyberbullying.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/cyberbullying.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:822;s:6:"height";i:595;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/cyberbullying.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Twitter is not Trivial</title>
 		<link>http://analyzethedatanotthedrivel.org/2013/12/15/twitter-is-not-trivial/</link>
 		<pubDate>Mon, 16 Dec 2013 04:10:57 +0000</pubDate>
@@ -27988,6 +27453,99 @@ Thanks in advance for your help.]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_publicize_job_id</wp:meta_key>
 			<wp:meta_value><![CDATA[48155924158]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>urinetest</title>
+		<link>http://analyzethedatanotthedrivel.org/urinetest/</link>
+		<pubDate>Mon, 16 Dec 2013 01:01:17 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/urinetest.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4378</wp:post_id>
+		<wp:post_date>2013-12-15 19:01:17</wp:post_date>
+		<wp:post_date_gmt>2013-12-16 01:01:17</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>urinetest</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/urinetest.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/urinetest.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:640;s:6:"height";i:516;s:4:"file";s:84:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/urinetest.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>commoncorekids</title>
+		<link>http://analyzethedatanotthedrivel.org/commoncorekids/</link>
+		<pubDate>Mon, 16 Dec 2013 01:01:19 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/commoncorekids.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4379</wp:post_id>
+		<wp:post_date>2013-12-15 19:01:19</wp:post_date>
+		<wp:post_date_gmt>2013-12-16 01:01:19</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>commoncorekids</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/commoncorekids.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/commoncorekids.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:550;s:6:"height";i:366;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/commoncorekids.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>cyberbullying</title>
+		<link>http://analyzethedatanotthedrivel.org/cyberbullying/</link>
+		<pubDate>Mon, 16 Dec 2013 01:01:20 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2013/12/cyberbullying.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4380</wp:post_id>
+		<wp:post_date>2013-12-15 19:01:20</wp:post_date>
+		<wp:post_date_gmt>2013-12-16 01:01:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cyberbullying</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2013/12/cyberbullying.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/cyberbullying.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:822;s:6:"height";i:595;s:4:"file";s:88:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2013/12/cyberbullying.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:10:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -32497,6 +32055,37 @@ Fortunately for us, government isn't nearly as important as political assholes o
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Care to guess what really happened?</title>
+		<link>http://analyzethedatanotthedrivel.org/2015/02/08/mahin-and-carl/care-to-guess-what-really-happened/</link>
+		<pubDate>Sun, 08 Feb 2015 20:21:23 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/02/carl-breaking-vegas-195939882.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4932</wp:post_id>
+		<wp:post_date>2015-02-08 14:21:23</wp:post_date>
+		<wp:post_date_gmt>2015-02-08 20:21:23</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>care-to-guess-what-really-happened</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4930</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/02/carl-breaking-vegas-195939882.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/02/carl-breaking-vegas-195939882.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1084;s:6:"height";i:1624;s:4:"file";s:104:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/02/carl-breaking-vegas-195939882.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:35:"Care to guess what really happened?";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Mahin and Carl</title>
 		<link>http://analyzethedatanotthedrivel.org/2015/02/08/mahin-and-carl/</link>
 		<pubDate>Sun, 08 Feb 2015 20:59:53 +0000</pubDate>
@@ -32606,37 +32195,6 @@ Fortunately for us, government isn't nearly as important as political assholes o
 		<wp:postmeta>
 			<wp:meta_key>_publicize_job_id</wp:meta_key>
 			<wp:meta_value><![CDATA[48073817402]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Care to guess what really happened?</title>
-		<link>http://analyzethedatanotthedrivel.org/2015/02/08/mahin-and-carl/care-to-guess-what-really-happened/</link>
-		<pubDate>Sun, 08 Feb 2015 20:21:23 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/02/carl-breaking-vegas-195939882.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4932</wp:post_id>
-		<wp:post_date>2015-02-08 14:21:23</wp:post_date>
-		<wp:post_date_gmt>2015-02-08 20:21:23</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>care-to-guess-what-really-happened</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4930</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/02/carl-breaking-vegas-195939882.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/02/carl-breaking-vegas-195939882.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1084;s:6:"height";i:1624;s:4:"file";s:104:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/02/carl-breaking-vegas-195939882.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:35:"Care to guess what really happened?";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -33016,37 +32574,6 @@ Cheers]]></wp:comment_content>
 		</wp:comment>
 	</item>
 	<item>
-		<title>withouttests</title>
-		<link>http://analyzethedatanotthedrivel.org/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/withouttests/</link>
-		<pubDate>Sat, 11 Apr 2015 23:50:00 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/04/withouttests.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4980</wp:post_id>
-		<wp:post_date>2015-04-11 18:50:00</wp:post_date>
-		<wp:post_date_gmt>2015-04-11 23:50:00</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>withouttests</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>4971</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/04/withouttests.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/04/withouttests.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3224;s:6:"height";i:2149;s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/04/withouttests.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>Cutting the Stinking Tauntaun and other Adventures in Software Archeology</title>
 		<link>http://analyzethedatanotthedrivel.org/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/</link>
 		<pubDate>Sun, 12 Apr 2015 18:51:31 +0000</pubDate>
@@ -33343,6 +32870,37 @@ Funny that you should ask. I have just survived a Death March and penned the tal
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1429116112.3911418914794921875;s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>withouttests</title>
+		<link>http://analyzethedatanotthedrivel.org/2015/04/12/cutting-the-stinking-tauntaun-and-other-adventures-in-software-archeology/withouttests/</link>
+		<pubDate>Sat, 11 Apr 2015 23:50:00 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/04/withouttests.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4980</wp:post_id>
+		<wp:post_date>2015-04-11 18:50:00</wp:post_date>
+		<wp:post_date_gmt>2015-04-11 23:50:00</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>withouttests</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>4971</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/04/withouttests.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/04/withouttests.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3224;s:6:"height";i:2149;s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/04/withouttests.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";i:0;s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";i:0;s:9:"copyright";s:0:"";s:12:"focal_length";i:0;s:3:"iso";i:0;s:13:"shutter_speed";i:0;s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>withtests</title>
@@ -34794,6 +34352,37 @@ dictionary.</p>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>euphoriabook</title>
+		<link>http://analyzethedatanotthedrivel.org/2015/07/18/euphoria-review/euphoriabook/</link>
+		<pubDate>Sat, 18 Jul 2015 16:21:20 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/07/euphoriabook.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5107</wp:post_id>
+		<wp:post_date>2015-07-18 11:21:20</wp:post_date>
+		<wp:post_date_gmt>2015-07-18 16:21:20</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>euphoriabook</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>5103</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/07/euphoriabook.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/07/euphoriabook.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:997;s:6:"height";i:1489;s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/07/euphoriabook.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";d:2.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"iPhone 5s";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1410964870;s:9:"copyright";s:0:"";s:12:"focal_length";s:15:"2.8243366497313";s:3:"iso";s:3:"320";s:13:"shutter_speed";s:17:"0.041666666666667";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Euphoria: Review</title>
 		<link>http://analyzethedatanotthedrivel.org/2015/07/18/euphoria-review/</link>
 		<pubDate>Sat, 18 Jul 2015 16:47:38 +0000</pubDate>
@@ -34866,37 +34455,6 @@ dictionary.</p>
 		<wp:postmeta>
 			<wp:meta_key>_wpas_done_5415134</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>euphoriabook</title>
-		<link>http://analyzethedatanotthedrivel.org/2015/07/18/euphoria-review/euphoriabook/</link>
-		<pubDate>Sat, 18 Jul 2015 16:21:20 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2015/07/euphoriabook.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5107</wp:post_id>
-		<wp:post_date>2015-07-18 11:21:20</wp:post_date>
-		<wp:post_date_gmt>2015-07-18 16:21:20</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>euphoriabook</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>5103</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2015/07/euphoriabook.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/07/euphoriabook.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:5:{s:5:"width";i:997;s:6:"height";i:1489;s:4:"file";s:87:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2015/07/euphoriabook.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:11:{s:8:"aperture";d:2.20000000000000017763568394002504646778106689453125;s:6:"credit";s:0:"";s:6:"camera";s:9:"iPhone 5s";s:7:"caption";s:0:"";s:17:"created_timestamp";i:1410964870;s:9:"copyright";s:0:"";s:12:"focal_length";s:15:"2.8243366497313";s:3:"iso";s:3:"320";s:13:"shutter_speed";s:17:"0.041666666666667";s:5:"title";s:0:"";s:11:"orientation";i:0;}}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -36247,6 +35805,37 @@ GROUP BY iq.WeekNumber</pre>
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>evelyntommy1949</title>
+		<link>http://analyzethedatanotthedrivel.org/2016/12/25/a-bloggy-christmas-letter/evelyntommy1949/</link>
+		<pubDate>Sun, 25 Dec 2016 20:22:46 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/12/evelyntommy1949.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head.]]></excerpt:encoded>
+		<wp:post_id>5278</wp:post_id>
+		<wp:post_date>2016-12-25 14:22:46</wp:post_date>
+		<wp:post_date_gmt>2016-12-25 20:22:46</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>evelyntommy1949</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>5275</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/12/evelyntommy1949.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2016/12/evelyntommy1949.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1088;s:6:"height";i:1523;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2016/12/evelyntommy1949.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Hazel Eggar";s:6:"camera";s:7:"LS-5000";s:7:"caption";s:281:"Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head.";s:17:"created_timestamp";s:10:"-645789600";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:846282;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>A Bloggy Christmas Letter</title>
 		<link>http://analyzethedatanotthedrivel.org/2016/12/25/a-bloggy-christmas-letter/</link>
 		<pubDate>Sun, 25 Dec 2016 21:18:40 +0000</pubDate>
@@ -36421,37 +36010,6 @@ We did have a Merry Christmas.]]></wp:comment_content>
 				<wp:meta_value><![CDATA[1482859937]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
-	</item>
-	<item>
-		<title>evelyntommy1949</title>
-		<link>http://analyzethedatanotthedrivel.org/2016/12/25/a-bloggy-christmas-letter/evelyntommy1949/</link>
-		<pubDate>Sun, 25 Dec 2016 20:22:46 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2016/12/evelyntommy1949.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head.]]></excerpt:encoded>
-		<wp:post_id>5278</wp:post_id>
-		<wp:post_date>2016-12-25 14:22:46</wp:post_date>
-		<wp:post_date_gmt>2016-12-25 20:22:46</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>evelyntommy1949</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>5275</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2016/12/evelyntommy1949.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2016/12/evelyntommy1949.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1088;s:6:"height";i:1523;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2016/12/evelyntommy1949.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Hazel Eggar";s:6:"camera";s:7:"LS-5000";s:7:"caption";s:281:"Evelyn, my mother as a teenager, holding baby Tommy. I have no idea who baby Tommy is but I am pleased with the restoration of this old slide of Hazel’s. I am generally dissatisfied with most of my restoration work but every now and then you come close to the image in your head.";s:17:"created_timestamp";s:10:"-645789600";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:846282;}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>mepetrifiedstump</title>
@@ -38715,37 +38273,6 @@ The 3/4 happened when I was a mining student in Kalgoorlie, Western Australia. T
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2033;s:6:"height";i:678;s:4:"file";s:99:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2017/08/spanish-ballon-van-flags.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:14:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:11:"NIKON D5100";s:7:"caption";s:537:"A group of science students came all the way from Santa Maria Spain to watch the eclipse in Mackay Idaho. They brought a collection of telescopes, sun filters, and weather balloons. They released a balloon just before the eclipse, presumably to measure the eclipse induced temperature drop which was considerable. Mackay’s elevation is almost 1800 meters. When the Sun goes down the temperature drops. The wind was blowing from the north and their balloon took off towards the south. They probably had a little road trip to recover it.";s:17:"created_timestamp";s:10:"1503309800";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:3:"170";s:3:"iso";s:3:"400";s:13:"shutter_speed";s:6:"0.0005";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:8:"latitude";d:43.91561666666666496894322335720062255859375;s:9:"longitude";d:-113.6113033333333390828556730411946773529052734375;}s:8:"filesize";i:620918;}]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>aug-21-2017-eclipse-corona</title>
-		<link>http://analyzethedatanotthedrivel.org/aug-21-2017-eclipse-corona/</link>
-		<pubDate>Sun, 27 Aug 2017 20:14:43 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2017/08/aug-21-2017-eclipse-corona.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[I didn’t try and photograph my first total solar eclipse but this time I fired off a few 300mm handheld telephoto shots just to see what might come up. The result was better than I expected.]]></excerpt:encoded>
-		<wp:post_id>5446</wp:post_id>
-		<wp:post_date>2017-08-27 15:14:43</wp:post_date>
-		<wp:post_date_gmt>2017-08-27 20:14:43</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>aug-21-2017-eclipse-corona</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2017/08/aug-21-2017-eclipse-corona.jpg</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2017/08/aug-21-2017-eclipse-corona.jpg]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
-			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1068;s:6:"height";i:1068;s:4:"file";s:101:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2017/08/aug-21-2017-eclipse-corona.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"5.6";s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:11:"NIKON D5100";s:7:"caption";s:192:"I didn’t try and photograph my first total solar eclipse but this time I fired off a few 300mm handheld telephoto shots just to see what might come up. The result was better than I expected.";s:17:"created_timestamp";s:10:"1503311656";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:3:"300";s:3:"iso";s:4:"1400";s:13:"shutter_speed";s:17:"0.016666667535901";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:301471;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -41514,10 +41041,6 @@ PS. I am semi retired just doing a bit of hourly consulting.]]></wp:comment_cont
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1599849222.425891;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:11:{s:14:"comment_author";s:84:"Extracting SQL code from SSIS dtsx packages with Python lxml &#8211; Full-Stack Feed";s:18:"comment_author_url";s:87:"https://fullstackfeed.com/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:222:"[&#8230;] Lately, I’ve been refactoring a sprawling SSIS (SQL Server Integration Services) package that ineffectually wrestles with large XML files. In this programmer’s opinion using SSIS for he… Read more [&#8230;]";s:12:"comment_type";s:8:"pingback";s:7:"user_ip";s:15:"141.138.168.148";s:10:"user_agent";s:51:"The Incutio XML-RPC PHP Library -- WordPress/4.6.19";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:110:"http://analyzethedatanotthedrivel.org/2020/01/20/extracting-sql-code-from-ssis-dtsx-packages-with-python-lxml/";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key>jabber_published</wp:meta_key>
 				<wp:meta_value><![CDATA[1599853389]]></wp:meta_value>
 			</wp:commentmeta>
@@ -41741,60 +41264,6 @@ PS. I am semi retired just doing a bit of hourly consulting.]]></wp:comment_cont
 		<wp:postmeta>
 			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>jod</title>
-		<link>http://analyzethedatanotthedrivel.org/jod/</link>
-		<pubDate>Sat, 28 Mar 2020 19:55:28 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/03/jod.pdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5761</wp:post_id>
-		<wp:post_date>2020-03-28 13:55:28</wp:post_date>
-		<wp:post_date_gmt>2020-03-28 19:55:28</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>jod</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/03/jod.pdf</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/03/jod.pdf]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>zzzjodmain</title>
-		<link>http://analyzethedatanotthedrivel.org/zzzjodmain/</link>
-		<pubDate>Sun, 10 May 2020 17:14:38 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/05/zzzjodmain-1.pdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5768</wp:post_id>
-		<wp:post_date>2020-05-10 11:14:38</wp:post_date>
-		<wp:post_date_gmt>2020-05-10 17:14:38</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>zzzjodmain</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/05/zzzjodmain-1.pdf</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/05/zzzjodmain-1.pdf]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
@@ -44214,7 +43683,7 @@ C:\temp\nb2wp\tmp\UsingJodliterate-code-21.html: 8683 bytes written in 5.437s
 			<wp:comment_author_IP>174.27.131.172</wp:comment_author_IP>
 			<wp:comment_date>2020-06-30 13:03:40</wp:comment_date>
 			<wp:comment_date_gmt>2020-06-30 19:03:40</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[I suspect there is a degree of fraud in most elections. It's not millions of votes like Trump claims but it isn't zero either. For the US my rough estimate, based on the reported cases of fraud, is around 5000 to 10,000 fake votes over the entire country. Such small numbers probably don't switch districts that often but lacking a rigorous voting system we simply don't know and our corrupt stupid political class have no interest in finding out.]]></wp:comment_content>
+			<wp:comment_content><![CDATA[I suspect there is a degree of fraud in most elections. It's not millions of votes like Trump claims but it isn't zero either. For the US my rough estimate, based on the reported cases of fraud, is around 5000 to 10,000 fake votes over the entire country. Such small numbers probably don't switch districts that often but lacking a rigorous voting system we simply don't know and our corrupt stupid political class has no interest in finding out.]]></wp:comment_content>
 			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type></wp:comment_type>
 			<wp:comment_parent>2309</wp:comment_parent>
@@ -45679,12 +45148,6 @@ Fuck off John and grow up.]]></wp:comment_content>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1599979837.437198;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}]]></wp:meta_value>
 			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:42:"Ian Dubin AKA Lord Dubin of Kellett Island";s:20:"comment_author_email";s:21:"iandubin@yahoo.com.hk";s:18:"comment_author_url";s:29:"http://oldexpat.wordpress.com";s:15:"comment_content";s:177:"Goddam. you are not a sceptic you are a denier. The US navy admits they are chasing these things and you  refuse to admit there is anything there. 
-
-Fuck off John and grow up.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:44345739;s:7:"user_id";i:44345739;s:7:"user_ip";s:11:"219.79.0.88";s:10:"user_agent";s:77:"Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:98:"https://analyzethedatanotthedrivel.org/2020/09/10/oscars-now-as-meaningless-as-nobel-peace-prizes/";}]]></wp:meta_value>
-			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
 			<wp:comment_id>2417</wp:comment_id>
@@ -45712,10 +45175,6 @@ Fuck off John and grow up.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:44345739;
 				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1599893425.159292;s:5:"event";s:9:"check-ham";s:4:"user";s:8:"iandubin";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:42:"Ian Dubin AKA Lord Dubin of Kellett Island";s:20:"comment_author_email";s:21:"iandubin@yahoo.com.hk";s:18:"comment_author_url";s:31:"https://iandubin.wordpress.com/";s:15:"comment_content";s:59:"Outstanding rant John. You should send it to Rolling Stone.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:44345739;s:7:"user_id";i:44345739;s:7:"user_ip";s:11:"219.79.0.88";s:10:"user_agent";s:77:"Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0";s:4:"blog";s:30:"http://bakerjd99.wordpress.com";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:91:"https://bakerjd99.wordpress.com/2020/09/10/oscars-now-as-meaningless-as-nobel-peace-prizes/";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key>email_notification_notqueued</wp:meta_key>
 				<wp:meta_value><![CDATA[1599893425]]></wp:meta_value>
 			</wp:commentmeta>
@@ -45740,10 +45199,6 @@ Fuck off John and grow up.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:44345739;
 			<wp:commentmeta>
 				<wp:meta_key>email_notification_queued</wp:meta_key>
 				<wp:meta_value><![CDATA[1599893613]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:42:"Ian Dubin AKA Lord Dubin of Kellett Island";s:20:"comment_author_email";s:21:"iandubin@yahoo.com.hk";s:18:"comment_author_url";s:29:"http://oldexpat.wordpress.com";s:15:"comment_content";s:152:"Hey, what's the arch-sceptic have to say about the recent revelations from the Pentagon and the USN about them durned UFOs (or UAPs as we pros prefer)?.";s:12:"comment_type";s:0:"";s:7:"user_ID";i:44345739;s:7:"user_id";i:44345739;s:7:"user_ip";s:11:"219.79.0.88";s:10:"user_agent";s:77:"Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:98:"https://analyzethedatanotthedrivel.org/2020/09/10/oscars-now-as-meaningless-as-nobel-peace-prizes/";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>jabber_published</wp:meta_key>
@@ -45788,17 +45243,6 @@ Cheers]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1599944678.472643;s:5:"event";s:9:"check-ham";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:10:"John Baker";s:20:"comment_author_email";s:19:"bakerjd99@gmail.com";s:18:"comment_author_url";s:38:"https://analyzethedatanotthedrivel.org";s:15:"comment_content";s:365:"Hi Ian,
-
-I hear you are back in the Great White North, (we're going to have to come up more diverse phrase), thanks for the Kudos. 
-
-As for the recent UFO news, we can only hope legit physical evidence turns up, a hull fragment, an alien body, a working
-quantum computer stamped made on Sirus B, anything to take our minds off the freaking COVID-19 follies.
-
-Cheers";s:12:"comment_type";s:0:"";s:7:"user_ID";i:9672033;s:7:"user_id";i:9672033;s:7:"user_ip";s:14:"174.27.131.172";s:10:"user_agent";s:114:"Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36";s:4:"blog";s:37:"http://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:97:"http://analyzethedatanotthedrivel.org/2020/09/10/oscars-now-as-meaningless-as-nobel-peace-prizes/";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>email_notification_jobid</wp:meta_key>
@@ -45904,7 +45348,7 @@ Cheers";s:12:"comment_type";s:0:"";s:7:"user_ID";i:9672033;s:7:"user_id";i:96720
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For the sake of argument, assume we can <em>instantly fix</em> Climate Change. Let’s wave our magical woke-wand and make all the bad emissions go away. Here’s a little question.</p>
+<p>For the sake of argument, assume we can <em>instantly fix</em> Climate Change. Let’s wave our magic woke-wand and make all the bad emissions go away. Here’s a little question.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -45912,7 +45356,7 @@ Cheers";s:12:"comment_type";s:0:"";s:7:"user_ID";i:9672033;s:7:"user_id";i:96720
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Want a clue? It may take decades to notice changes! If wildfires have to wait for the west coast <em>wokerati </em>to fix Climate Change we’re going to be inhaling smoke for the rest of my life. I better order those extra indoor air filters before the hoarders catch on.</p>
+<p>Want a clue? It may take decades to notice changes! If wildfires have to wait for west coast <em>wokerati </em>to fix Climate Change we’re going to be inhaling smoke for the rest of my life. I better order those extra indoor air filters before the hoarders catch on.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"color":"dark-gray"} -->
@@ -45988,10 +45432,6 @@ Cheers";s:12:"comment_type";s:0:"";s:7:"user_ID";i:9672033;s:7:"user_id";i:96720
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1600561996.897072;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:11:{s:14:"comment_author";s:25:"Woke Wildfires - GistTree";s:18:"comment_author_url";s:41:"https://gisttree.com/news/woke-wildfires/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:29:"[&#8230;] Read More [&#8230;]";s:12:"comment_type";s:8:"pingback";s:7:"user_ip";s:13:"198.54.114.16";s:10:"user_agent";s:50:"The Incutio XML-RPC PHP Library -- WordPress/5.5.1";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:64:"http://analyzethedatanotthedrivel.org/2020/09/19/woke-wildfires/";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key>jabber_published</wp:meta_key>
 				<wp:meta_value><![CDATA[1600563457]]></wp:meta_value>
 			</wp:commentmeta>
@@ -46000,6 +45440,165 @@ Cheers";s:12:"comment_type";s:0:"";s:7:"user_ID";i:9672033;s:7:"user_id";i:96720
 				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1600563458.333778;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
+	</item>
+	<item>
+		<title>jodliteratelionlittle</title>
+		<link>http://analyzethedatanotthedrivel.org/jodliteratelionlittle/</link>
+		<pubDate>Thu, 05 Nov 2020 21:45:47 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/11/jodliteratelionlittle-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7021</wp:post_id>
+		<wp:post_date>2020-11-05 14:45:47</wp:post_date>
+		<wp:post_date_gmt>2020-11-05 21:45:47</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>jodliteratelionlittle</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/11/jodliteratelionlittle-1.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:360;s:6:"height";i:308;s:4:"file";s:98:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/11/jodliteratelionlittle-1.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:97156;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/11/jodliteratelionlittle-1.png]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>jod</title>
+		<link>http://analyzethedatanotthedrivel.org/jod/</link>
+		<pubDate>Sat, 14 Nov 2020 16:56:38 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/11/jod.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7025</wp:post_id>
+		<wp:post_date>2020-11-14 09:56:38</wp:post_date>
+		<wp:post_date_gmt>2020-11-14 16:56:38</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>jod</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/11/jod.pdf</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/11/jod.pdf]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>zzzjodmain</title>
+		<link>http://analyzethedatanotthedrivel.org/zzzjodmain/</link>
+		<pubDate>Thu, 26 Nov 2020 21:59:28 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2020/11/zzzjodmain-1.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7029</wp:post_id>
+		<wp:post_date>2020-11-26 14:59:28</wp:post_date>
+		<wp:post_date_gmt>2020-11-26 21:59:28</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>zzzjodmain</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2020/11/zzzjodmain-1.pdf</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2020/11/zzzjodmain-1.pdf]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Cataract Conjunction Caps Coronavirus Year</title>
+		<link>http://analyzethedatanotthedrivel.org/2020/12/26/cataract-conjunction-caps-coronavirus-year/</link>
+		<pubDate>Sun, 27 Dec 2020 00:00:50 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=7031</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Our crappy Coronavirus year wound down with a bright spot: actually, two of them. On the 21st of December 2020, Jupiter and Saturn appeared right beside each other in the early evening southwestern sky. The last time they could be seen <a href="https://astronomy.com/news/2020/12/jupiter-and-saturn-will-form-rare-christmas-star-on-winter-solstice">this close it was 1226:</a> Notre Dame was still being built and the world was filled with ill-informed naked apes that thought Astrology was a thing! Boy have we progressed — not!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the week leading up to the “great conjunction," I wondered if I would see it. The skies of Southern Idaho were filled with nasty opaque clouds but the weather broke and I was able to observe the conjunction from my backyard. In 16x70 binoculars I could easily make out Jupiter's disk and I could see that Saturn was "not round" but my cataract comprised eyes could not resolve any moons or Saturn's rings. Without binoculars, the great conjunction looked like a <em>tri-junction.</em> My cataracts split point sources of light into multiple images. The conjunction looked like a little star cluster while bright solitary stars looked like visual binaries. Declining vision blows but on a lighter note, I'm seeing a lot more stars these days! Cataract surgery is on my 2021 agenda, but it will have to wait for the Coronavirus pandemic to subside. Hospitals are way too busy coping with Winnie the Kung Flu victims to deal with minor old fart elective procedures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unlike many, I don't consider 2020 to be the worst year ever. I've personally endured far worse. The year I simultaneously tore the quadricep tendons in both legs and spent months in painful rehab easily <em>out-agonizes</em> the minor irritants of 2020.  Honestly, I’ve enjoyed some of 2020's <em>hardships</em>, starting with being forced to work from home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’ve long held that there are very few “legitimate<em>" </em>reasons for IT workers to haul their asses into the office to be “managed.” This has been true for well over a decade but in today’s world of gigabit internet, collaboration tools like Teams and Zoom, and remote desktops controlling virtual machine servers it's ludicrous and insulting. Management still harps on about how nothing substitutes for the high bandwidth in-person experience. That when you really want to hash out ideas and wrestle with demanding concepts getting together is still the best option. This, of course, blithely assumes management deals with ideas and concepts. Maybe it's just me, but I've rarely observed "concepts" in the management wild. For me, the typical business meeting is an exercise in eye-rolling suppression; the Microsoft Teams experience is far superior for 90% of day-to-day meetings.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My problem hasn’t been working for home. My problem is what do I do when I’m expected to return to the office. I’m hoping to make working from home a permanent thing but if that proves impossible, I’ll retire, <em>again</em>, for good. It’s great having options.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My ambitions for 2021 go beyond continuing to work from home. I always have a few projects on the go, but I rarely blog about them because I hate having to explain why most of my projects never get completed or morph into something else during execution. <em>Don’t turn your hobbies into jobs!</em> Making a TODO list feels “jobby” but despite my advanced age and well-earned cynicism, especially about my own plans, I occasionally cough up TODO lists. Here’s one for 2021.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"type":"1"} -->
+<ol type="1"><li>Update <a href="https://analyzethedatanotthedrivel.org/the-jod-page/">JOD</a> to handle J’s new <a href="https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition">direction definitions</a>. I’d also like to update JOD’s tests and make sure they pass in Windows, Mac, and Linux environments.</li><li>Print this blog as a proper ISBN’ed book. In 2020 I released a new printed version of the <a href="https://www.amazon.com/dp/B08M2KBMND">JOD manual</a>. It’s time to do the same for <em>Analyze the Data not the Drivel.</em></li><li>Write at least 50 blog posts: about one a week.</li><li>Upload at least 250 well-captioned images to my <a href="https://conceptcontrol.smugmug.com/">SmugMug picture site</a>. I didn't shoot very many pictures in 2020. My photographic passions wax and wane. Time to get waxing.</li><li>Learn far more about the <a href="https://www.rust-lang.org/">RUST programming language</a> and write some RUST binaries that can be called from J or Python.</li><li>Read at least twenty books. Binge streaming and, to a much lesser degree, work interfered with my 2020 reading.</li><li>Work through at least three <em>math-intense</em> books.</li><li>Make another pass at learning and using <a href="https://leanprover.github.io/">proof assistants like LEAN</a>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Well, that ought to be enough rope to hang myself with. We can all meet here again next year and peruse my magnificent excuses for doing very little of the above. Oh, and one more thing: <a href="https://www.youtube.com/watch?v=I_izvAbhExY">just stay alive</a>. At my age this can no longer be taken for granted.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7031</wp:post_id>
+		<wp:post_date>2020-12-26 17:00:50</wp:post_date>
+		<wp:post_date_gmt>2020-12-27 00:00:50</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>cataract-conjunction-caps-coronavirus-year</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="2020"><![CDATA[2020]]></category>
+		<category domain="post_tag" nicename="cataract"><![CDATA[cataract]]></category>
+		<category domain="post_tag" nicename="coronavirus"><![CDATA[Coronavirus]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="great-conjunction"><![CDATA[Great Conjunction]]></category>
+		<category domain="post_tag" nicename="working-from-home"><![CDATA[working from home]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[52688434361]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1609027255]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 </channel>
 </rss>

@@ -1,0 +1,98 @@
+
+[Cataract Conjunction Caps Coronavirus Year](http://analyzethedatanotthedrivel.org/2020/12/26/cataract-conjunction-caps-coronavirus-year/) 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+*Posted: 27 Dec 2020 00:00:50*
+
+Our crappy Coronavirus year wound down with a bright spot: actually, two
+of them. On the 21st of December 2020, Jupiter and Saturn appeared right
+beside each other in the early evening southwestern sky. The last time
+they could be seen [this close it was
+1226:](https://astronomy.com/news/2020/12/jupiter-and-saturn-will-form-rare-christmas-star-on-winter-solstice)
+Notre Dame was still being built and the world was filled with
+ill-informed naked apes that thought Astrology was a thing! Boy have we
+progressed — not!
+
+For the week leading up to the “great conjunction,” I wondered if I
+would see it. The skies of Southern Idaho were filled with nasty opaque
+clouds but the weather broke and I was able to observe the conjunction
+from my backyard. In 16x70 binoculars I could easily make out Jupiter’s
+disk and see that Saturn was “not round” but my cataract comprised eyes
+could not resolve any moons or Saturn’s rings. Without binoculars, the
+great conjunction looked like a *tri-junction.* My cataracts split point
+sources of light into multiple images. The conjunction looked like a
+little star cluster while bright solitary stars looked like visual
+binaries. Declining vision blows but on a lighter note, I’m seeing a lot
+more stars these days! Cataract surgery is on my 2021 agenda, but it
+will have to wait for the Coronavirus pandemic to subside. Hospitals are
+way too busy coping with Winnie the Kung Flu victims to deal with minor
+old fart elective procedures.
+
+Unlike many, I don’t consider 2020 to be the worst year ever. I’ve
+personally endured far worse. The year I simultaneously tore the
+quadricep tendons in both legs and spent months in painful rehab easily
+*out-agonizes* the minor irritants of 2020. Honestly, I’ve enjoyed some
+of 2020’s *hardships*, starting with being forced to work from home.
+
+I’ve long held that there are very few “legitimate” reasons for IT
+workers to haul their asses into the office to be “managed.” This has
+been true for well over a decade but in today’s world of gigabit
+internet, collaboration tools like Teams and Zoom, and remote desktops
+controlling virtual machine servers it’s ludicrous and insulting.
+Management still harps on about how nothing substitutes for the high
+bandwidth in-person experience. That when you really want to hash out
+ideas and wrestle with demanding concepts getting together is still the
+best option. This, of course, blithely assumes management deals with
+ideas and concepts. Maybe it’s just me, but I’ve rarely observed
+“concepts” in the management wild. For me, the typical business meeting
+is an exercise in eye-rolling suppression; the Microsoft Teams
+experience is far superior for 90% of day-to-day meetings.
+
+My problem hasn’t been working for home. My problem is what do I do when
+I’m expected to return to the office. I’m hoping to make working from
+home a permanent thing but if that proves impossible, I’ll retire,
+*again*, for good. It’s great having options.
+
+My ambitions for 2021 go beyond continuing to work from home. I always
+have a few projects on the go, but I rarely blog about them because I
+hate having to explain why most of my projects never get completed or
+morph into something else during execution. *Don’t turn your hobbies
+into jobs!* Making a TODO list feels “jobby” but despite my advanced age
+and well-earned cynicism, especially about my own plans, I occasionally
+cough up TODO lists. Here’s one for 2021.
+
+1.  Update [JOD](https://analyzethedatanotthedrivel.org/the-jod-page/)
+    to handle J’s new [direction
+    definitions](https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition).
+    I’d also like to update JOD’s tests and make sure they pass in
+    Windows, Mac, and Linux environments.
+
+2.  Print this blog as a proper ISBN’ed book. In 2020 I released a new
+    printed version of the [JOD
+    manual](https://www.amazon.com/dp/B08M2KBMND). It’s time to do the
+    same for *Analyze the Data not the Drivel.*
+
+3.  Write at least 50 blog posts: about one a week.
+
+4.  Upload at least 250 well-captioned images to my [SmugMug picture
+    site](https://conceptcontrol.smugmug.com/). I didn’t shoot very many
+    pictures in 2020. My photographic passions wax and wane. Time to
+    get waxing.
+
+5.  Learn far more about the [RUST programming
+    language](https://www.rust-lang.org/) and write some RUST binaries
+    that can be called from J or Python.
+
+6.  Read at least twenty books. Binge streaming and, to a much lesser
+    degree, work interfered with my 2020 reading.
+
+7.  Work through at least three *math-intense* books.
+
+8.  Make another pass at learning and using [proof assistants like
+    LEAN](https://leanprover.github.io/).
+
+Well, that ought to be enough rope to hang myself with. We can all meet
+here again next year and peruse my magnificent excuses for doing very
+little of the above. Oh, and one more thing: [just stay
+alive](https://www.youtube.com/watch?v=I_izvAbhExY). At my age this can
+no longer be taken for granted.
