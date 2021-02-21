@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-01-13 18:02"-->
+<!-- generator="WordPress.com" created="2021-02-21 20:43"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Wed, 13 Jan 2021 18:02:19 +0000</pubDate>
+	<pubDate>Sun, 21 Feb 2021 20:43:36 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1161,6 +1161,8 @@
 	<wp:tag><wp:term_id>7934555</wp:term_id><wp:tag_slug>omahony</wp:tag_slug><wp:tag_name><![CDATA[O'Mahony]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>376320</wp:term_id><wp:tag_slug>obama</wp:tag_slug><wp:tag_name><![CDATA[Obama]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>21091</wp:term_id><wp:tag_slug>obituary</wp:tag_slug><wp:tag_name><![CDATA[obituary]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>123384</wp:term_id><wp:tag_slug>odbc</wp:tag_slug><wp:tag_name><![CDATA[ODBC]]></wp:tag_name>
 </wp:tag>
@@ -40139,6 +40141,94 @@ https://www.academia.edu/10031088/ORDINAL_FRACTIONS_-_the_algebra_of_data]]></wp
 			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
+			<wp:comment_id>2696</wp:comment_id>
+			<wp:comment_author><![CDATA[Brian Harvey]]></wp:comment_author>
+			<wp:comment_author_email>bh@cs.berkeley.edu</wp:comment_author_email>
+			<wp:comment_author_url>https://people.eecs.berkeley.edu/~bh</wp:comment_author_url>
+			<wp:comment_author_IP>157.131.255.70</wp:comment_author_IP>
+			<wp:comment_date>2021-01-31 23:14:25</wp:comment_date>
+			<wp:comment_date_gmt>2021-02-01 06:14:25</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You might be interested in a quasi-APL ("quasi" because the underlying data structure is lists of lists of lists rather than contiguous arrays) in Snap! ("Scheme disguised as Scratch"): https://snap.berkeley.edu/snap/help/SnapManual.pdf
+
+We're currently discussing biting the bullet and introducing APL arrays as a primitive data type, which would make all this much faster and simpler.]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612160066.455044;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"bhcsberkeleyedu";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612164378.166632;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"bhcsberkeleyedu";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>email_notification_jobid</wp:meta_key>
+				<wp:meta_value><![CDATA[54201826806]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>email_notification_queued</wp:meta_key>
+				<wp:meta_value><![CDATA[1612197938]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1612197938]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612197939.370205;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>2697</wp:comment_id>
+			<wp:comment_author><![CDATA[bh]]></wp:comment_author>
+			<wp:comment_author_email>bh@cs.berkeley.edu</wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP>157.131.255.70</wp:comment_author_IP>
+			<wp:comment_date>2021-01-31 23:18:21</wp:comment_date>
+			<wp:comment_date_gmt>2021-02-01 06:18:21</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I keep trying to post this and getting error messages...  Forgive me if you end up seeing half a dozen copies.
+
+You might be interested in another quasi-APL ("quasi" because the underlying data structure is lists of lists, rather than contiguous arrays, making things slower and harder to build, I know) in Snap! ("Scheme disguised as Scratch"):  https://snap.berkeley.edu/snap/help/SnapManual.pdf]]></wp:comment_content>
+			<wp:comment_approved>1</wp:comment_approved>
+			<wp:comment_type></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>177092878</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612160302.633218;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"bhcsberkeleyedu";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612164378.590065;s:5:"event";s:9:"check-ham";s:4:"user";s:15:"bhcsberkeleyedu";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>email_notification_jobid</wp:meta_key>
+				<wp:meta_value><![CDATA[54201833708]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>email_notification_queued</wp:meta_key>
+				<wp:meta_value><![CDATA[1612197951]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1612197951]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1612197951.996823;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
 			<wp:comment_id>2403</wp:comment_id>
 			<wp:comment_author><![CDATA[NumPy another Iverson Ghost – Analyze the Data not the Drivel &gt; Seekalgo]]></wp:comment_author>
 			<wp:comment_author_email></wp:comment_author_email>
@@ -45962,7 +46052,7 @@ Cheers]]></wp:comment_content>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[7047]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7042]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>timeline_notification</wp:meta_key>
@@ -45975,6 +46065,252 @@ Cheers]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
 			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>evelynfrankmonument1952</title>
+		<link>http://analyzethedatanotthedrivel.org/evelynfrankmonument1952/</link>
+		<pubDate>Sun, 21 Feb 2021 19:53:32 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/02/evelynfrankmonument1952.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[My parents Evelyn and Frank. This was probably taken shortly after my dad graduated from High School and about a year before my birth. My parents were together for almost sixty years but we have very few pictures of the two of them together.]]></excerpt:encoded>
+		<wp:post_id>7069</wp:post_id>
+		<wp:post_date>2021-02-21 12:53:32</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 19:53:32</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>evelynfrankmonument1952</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/02/evelynfrankmonument1952.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:876;s:6:"height";i:1226;s:4:"file";s:98:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/evelynfrankmonument1952.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Hazel Eggar";s:6:"camera";s:7:"LS-5000";s:7:"caption";s:241:"My parents Evelyn and Frank. This was probably taken shortly after my dad graduated from High School and about a year before my birth. My parents were together for almost sixty years but we have very few pictures of the two of them together.";s:17:"created_timestamp";s:10:"-545727600";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:8:"filesize";i:1089944;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/evelynfrankmonument1952.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>frankbaker2000</title>
+		<link>http://analyzethedatanotthedrivel.org/frankbaker2000/</link>
+		<pubDate>Sun, 21 Feb 2021 19:53:36 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/02/frankbaker2000.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[I snapped this shot of my dad in the dining room of the Riverside Golf Club in Bozeman.  It's one of my better snapshot of him.]]></excerpt:encoded>
+		<wp:post_id>7070</wp:post_id>
+		<wp:post_date>2021-02-21 12:53:36</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 19:53:36</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>frankbaker2000</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/02/frankbaker2000.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankbaker2000.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:858;s:6:"height";i:1201;s:4:"file";s:89:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankbaker2000.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:13:"John D. Baker";s:6:"camera";s:28:"Nikon SUPER COOLSCAN 5000 ED";s:7:"caption";s:127:"I snapped this shot of my dad in the dining room of the Riverside Golf Club in Bozeman.  It's one of my better snapshot of him.";s:17:"created_timestamp";s:9:"966301261";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:8:"filesize";i:1390630;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My father Frank as a six year old. He really rocked the Tom Sawyer look.</title>
+		<link>http://analyzethedatanotthedrivel.org/my-father-frank-as-a-six-year-old-he-really-rocked-the-tom-sawyer-look/</link>
+		<pubDate>Sun, 21 Feb 2021 19:53:39 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/02/frankfatherhat1939.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[My father Frank as a six year old. He really rocked the Tom Sawyer look.]]></excerpt:encoded>
+		<wp:post_id>7071</wp:post_id>
+		<wp:post_date>2021-02-21 12:53:39</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 19:53:39</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-father-frank-as-a-six-year-old-he-really-rocked-the-tom-sawyer-look</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/02/frankfatherhat1939.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:696;s:6:"height";i:1160;s:4:"file";s:93:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankfatherhat1939.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Helen Baker";s:6:"camera";s:0:"";s:7:"caption";s:72:"My father Frank as a six year old. He really rocked the Tom Sawyer look.";s:17:"created_timestamp";s:10:"-964774800";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:72:"My father Frank as a six year old. He really rocked the Tom Sawyer look.";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:8:"filesize";i:434935;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankfatherhat1939.jpg]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>frankfrankhelenjuly1941</title>
+		<link>http://analyzethedatanotthedrivel.org/frankfrankhelenjuly1941/</link>
+		<pubDate>Sun, 21 Feb 2021 19:53:42 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/02/frankfrankhelenjuly1941.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[A rare dated snapshot of my grandparents Frank (Senior) and Helen with my dad Frank. Taken in the summer before Pearl Harbor, just before the US entered World War II. My grandfathers were already too old for the draft and my father was way too young. This family slipped through the chaos relatively unscathed. Avoiding the craziness of any age is the hallmark of good fortune and intelligence.]]></excerpt:encoded>
+		<wp:post_id>7072</wp:post_id>
+		<wp:post_date>2021-02-21 12:53:42</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 19:53:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>frankfrankhelenjuly1941</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/02/frankfrankhelenjuly1941.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankfrankhelenjuly1941.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:781;s:6:"height";i:1171;s:4:"file";s:98:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/frankfrankhelenjuly1941.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"Unknown";s:6:"camera";s:0:"";s:7:"caption";s:394:"A rare dated snapshot of my grandparents Frank (Senior) and Helen with my dad Frank. Taken in the summer before Pearl Harbor, just before the US entered World War II. My grandfathers were already too old for the draft and my father was way too young. This family slipped through the chaos relatively unscathed. Avoiding the craziness of any age is the hallmark of good fortune and intelligence.";s:17:"created_timestamp";s:10:"-899369939";s:9:"copyright";s:19:"All rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:8:"filesize";i:452163;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>franktoddlerportrait</title>
+		<link>http://analyzethedatanotthedrivel.org/franktoddlerportrait/</link>
+		<pubDate>Sun, 21 Feb 2021 19:53:44 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/02/franktoddlerportrait.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[My recently deceased father as a pudgy toddler. It’s important to remember people at many times during their lives. Dad died at 87 but he wasn’t always an old man. I remember him as a young man and portraits like this take us back into his childhood.]]></excerpt:encoded>
+		<wp:post_id>7073</wp:post_id>
+		<wp:post_date>2021-02-21 12:53:44</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 19:53:44</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>franktoddlerportrait</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/02/franktoddlerportrait.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/franktoddlerportrait.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:854;s:6:"height";i:1068;s:4:"file";s:95:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/02/franktoddlerportrait.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:7:"Unknown";s:6:"camera";s:0:"";s:7:"caption";s:254:"My recently deceased father as a pudgy toddler. It’s important to remember people at many times during their lives. Dad died at 87 but he wasn’t always an old man. I remember him as a young man and portraits like this take us back into his childhood.";s:17:"created_timestamp";s:11:"-1036277939";s:9:"copyright";s:19:"all rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}s:8:"filesize";i:1122564;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My Father&#039;s Obituary</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/</link>
+		<pubDate>Sun, 21 Feb 2021 20:22:48 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=7074</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><em>The following is an obituary I wrote for my recently deceased father. The original was posted the on the <a href="https://www.franzen-davis.com/obituaries/Franklin-Burdick-Baker?obId=19950108">Franzen Davis Funeral Home</a> website. This version incorporates some minor adjustments and corrections that were noted by my brother. </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Franklin Burdick Baker, age 87, of Las Vegas formerly of Bozeman, died on Tuesday morning February 9<sup>th</sup>, 2021 at Nathan Adelson Hospice in Las Vegas Nevada. His son John and his daughter-in-law Malihe were at his side when he died. A celebration of Franks’s Life will be held Friday, February 26th at Franzen-Davis Funeral Home in Livingston Montana.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7073,"width":410,"height":512,"sizeSlug":"large","linkDestination":"custom","className":"is-style-default"} -->
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-large is-resized"><a href="https://conceptcontrol.smugmug.com/People/The-Way-We-Were/i-KZxPpwz/A"><img src="https://bakerjd99.files.wordpress.com/2021/02/franktoddlerportrait.jpg?w=819" alt="" class="wp-image-7073" width="410" height="512" /></a><figcaption>My recently deceased father as a pudgy toddler. It’s important to remember people at many times during their lives. Dad died at 87 but he wasn’t always an old man. I remember him as a young man and portraits like this take us back into his childhood.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Frank was born in Livingston Montana on September 15<sup>th</sup>, 1933. He was the only surviving child of Frank A. Baker and Helen (Burdick) Baker also of Livingston Montana. Frank grew up in Livingston and graduated from Park High School in 1951. In high school Frank used the name Dick Baker, he was also known as “Whoa-Whoa,” (see Park High’s <em>1951 Ranger</em> yearbook). For a few years, his future wife Evelyn (Eggar) Baker, lived kitty-corner to Frank’s home on South Fifth Street. Frank and Evelyn met as children and married as very young adults: Frank was twenty and Evelyn was a few days shy of eighteen. Shortly after their marriage Frank and Evelyn moved to Butte Montana where Frank studied Petroleum Engineering at the then Montana School of Mines (now Montana Tech). While in Butte two of Frank’s surviving children were born: John and Aileen. Frank and Evelyn’s third child Steve was born a few years later in Moab Utah.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7072,"width":342,"height":512,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://conceptcontrol.smugmug.com/People/Grandparents-1/i-SXfn4nQ/A"><img src="https://bakerjd99.files.wordpress.com/2021/02/frankfrankhelenjuly1941.jpg?w=683" alt="" class="wp-image-7072" width="342" height="512" /></a><figcaption>A rare dated snapshot of my grandparents Frank (Senior) and Helen with my dad Frank. Taken in the summer before Pearl Harbor, just before the US entered World War II. My grandfathers were already too old for the draft and my father was way too young. This family slipped through the chaos relatively unscathed. Avoiding the craziness of any age is the hallmark of good fortune and intelligence.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Frank graduated from Montana Tech in 1956 and started his long and successful Petroleum Engineering career in Rangely Colorado. For the next forty years, Frank drilled for oil all over the world. He wildcatted all over the western US. Brought in some massive 60 thousand barrel-a-day wells in southern Iran, worked in the -40C weather of Canadian winters, drilled deep offshore in Scotland, Norway, Indonesia, and South Korea. Frank progressed from a young engineer babysitting wildcat wells to managing large offshore drilling operations involving hundreds of people. By all accounts, Frank was an exemplary drilling engineer and was proud of his work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7069,"width":366,"height":512,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://conceptcontrol.smugmug.com/People/From-Hazels-Albums-1/i-Z5FBnXx/A"><img src="https://bakerjd99.files.wordpress.com/2021/02/evelynfrankmonument1952.jpg?w=732" alt="" class="wp-image-7069" width="366" height="512" /></a><figcaption>My parents Evelyn and Frank. This was probably taken shortly after my dad graduated from High School and about a year before my birth. My parents were together for almost sixty years but we have very few pictures of the two of them together.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>When not working Frank was probably on the golf course. In his prime Frank was a scratch golfer; that’s shooting par for you duffers. When he wasn’t playing golf he was watching it. In 1960 he was on the 18<sup>th</sup> green at Cherry Hills watching Arnold Palmer score a dramatic win in the US Open. Frank was also a capable basketball and baseball player. He was invited by the St. Louis Browns, a then major league baseball team to try out for their minor league affiliate but his mother wouldn't have it. Professional sports weren't dignified enough!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Outside of work and play Frank was a proud father. He and his wife Evelyn raised three children: John, Aileen, and Steven Baker. They, in turn, gave Frank four grandchildren, Brianna, Helen, Amanda, and Jacob and five great-grandchildren all of whom survive and miss him. Frank is now free to join his pre-deceased wife Evelyn Baker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Frank will be interred in Mountain View Cemetery beside his wife Evelyn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7070,"width":366,"height":512,"sizeSlug":"large","linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="https://conceptcontrol.smugmug.com/People/The-Way-We-Were/i-7mCwg3D/A"><img src="https://bakerjd99.files.wordpress.com/2021/02/frankbaker2000.jpg?w=732" alt="" class="wp-image-7070" width="366" height="512" /></a><figcaption>I snapped this shot of my dad in the dining room of the Riverside Golf Club in Bozeman.  It's one of my better snapshots of him.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7074</wp:post_id>
+		<wp:post_date>2021-02-21 13:22:48</wp:post_date>
+		<wp:post_date_gmt>2021-02-21 20:22:48</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>my-fathers-obituary</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="funeral"><![CDATA[funeral]]></category>
+		<category domain="post_tag" nicename="obituary"><![CDATA[obituary]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[55092088622]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[7070]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1613938973]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
