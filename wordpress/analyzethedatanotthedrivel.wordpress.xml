@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-02-21 20:43"-->
+<!-- generator="WordPress.com" created="2021-06-06 19:46"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Sun, 21 Feb 2021 20:43:36 +0000</pubDate>
+	<pubDate>Sun, 06 Jun 2021 19:46:00 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -137,10 +137,6 @@
 	<wp:tag><wp:term_id>2131</wp:term_id><wp:tag_slug>3d</wp:tag_slug><wp:tag_name><![CDATA[3D]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>55120580</wp:term_id><wp:tag_slug>48-frames-per-second</wp:tag_slug><wp:tag_name><![CDATA[48 frames per second]]></wp:tag_name>
-</wp:tag>
-	<wp:tag><wp:term_id>2053675</wp:term_id><wp:tag_slug>5x7</wp:tag_slug><wp:tag_name><![CDATA[5x7]]></wp:tag_name>
-</wp:tag>
-	<wp:tag><wp:term_id>51455477</wp:term_id><wp:tag_slug>5x7owlriver</wp:tag_slug><wp:tag_name><![CDATA[5x7;owl;river;]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>27594</wp:term_id><wp:tag_slug>absurd</wp:tag_slug><wp:tag_name><![CDATA[absurd]]></wp:tag_name>
 </wp:tag>
@@ -398,8 +394,6 @@
 </wp:tag>
 	<wp:tag><wp:term_id>180</wp:term_id><wp:tag_slug>colorado</wp:tag_slug><wp:tag_name><![CDATA[Colorado]]></wp:tag_name>
 </wp:tag>
-	<wp:tag><wp:term_id>104219733</wp:term_id><wp:tag_slug>colorado-shoote</wp:tag_slug><wp:tag_name><![CDATA[Colorado shoote]]></wp:tag_name>
-</wp:tag>
 	<wp:tag><wp:term_id>32033552</wp:term_id><wp:tag_slug>colorado-shooter</wp:tag_slug><wp:tag_name><![CDATA[Colorado shooter]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>11414</wp:term_id><wp:tag_slug>com</wp:tag_slug><wp:tag_name><![CDATA[COM]]></wp:tag_name>
@@ -463,8 +457,6 @@
 	<wp:tag><wp:term_id>191283</wp:term_id><wp:tag_slug>dante</wp:tag_slug><wp:tag_name><![CDATA[Dante]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>308856</wp:term_id><wp:tag_slug>dark-energy</wp:tag_slug><wp:tag_name><![CDATA[Dark Energy]]></wp:tag_name>
-</wp:tag>
-	<wp:tag><wp:term_id>44970953</wp:term_id><wp:tag_slug>dark-knight-rises</wp:tag_slug><wp:tag_name><![CDATA[Dark Knight Rises]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>51517</wp:term_id><wp:tag_slug>dark-matter</wp:tag_slug><wp:tag_name><![CDATA[Dark Matter]]></wp:tag_name>
 </wp:tag>
@@ -1457,6 +1449,8 @@
 	<wp:tag><wp:term_id>10346</wp:term_id><wp:tag_slug>sql</wp:tag_slug><wp:tag_name><![CDATA[SQL]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>86759</wp:term_id><wp:tag_slug>sqlserver</wp:tag_slug><wp:tag_name><![CDATA[SQLServer]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>106112</wp:term_id><wp:tag_slug>ssis</wp:tag_slug><wp:tag_name><![CDATA[SSIS]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>84897</wp:term_id><wp:tag_slug>ssn</wp:tag_slug><wp:tag_name><![CDATA[SSN]]></wp:tag_name>
 </wp:tag>
@@ -45071,6 +45065,10 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 			<wp:meta_key>_publicize_job_id</wp:meta_key>
 			<wp:meta_value><![CDATA[48154920154]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>new_favicons</title>
@@ -45208,6 +45206,10 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 		<wp:postmeta>
 			<wp:meta_key>timeline_notification</wp:meta_key>
 			<wp:meta_value><![CDATA[1599761339]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:comment>
 			<wp:comment_id>2420</wp:comment_id>
@@ -46311,6 +46313,217 @@ Cheers]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>timeline_notification</wp:meta_key>
 			<wp:meta_value><![CDATA[1613938973]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>A Brighter Bluer World</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/06/03/a-brighter-bluer-world/</link>
+		<pubDate>Thu, 03 Jun 2021 15:49:42 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://analyzethedatanotthedrivel.org/?p=7086</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Yesterday I had cataract surgery, My cataract-infused left eye lens was removed and replaced with a plastic mono-focal lens. I’m still recovering from the procedure but I can already see that it’s going to be a brighter and bluer world, My cataracts were literally casting a yellowish pall on everything. I knew my color sense was off, and I often worried about how it might be affecting my photo editing, but I’m still surprised by just how off it was. Even with blurry postoperative vision, the sky was a richer, purer, brighter blue. It will be a week or so before my left eye recovers and I will still need glasses for closeup work, (the mono-focal replacement lens is set to infinity), but I will definitely be seeing in a new light.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:media-text {"mediaId":7088,"mediaType":"image","mediaWidth":20,"verticalAlignment":"center"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:20% auto;"><figure class="wp-block-media-text__media"><img src="https://bakerjd99.files.wordpress.com/2021/06/img_6809.jpg?w=225" alt="Postoperative cataract cyclops.  Here I am wearing an eye guard. You're not supposed to rub your eyes for a few weeks after cataract surgery. This getup prevents nighttime eye rubbing." class="wp-image-7088 size-full" /></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content\u2026","fontSize":"normal"} -->
+<p class="has-normal-font-size"><em>Postoperative cataract cyclops. Here I am wearing an eye guard. You're not supposed to rub your eyes for a few weeks after cataract surgery. This getup prevents nighttime eye rubbing.</em></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7086</wp:post_id>
+		<wp:post_date>2021-06-03 09:49:42</wp:post_date>
+		<wp:post_date_gmt>2021-06-03 15:49:42</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>a-brighter-bluer-world</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="cataract"><![CDATA[cataract]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="surgery"><![CDATA[surgery]]></category>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1622738298]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_published</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_rest_api_client_id</wp:meta_key>
+			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[59168679090]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[7088]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>img_6809</title>
+		<link>http://analyzethedatanotthedrivel.org/img_6809/</link>
+		<pubDate>Thu, 03 Jun 2021 16:23:21 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/06/img_6809.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Postoperative cataract cyclops.  Here I am wearing an eye guard. You're not supposed to rub your eyes for a few weeks after cataract surgery. This getup prevents nighttime eye rubbing.]]></excerpt:encoded>
+		<wp:post_id>7088</wp:post_id>
+		<wp:post_date>2021-06-03 10:23:21</wp:post_date>
+		<wp:post_date_gmt>2021-06-03 16:23:21</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>img_6809</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/06/img_6809.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/06/img_6809.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:480;s:6:"height";i:640;s:4:"file";s:83:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/06/img_6809.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:14:{s:8:"aperture";s:3:"1.8";s:6:"credit";s:0:"";s:6:"camera";s:13:"iPhone 7 Plus";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1622672702";s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"3.99";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:17:"0.090909090909091";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}s:8:"latitude";d:43.646708333333336;s:9:"longitude";d:-116.37593055555556;}s:8:"filesize";i:93165;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Running SSIS Packages with Python</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/06/05/running-ssis-packages-with-python/</link>
+		<pubDate>Sat, 05 Jun 2021 15:36:15 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7103</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Microsoft's <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15">SSIS (SQL Server Integration Services)</a> is a ubiquitous ETL (Extract Transform and Load) tool. Despite its widespread use, SSIS is not loved! At best, it's tolerated for its undeniable utility, but SSIS's “utility” comes with a host of hideous warts with the ugliest being its <em>file handling</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You would think that an ETL tool would excel at file manipulation; how else would you “extract” data? But, for reasons lost to posterity, SSIS totally screws the file handling pooch. Now there are “sanctioned” ways to unscrew the pooch. Use <a href="https://docs.microsoft.com/en-us/sql/integration-services/extending-packages-scripting-task-examples/script-task-examples?view=sql-server-ver15">“script tasks” </a>is a common retort. With script tasks, you code your file handling bits in something like C# and then use SSIS to compile and incorporate the C# parts into the larger ETL process. Script tasks work but they're a pain to debug and maintain. There are other <em>pooch unscrewers</em>. Many code everything in SQL stored procedures, others build <a href="https://stackoverflow.com/questions/1268342/what-is-the-gac-in-net">GAC dlls</a>, some use <a href="https://docs.microsoft.com/en-us/sql/integration-services/control-flow/execute-process-task?view=sql-server-ver15">command tasks</a> to shell out to file utilities. Sadly, the abundance of SSIS file handling work-a-arounds just affirms that SSIS blows hard here!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I could bitch about SSIS file handling for fortnights but, bitching does not solve problems. Luckily, there is an easy way to use SSIS’s <a href="https://www.youtube.com/watch?v=wPiHQ37gXnE">good bits</a> without getting sucked into the script task swamp.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>SSIS typically calls helper processes like script tasks, but if you flip things around and call SSIS from helper processes you can easily leverage the strengths of both SSIS and helpers.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>The following Python snippet, taken from a recent project, illustrates this technique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1"></a>    all_cube_zips <span class="op">=</span> etl.daily_zip_files(working_dirs<span class="op">=</span>rtp.working_dirs, </span>
+<span id="cb1-2"><a href="#cb1-2"></a>                                        runtime_parms<span class="op">=</span>rtp.runtime_parms)</span>
+<span id="cb1-3"><a href="#cb1-3"></a></span>
+<span id="cb1-4"><a href="#cb1-4"></a>    <span class="cf">for</span> cnt, zipfile <span class="kw">in</span> <span class="bu">enumerate</span>(all_cube_zips):</span>
+<span id="cb1-5"><a href="#cb1-5"></a></span>
+<span id="cb1-6"><a href="#cb1-6"></a>        etl.clear_working_dirs(working_dirs<span class="op">=</span>rtp.working_dirs, </span>
+<span id="cb1-7"><a href="#cb1-7"></a>                               runtime_parms<span class="op">=</span>rtp.runtime_parms, </span>
+<span id="cb1-8"><a href="#cb1-8"></a>                               name_prefix<span class="op">=</span><span class="st">"DailyRetails"</span>)</span>
+<span id="cb1-9"><a href="#cb1-9"></a></span>
+<span id="cb1-10"><a href="#cb1-10"></a>        dailyretail_xml_files <span class="op">=</span> etl.unzip_prefix_xml(name_prefix<span class="op">=</span><span class="st">"DailyRetails"</span>, </span>
+<span id="cb1-11"><a href="#cb1-11"></a>                                daily_zip_file<span class="op">=</span>zipfile, </span>
+<span id="cb1-12"><a href="#cb1-12"></a>                                working_dirs<span class="op">=</span>rtp.working_dirs,</span>
+<span id="cb1-13"><a href="#cb1-13"></a>                                runtime_parms<span class="op">=</span>rtp.runtime_parms)</span>
+<span id="cb1-14"><a href="#cb1-14"></a></span>
+<span id="cb1-15"><a href="#cb1-15"></a>        tsv_files <span class="op">=</span> dcx.write_dailyretail_tsvs(xml_files<span class="op">=</span>dailyretail_xml_files, </span>
+<span id="cb1-16"><a href="#cb1-16"></a>                                daily_zip_file<span class="op">=</span>os.path.basename(zipfile), </span>
+<span id="cb1-17"><a href="#cb1-17"></a>                                column_defaults<span class="op">=</span>rcd.DailyRetails_column_defaults, </span>
+<span id="cb1-18"><a href="#cb1-18"></a>                                working_dirs<span class="op">=</span>rtp.working_dirs,</span>
+<span id="cb1-19"><a href="#cb1-19"></a>                                runtime_parms<span class="op">=</span>rtp.runtime_parms,</span>
+<span id="cb1-20"><a href="#cb1-20"></a>                                append_only<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb1-21"><a href="#cb1-21"></a></span>
+<span id="cb1-22"><a href="#cb1-22"></a>        os.system(<span class="vs">r"\\Shares\DailyCode\bats\SelectReload.bat"</span>)</span></code></pre></div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>This Python program unzips hundreds of XML files to a working directory and then “flattens” them to a simple TAB delimited text file. This is typical ETL stuff. After writing the TAB delimited file Python runs a simple batch script to execute an SSIS package. The batch script is called with:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="sourceCode" id="cb2"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1"></a>    os.system(<span class="vs">r"\\Shares\DailyCode\bats\SelectReload.bat"</span>)</span></code></pre></div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>The following script lines from SelectReload.bat show how to set up and run a package with <a href="https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility?view=sql-server-ver15">dtexec.exe</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:jetpack/markdown {"source":"```bat\n    rem change to your dtexec directory\n    cd \u0022c:\\Program Files\\Microsoft SQL Server\\150\\DTS\\Binn\u0022\n    rem execute an SSIS package - use fully qualified paths\n    dtexec \/Project \u0022\\\\Shares\\DailyCode\\flat.ispac\u0022 \/Package Reloads.dtsx\n    if %ERRORLEVEL% NEQ 0 goto Error18\n```"} -->
+<div class="wp-block-jetpack-markdown"><pre><code class="language-bat">    rem change to your dtexec directory
+    cd &quot;c:\Program Files\Microsoft SQL Server\150\DTS\Binn&quot;
+    rem execute an SSIS package - use fully qualified paths
+    dtexec /Project &quot;\\Shares\DailyCode\flat.ispac&quot; /Package Reloads.dtsx
+    if %ERRORLEVEL% NEQ 0 goto Error18
+</code></pre>
+</div>
+<!-- /wp:jetpack/markdown -->
+
+<!-- wp:paragraph -->
+<p>Here, all the irritating file hacking is done with Python leaving streamlined ETL jobs for SSIS. Both processes are simplified. Both are easy to test and debug. With software, it's always wise to try simple first.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As a final warning, before you adopt this approach be aware that you need full <a href="https://www.makeuseof.com/tag/windows-admin-rights/">“Administrative Rights”</a> to run dtexec.com like this. Many anally retentive IT outfits will simply outlaw such renegade scripting. If you’re incarcerated in <em>Administrative Rights</em> jail I'd suggest taking advantage of the <a href="https://inthesetimes.com/article/labor-shortage-jobs-report-low-wages-biden-covid">current labor shortage</a> and find another job. Squabbling over administrative rights is a demeaning waste of IT talent that can no longer be tolerated.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7103</wp:post_id>
+		<wp:post_date>2021-06-05 09:36:15</wp:post_date>
+		<wp:post_date_gmt>2021-06-05 15:36:15</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>running-ssis-packages-with-python</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+		<category domain="category" nicename="python"><![CDATA[Python]]></category>
+		<category domain="category" nicename="sql"><![CDATA[SQL]]></category>
+		<category domain="post_tag" nicename="ssis"><![CDATA[SSIS]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[59245287737]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1622907380]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
