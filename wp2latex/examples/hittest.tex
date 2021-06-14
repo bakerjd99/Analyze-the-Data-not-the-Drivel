@@ -1,0 +1,134 @@
+% process with a latex that supports ttf and otf fonts - lualatex works
+
+\documentclass{article}
+
+\usepackage{fontspec}
+
+% hittite font https://www.hethport.uni-wuerzburg.de/cuneifont/
+\setmonofont{UllikummiA}
+
+% smaller margins in document 
+\usepackage[headings]{fullpage}
+
+% extended coloring
+\usepackage[dvipsnames]{xcolor}
+
+\definecolor{CodeBackGround}{cmyk}{0.0,0.0,0,0.05}  % light gray
+\definecolor{CodeComment}{rgb}{0,0.50,0.00}         % dark green {0,0.45,0.08}
+
+\usepackage{listings}
+
+\lstdefinelanguage{hit}
+{
+extendedchars=true,
+morekeywords={},
+otherkeywords={},
+keywordstyle=\bfseries\color{red},
+sensitive=True,
+morecomment=[l]{⍝}
+}
+
+\lstset{%
+  basicstyle=\ttfamily\small,  
+  keywordstyle=\bfseries\normalsize,  % can color key words        
+  identifierstyle=,                             
+  commentstyle=\slshape\color{CodeComment}, % no slanted shape in APL385    
+  stringstyle=\ttfamily,                        
+  showstringspaces=false,                      
+  backgroundcolor=\color{CodeBackGround},      
+  frame=single,                               
+  framesep=1pt,                                
+  framerule=0.8pt,                              
+  rulecolor=\color{CodeBackGround},             
+  breaklines=true,      % break long code lines                        
+  breakindent=0pt,
+  escapechar=\&%                           
+}
+
+
+\begin{document}
+
+Mapping to show GUID \Large \emph{9259781A92E4B542BEE9585BDEE07B19} \normalsize.
+
+Has unique characters \Large \emph{01245789ABDE} \normalsize.
+
+% contains Unicode byte streams may not
+% display properly in many editors
+% ok in visual studio code
+
+\Huge
+\begin{description}
+\item [0] \texttt{𒆬}
+\item [1] \texttt{𒍝}
+\item [2] \texttt{𒑚}
+\item [4] \texttt{𒈩}
+\item [5] \texttt{𒄰}
+\item [7] \texttt{𒉣}
+\item [8] \texttt{𒁇}
+\item [9] \texttt{𒐈}
+\item [A] \texttt{𒉽}
+\item [B] \texttt{𒉭}
+\item [D] \texttt{𒇲}
+\item [E] \texttt{𒆜}
+\end{description}
+\normalsize
+
+\newpage
+
+Gay coloring.
+
+\Huge
+\begin{description}
+%                              9                              2                              5                            9                             7                              8
+\item  \textcolor{red}{\texttt{𒐈}}\textcolor{orange}{\texttt{𒑚}}\textcolor{yellow}{\texttt{𒄰}}\textcolor{green}{\texttt{𒐈}}\textcolor{blue}{\texttt{𒉣}}\textcolor{violet}{\texttt{𒁇}}
+%                              1                              A                             9                             2                            E                              4
+\item  \textcolor{red}{\texttt{𒍝}}\textcolor{orange}{\texttt{𒉽}}\textcolor{yellow}{\texttt{𒐈}}\textcolor{green}{\texttt{𒑚}}\textcolor{blue}{\texttt{𒆜}}\textcolor{violet}{\texttt{𒈩}}
+%                              B                              5                                                                                      4                               2
+\item  \textcolor{red}{\texttt{𒉭}}\textcolor{orange}{\texttt{𒄰}}\textcolor{yellow}{\texttt{  }}\textcolor{green}{\texttt{ }}\textcolor{blue}{\texttt{𒈩}}\textcolor{violet}{\texttt{𒑚}}
+%                              B                              E                                                                                       E                              9
+\item  \textcolor{red}{\texttt{𒉭}}\textcolor{orange}{\texttt{𒆜}}\textcolor{yellow}{\texttt{  }}\textcolor{green}{\texttt{ }}\textcolor{blue}{\texttt{𒆜}}\textcolor{violet}{\texttt{𒐈}}
+%                              5                              8                              5                             B                           D                             E
+\item  \textcolor{red}{\texttt{𒄰}}\textcolor{orange}{\texttt{𒁇}}\textcolor{yellow}{\texttt{𒄰}}\textcolor{green}{\texttt{𒉭}}\textcolor{blue}{\texttt{𒇲}}\textcolor{violet}{\texttt{𒆜}}
+%                              E                              0                               7                             B                           1                             9
+\item  \textcolor{red}{\texttt{𒆜}}\textcolor{orange}{\texttt{𒆬}}\textcolor{yellow}{\texttt{𒉣}}\textcolor{green}{\texttt{𒉭}}\textcolor{blue}{\texttt{𒍝}}\textcolor{violet}{\texttt{𒐈}}
+\end{description}
+\normalsize
+
+\newpage
+
+Plain verbatim listing. It works for UTF8 input but does not break
+lines, format syntax or update listings list.
+
+\Huge
+\begin{verbatim}
+𒐈𒑚𒄰𒐈𒉣𒁇
+𒍝𒉽𒐈𒑚𒆜𒈩
+𒉭𒄰  𒈩𒑚
+𒉭𒆜  𒆜𒐈
+𒄰𒁇𒄰𒉭𒇲𒆜
+𒆜𒆬𒉣𒉭𒍝𒐈
+\end{verbatim}
+\normalsize
+
+\newpage
+
+\begin{minipage}{1.0\linewidth}
+
+\Large
+
+\centering
+
+\begin{lstlisting}[language=hit,extendedchars=true,
+basicstyle=\ttfamily\Huge\color{red},frame=shadowbox,
+rulesepcolor=\color{blue},framexleftmargin=10mm]
+𒐈𒑚𒄰𒐈𒉣𒁇&\newline&
+𒍝𒉽𒐈𒑚𒆜𒈩&\newline&
+𒉭𒄰  𒈩𒑚&\newline&
+𒉭𒆜  𒆜𒐈&\newline&
+𒄰𒁇𒄰𒉭𒇲𒆜&\newline&
+𒆜𒆬𒉣𒉭𒍝𒐈&\newline&
+\end{lstlisting}
+\end{minipage}
+
+
+\end{document}
