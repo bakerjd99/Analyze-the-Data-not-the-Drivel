@@ -1,4 +1,4 @@
- 37640b4d59cab916736f3afea988015467db7871 bm.pdf
+ 2e59e54c015165e56720060f5c5921a28e95ded5 bm.pdf
  f6fcb24c5d07af39d67afa10e981734ab4c13253 ablackswansong985.tex
  85b3d4457bc79bed5b78acf542c56dd7b83c4a2a abloggychristmaslett5275.tex
  783b3286bb49fd3015fd54b6bf51c3e58063f4ae abrighterbluerworld7086.tex
@@ -25,7 +25,7 @@
  29a1523722dae5741571deeb03bdde6aff964d77 blogrobotreview3653.tex
  418dcf471e72338449c57baac9f133b3ca7359d1 bloodmorons4643.tex
  56225deee599bcd339af6ba6c548f17c5160b83b blurbnicklombstransi2744.tex
- 672fe96ec3d41791aa9c56ec066ae2e1a35808ae bm.tex
+ 7f62cb786812bd06983c3fe546f8f56f6e49b852 bm.tex
  1b85bedffef6b35248f6b455c3cea152c0acb598 bmamble.tex
  04bf0fcc0b01c71c0094148e852b160df2ef75a3 bmamblenew.tex
  2321d924f50da8d20f6f9e8ed5fb92635c62abb7 bmtitlepage.tex
@@ -194,6 +194,7 @@
  df3633ed840775232ab0fa500faad37466fb1c52 thesingularityisnotn4558.tex
  29544b13c886506752d14f5ca86b07ad547062d9 theunspacetreatyisho1022.tex
  be0b1663fe384fb0a29dafd7dffe1d1e97c9c796 thewahweapwow2818.tex
+ 9ce02e15c8e75f384ed67959ac443ee5cb4c0a09 thezerobullshitsport7142.tex
  baaf52ff73d5d0d8bc763a2388392343464afaec thisherodotusisahoot660.tex
  197a16905effc42f16abcd4c49981b359d507f9c tippingwithbitcoins4347.tex
  0e12cc52d58950f6668f522dea4a684f688f701a toobusytoblog4086.tex
