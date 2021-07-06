@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-06-26 15:22"-->
+<!-- generator="WordPress.com" created="2021-07-06 14:47"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Sat, 26 Jun 2021 15:22:51 +0000</pubDate>
+	<pubDate>Tue, 06 Jul 2021 14:47:57 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -203,6 +203,8 @@
 	<wp:tag><wp:term_id>24592</wp:term_id><wp:tag_slug>arizona</wp:tag_slug><wp:tag_name><![CDATA[Arizona]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>48009591</wp:term_id><wp:tag_slug>array-processing</wp:tag_slug><wp:tag_name><![CDATA[array processing]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>177</wp:term_id><wp:tag_slug>art</wp:tag_slug><wp:tag_name><![CDATA[Art]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>703817384</wp:term_id><wp:tag_slug>artic-code-vault</wp:tag_slug><wp:tag_name><![CDATA[Artic Code Vault]]></wp:tag_name>
 </wp:tag>
@@ -560,6 +562,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>34</wp:term_id><wp:tag_slug>eris</wp:tag_slug><wp:tag_name><![CDATA[Eris]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>1204375</wp:term_id><wp:tag_slug>esty</wp:tag_slug><wp:tag_name><![CDATA[ESTY]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>1329599</wp:term_id><wp:tag_slug>etrex</wp:tag_slug><wp:tag_name><![CDATA[Etrex]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>404358</wp:term_id><wp:tag_slug>euclid</wp:tag_slug><wp:tag_name><![CDATA[Euclid]]></wp:tag_name>
@@ -741,6 +745,8 @@
 	<wp:tag><wp:term_id>37144</wp:term_id><wp:tag_slug>haskell</wp:tag_slug><wp:tag_name><![CDATA[Haskell]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>380715</wp:term_id><wp:tag_slug>hate-group</wp:tag_slug><wp:tag_name><![CDATA[hate group]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>720813853</wp:term_id><wp:tag_slug>hbbartbyhelen</wp:tag_slug><wp:tag_name><![CDATA[HBBArtByHelen]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>20052</wp:term_id><wp:tag_slug>health-care</wp:tag_slug><wp:tag_name><![CDATA[Health Care]]></wp:tag_name>
 </wp:tag>
@@ -1193,6 +1199,8 @@
 	<wp:tag><wp:term_id>34735760</wp:term_id><wp:tag_slug>oz-the-great-and-powerful</wp:tag_slug><wp:tag_name><![CDATA[Oz the Great and Powerful]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>8288</wp:term_id><wp:tag_slug>page</wp:tag_slug><wp:tag_name><![CDATA[Page]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>11420</wp:term_id><wp:tag_slug>painting</wp:tag_slug><wp:tag_name><![CDATA[painting]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>29819099</wp:term_id><wp:tag_slug>pandoc</wp:tag_slug><wp:tag_name><![CDATA[Pandoc]]></wp:tag_name>
 </wp:tag>
@@ -46791,6 +46799,122 @@ Cheers]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>timeline_notification</wp:meta_key>
 			<wp:meta_value><![CDATA[1624645012]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Buy My Daughter Helen&#039;s Art!</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/07/05/buy-my-daughter-helens-art/</link>
+		<pubDate>Mon, 05 Jul 2021 19:09:25 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7147</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Dear readers, as most of you know, this blog does not promote anything except the fevered ravings of its somewhat deranged author. But today, in a wild break with tradition, I'm promoting my daughter's art.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of us put <em>Winnie the Wuhan Kung Flu</em><a class="footnote-ref" id="fnref1" role="doc-noteref" href="#fn1"><sup>1</sup></a> lockdowns to good use. I finished my <a href="https://www.amazon.com/dp/B08M2KBMND">JOD book</a>, and my daughter Helen transformed herself into a visual artist. This collage was built from two images she sent me from her recent Belleville Ontario <a href="https://bazaarmarket.ca/">art show</a>. Helen's work is <a href="https://www.etsy.com/shop/HBBArtByHelen?ref=profile_header">available on ESTY</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7151,"width":472,"height":659,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://bakerjd99.files.wordpress.com/2021/07/helen-belleville-art-show.jpg?w=600" alt="" class="wp-image-7151" width="472" height="659" /><figcaption>A collage of my daughter's art show kiosk and one of her paintings. </figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Know that if you purchase one of Helen's paintings, you're not only helping her, but you're helping people struggling with depression in Kingston Ontario and throughout Canada. Helen battled depression after graduating from Queen’s University in Kingston. She knows how crippling it is; so she's donating 10% of her art sales to the <a href="https://www.defeatdepression.ca/">Kingston Defeat Depression Campaign</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"textColor":"dark-gray"} -->
+<p class="has-dark-gray-color has-text-color">I purchased some of her early paintings. Dads are supposed to support their kids, but I have a feeling the paintings I bought to help her out will turn into <em>investments</em> as Helen’s art matures. If Helen’s art catches your fancy and you don’t see anything on her ESTY site that suits you, <em>she takes commissions</em>! Her biggest sale so far was a large commissioned work for a Toronto art aficionado. I’m sure she would be delighted to paint one for you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>If calling COVID-19 “Winnie the Wuhan Kung Flu” triggers you, may I suggest expedient self-fornication. Never self-censor for simpletons.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7147</wp:post_id>
+		<wp:post_date>2021-07-05 13:09:25</wp:post_date>
+		<wp:post_date_gmt>2021-07-05 19:09:25</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>buy-my-daughter-helens-art</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="art"><![CDATA[Art]]></category>
+		<category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+		<category domain="post_tag" nicename="esty"><![CDATA[ESTY]]></category>
+		<category domain="post_tag" nicename="hbbartbyhelen"><![CDATA[HBBArtByHelen]]></category>
+		<category domain="post_tag" nicename="painting"><![CDATA[painting]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_old_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[__trashed]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[60393080652]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1625512996]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>helen belleville art show</title>
+		<link>http://analyzethedatanotthedrivel.org/helen-belleville-art-show/</link>
+		<pubDate>Mon, 05 Jul 2021 18:58:08 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/07/helen-belleville-art-show.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Some of us have put the Winnie the Wuhan Flu pandemic lockdowns to good use. I finished my JOD book, and my daughter Helen has transformed herself into a visual artist. This collage was built from two images she sent me from her recent Belleville Ontario art show. Helen's work is <a href="https://www.etsy.com/shop/HBBArtByHelen?ref=profile_header">available on ESTY (click here)</a>, and Helen is donating 10% of her sales to the Kingston Defeat Depression campaign. Yesterday, two of her prints arrived in the mail; they are delightful. I purchased some of her early paintings. Dads are supposed to support their kids, but I have a feeling they will turn into investments as Helen’s art matures.]]></excerpt:encoded>
+		<wp:post_id>7151</wp:post_id>
+		<wp:post_date>2021-07-05 12:58:08</wp:post_date>
+		<wp:post_date_gmt>2021-07-05 18:58:08</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>helen-belleville-art-show</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/07/helen-belleville-art-show.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/07/helen-belleville-art-show.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:840;s:4:"file";s:100:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/07/helen-belleville-art-show.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Helen Baker";s:6:"camera";s:0:"";s:7:"caption";s:700:"Some of us have put the Winnie the Wuhan Flu pandemic lockdowns to good use. I finished my JOD book, and my daughter Helen has transformed herself into a visual artist. This collage was built from two images she sent me from her recent Belleville Ontario art show. Helen's work is <a href="https://www.etsy.com/shop/HBBArtByHelen?ref=profile_header">available on ESTY (click here)</a>, and Helen is donating 10% of her sales to the Kingston Defeat Depression campaign. Yesterday, two of her prints arrived in the mail; they are delightful. I purchased some of her early paintings. Dads are supposed to support their kids, but I have a feeling they will turn into investments as Helen’s art matures.";s:17:"created_timestamp";s:10:"1625413261";s:9:"copyright";s:19:"all rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:380634;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
