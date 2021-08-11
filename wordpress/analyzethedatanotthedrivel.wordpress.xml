@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-07-06 14:47"-->
+<!-- generator="WordPress.com" created="2021-08-11 21:44"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Tue, 06 Jul 2021 14:47:57 +0000</pubDate>
+	<pubDate>Wed, 11 Aug 2021 21:44:33 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -563,6 +563,8 @@
 	<wp:tag><wp:term_id>34</wp:term_id><wp:tag_slug>eris</wp:tag_slug><wp:tag_name><![CDATA[Eris]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>1204375</wp:term_id><wp:tag_slug>esty</wp:tag_slug><wp:tag_name><![CDATA[ESTY]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>223321</wp:term_id><wp:tag_slug>etl</wp:tag_slug><wp:tag_name><![CDATA[ETL]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>1329599</wp:term_id><wp:tag_slug>etrex</wp:tag_slug><wp:tag_name><![CDATA[Etrex]]></wp:tag_name>
 </wp:tag>
@@ -9160,6 +9162,32 @@ Bill]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1503124699.8735520839691162109375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>3031</wp:comment_id>
+			<wp:comment_author><![CDATA[JETL &#8211; J Extract Transform and Load &#8211; Analyze the Data not the Drivel]]></wp:comment_author>
+			<wp:comment_author_email></wp:comment_author_email>
+			<wp:comment_author_url>http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/</wp:comment_author_url>
+			<wp:comment_author_IP>192.0.116.76</wp:comment_author_IP>
+			<wp:comment_date>2021-08-11 15:03:19</wp:comment_date>
+			<wp:comment_date_gmt>2021-08-11 21:03:19</wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[[&#8230;] The JOD Page [&#8230;]]]></wp:comment_content>
+			<wp:comment_approved>0</wp:comment_approved>
+			<wp:comment_type>pingback</wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_result</wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1628715800.094798;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_as_submitted</wp:meta_key>
+				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:81:"JETL &#8211; J Extract Transform and Load &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:83:"http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:32:"[&#8230;] The JOD Page [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:12:"192.0.116.76";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:12:"192.0.116.76";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:51:"http://analyzethedatanotthedrivel.org/the-jod-page/";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
@@ -44500,6 +44528,10 @@ C:\temp\nb2wp\tmp\MoreBetterBloggingWithJupyter1.html: 53009 bytes written in 10
 			<wp:meta_key>timeline_notification</wp:meta_key>
 			<wp:meta_value><![CDATA[1596234880]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Neowise Nostalgia</title>
@@ -46915,6 +46947,828 @@ Cheers]]></wp:comment_content>
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
 			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:840;s:4:"file";s:100:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/07/helen-belleville-art-show.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:11:"Helen Baker";s:6:"camera";s:0:"";s:7:"caption";s:700:"Some of us have put the Winnie the Wuhan Flu pandemic lockdowns to good use. I finished my JOD book, and my daughter Helen has transformed herself into a visual artist. This collage was built from two images she sent me from her recent Belleville Ontario art show. Helen's work is <a href="https://www.etsy.com/shop/HBBArtByHelen?ref=profile_header">available on ESTY (click here)</a>, and Helen is donating 10% of her sales to the Kingston Defeat Depression campaign. Yesterday, two of her prints arrived in the mail; they are delightful. I purchased some of her early paintings. Dads are supposed to support their kids, but I have a feeling they will turn into investments as Helen’s art matures.";s:17:"created_timestamp";s:10:"1625413261";s:9:"copyright";s:19:"all rights reserved";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:380634;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>swiftprep</title>
+		<link>http://analyzethedatanotthedrivel.org/swiftprep/</link>
+		<pubDate>Tue, 10 Aug 2021 20:18:49 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/08/swiftprep.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7161</wp:post_id>
+		<wp:post_date>2021-08-10 14:18:49</wp:post_date>
+		<wp:post_date_gmt>2021-08-10 20:18:49</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>swiftprep</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/08/swiftprep.pdf</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/swiftprep.pdf]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>JETL - J Extract Transform and Load</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/</link>
+		<pubDate>Wed, 11 Aug 2021 21:02:55 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7162</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:html -->
+
+
+<div style='font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-size:14px;line-height:20px;overflow-y:hidden;overflow-x:auto;width:100%;padding-top:0;margin:0;outline:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;min-height:100%;overflow:visible;border-top:none;'>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin-right:auto;margin-left:auto;padding-left:0;padding-right:0;">
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">I have been surreptitiously using the <a href="https://code.jsoftware.com/wiki/NuVoc" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">J programming language</a> on the job for many years. With rare exceptions, I haven't advertised my clandestine use of J simply because
+it's strange and scary and nonstandard, and IT departments are filled with cowardly little bedwetters
+that run away like <a href="https://www.youtube.com/watch?v=BZwuTo7zKM8" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">Brave Sir Robin</a> when confronted with
+something really different! At first, I tried to convince the bedwetters that J is a fabulous tool: a spear in
+a world of bent spoons! But, if you've ever tried convincing an <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">academic Marxist</em> that, yes <a href="https://www.quora.com/Why-do-communists-insist-that-real-communism-has-never-been-tried?share=1" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">"communism has been tried"</a>,
+or a UFO-olgist that funny lights in the sky are almost certainly not aliens, or a 9-11 <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">troofer</em> that the twin towers
+were <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">absolutely not brought down by controlled demolition</em>, then you have a pretty good idea what it's
+like getting IT departments to buy into unsanctioned technologies.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">It's sad, but some of the most pig-headed and closed-minded people I have ever run into are fellow programmers and IT professionals. As a <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">self-anointed</em> elite, ITites (IT people), 
+can be insufferably sure of themselves. Hubris is still very much a thing! <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">As a general rule,
+always consider the possibility that you are full of it!</em></p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">With that said, what's so great about J and why should anyone use it for database <a href="https://www.ibm.com/cloud/learn/etl" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">ETL</a> (Extract Transform and Load) jobs?</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>ETL unavoidable grunt work and an IT Achilles heel<a href="#ETL-unavoidable-grunt-work-and-an-IT-Achilles-heel" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">ETL jobs are never glamorous! You're not going to win any <a href="https://amturing.acm.org/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">Turing Awards</a> 
+for converting dumpster-fire data into well-structured database tables. Nor will you garner accolades and 
+<a href="https://www.youtube.com/watch?v=jjaqrPpdQYc" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">"We are not worthies"</a> from peers. Most ITites simply assume
+the ETL will be done while they dream of all the shiny things the polished data will enable. <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">Precisely because ETL is dull, any moron can do it, grunt work, it's frequently discounted.</em> I've watched many IT projects sink after being torpedoed by incomplete and crappy ETL.  ETL is an IT Achilles heel; it
+can and has brought the mighty down.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Standard ETL jobs always consist of odd combinations of:</p>
+<ol style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin-top:0;margin-bottom:9px;list-style:decimal;margin:0 2em;padding-left:0;">
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Gather data in all its unstructured messy glory.</li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Pick and choose the <a href="https://www.youtube.com/watch?v=wPiHQ37gXnE" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">good bits</a>. </li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Hack and standardize your selection into rows and tables.</li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Load the tables into mostly SQL databases. </li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Finish the job with SQL transformations.</li>
+</ol>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Every single item on this list can drain your <a href="https://www.youtube.com/watch?v=N1KvgtEnABY" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">precious bodily fluids</a>.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">This is where J can help!</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>Slay the Annoyances and Sack the Irritants with J<a href="#Slay-the-Annoyances-and-Sack-the-Irritants-with-J" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">It's not an exaggeration to say that ETL is a long tiresome sequence of annoyances and irritants. It's easy
+to see where you need to go, and it's just <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">N</em>, where <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">N</em> is an arbitrarily large number of picayune and irritating steps between you and the pure database of your dreams.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Anything you can do to quickly slay the annoyances and sack the irritants will move you closer to your dream. The last thing you want is to write a lot of code to dispatch trivialities, but sadly, this is often the fate of ETL programmers. Like Sisyphus, they laboriously push one damn rock up the hill only to watch another roll down and take its place. When it comes to moving rocks, you want a bulldozer, not a garden spade. J is a bulldozer!</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">You can install Windows, MacOS or Linux versions of J from <a href="https://www.jsoftware.com/#/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">jsoftware.com</a>. Install J with all the <a href="https://code.jsoftware.com/wiki/Pacman" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">standard addons</a>.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Let's take the J bulldozer for a spin.</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>Pimping your J bulldozer with JOD<a href="#Pimping-your-J-bulldozer-with-JOD" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">J scripts are simple ASCII text files with an <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">.ijs</code> file extension. Edit them with any standard editor. Two of J's standard development
+environments <a href="https://code.jsoftware.com/wiki/Guides/Qt_IDE" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">JQT</a> and <a href="https://code.jsoftware.com/wiki/Guides/JHS" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">JHS</a> have built-in editors that provide expected goodies
+like syntax highlighting.  Many editor extensions provide
+J syntax highlighting. One of my favorites is the <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">J Language Support</em> Visual Studio Code extension.
+It can be found in <a href="https://github.com/tikkanz/j-vscode" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">GitHub here</a> and installed from the standard Visual Studio Code Marketplace.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Despite the ubiquity of J oriented text editors and script handling tools
+I store all my J code, test cases, and documentation in a coding tool I developed called JOD.
+<a href="https://bakerjd99.files.wordpress.com/2020/11/jod.pdf" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">JOD is a refactoring tool</a>. It lets you easily reuse J words in arbitrary contexts without
+error-prone <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">cut-and-pasting</em> or rampant <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">over-inclusion</em>.  I use JOD from three J environments,
+jconsole, JHS, and JQT.
+<a href="https://code.jsoftware.com/wiki/Addons/general/jod" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">JOD is one of many J addons</a>. It can
+be installed with the <a href="https://code.jsoftware.com/wiki/Pacman" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">J pacman utility</a>.
+JOD has been entirely programmed in J and is a good example of using J to build larger systems.
+<a href="https://github.com/bakerjd99/jod" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">JOD source code is on Github</a>. See <a href="https://analyzethedatanotthedrivel.org/the-jod-page/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">The JOD Page</a> for more
+about JOD.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">In the following examples I am going to assume JOD is installed and the utilities <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">dictionary</em> <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">utils</code> is available. The
+latest version of <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">utils</code> is on <a href="https://github.com/bakerjd99/joddumps" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">GitHub here</a>.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">load</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'general/jod'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">get</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'portchars'</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">[</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">od</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'utils'</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">[</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">3</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">od</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">''</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. use ASCII box characters - simplifies blog formatting</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">portchars</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">
+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>Start your JETL engine<a href="#Start-your-JETL-engine" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Let's slay some annoyances.</p>
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;"><strong style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:bold;">Annoyance #1:</strong> For reasons best not discussed in civil society, many websites, point-of-sale systems, spreadsheets, and so forth encourage users to compose not-so-great novels in text entry fields. When these "novels" land in data feeds you see crap like this:</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">textfield</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#999;font-weight:bold;">0 : 0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;"></span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">  Leading and trailing</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">       white     space, tabs,</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;"> line    feeds,    </span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">and bytes @*!!</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">      of crap. </span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">It's easy to fix crap once its loaded into a SQL table but it's crap like
+this that get's in the way of loading the table in the first place. The following
+J expression cleans <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">textfield</code>.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">]</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#~</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">[:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">-.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'  '</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&amp;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">E</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">.</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">textfield</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">-.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">CRLF</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">TAB</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'@#*!'</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;"> Leading and trailing white space, tabs, line feeds, and bytes of crap. 
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">The <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">utils</code> dictionary contains many character list verbs.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">get</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'reb allwhitetrim'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">allwhitetrim</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">reb</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">textfield</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">-.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">CRLF</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">TAB</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'@#*!'</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">Leading and trailing white space, tabs, line feeds, and bytes of crap.
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;"><strong style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:bold;">Annoyance #2:</strong> Here's another way too common <a href="https://www.spreadsheetsmadeeasy.com/understanding-csv-files-in-excel/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"><em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">Excel</em></a> enabled irritant.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">quotecomma</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#999;font-weight:bold;">0 : 0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;"></span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">"how often",1,2,"have quoted , commas","screwed ,,, line parsing?"</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">getrx</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'parsecsv'</span>  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. load parsecsv and words it calls</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">','</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">parsecsv</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">quotecomma</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">+-----------+-+-+----------------------+---------------------------+
+|"how often"|1|2|"have quoted , commas"|"screwed ,,, line parsing?"|
++-----------+-+-+----------------------+---------------------------+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">For example this 63MB <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">csv</code> file contains dreaded commas in quotes.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">dir</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'\\jfsdev04\Shares\SwiftIQPreprocess\SwiftZipCsv\Item*.csv'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">fi</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">dir</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'\\jfsdev04\Shares\SwiftIQPreprocess\SwiftZipCsv\Item*.csv'</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">ItemSales-0810202163523.csv    63958716 10-Aug-21 18:37:42
+//jfsdev04/Shares/SwiftIQPreprocess/SwiftZipCsv/ItemSales-0810202163523.csv
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">A simple J <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">verb</em> can flip the offenders to semi-colons.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">getrx</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'repdqchars read'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">txt</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">',;'</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">repdqchars</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">read</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">fi</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. flip commas - return byte count</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">63958716
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Here's the definition of <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">repdqchars</code>.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">repdqchars</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#00F;">4 : 0</span>
+
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.*repdqchars v-- replace double quoted (0{x) characters with (1{x).</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. dyad:  cl =. clPair repdqchars cl</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   s=. '"go ahead, replace","quoted commas,,,,"'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   ',;' repdqchars s</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   s -: ',,' repdqchars s</span>
+
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">if.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&lt;:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">do.</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">msg</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'unbalanced quotes'</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">msg</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">assert</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">|</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">+/</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">b</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'"'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span>
+
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. mask of quoted characters</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">q</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">+/\</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">_1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">|:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">_2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">]\</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">I</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">b</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">b</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">msg</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">assert</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">-:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&lt;./</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&gt;./</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">q</span>
+
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. replace quoted (0{x) with (1{x)</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">x</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">I</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">q</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#^:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">_1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">x</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">q</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">else.</span> 
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">end.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Much of <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">repdqchars</code> consists of comments and assertions. Not having to write a lot of code is a big plus when slaying annoyances and sacking irritants.</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;"><strong style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:bold;">Annoyance #3:</strong> When defining database tables, it helps to understand how data is distributed --- <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">duh!</em> Before creating tables, it's helpful to run quick-and-dirty analyses. One useful summary is <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">column cardinality</em>, the number of unique column items.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. read and parse TAB delimited text - first row column names</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">get</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'readtd2'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">f</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'\\jfsdev04\Shares\DailyXMLPreprocess\DailyTsv\raw_RetailItemGroup_RMI.txt'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">d</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">readtd2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">f</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. comput column cardinalties</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'row count: '</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,":#</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">d</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&gt;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">d</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;~</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#@~.&amp;&gt;</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&lt;"</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">|:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">d</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">row count: 68604
++-----+------------------------+
+| 2975|retailItemGrpID         |
+| 2784|retailItemGrpName       |
+|  316|retailItemGrpDescription|
+|  283|orgUnitOwnerID          |
+|22260|rmiID                   |
+|21930|rmiName                 |
+|  255|rmiExtID                |
+|    1|ZipFileName             |
+|    1|ZipRunNumber            |
+|    1|XMLFileName             |
+|    1|XMLFileDate             |
+|    1|CreateDatetime          |
++-----+------------------------+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">J is hardly unique in its ability to subdue ETL irritants. I've personally used Python, Powershell, and SQL scripts as well but for me J administers the biggest bang per byte! <strong style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:bold;">Adding J to your coding arsenal will make you a more versatile programmer and  a better person. Do it!</strong></p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>The Joys of JOD and other code databases<a href="#The-Joys-of-JOD-and-other-code-databases" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">One of the many advantages of storing code in tools like JOD is that it's easy
+to run ad hoc code analysis.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">load</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'general/jod'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">od</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'jacksons utils'</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">[</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">3</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">od</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">''</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. open JOD dictionaries</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">+-+-----------------+--------+-----+
+|1|opened (rw/ro) -&gt;|jacksons|utils|
++-+-----------------+--------+-----+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Here's some basic information about the JOD group  <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code>. J scripts are easily generated from groups with JOD's <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">mls</code>, (make load script) verb.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":#}.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">grp</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': words in script'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":#;{:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">mls</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': size of commented script'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":#;{:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">compj</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}.</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">grp</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': size of minimized script'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. a single static "noun" of tables and column names </span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">tcl</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}.</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">grp</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">-.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">&lt;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'SwiftLandTableHeaders'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":#;{:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">compj</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">tcl</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': minimized script without largest noun'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">+/</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">%</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">#</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">15</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">get</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">}.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">grp</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': mean bytes per word'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">smoutput</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">":#;:</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">1</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">2</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">mls</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftprep'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">': total commented J token count'</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">106: words in script
+42221: size of commented script
+23403: size of minimized script
+16492: minimized script without largest noun
+529.91509: mean bytes per word
+5945: total commented J token count
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">As you can see there isn't a lot of code, roughly 17K.</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">As nice as off-the-cuff code statistics are, the biggest advantage of code databases is how
+they simplify code recycling and document generation. The ETL <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code> group currently contains 106 J words. 69 of
+those words are specific to <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code>. The rest are common utilities and recycled words. When <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep.ijs</code> is
+generated with JOD's <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">mls</code> verb all of <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code>'s words are collected into a single
+stand-alone script. For such stand-alone scripts, I include an <em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">interface noun</em> that lists group words you should be aware of.</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">get</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'IFACEWORDSswiftprep'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">hlpnl</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">IFACEWORDSswiftprep</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;position:relative;display:flex;flex-direction:column;align-items:stretch;z-index:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+    
+
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow-x:auto;padding:0.4em;flex:1;max-width:calc(100% - 14ex);text-align:left;color:#000;line-height:1.21429em;">
+<pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;font-size:inherit;line-height:inherit;white-space:pre;margin:0;padding:0;border:0;vertical-align:baseline;color:black;background-color:transparent;border-radius:0;">+-------------------+-------------------------------------------------------+
+|dailyswift         |daily SwiftIQ zip loading and maintenance tasks        |
+|fullheaderscan     |scan SwiftIQ zips and build complete table headers     |
+|loadswiftcsvs      |copies zip to working directory and extracts csvs      |
+|loadswifttabs      |convert SwiftIQ csvs to TAB delimited table files      |
+|procqueuezips      |processes queued zips from file                        |
+|procswiftzip       |process a SwiftIQ zip                                  |
+|queueswiftSizes    |file sizes: queueswiftSizes SwiftAuxDir,'swift2.txt'   |
+|queueswiftZips     |write (y) line file of queued zips                     |
+|runswiftssis       |runs SwiftIQ SSIS batch scripts                        |
+|showswiftUnload    |list never loaded zips in load order                   |
+|showswiftlog       |show SwiftIQ log entries                               |
+|swiftLoaded        |loaded swift zips with return code: swiftLoaded '&lt;1000'|
+|swiftMissingColumns|list missing SwiftIQ landing table columns             |
+|swiftZips          |sorted SwiftIQ zip files                               |
++-------------------+-------------------------------------------------------+
+</pre>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Finally, code databases typically contain far more than code! Documentation is also stored.
+Stored documentation can be used to generate <a href="https://en.wikipedia.org/wiki/Literate_programming" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"><em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">literate programming</em></a> documents. In
+JOD's case <a href="https://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">jodliterate</a> applied to
+<code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code> creates this <a href="https://bakerjd99.files.wordpress.com/2021/08/swiftprep.pdf" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">indexed and annoted PDF</a>.  Enjoy!</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<h4 style='-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;color:inherit;margin-bottom:9px;font-size:100%;margin:2em 0 0;font-weight:bold;line-height:1;margin-top:1em;'>Let J tell SSIS where to get off<a href="#Let-J-tell-SSIS-where-to-get-off" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;"></a></h4><p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;margin-top:1em;">I hope I've convinced you that J can help with ETL irritants. It can help, but it cannot do the entire job. At some point you
+will have to bring in tools like <a href="https://docs.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-ver15" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">bcp</a>, <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">SSIS</a> or <a href="https://www.talend.com/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">Talend</a>. SSIS and Talend are typically the drivers of ETL processes; they call other specialized
+tools as needed, but I've found that it's easier to use scripting tools like J as drivers. In this blog post
+I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021/06/05/running-ssis-packages-with-python/" style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background-color:transparent;color:#337ab7;text-decoration:none;">control SSIS with Python</a>. You can use the same trick with J.</p>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">The <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code> ETL script does:</p>
+<ol style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin-top:0;margin-bottom:9px;list-style:decimal;margin:0 2em;padding-left:0;">
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Finds a large daily FTP'ed zip file containing CSVs.</li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Unzips the CSVSs to working directories.</li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Converts unruly CSVs to standard TAB delimited text files.</li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Runs an SSIS package to load TAB files to SQLServer staging tables. </li>
+<li style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">Runs another SSIS package to transform staging tables to a reporting tables.</li>
+</ol>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">This reads worse than it is. The main jumping off word in <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">swiftprep</code> is <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">dailyswift</code>. Here's <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">dailyswift</code>:</p>
+</div>
+</div>
+</div>
+<div style="display:flex;flex-direction:column;align-items:stretch;border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;page-break-inside:avoid;display:flex;flex-direction:row;align-items:stretch;">
+
+    
+
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;border:1px solid #cfcfcf;border-radius:2px;background:#f7f7f7;line-height:1.21429em;">
+<div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#f8f8f8;margin:0;border:none;padding:0;background-color:transparent;"><pre style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;overflow:auto;font-family:monospace;display:block;word-break:break-all;word-wrap:break-word;color:#333;border-radius:2px;font-size:inherit;line-height:inherit;white-space:pre;margin:5pt;border:none;padding:0;background-color:transparent;"><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;"></span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">dailyswift</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#00F;">3 : 0</span>
+
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.*dailyswift v-- daily SwiftIQ zip loading and maintenance tasks.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. monad:  (ilRc ; clGuid) =. dailyswift uuIgnore</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. dyad:  (ilRc ; clGuid) =. iaDayCode dailyswift uuIgnore</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   _1 dailyswift 0  NB. update stage only</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   dailyswift~ _1</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   NB. full table reload</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB.   42 dailyswift 0   </span>
+
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">(</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">weekday</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">3</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">6</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">!:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">''</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;">)</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">dailyswift</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">y</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">:</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. stage latest zip</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'rc tg'</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">procswiftzip</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">swiftZips</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">if.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">~:</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">{</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">do.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">tg</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">return.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">end.</span>
+
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">if.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">_1</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">x</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">do.</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'only updating staging'</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">else.</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rcnts</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">cntswiftrows</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span>  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. report/stage item counts</span>
+
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. update reporting </span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">logswiftReportBegin</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">tg</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rcnts</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">if.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">0</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">x</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">do.</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'rowcnts::pidx: '</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rcnts</span> 
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'reindexing - partial table update'</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">runswiftssis</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftreindex.bat'</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">runswiftssis</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftreport.bat'</span>
+
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">elseif.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">42</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A2F;">x</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">do.</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. full updates are best babysat - trigger with</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#408080;font-style:italic;">NB. code 42 - life the universe and everything</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'rowcnts::full: '</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rcnts</span> 
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'full table refresh'</span>
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">runswiftssis</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftreportfull.bat'</span>
+
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">elseif.do.</span> 
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'rowcnts:: '</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">,</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rcnts</span>   
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">SwiftLog</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'partial table update'</span>   
+    <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">runswiftssis</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#BA2121;">'swiftreport.bat'</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">end.</span>
+  <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">=.</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">logswiftReportEnd</span> <span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">rc</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#666;">;</span><span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#19177C;">tg</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">end.</span>
+<span style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;color:#A0A000;">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div style="border-radius:2px;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;border-width:1px;border-style:solid;border-color:transparent;width:100%;padding:5px;margin:0;outline:none;border-left-width:1px;padding-left:5px;background:linear-gradient(to right,transparent -40px,transparent 1px,transparent 1px,transparent 100%);display:flex;flex-direction:row;align-items:stretch;"><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:0.4em;margin:0;font-family:monospace;text-align:right;line-height:1.21429em;cursor:default;color:#303F9F;border-top:1px solid transparent;padding-top:5pt;min-width:0;">
+</div><div style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:flex;flex-direction:column;align-items:stretch;flex:1;">
+<div style="outline:none;resize:none;width:inherit;border-style:none;padding:0.5em 0.5em 0.5em 0.4em;color:#000;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;overflow-x:auto;overflow-y:hidden;">
+<p style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:1em 0 9px;margin-bottom:0;text-align:left;">Maybe I'm an old jaded programmer, but <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">dailyswift</code> doesn't look very scary. Obfuscated J can be phenomenally impenetrable. Look at the definition of <code style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-family:monospace;border-radius:2px;white-space:pre;border:0;background-color:transparent;color:#000;font-size:100%;padding:0;">readtd2</code>.  Sadly, it's easy to create unreadable code in any programming language.  If program code was edited like novel manuscripts we'd seldom see incomprehensible crap but it isn't, so we must exercise personal discretion. <strong style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-weight:bold;"><em style="-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;font-style:italic;">My goal when coding is to make things so clear that that they're dismissed as trivial!</em></strong> And, let's face it, ETL, as tedious and time-consuming as it typically is, is trivial!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- /wp:html -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7162</wp:post_id>
+		<wp:post_date>2021-08-11 15:02:55</wp:post_date>
+		<wp:post_date_gmt>2021-08-11 21:02:55</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>jetl-j-extract-transform-and-load</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="etl"><![CDATA[ETL]]></category>
+		<category domain="category" nicename="j"><![CDATA[J]]></category>
+		<category domain="post_tag" nicename="jod"><![CDATA[JOD]]></category>
+		<category domain="post_tag" nicename="jodliterate"><![CDATA[jodliterate]]></category>
+		<category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+		<category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+		<category domain="post_tag" nicename="sql"><![CDATA[SQL]]></category>
+		<category domain="post_tag" nicename="sqlserver"><![CDATA[SQLServer]]></category>
+		<category domain="post_tag" nicename="ssis"><![CDATA[SSIS]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[61758230497]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1628715780]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

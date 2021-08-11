@@ -1,0 +1,538 @@
+%\input{bmamblenew.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/}{JETL - J Extract Transform and Load}}
+\addcontentsline{toc}{subsection}{JETL - J Extract Transform and Load}
+
+
+\noindent\emph{Posted: 11 Aug 2021 21:02:55}
+\vspace{6pt}
+
+    I have been surreptitiously using the
+\href{https://code.jsoftware.com/wiki/NuVoc}{J programming language} on
+the job for many years. With rare exceptions, I haven't advertised my
+clandestine use of J simply because it's strange and scary and
+nonstandard, and IT departments are filled with cowardly little
+bedwetters that run away like
+\href{https://www.youtube.com/watch?v=BZwuTo7zKM8}{Brave Sir Robin} when
+confronted with something really different! At first, I tried to
+convince the bedwetters that J is a fabulous tool: a spear in a world of
+bent spoons! But, if you've ever tried convincing an \emph{academic
+Marxist} that, yes
+\href{https://www.quora.com/Why-do-communists-insist-that-real-communism-has-never-been-tried?share=1}{``communism
+has been tried''}, or a UFO-olgist that funny lights in the sky are
+almost certainly not aliens, or a 9-11 \emph{troofer} that the twin
+towers were \emph{absolutely not brought down by controlled demolition},
+then you have a pretty good idea what it's like getting IT departments
+to buy into unsanctioned technologies.
+
+It's sad, but some of the most pig-headed and closed-minded people I
+have ever run into are fellow programmers and IT professionals. As a
+\emph{self-anointed} elite, ITites (IT people), can be insufferably sure
+of themselves. Hubris is still very much a thing! \emph{As a general
+rule, always consider the possibility that you are full of it!}
+
+With that said, what's so great about J and why should anyone use it for
+database \href{https://www.ibm.com/cloud/learn/etl}{ETL} (Extract
+Transform and Load) jobs?
+
+    \hypertarget{etl-unavoidable-grunt-work-and-an-it-achilles-heel}{%
+\paragraph{ETL unavoidable grunt work and an IT Achilles
+heel}\label{etl-unavoidable-grunt-work-and-an-it-achilles-heel}}
+
+    ETL jobs are never glamorous! You're not going to win any
+\href{https://amturing.acm.org/}{Turing Awards} for converting
+dumpster-fire data into well-structured database tables. Nor will you
+garner accolades and
+\href{https://www.youtube.com/watch?v=jjaqrPpdQYc}{``We are not
+worthies''} from peers. Most ITites simply assume the ETL will be done
+while they dream of all the shiny things the polished data will enable.
+\emph{Precisely because ETL is dull, any moron can do it, grunt work,
+it's frequently discounted.} I've watched many IT projects sink after
+being torpedoed by incomplete and crappy ETL. ETL is an IT Achilles
+heel; it can and has brought the mighty down.
+
+Standard ETL jobs always consist of odd combinations of:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Gather data in all its unstructured messy glory.
+\item
+  Pick and choose the
+  \href{https://www.youtube.com/watch?v=wPiHQ37gXnE}{good bits}.
+\item
+  Hack and standardize your selection into rows and tables.
+\item
+  Load the tables into mostly SQL databases.
+\item
+  Finish the job with SQL transformations.
+\end{enumerate}
+
+Every single item on this list can drain your
+\href{https://www.youtube.com/watch?v=N1KvgtEnABY}{precious bodily
+fluids}.
+
+This is where J can help!
+
+    \hypertarget{slay-the-annoyances-and-sack-the-irritants-with-j}{%
+\paragraph{Slay the Annoyances and Sack the Irritants with
+J}\label{slay-the-annoyances-and-sack-the-irritants-with-j}}
+
+    It's not an exaggeration to say that ETL is a long tiresome sequence of
+annoyances and irritants. It's easy to see where you need to go, and
+it's just \emph{N}, where \emph{N} is an arbitrarily large number of
+picayune and irritating steps between you and the pure database of your
+dreams.
+
+Anything you can do to quickly slay the annoyances and sack the
+irritants will move you closer to your dream. The last thing you want is
+to write a lot of code to dispatch trivialities, but sadly, this is
+often the fate of ETL programmers. Like Sisyphus, they laboriously push
+one damn rock up the hill only to watch another roll down and take its
+place. When it comes to moving rocks, you want a bulldozer, not a garden
+spade. J is a bulldozer!
+
+You can install Windows, MacOS or Linux versions of J from
+\href{https://www.jsoftware.com/\#/}{jsoftware.com}. Install J with all
+the \href{https://code.jsoftware.com/wiki/Pacman}{standard addons}.
+
+Let's take the J bulldozer for a spin.
+
+    \hypertarget{pimping-your-j-bulldozer-with-jod}{%
+\paragraph{Pimping your J bulldozer with
+JOD}\label{pimping-your-j-bulldozer-with-jod}}
+
+    J scripts are simple ASCII text files with an \texttt{.ijs} file
+extension. Edit them with any standard editor. Two of J's standard
+development environments
+\href{https://code.jsoftware.com/wiki/Guides/Qt_IDE}{JQT} and
+\href{https://code.jsoftware.com/wiki/Guides/JHS}{JHS} have built-in
+editors that provide expected goodies like syntax highlighting. Many
+editor extensions provide J syntax highlighting. One of my favorites is
+the \emph{J Language Support} Visual Studio Code extension. It can be
+found in \href{https://github.com/tikkanz/j-vscode}{GitHub here} and
+installed from the standard Visual Studio Code Marketplace.
+
+Despite the ubiquity of J oriented text editors and script handling
+tools I store all my J code, test cases, and documentation in a coding
+tool I developed called JOD.
+\href{https://bakerjd99.files.wordpress.com/2020/11/jod.pdf}{JOD is a
+refactoring tool}. It lets you easily reuse J words in arbitrary
+contexts without error-prone \emph{cut-and-pasting} or rampant
+\emph{over-inclusion}. I use JOD from three J environments, jconsole,
+JHS, and JQT.
+\href{https://code.jsoftware.com/wiki/Addons/general/jod}{JOD is one of
+many J addons}. It can be installed with the
+\href{https://code.jsoftware.com/wiki/Pacman}{J pacman utility}. JOD has
+been entirely programmed in J and is a good example of using J to build
+larger systems. \href{https://github.com/bakerjd99/jod}{JOD source code
+is on Github}. See
+\href{https://analyzethedatanotthedrivel.org/the-jod-page/}{The JOD
+Page} for more about JOD.
+
+In the following examples I am going to assume JOD is installed and the
+utilities \emph{dictionary} \texttt{utils} is available. The latest
+version of \texttt{utils} is on
+\href{https://github.com/bakerjd99/joddumps}{GitHub here}.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{1}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{load} \PY{l+s}{\PYZsq{}}\PY{l+s}{g}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{e}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{/}\PY{l+s}{j}\PY{l+s}{o}\PY{l+s}{d}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{get} \PY{l+s}{\PYZsq{}}\PY{l+s}{p}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{c}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{s}\PY{l+s}{\PYZsq{}} \PY{o}{[} \PY{n+nv}{od} \PY{l+s}{\PYZsq{}}\PY{l+s}{u}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{s}\PY{l+s}{\PYZsq{}} \PY{o}{[} \PY{l+m+mi}{3} \PY{n+nv}{od} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZsq{}}
+\PY{c+c1}{NB. use ASCII box characters \PYZhy{} simplifies blog formatting}
+\PY{n+nv}{portchars} \PY{l+m+mi}{0}
+\end{Verbatim}
+\end{tcolorbox}
+
+
+    \hypertarget{start-your-jetl-engine}{%
+\paragraph{Start your JETL engine}\label{start-your-jetl-engine}}
+
+    Let's slay some annoyances.
+
+\textbf{Annoyance \#1:} For reasons best not discussed in civil society,
+many websites, point-of-sale systems, spreadsheets, and so forth
+encourage users to compose not-so-great novels in text entry fields.
+When these ``novels'' land in data feeds you see crap like this:
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{2}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{textfield} \PY{o}{=:} \PY{n+ni}{0 : 0}
+\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{L}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{d}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}\PY{l+s}{ }\PY{l+s}{a}\PY{l+s}{n}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}
+\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{w}\PY{l+s}{h}\PY{l+s}{i}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{p}\PY{l+s}{a}\PY{l+s}{c}\PY{l+s}{e}\PY{l+s}{,}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{b}\PY{l+s}{s}\PY{l+s}{,}
+\PY{l+s}{ }\PY{l+s}{l}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{f}\PY{l+s}{e}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{s}\PY{l+s}{,}\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }
+\PY{l+s}{a}\PY{l+s}{n}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{b}\PY{l+s}{y}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{ }\PY{l+s}{@}\PY{l+s}{*}\PY{l+s}{!}\PY{l+s}{!}
+\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{o}\PY{l+s}{f}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{p}\PY{l+s}{.}\PY{l+s}{ }
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    It's easy to fix crap once its loaded into a SQL table but it's crap
+like this that get's in the way of loading the table in the first place.
+The following J expression cleans \texttt{textfield}.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{3}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{p}{(}\PY{o}{]} \PY{o}{\PYZsh{}}\PY{o}{\PYZti{}} \PY{o}{[}\PY{o}{:} \PY{o}{\PYZhy{}}\PY{o}{.} \PY{l+s}{\PYZsq{}}\PY{l+s}{ }\PY{l+s}{ }\PY{l+s}{\PYZsq{}}\PY{o}{\PYZam{}}\PY{n+nv}{E}\PY{o}{.}\PY{p}{)} \PY{n+nv}{textfield} \PY{o}{\PYZhy{}}\PY{o}{.} \PY{n+nv}{CRLF}\PY{o}{,}\PY{n+nv}{TAB}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{@}\PY{l+s}{\PYZsh{}}\PY{l+s}{*}\PY{l+s}{!}\PY{l+s}{\PYZsq{}}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+ Leading and trailing white space, tabs, line feeds, and bytes of crap.
+    \end{Verbatim}
+
+    The \texttt{utils} dictionary contains many character list verbs.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{4}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{get} \PY{o}{;}\PY{o}{:}\PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{b}\PY{l+s}{ }\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{l}\PY{l+s}{w}\PY{l+s}{h}\PY{l+s}{i}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{i}\PY{l+s}{m}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{allwhitetrim} \PY{n+nv}{reb} \PY{n+nv}{textfield} \PY{o}{\PYZhy{}}\PY{o}{.} \PY{n+nv}{CRLF}\PY{o}{,}\PY{n+nv}{TAB}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{@}\PY{l+s}{\PYZsh{}}\PY{l+s}{*}\PY{l+s}{!}\PY{l+s}{\PYZsq{}}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+Leading and trailing white space, tabs, line feeds, and bytes of crap.
+    \end{Verbatim}
+
+    \textbf{Annoyance \#2:} Here's another way too common
+\href{https://www.spreadsheetsmadeeasy.com/understanding-csv-files-in-excel/}{\emph{Excel}}
+enabled irritant.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{5}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{quotecomma}\PY{o}{=:} \PY{n+ni}{0 : 0}
+\PY{l+s}{\PYZdq{}}\PY{l+s}{h}\PY{l+s}{o}\PY{l+s}{w}\PY{l+s}{ }\PY{l+s}{o}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{\PYZdq{}}\PY{l+s}{,}\PY{l+s}{1}\PY{l+s}{,}\PY{l+s}{2}\PY{l+s}{,}\PY{l+s}{\PYZdq{}}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{v}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{q}\PY{l+s}{u}\PY{l+s}{o}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{,}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{o}\PY{l+s}{m}\PY{l+s}{m}\PY{l+s}{a}\PY{l+s}{s}\PY{l+s}{\PYZdq{}}\PY{l+s}{,}\PY{l+s}{\PYZdq{}}\PY{l+s}{s}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{w}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{,}\PY{l+s}{,}\PY{l+s}{,}\PY{l+s}{ }\PY{l+s}{l}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{p}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{s}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}\PY{l+s}{?}\PY{l+s}{\PYZdq{}}
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{6}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{getrx} \PY{l+s}{\PYZsq{}}\PY{l+s}{p}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{s}\PY{l+s}{e}\PY{l+s}{c}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZsq{}}  \PY{c+c1}{NB. load parsecsv and words it calls}
+\PY{l+s}{\PYZsq{}}\PY{l+s}{,}\PY{l+s}{\PYZsq{}} \PY{n+nv}{parsecsv} \PY{n+nv}{quotecomma}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
++-----------+-+-+----------------------+---------------------------+
+|"how often"|1|2|"have quoted , commas"|"screwed ,,, line parsing?"|
++-----------+-+-+----------------------+---------------------------+
+    \end{Verbatim}
+
+    For example this 63MB \texttt{csv} file contains dreaded commas in
+quotes.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{7}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{smoutput} \PY{n+nv}{dir} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{j}\PY{l+s}{f}\PY{l+s}{s}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{v}\PY{l+s}{0}\PY{l+s}{4}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{I}\PY{l+s}{Q}\PY{l+s}{P}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{c}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{Z}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{C}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZbs{}}\PY{l+s}{I}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{m}\PY{l+s}{*}\PY{l+s}{.}\PY{l+s}{c}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{n+nv}{fi}\PY{o}{=:} \PY{o}{;}\PY{l+m+mi}{1} \PY{n+nv}{dir} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{j}\PY{l+s}{f}\PY{l+s}{s}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{v}\PY{l+s}{0}\PY{l+s}{4}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{I}\PY{l+s}{Q}\PY{l+s}{P}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{c}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{Z}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{C}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZbs{}}\PY{l+s}{I}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{m}\PY{l+s}{*}\PY{l+s}{.}\PY{l+s}{c}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZsq{}}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+ItemSales-0810202163523.csv    63958716 10-Aug-21 18:37:42
+//jfsdev04/Shares/SwiftIQPreprocess/SwiftZipCsv/ItemSales-0810202163523.csv
+    \end{Verbatim}
+
+    A simple J \emph{verb} can flip the offenders to semi-colons.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{8}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{getrx} \PY{o}{;}\PY{o}{:}\PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{d}\PY{l+s}{q}\PY{l+s}{c}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{s}\PY{l+s}{ }\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{d}\PY{l+s}{\PYZsq{}}
+\PY{o}{\PYZsh{}}\PY{n+nv}{txt}\PY{o}{=:} \PY{l+s}{\PYZsq{}}\PY{l+s}{,}\PY{l+s}{;}\PY{l+s}{\PYZsq{}} \PY{n+nv}{repdqchars} \PY{n+nv}{read} \PY{n+nv}{fi} \PY{c+c1}{NB. flip commas \PYZhy{} return byte count}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+63958716
+    \end{Verbatim}
+
+    Here's the definition of \texttt{repdqchars}.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{9}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{repdqchars}\PY{o}{=:}\PY{n+nf}{4 : 0}
+
+\PY{c+c1}{NB.*repdqchars v\PYZhy{}\PYZhy{} replace double quoted (0\PYZob{}x) characters with (1\PYZob{}x).}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB. dyad:  cl =. clPair repdqchars cl}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   s=. \PYZsq{}\PYZdq{}go ahead, replace\PYZdq{},\PYZdq{}quoted commas,,,,\PYZdq{}\PYZsq{}}
+\PY{c+c1}{NB.   \PYZsq{},;\PYZsq{} repdqchars s}
+\PY{c+c1}{NB.   s \PYZhy{}: \PYZsq{},,\PYZsq{} repdqchars s}
+
+\PY{n+nl}{if.} \PY{l+m+mi}{2} \PY{o}{\PYZlt{}}\PY{o}{:} \PY{o}{\PYZsh{}}\PY{n+nd}{y} \PY{n+nl}{do.}
+  \PY{n+nv}{msg}\PY{o}{=.} \PY{l+s}{\PYZsq{}}\PY{l+s}{u}\PY{l+s}{n}\PY{l+s}{b}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{a}\PY{l+s}{n}\PY{l+s}{c}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{q}\PY{l+s}{u}\PY{l+s}{o}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{\PYZsq{}}
+  \PY{n+nv}{msg} \PY{n+nv}{assert} \PY{l+m+mi}{0} \PY{o}{=} \PY{l+m+mi}{2} \PY{o}{|} \PY{o}{+}\PY{o}{/}\PY{n+nv}{b}\PY{o}{=.} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZdq{}}\PY{l+s}{\PYZsq{}}\PY{o}{=}\PY{n+nd}{y}
+
+  \PY{c+c1}{NB. mask of quoted characters}
+  \PY{n+nv}{q}\PY{o}{=.} \PY{o}{+}\PY{o}{/}\PY{o}{\PYZbs{}} \PY{l+m+mi}{\PYZus{}1} \PY{p}{(}\PY{l+m+mi}{1} \PY{o}{\PYZob{}} \PY{o}{|}\PY{o}{:} \PY{l+m+mi}{\PYZus{}2} \PY{o}{]}\PY{o}{\PYZbs{}} \PY{n+nv}{I}\PY{o}{.} \PY{n+nv}{b}\PY{p}{)}\PY{o}{\PYZcb{}} \PY{n+nv}{b}
+  \PY{n+nv}{msg} \PY{n+nv}{assert} \PY{l+m+mi}{0} \PY{l+m+mi}{1} \PY{o}{\PYZhy{}}\PY{o}{:} \PY{p}{(}\PY{o}{\PYZlt{}}\PY{o}{.}\PY{o}{/} \PY{o}{,} \PY{o}{\PYZgt{}}\PY{o}{.}\PY{o}{/}\PY{p}{)} \PY{n+nv}{q}
+
+  \PY{c+c1}{NB. replace quoted (0\PYZob{}x) with (1\PYZob{}x)}
+  \PY{p}{(}\PY{l+m+mi}{1}\PY{o}{\PYZob{}}\PY{n+nd}{x}\PY{p}{)} \PY{p}{(}\PY{n+nv}{I}\PY{o}{.} \PY{n+nv}{q} \PY{o}{\PYZsh{}}\PY{o}{\PYZca{}}\PY{o}{:}\PY{l+m+mi}{\PYZus{}1} \PY{p}{(}\PY{l+m+mi}{0}\PY{o}{\PYZob{}}\PY{n+nd}{x}\PY{p}{)} \PY{o}{=} \PY{n+nv}{q}\PY{o}{\PYZsh{}}\PY{n+nd}{y}\PY{p}{)} \PY{o}{\PYZcb{}} \PY{n+nd}{y}
+\PY{n+nl}{else.} 
+  \PY{n+nd}{y}
+\PY{n+nl}{end.}
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    Much of \texttt{repdqchars} consists of comments and assertions. Not
+having to write a lot of code is a big plus when slaying annoyances and
+sacking irritants.
+
+    \textbf{Annoyance \#3:} When defining database tables, it helps to
+understand how data is distributed --- \emph{duh!} Before creating
+tables, it's helpful to run quick-and-dirty analyses. One useful summary
+is \emph{column cardinality}, the number of unique column items.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{10}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{NB. read and parse TAB delimited text \PYZhy{} first row column names}
+\PY{n+nv}{get} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{d}\PY{l+s}{t}\PY{l+s}{d}\PY{l+s}{2}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{f}\PY{o}{=:} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{j}\PY{l+s}{f}\PY{l+s}{s}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{v}\PY{l+s}{0}\PY{l+s}{4}\PY{l+s}{\PYZbs{}}\PY{l+s}{S}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{D}\PY{l+s}{a}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{y}\PY{l+s}{X}\PY{l+s}{M}\PY{l+s}{L}\PY{l+s}{P}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{c}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{s}\PY{l+s}{\PYZbs{}}\PY{l+s}{D}\PY{l+s}{a}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{y}\PY{l+s}{T}\PY{l+s}{s}\PY{l+s}{v}\PY{l+s}{\PYZbs{}}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{w}\PY{l+s}{\PYZus{}}\PY{l+s}{R}\PY{l+s}{e}\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{I}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{m}\PY{l+s}{G}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{u}\PY{l+s}{p}\PY{l+s}{\PYZus{}}\PY{l+s}{R}\PY{l+s}{M}\PY{l+s}{I}\PY{l+s}{.}\PY{l+s}{t}\PY{l+s}{x}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{d}\PY{o}{=:} \PY{n+nv}{readtd2} \PY{n+nv}{f}
+\PY{c+c1}{NB. comput column cardinalties}
+\PY{n+nv}{smoutput} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{w}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{o}\PY{l+s}{u}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{n+nv}{d}
+\PY{p}{(}\PY{o}{\PYZgt{}}\PY{l+m+mi}{0}\PY{o}{\PYZob{}}\PY{n+nv}{d}\PY{p}{)} \PY{o}{;}\PY{o}{\PYZti{}} \PY{o}{,}\PY{o}{.} \PY{o}{\PYZsh{}}\PY{o}{@}\PY{o}{\PYZti{}}\PY{o}{.}\PY{o}{\PYZam{}}\PY{o}{\PYZgt{}} \PY{o}{\PYZlt{}}\PY{o}{\PYZdq{}}\PY{l+m+mi}{1} \PY{o}{|}\PY{o}{:} \PY{o}{\PYZcb{}}\PY{o}{.} \PY{n+nv}{d}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+row count: 68604
++-----+------------------------+
+| 2975|retailItemGrpID         |
+| 2784|retailItemGrpName       |
+|  316|retailItemGrpDescription|
+|  283|orgUnitOwnerID          |
+|22260|rmiID                   |
+|21930|rmiName                 |
+|  255|rmiExtID                |
+|    1|ZipFileName             |
+|    1|ZipRunNumber            |
+|    1|XMLFileName             |
+|    1|XMLFileDate             |
+|    1|CreateDatetime          |
++-----+------------------------+
+    \end{Verbatim}
+
+    J is hardly unique in its ability to subdue ETL irritants. I've
+personally used Python, Powershell, and SQL scripts as well but for me J
+administers the biggest bang per byte! \textbf{Adding J to your coding
+arsenal will make you a more versatile programmer and a better person.
+Do it!}
+
+    \hypertarget{the-joys-of-jod-and-other-code-databases}{%
+\paragraph{The Joys of JOD and other code
+databases}\label{the-joys-of-jod-and-other-code-databases}}
+
+    One of the many advantages of storing code in tools like JOD is that
+it's easy to run ad hoc code analysis.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{11}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{load} \PY{l+s}{\PYZsq{}}\PY{l+s}{g}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{e}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{/}\PY{l+s}{j}\PY{l+s}{o}\PY{l+s}{d}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{od} \PY{o}{;}\PY{o}{:}\PY{l+s}{\PYZsq{}}\PY{l+s}{j}\PY{l+s}{a}\PY{l+s}{c}\PY{l+s}{k}\PY{l+s}{s}\PY{l+s}{o}\PY{l+s}{n}\PY{l+s}{s}\PY{l+s}{ }\PY{l+s}{u}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{l}\PY{l+s}{s}\PY{l+s}{\PYZsq{}} \PY{o}{[} \PY{l+m+mi}{3} \PY{n+nv}{od} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZsq{}} \PY{c+c1}{NB. open JOD dictionaries}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
++-+-----------------+--------+-----+
+|1|opened (rw/ro) ->|jacksons|utils|
++-+-----------------+--------+-----+
+    \end{Verbatim}
+
+    Here's some basic information about the JOD
+group\footnote{A JOD group is a list of words.} \texttt{swiftprep}. J
+scripts are easily generated from groups with JOD's \texttt{mls}, (make
+load script) verb.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{15}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{o}{\PYZcb{}}\PY{o}{.} \PY{n+nv}{grp} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{w}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{d}\PY{l+s}{s}\PY{l+s}{ }\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{o}{;}\PY{o}{\PYZob{}}\PY{o}{:}\PY{l+m+mi}{2} \PY{n+nv}{mls} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{i}\PY{l+s}{z}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{o}\PY{l+s}{f}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{o}\PY{l+s}{m}\PY{l+s}{m}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{o}{;}\PY{o}{\PYZob{}}\PY{o}{:}\PY{n+nv}{compj} \PY{o}{\PYZcb{}}\PY{o}{.}\PY{l+m+mi}{2} \PY{n+nv}{grp} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{i}\PY{l+s}{z}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{o}\PY{l+s}{f}\PY{l+s}{ }\PY{l+s}{m}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{i}\PY{l+s}{m}\PY{l+s}{i}\PY{l+s}{z}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+\PY{c+c1}{NB. a single static \PYZdq{}noun\PYZdq{} of tables and column names }
+\PY{n+nv}{tcl}\PY{o}{=:} \PY{p}{(}\PY{o}{\PYZcb{}}\PY{o}{.}\PY{l+m+mi}{2} \PY{n+nv}{grp} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)} \PY{o}{\PYZhy{}}\PY{o}{.} \PY{o}{\PYZlt{}}\PY{l+s}{\PYZsq{}}\PY{l+s}{S}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{L}\PY{l+s}{a}\PY{l+s}{n}\PY{l+s}{d}\PY{l+s}{T}\PY{l+s}{a}\PY{l+s}{b}\PY{l+s}{l}\PY{l+s}{e}\PY{l+s}{H}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{r}\PY{l+s}{s}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{o}{;}\PY{o}{\PYZob{}}\PY{o}{:}\PY{n+nv}{compj} \PY{n+nv}{tcl}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{m}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{i}\PY{l+s}{m}\PY{l+s}{i}\PY{l+s}{z}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{i}\PY{l+s}{p}\PY{l+s}{t}\PY{l+s}{ }\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{t}\PY{l+s}{h}\PY{l+s}{o}\PY{l+s}{u}\PY{l+s}{t}\PY{l+s}{ }\PY{l+s}{l}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{g}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{t}\PY{l+s}{ }\PY{l+s}{n}\PY{l+s}{o}\PY{l+s}{u}\PY{l+s}{n}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{p}{(}\PY{o}{+}\PY{o}{/} \PY{o}{\PYZpc{}} \PY{o}{\PYZsh{}}\PY{p}{)}\PY{o}{;}\PY{l+m+mi}{1}\PY{o}{\PYZob{}}\PY{l+m+mi}{0} \PY{l+m+mi}{15} \PY{n+nv}{get} \PY{o}{\PYZcb{}}\PY{o}{.} \PY{n+nv}{grp} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{m}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{n}\PY{l+s}{ }\PY{l+s}{b}\PY{l+s}{y}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{ }\PY{l+s}{p}\PY{l+s}{e}\PY{l+s}{r}\PY{l+s}{ }\PY{l+s}{w}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{d}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{smoutput} \PY{p}{(}\PY{o}{\PYZdq{}}\PY{o}{:}\PY{o}{\PYZsh{}}\PY{o}{;}\PY{o}{:} \PY{o}{;}\PY{l+m+mi}{1}\PY{o}{\PYZob{}}\PY{l+m+mi}{2} \PY{n+nv}{mls} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{p}{)}\PY{o}{,}\PY{l+s}{\PYZsq{}}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{o}\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{o}\PY{l+s}{m}\PY{l+s}{m}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{d}\PY{l+s}{ }\PY{l+s}{J}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{o}\PY{l+s}{k}\PY{l+s}{e}\PY{l+s}{n}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{o}\PY{l+s}{u}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
+106: words in script
+42221: size of commented script
+23403: size of minimized script
+16492: minimized script without largest noun
+529.91509: mean bytes per word
+5945: total commented J token count
+    \end{Verbatim}
+
+    As you can see there isn't a lot of code, roughly 17K.
+
+    As nice as off-the-cuff code statistics are, the biggest advantage of
+code databases is how they simplify code recycling and document
+generation. The ETL \texttt{swiftprep} group currently contains 106 J
+words. 69 of those words are specific to \texttt{swiftprep}. The rest
+are common utilities and recycled words. When \texttt{swiftprep.ijs} is
+generated with JOD's \texttt{mls} verb all of \texttt{swiftprep}'s words
+are collected into a single stand-alone script. For such stand-alone
+scripts, I include an \emph{interface noun} that lists group
+words\footnote{Short word summaries are stored in JOD and used when generating scripts and documents.}
+you should be aware of.
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{13}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{get} \PY{l+s}{\PYZsq{}}\PY{l+s}{I}\PY{l+s}{F}\PY{l+s}{A}\PY{l+s}{C}\PY{l+s}{E}\PY{l+s}{W}\PY{l+s}{O}\PY{l+s}{R}\PY{l+s}{D}\PY{l+s}{S}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{p}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}
+\PY{n+nv}{hlpnl} \PY{n+nv}{IFACEWORDSswiftprep}
+\end{Verbatim}
+\end{tcolorbox}
+
+    \begin{Verbatim}[commandchars=\\\{\}]
++-------------------+-------------------------------------------------------+
+|dailyswift         |daily SwiftIQ zip loading and maintenance tasks        |
+|fullheaderscan     |scan SwiftIQ zips and build complete table headers     |
+|loadswiftcsvs      |copies zip to working directory and extracts csvs      |
+|loadswifttabs      |convert SwiftIQ csvs to TAB delimited table files      |
+|procqueuezips      |processes queued zips from file                        |
+|procswiftzip       |process a SwiftIQ zip                                  |
+|queueswiftSizes    |file sizes: queueswiftSizes SwiftAuxDir,'swift2.txt'   |
+|queueswiftZips     |write (y) line file of queued zips                     |
+|runswiftssis       |runs SwiftIQ SSIS batch scripts                        |
+|showswiftUnload    |list never loaded zips in load order                   |
+|showswiftlog       |show SwiftIQ log entries                               |
+|swiftLoaded        |loaded swift zips with return code: swiftLoaded '<1000'|
+|swiftMissingColumns|list missing SwiftIQ landing table columns             |
+|swiftZips          |sorted SwiftIQ zip files                               |
++-------------------+-------------------------------------------------------+
+    \end{Verbatim}
+
+    Finally, code databases typically contain far more than code!
+Documentation is also stored. Stored documentation can be used to
+generate
+\href{https://en.wikipedia.org/wiki/Literate_programming}{\emph{literate
+programming}} documents. In JOD's case
+\href{https://analyzethedatanotthedrivel.org/2020/05/25/using-jodliterate/}{jodliterate}
+applied to \texttt{swiftprep} creates this
+\href{https://bakerjd99.files.wordpress.com/2021/08/swiftprep.pdf}{indexed
+and annoted PDF}. Enjoy!
+
+    \hypertarget{let-j-tell-ssis-where-to-get-off}{%
+\paragraph{Let J tell SSIS where to get
+off}\label{let-j-tell-ssis-where-to-get-off}}
+
+I hope I've convinced you that J can help with ETL irritants. It can
+help, but it cannot do the entire job. At some point you will have to
+bring in tools like
+\href{https://docs.microsoft.com/en-us/sql/tools/bcp-utility?view=sql-server-ver15}{bcp},
+\href{https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver15}{SSIS}
+or \href{https://www.talend.com/}{Talend}. SSIS and Talend are typically
+the drivers of ETL processes; they call other specialized tools as
+needed, but I've found that it's easier to use scripting tools like J as
+drivers. In this blog post I outline how easy it is to
+\href{https://analyzethedatanotthedrivel.org/2021/06/05/running-ssis-packages-with-python/}{control
+SSIS with Python}. You can use the same trick with J.
+
+    The \texttt{swiftprep} ETL script does:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Finds a large daily FTP'ed zip file containing CSVs.
+\item
+  Unzips the CSVs to working directories.
+\item
+  Converts unruly CSVs to standard TAB delimited text files.
+\item
+  Runs an SSIS package to load TAB files to SQLServer staging tables.
+\item
+  Runs another SSIS package to transform staging tables to a reporting
+  tables.
+\end{enumerate}
+
+    This reads worse than it is. The main jumping off word in
+\texttt{swiftprep} is \texttt{dailyswift}. Here's \texttt{dailyswift}:
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{14}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{dailyswift}\PY{o}{=:}\PY{n+nf}{3 : 0}
+
+\PY{c+c1}{NB.*dailyswift v\PYZhy{}\PYZhy{} daily SwiftIQ zip loading and maintenance tasks.}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB. monad:  (ilRc ; clGuid) =. dailyswift uuIgnore}
+\PY{c+c1}{NB. dyad:  (ilRc ; clGuid) =. iaDayCode dailyswift uuIgnore}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   \PYZus{}1 dailyswift 0  NB. update stage only}
+\PY{c+c1}{NB.   dailyswift\PYZti{} \PYZus{}1}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   NB. full table reload}
+\PY{c+c1}{NB.   42 dailyswift 0   }
+
+\PY{p}{(}\PY{n+nv}{weekday} \PY{l+m+mi}{3} \PY{o}{\PYZob{}}\PY{o}{.} \PY{l+m+mi}{6}\PY{o}{!}\PY{o}{:}\PY{l+m+mi}{0} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZsq{}}\PY{p}{)} \PY{n+nv}{dailyswift} \PY{n+nd}{y}
+\PY{o}{:}
+\PY{c+c1}{NB. stage latest zip}
+\PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{c}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{g}\PY{l+s}{\PYZsq{}}\PY{o}{=.} \PY{n+nv}{procswiftzip} \PY{o}{;}\PY{l+m+mi}{0}\PY{o}{\PYZob{}}\PY{n+nv}{swiftZips} \PY{l+m+mi}{0}
+\PY{n+nl}{if.} \PY{l+m+mi}{0}\PY{o}{\PYZti{}}\PY{o}{:}\PY{l+m+mi}{0}\PY{o}{\PYZob{}}\PY{n+nv}{rc} \PY{n+nl}{do.} \PY{n+nv}{rc}\PY{o}{;}\PY{n+nv}{tg} \PY{n+nl}{return.} \PY{n+nl}{end.}
+
+\PY{n+nl}{if.} \PY{l+m+mi}{\PYZus{}1}\PY{o}{=}\PY{n+nd}{x} \PY{n+nl}{do.}
+  \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{o}\PY{l+s}{n}\PY{l+s}{l}\PY{l+s}{y}\PY{l+s}{ }\PY{l+s}{u}\PY{l+s}{p}\PY{l+s}{d}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}\PY{l+s}{ }\PY{l+s}{s}\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{g}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}\PY{l+s}{\PYZsq{}}
+\PY{n+nl}{else.}
+  \PY{n+nv}{rcnts}\PY{o}{=.} \PY{n+nv}{cntswiftrows} \PY{l+m+mi}{0}  \PY{c+c1}{NB. report/stage item counts}
+
+  \PY{c+c1}{NB. update reporting }
+  \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{logswiftReportBegin} \PY{n+nv}{tg}\PY{o}{;}\PY{n+nv}{rcnts}
+  \PY{n+nl}{if.} \PY{l+m+mi}{0}\PY{o}{=}\PY{n+nd}{x} \PY{n+nl}{do.}
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{w}\PY{l+s}{c}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{s}\PY{l+s}{:}\PY{l+s}{:}\PY{l+s}{p}\PY{l+s}{i}\PY{l+s}{d}\PY{l+s}{x}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{n+nv}{rcnts} 
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{x}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{g}\PY{l+s}{ }\PY{l+s}{\PYZhy{}}\PY{l+s}{ }\PY{l+s}{p}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{b}\PY{l+s}{l}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{u}\PY{l+s}{p}\PY{l+s}{d}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{\PYZsq{}}
+    \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{runswiftssis} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{i}\PY{l+s}{n}\PY{l+s}{d}\PY{l+s}{e}\PY{l+s}{x}\PY{l+s}{.}\PY{l+s}{b}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+    \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{runswiftssis} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{.}\PY{l+s}{b}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+
+  \PY{n+nl}{elseif.} \PY{l+m+mi}{42}\PY{o}{=}\PY{n+nd}{x} \PY{n+nl}{do.}
+    \PY{c+c1}{NB. full updates are best babysat \PYZhy{} trigger with}
+    \PY{c+c1}{NB. code 42 \PYZhy{} life the universe and everything}
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{w}\PY{l+s}{c}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{s}\PY{l+s}{:}\PY{l+s}{:}\PY{l+s}{f}\PY{l+s}{u}\PY{l+s}{l}\PY{l+s}{l}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{n+nv}{rcnts} 
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{f}\PY{l+s}{u}\PY{l+s}{l}\PY{l+s}{l}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{b}\PY{l+s}{l}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{f}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{s}\PY{l+s}{h}\PY{l+s}{\PYZsq{}}
+    \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{runswiftssis} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{f}\PY{l+s}{u}\PY{l+s}{l}\PY{l+s}{l}\PY{l+s}{.}\PY{l+s}{b}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+
+  \PY{n+nl}{elseif.}\PY{n+nl}{do.} 
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{o}\PY{l+s}{w}\PY{l+s}{c}\PY{l+s}{n}\PY{l+s}{t}\PY{l+s}{s}\PY{l+s}{:}\PY{l+s}{:}\PY{l+s}{ }\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{n+nv}{rcnts}   
+    \PY{n+nv}{SwiftLog} \PY{l+s}{\PYZsq{}}\PY{l+s}{p}\PY{l+s}{a}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{a}\PY{l+s}{l}\PY{l+s}{ }\PY{l+s}{t}\PY{l+s}{a}\PY{l+s}{b}\PY{l+s}{l}\PY{l+s}{e}\PY{l+s}{ }\PY{l+s}{u}\PY{l+s}{p}\PY{l+s}{d}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{e}\PY{l+s}{\PYZsq{}}   
+    \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{runswiftssis} \PY{l+s}{\PYZsq{}}\PY{l+s}{s}\PY{l+s}{w}\PY{l+s}{i}\PY{l+s}{f}\PY{l+s}{t}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{p}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{t}\PY{l+s}{.}\PY{l+s}{b}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{\PYZsq{}}
+  \PY{n+nl}{end.}
+  \PY{n+nv}{rc}\PY{o}{=.} \PY{n+nv}{logswiftReportEnd} \PY{n+nv}{rc}\PY{o}{;}\PY{n+nv}{tg}
+\PY{n+nl}{end.}
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+    Maybe I'm an old jaded programmer, but \texttt{dailyswift} doesn't look
+very scary. Obfuscated J can be phenomenally impenetrable. Look at the
+definition of \texttt{readtd2}. Sadly, it's easy to create unreadable
+code in any programming language. If program code was edited like novel
+manuscripts, we'd seldom see incomprehensible
+crap\footnote{Programmers should be embarrassed that Young Adult romance novels have higher editing standards than \emph{mission-critical} code.}
+but it isn't, so we must exercise personal discretion. \textbf{\emph{My
+goal when coding is to make things so clear that that they're dismissed
+as trivial!}} And, let's face it, ETL, as tedious and time-consuming as
+it typically is, is trivial!
+  
+    
+%\end{document}
