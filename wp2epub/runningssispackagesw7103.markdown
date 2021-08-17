@@ -1,4 +1,5 @@
-[Running SSIS Packages with Python](https://analyzethedatanotthedrivel.org/2021/06/05/running-ssis-packages-with-python/) {#running-ssis-packages-with-python .unnumbered}
+
+[Running SSIS Packages with Python](https://analyzethedatanotthedrivel.org/2021/06/05/running-ssis-packages-with-python/) 
 -------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 06 Jun 2021 15:36:15*

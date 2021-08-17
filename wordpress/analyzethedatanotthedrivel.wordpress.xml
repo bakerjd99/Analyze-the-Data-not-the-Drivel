@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-08-11 21:44"-->
+<!-- generator="WordPress.com" created="2021-08-17 17:05"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Wed, 11 Aug 2021 21:44:33 +0000</pubDate>
+	<pubDate>Tue, 17 Aug 2021 17:05:41 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -284,6 +284,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>7456796</wp:term_id><wp:tag_slug>blood-moons</wp:tag_slug><wp:tag_name><![CDATA[blood moons]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>19393136</wp:term_id><wp:tag_slug>body-cameras</wp:tag_slug><wp:tag_name><![CDATA[body cameras]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>792367</wp:term_id><wp:tag_slug>boehner</wp:tag_slug><wp:tag_name><![CDATA[Boehner]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>114630849</wp:term_id><wp:tag_slug>bonebridge-puzzle</wp:tag_slug><wp:tag_name><![CDATA[bonebridge puzzle]]></wp:tag_name>
@@ -450,11 +452,15 @@
 </wp:tag>
 	<wp:tag><wp:term_id>513517607</wp:term_id><wp:tag_slug>crony-contracting</wp:tag_slug><wp:tag_name><![CDATA[crony contracting]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>181189</wp:term_id><wp:tag_slug>crt</wp:tag_slug><wp:tag_name><![CDATA[CRT]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>169</wp:term_id><wp:tag_slug>css</wp:tag_slug><wp:tag_name><![CDATA[CSS]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>270080</wp:term_id><wp:tag_slug>cte</wp:tag_slug><wp:tag_name><![CDATA[CTE]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>563850</wp:term_id><wp:tag_slug>cultural-appropriation</wp:tag_slug><wp:tag_name><![CDATA[Cultural Appropriation]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>4206429</wp:term_id><wp:tag_slug>curriculum-materials</wp:tag_slug><wp:tag_name><![CDATA[curriculum materials]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>9273</wp:term_id><wp:tag_slug>customer-service</wp:tag_slug><wp:tag_name><![CDATA[customer service]]></wp:tag_name>
 </wp:tag>
@@ -1126,6 +1132,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>554918317</wp:term_id><wp:tag_slug>nb2wp</wp:tag_slug><wp:tag_name><![CDATA[nb2wp]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>30135</wp:term_id><wp:tag_slug>nea</wp:tag_slug><wp:tag_name><![CDATA[NEA]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>338334</wp:term_id><wp:tag_slug>neal-stephenson</wp:tag_slug><wp:tag_name><![CDATA[Neal Stephenson]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>2275114</wp:term_id><wp:tag_slug>neil-degrasse-tyson</wp:tag_slug><wp:tag_name><![CDATA[Neil deGrasse Tyson]]></wp:tag_name>
@@ -1285,6 +1293,8 @@
 	<wp:tag><wp:term_id>231471</wp:term_id><wp:tag_slug>psychic</wp:tag_slug><wp:tag_name><![CDATA[psychic]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>88908</wp:term_id><wp:tag_slug>public-broadcasting</wp:tag_slug><wp:tag_name><![CDATA[public broadcasting]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>17464</wp:term_id><wp:tag_slug>public-schools</wp:tag_slug><wp:tag_name><![CDATA[public schools]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>3330</wp:term_id><wp:tag_slug>publishing</wp:tag_slug><wp:tag_name><![CDATA[Publishing]]></wp:tag_name>
 </wp:tag>
@@ -9173,10 +9183,18 @@ Bill]]></wp:comment_content>
 			<wp:comment_date>2021-08-11 15:03:19</wp:comment_date>
 			<wp:comment_date_gmt>2021-08-11 21:03:19</wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[[&#8230;] The JOD Page [&#8230;]]]></wp:comment_content>
-			<wp:comment_approved>0</wp:comment_approved>
+			<wp:comment_approved>1</wp:comment_approved>
 			<wp:comment_type>pingback</wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key>jabber_published</wp:meta_key>
+				<wp:meta_value><![CDATA[1628725272]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1628725273.363289;s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
+			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_result</wp:meta_key>
 				<wp:meta_value><![CDATA[false]]></wp:meta_value>
@@ -9188,6 +9206,10 @@ Bill]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_as_submitted</wp:meta_key>
 				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:81:"JETL &#8211; J Extract Transform and Load &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:83:"http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:32:"[&#8230;] The JOD Page [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:12:"192.0.116.76";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:12:"192.0.116.76";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:51:"http://analyzethedatanotthedrivel.org/the-jod-page/";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key>akismet_history</wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1628720026.724662;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 		<wp:comment>
@@ -15344,7 +15366,7 @@ shell 'wget http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/L/i-mNK4RHL-L.p
 <!-- /wp:quote -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><a href="https://bakerjd99.files.wordpress.com/2021/06/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
+<ol><li><a href="https://bakerjd99.files.wordpress.com/2021/08/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -46556,33 +46578,6 @@ Cheers]]></wp:comment_content>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>bm</title>
-		<link>http://analyzethedatanotthedrivel.org/bm/</link>
-		<pubDate>Mon, 07 Jun 2021 18:42:21 +0000</pubDate>
-		<dc:creator>bakerjd99</dc:creator>
-		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/06/bm.pdf</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>7127</wp:post_id>
-		<wp:post_date>2021-06-07 12:42:21</wp:post_date>
-		<wp:post_date_gmt>2021-06-07 18:42:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>bm</wp:post_name>
-		<wp:status>inherit</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>attachment</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/06/bm.pdf</wp:attachment_url>
-		<wp:postmeta>
-			<wp:meta_key>_wp_attached_file</wp:meta_key>
-			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/06/bm.pdf]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
 		<title>hittiteguid3</title>
 		<link>http://analyzethedatanotthedrivel.org/hittiteguid3/</link>
 		<pubDate>Mon, 14 Jun 2021 20:25:28 +0000</pubDate>
@@ -47769,6 +47764,182 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 		<wp:postmeta>
 			<wp:meta_key>timeline_notification</wp:meta_key>
 			<wp:meta_value><![CDATA[1628715780]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>bm</title>
+		<link>http://analyzethedatanotthedrivel.org/bm/</link>
+		<pubDate>Fri, 13 Aug 2021 18:35:06 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/08/bm.pdf</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7200</wp:post_id>
+		<wp:post_date>2021-08-13 12:35:06</wp:post_date>
+		<wp:post_date_gmt>2021-08-13 18:35:06</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>bm</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/08/bm.pdf</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/bm.pdf]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Public School Teachers Should Wear Body Cameras</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/08/16/public-school-teachers-should-wear-body-cameras/</link>
+		<pubDate>Mon, 16 Aug 2021 22:17:57 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7202</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">One of the many positive things to emerge from the Coronavirus pandemic is the renewed interest of parents in just what the fuck is going on in their children’s schools. Like many pandemic perks this wasn’t planned, but when kids were expelled from their classrooms and parents were sent home from their jobs, both ended up staring into the ugly <a href="https://zoom.us/">Zoomed</a> abyss of public education. It’s safe to say many did not like what they saw!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>First, we had inane, <em>over-the-top-reactions</em>, to what some “teachers”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> saw in the bedrooms of their students. <a href="https://www.cnn.com/2020/09/26/us/student-suspended-gun-virtual/index.html">Imagine getting suspended over a toy gun in the background</a> of a video call. Then the usual suspects chimed in with earnest screeds about how <a href="https://www.the74million.org/article/how-missing-zoom-classes-could-funnel-kids-into-the-juvenile-justice-system-and-why-some-experts-say-now-is-the-time-to-reform-truancy-rules/">students aren’t showing up</a>. Maybe hectoring over Zoom backgrounds wasn’t such a good idea! Nah! Finally, teachers zeroed in on important issues like should students <a href="https://www.smartclassroommanagement.com/2020/08/22/students-pajamas-zoom-lessons/">be allowed to wear pajamas during Zoom lessons?</a> When parents dared question this nonsense they were harassed on <em>Twatter</em> and <em>FarceBook</em><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>. <em>Jesus Christopher Christ and Mohammed blowing Buddha in a mud bath!</em> It’s like public school teachers and administrators were going out of their way to affirm our low opinion of them.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As bad as U.S. public education was in the late <em>paleoboomer</em> era (the 1970s), it’s clearly gotten worse. Schools at all levels, are carrying <a href="https://www.huffpost.com/entry/higher-ed-administrators-growth_n_4738584">appalling loads of parasitic administrators</a>. To be fair a lot of the administrative bullshit schools deal with has been imposed by government dickheads. Still, it remains absolutely true that schools are no more difficult to manage today than they were a century ago, but boy do we waste far more time and money administering them. We should be appalled with such waste but remember, it’s good for the union parasites and other bottom-feeding underachievers that infest public schools. I mean, what would these people do? They’d immediately have to camp with the rest of the <em>useless unhoused.</em><a class="footnote-ref" id="fnref4" role="doc-noteref" href="#fn4"><sup>4</sup></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All the trivial demeaning pseudo-academic rot in public schools might have remained safely under the fat-ass-public’s radar but pandemic Zoom shoved it in their faces. Suddenly, even disinterested, <em>we don’t give a shit about our children’s education,</em> parents started wondering about the crap being “taught” in schools. As ghastly as much of this was, it was CRT that really woke up the non-woke!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am not going to get into CRT. Even in its most austere and respected academic form, it’s nothing more than another foul product of <em>garbage academia.</em> Its luminaries are, at best, mediocre scholars<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a>, and the “theory” is a simple observation that the dominant majority group in society tends to structure society to serve their interests. <em>Well, golly fucking duh!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yes, the U.S. is largely a society that favors whites just like Japan is a society that largely favors Asians and Nigeria is a society that largely favors blacks. Dominate group supremacy is a pernicious and persistent feature of <em>all</em> human societies. This is not a uniquely white failing; it’s a human failing. Rarified CRT, the theory that’s <a href="https://dailycaller.com/2021/07/29/critical-race-theory-law-school-antiracism/">not taught in public schools</a>, implicitly concedes this point but the dumbed-down version<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> that’s crept into schools and alarmed parents basically blames whitey for all the bad shit and demands reparations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><strong>I don’t give a crap about CRT, or the people bitching about CRT, but I care a lot about the accountability of public institutions.</strong></p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Public schools are public institutions; it’s right in the damn name! What goes on in public schools should be fully open to the public. You should be able to hop on <a href="https://duckduckgo.com/">DuckDuckGo</a> and quickly lookup exhaustive lists of all the workbooks, textbooks, software, and other curriculum materials used in any school nationwide. You should also be able to pull up course syllabi; i.e.&nbsp;what the hell are teachers planning to teach, for any public school course anywhere.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here’s a little homework assignment for you. Go look up the history textbooks (if any) used for 9<sup>th</sup> graders in your school district. How about 5<sup>th</sup>-grade math workbooks? If you're lucky you might find a few references but for most school districts you’ll pull up what database people call a big fat null. Also called nada, zip, or pound sand peon! As most school districts are dripping in under-employed administrators you might think they might post a few curriculums. Nah! Basically, our so-called public schools don’t give a crap about public accountability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This all came to a head in what’s turning out to be another David versus Goliath court case over, would you believe it, curriculum materials. It all started with a Rhode Island mother making <a href="https://nypost.com/2021/08/05/teachers-union-sues-mom-over-requests-for-crt-curriculum-info/">a simple request for CRT curriculum materials</a>. She wanted to know if her child was being taught CRT. What an affront! I’m pretty sure if she had asked about geometry the school would have happily coughed up materials, but CRT is too important to allow mere parents to interfere. The school system declared the nuisance mom a bitchy “Karen” and advised fornicating elsewhere. Then the NEA piled on, and it’s off to the courts to litigate another total bullshit case.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7209,"width":140,"height":140,"sizeSlug":"thumbnail","linkDestination":"none"} -->
+<div class="wp-block-image"><figure class="aligncenter size-thumbnail is-resized"><img src="https://bakerjd99.files.wordpress.com/2021/08/body_camera.png?w=150" alt="" class="wp-image-7209" width="140" height="140" /><figcaption>  Public school teachers should be required to wear body cameras. </figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Here’s my suggestion to curb this crap. Many cops are now required to wear body cameras to hold them accountable when they abuse their authority. Public school teachers should also be required to wear body cameras. If every teacher knew that their dodgy behavior and off-curriculum rants might be splashed all over the Internet they might drop the drivel and get back to, I don’t know, actual school lessons!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray","className":"is-style-default"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color is-style-default" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>The intellectual pygmy that phoned this in reminded all of us just how awful some public school teachers are. Can we please just fire some of these dipshits?<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p>I will never utter the <em>preferred names</em> of these social network abominations again!<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3" role="doc-endnote"><p>In my university days, anyone pursuing an “Education Degree” was dismissed as an intellectual lightweight.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4" role="doc-endnote"><p>The “homeless” are now to be called “unhoused.” Apparently, the word “homeless” acquired a negative connotation. Maybe it had something to do with observing the “unhoused.”<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5" role="doc-endnote"><p>CRT is so frivolous that even the Nobel Peace Prize committee won’t touch it.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn6" role="doc-endnote"><p>Pretty much anything taught in U.S. public schools nowadays is dumbed down.<a href="#fnref6" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol></section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7202</wp:post_id>
+		<wp:post_date>2021-08-16 16:17:57</wp:post_date>
+		<wp:post_date_gmt>2021-08-16 22:17:57</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>public-school-teachers-should-wear-body-cameras</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="body-cameras"><![CDATA[body cameras]]></category>
+		<category domain="post_tag" nicename="crt"><![CDATA[CRT]]></category>
+		<category domain="post_tag" nicename="curriculum-materials"><![CDATA[curriculum materials]]></category>
+		<category domain="post_tag" nicename="nea"><![CDATA[NEA]]></category>
+		<category domain="post_tag" nicename="public-schools"><![CDATA[public schools]]></category>
+		<category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[61942231770]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_thumbnail_id</wp:meta_key>
+			<wp:meta_value><![CDATA[7209]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1629152281]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>body_camera</title>
+		<link>http://analyzethedatanotthedrivel.org/body_camera/</link>
+		<pubDate>Mon, 16 Aug 2021 21:59:47 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/08/body_camera.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[ Public school teachers should also be required to wear body cameras. If every teacher knew that their dodgy behavior and off-curriculum rants might be splashed all over the Internet they might drop the drivel and get back to, I don’t know, actual school lessons.]]></excerpt:encoded>
+		<wp:post_id>7209</wp:post_id>
+		<wp:post_date>2021-08-16 15:59:47</wp:post_date>
+		<wp:post_date_gmt>2021-08-16 21:59:47</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>body_camera</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/08/body_camera.png</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/body_camera.png]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:300;s:4:"file";s:86:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/body_camera.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:93010;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>

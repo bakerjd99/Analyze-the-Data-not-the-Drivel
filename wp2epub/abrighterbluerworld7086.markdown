@@ -1,5 +1,5 @@
-[A Brighter Bluer World](http://analyzethedatanotthedrivel.org/2021/06/03/a-brighter-bluer-world/) {#a-brighter-bluer-world .unnumbered}
---------------------------------------------------------------------------------------------------
+
+[A Brighter Bluer World](http://analyzethedatanotthedrivel.org/2021/06/03/a-brighter-bluer-world/)
 
 *Posted: 03 Jun 2021 15:49:42*
 

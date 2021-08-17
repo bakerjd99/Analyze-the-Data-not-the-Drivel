@@ -1,4 +1,4 @@
-[Offensive Team Names and GUIDs](http://analyzethedatanotthedrivel.org/2021/06/14/offensive-team-names-and-guids/) {#offensive-team-names-and-guids .unnumbered}
+[Offensive Team Names and GUIDs](http://analyzethedatanotthedrivel.org/2021/06/14/offensive-team-names-and-guids/)
 ------------------------------------------------------------------------------------------------------------------
 
 *Posted: 14 Jun 2021 21:03:56*

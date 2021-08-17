@@ -1,4 +1,4 @@
-[The Zero Bullshit Sport Olympics](http://analyzethedatanotthedrivel.org/2021/06/25/the-zero-bullshit-sport-olympics/) {#the-zero-bullshit-sport-olympics .unnumbered}
+[The Zero Bullshit Sport Olympics](http://analyzethedatanotthedrivel.org/2021/06/25/the-zero-bullshit-sport-olympics/)
 ----------------------------------------------------------------------------------------------------------------------
 
 *Posted: 25 Jun 2021 18:16:48*

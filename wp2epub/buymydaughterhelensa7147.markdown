@@ -1,4 +1,5 @@
-[Buy My Daughter Helen's Art!](http://analyzethedatanotthedrivel.org/2021/07/05/buy-my-daughter-helens-art/) {#buy-my-daughter-helens-art .unnumbered}
+
+[Buy My Daughter Helen's Art!](http://analyzethedatanotthedrivel.org/2021/07/05/buy-my-daughter-helens-art/) 
 ------------------------------------------------------------------------------------------------------------
 
 *Posted: 05 Jul 2021 19:09:25*

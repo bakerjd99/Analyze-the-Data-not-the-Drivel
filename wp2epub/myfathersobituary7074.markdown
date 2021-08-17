@@ -1,4 +1,5 @@
-[My Father's Obituary](http://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/) {#my-fathers-obituary .unnumbered}
+
+[My Father's Obituary](http://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/) 
 ---------------------------------------------------------------------------------------------
 
 *Posted: 21 Feb 2021 20:22:48*

@@ -1,5 +1,5 @@
 
-[New Year New Image Editors](http://analyzethedatanotthedrivel.org/2021/01/12/new-year-new-image-editors/) 
+[New Year New Image Editors](http://analyzethedatanotthedrivel.org/2021/01/12/new-year-new-image-editors/)
 ----------------------------------------------------------------------------------------------------------
 
 *Posted: 12 Jan 2021 23:28:42*
