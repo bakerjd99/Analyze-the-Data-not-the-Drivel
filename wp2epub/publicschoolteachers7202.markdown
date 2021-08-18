@@ -58,7 +58,7 @@ golly fucking duh!*
 
 Yes, the U.S. is largely a society that favors whites just like Japan is
 a society that largely favors Asians and Nigeria is a society that
-largely favors blacks. Dominate group supremacy is a pernicious and
+largely favors blacks. Dominant group supremacy is a pernicious and
 persistent feature of *all* human societies. This is not a uniquely
 white failing; it's a human failing. Rarified CRT, the theory that's
 [not taught in public
@@ -96,7 +96,7 @@ She wanted to know if her child was being taught CRT. What an affront!
 I'm pretty sure if she had asked about geometry the school would have
 happily coughed up materials, but CRT is too important to allow mere
 parents to interfere. The school system declared the nuisance mom a
-bitchy "Karen" and advised fornicating elsewhere. Then the NEA piled on,
+bitchy ["Karen"](https://www.dictionary.com/e/slang/karen/) and advised fornicating elsewhere. Then the [NEA](https://www.nea.org/) piled on,
 and it's off to the courts to litigate another total bullshit case.
 
 Here's my suggestion to curb this crap. Many cops are now required to
