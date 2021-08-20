@@ -38,7 +38,7 @@ sucked into the script task swamp.
 The following Python snippet, taken from a recent project, illustrates
 this technique.
 
-``` {#lst:scr7103x0 .python language="python" frame="single" framerule="0pt" label="lst:scr7103x0"}
+```PYTHON
 all_cube_zips = etl.daily_zip_files(working_dirs=rtp.working_dirs, 
                                     runtime_parms=rtp.runtime_parms)
 
@@ -69,20 +69,21 @@ typical ETL stuff. After writing the TAB delimited file Python runs a
 simple batch script to execute an SSIS package. The batch script is
 called with:
 
-``` {#lst:scr7103x1 .python language="python" frame="single" framerule="0pt" label="lst:scr7103x1"}
- os.system(r"\\Shares\DailyCode\bats\SelectReload.bat")
+```PYTHON
+os.system(r"\\Shares\DailyCode\bats\SelectReload.bat")
 ```
 
 The following script lines from `SelectReload.bat` show how to set up
 and run a package with
 [`dtexec.exe`](https://docs.microsoft.com/en-us/sql/integration-services/packages/dtexec-utility?view=sql-server-ver15).
 
-    [language=, frame=single, framerule=0pt, label=lst:scr7103x2]
-     rem change to your dtexec directory
-     cd "c:\Program Files\Microsoft SQL Server\150\DTS\Binn"
-     rem execute an SSIS package - use fully qualified paths
-     dtexec /Project "\\Shares\DailyCode\ispacs\flat.ispac" /Package Reloads.dtsx
-     if %ERRORLEVEL% NEQ 0 goto Error18
+```batch
+rem change to your dtexec directory
+cd "c:\Program Files\Microsoft SQL Server\150\DTS\Binn"
+rem execute an SSIS package - use fully qualified paths
+dtexec /Project "\\Shares\DailyCode\ispacs\flat.ispac" /Package Reloads.dtsx
+if %ERRORLEVEL% NEQ 0 goto Error18
+```
 
 Here, all the irritating file hacking is done with Python leaving
 streamlined ETL jobs for SSIS. Both processes are simplified. Both are

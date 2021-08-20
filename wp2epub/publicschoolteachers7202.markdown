@@ -27,7 +27,7 @@ When parents dared question this nonsense they were harassed on
 *Twatter* and *FarceBook*.[^7202x2] *Jesus Christopher Christ and Mohammed
 blowing Buddha in a mud bath!* It's like public school teachers and
 administrators were going out of their way to affirm our low opinion of
-them.[^3^](#fn3)
+them.[^7202x3]
 
 As bad as U.S. public education was in the late *paleoboomer* era (the
 1970s), it's clearly gotten worse. Schools at all levels, are carrying
@@ -37,10 +37,10 @@ To be fair a lot of the administrative bullshit schools deal with has
 been imposed by government dickheads. Still, it remains absolutely true
 that schools are no more difficult to manage today than they were a
 century ago, but boy do we waste far more time and money administering
-them. We should be appalled with such waste but remember, it's good for
-the union parasites and other bottom-feeding underachievers that infest
+them. We should recoil at such waste but remember, it's good for the
+union parasites and other bottom-feeding underachievers that infest
 public schools. I mean, what would these people do? They'd immediately
-have to camp with the rest of the *useless unhoused.*[^7202x3]
+have to camp with the rest of the *useless unhoused.*[^7202x4]
 
 All the trivial demeaning pseudo-academic rot in public schools might
 have remained safely under the fat-ass-public's radar but pandemic Zoom
@@ -51,7 +51,7 @@ was CRT that really woke up the non-woke!
 
 I am not going to get into CRT. Even in its most austere and respected
 academic form, it's nothing more than another foul product of *garbage
-academia.* Its luminaries are, at best, mediocre scholars[^7202x4], and the
+academia.* Its luminaries are, at best, mediocre scholars[^7202x5], and the
 "theory" is a simple observation that the dominant majority group in
 society tends to structure society to serve their interests. *Well,
 golly fucking duh!*
@@ -63,7 +63,7 @@ persistent feature of *all* human societies. This is not a uniquely
 white failing; it's a human failing. Rarified CRT, the theory that's
 [not taught in public
 schools](https://dailycaller.com/2021/07/29/critical-race-theory-law-school-antiracism/),
-implicitly concedes this point but the dumbed-down version[^7202x5] that's
+implicitly concedes this point but the dumbed-down version[^7202x6] that's
 crept into schools and alarmed parents basically blames whitey for all
 the bad shit and demands reparations.
 
@@ -96,7 +96,8 @@ She wanted to know if her child was being taught CRT. What an affront!
 I'm pretty sure if she had asked about geometry the school would have
 happily coughed up materials, but CRT is too important to allow mere
 parents to interfere. The school system declared the nuisance mom a
-bitchy ["Karen"](https://www.dictionary.com/e/slang/karen/) and advised fornicating elsewhere. Then the [NEA](https://www.nea.org/) piled on,
+bitchy ["Karen"](https://www.dictionary.com/e/slang/karen/) and advised
+fornicating elsewhere. Then the [NEA](https://www.nea.org/) piled on,
 and it's off to the courts to litigate another total bullshit case.
 
 Here's my suggestion to curb this crap. Many cops are now required to
@@ -113,12 +114,15 @@ drop the drivel and get back to, I don't know, actual school lessons!
 [^7202x2]: I will never utter the *preferred names* of these social network
     abominations again!
 
-[^7202x3]: The "homeless" are now to be called "unhoused." Apparently, the
+[^7202x3]: In my university days, anyone pursuing an "Education Degree" was
+    dismissed as an intellectual lightweight.
+
+[^7202x4]: The "homeless" are now to be called "unhoused." Apparently, the
     word "homeless" acquired a negative connotation. Maybe it had
     something to do with observing the "unhoused."
 
-[^7202x4]: CRT is so frivolous that even the Nobel Peace Prize committee
+[^7202x5]: CRT is so frivolous that even the Nobel Peace Prize committee
     won't touch it.
 
-[^7202x5]: Pretty much anything taught in U.S. public schools nowadays is
+[^7202x6]: Pretty much anything taught in U.S. public schools nowadays is
     dumbed down.

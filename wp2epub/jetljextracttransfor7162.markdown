@@ -111,7 +111,7 @@ In the following examples I am going to assume JOD is installed and the
 utilities *dictionary* `utils` is available. The latest version of
 `utils` is on [GitHub here](https://github.com/bakerjd99/joddumps).
 
-``` {.J}
+```J
 load 'general/jod'
 get 'portchars' [ od 'utils' [ 3 od ''
 NB. use ASCII box characters - simplifies blog formatting
@@ -127,7 +127,7 @@ websites, point-of-sale systems, spreadsheets, and so forth encourage
 users to compose not-so-great novels in text entry fields. When these
 \"novels\" land in data feeds you see crap like this:
 
-``` {.J}
+```J
 textfield =: 0 : 0
   Leading and trailing
        white     space, tabs,
@@ -141,7 +141,7 @@ It\'s easy to fix crap once its loaded into a SQL table but it\'s crap
 like this that get\'s in the way of loading the table in the first
 place. The following J expression cleans `textfield`.
 
-``` {.J}
+```J
 (] #~ [: -. '  '&E.) textfield -. CRLF,TAB,'@#*!'
 ```
 
@@ -149,7 +149,7 @@ place. The following J expression cleans `textfield`.
 
 The `utils` dictionary contains many character list verbs.
 
-``` {.J}
+```J
 get ;:'reb allwhitetrim'
 allwhitetrim reb textfield -. CRLF,TAB,'@#*!'
 ```
@@ -160,13 +160,13 @@ allwhitetrim reb textfield -. CRLF,TAB,'@#*!'
 [*Excel*](https://www.spreadsheetsmadeeasy.com/understanding-csv-files-in-excel/)
 enabled irritant.
 
-``` {.J}
+```J
 quotecomma=: 0 : 0
 "how often",1,2,"have quoted , commas","screwed ,,, line parsing?"
 )
 ```
 
-``` {.J}
+```J
 getrx 'parsecsv'  NB. load parsecsv and words it calls
 ',' parsecsv quotecomma
 ```
@@ -177,7 +177,7 @@ getrx 'parsecsv'  NB. load parsecsv and words it calls
 
 For example this 63MB `csv` file contains dreaded commas in quotes.
 
-``` {.J}
+```J
 smoutput dir '\\jfsdev04\Shares\SwiftIQPreprocess\SwiftZipCsv\Item*.csv'
 smoutput fi=: ;1 dir '\\jfsdev04\Shares\SwiftIQPreprocess\SwiftZipCsv\Item*.csv'
 ```
@@ -187,7 +187,7 @@ smoutput fi=: ;1 dir '\\jfsdev04\Shares\SwiftIQPreprocess\SwiftZipCsv\Item*.csv'
 
 A simple J *verb* can flip the offenders to semi-colons.
 
-``` {.J}
+```J
 getrx ;:'repdqchars read'
 #txt=: ',;' repdqchars read fi NB. flip commas - return byte count
 ```
@@ -196,7 +196,7 @@ getrx ;:'repdqchars read'
 
 Here\'s the definition of `repdqchars`.
 
-``` {.J}
+```J
 repdqchars=:4 : 0
 
 NB.*repdqchars v-- replace double quoted (0{x) characters with (1{x).
@@ -232,12 +232,12 @@ how data is distributed \-\-- *duh!* Before creating tables, it\'s
 helpful to run quick-and-dirty analyses. One useful summary is *column
 cardinality*, the number of unique column items.
 
-``` {.J}
+```J
 NB. read and parse TAB delimited text - first row column names
 get 'readtd2'
 f=: '\\jfsdev04\Shares\DailyXMLPreprocess\DailyTsv\raw_RetailItemGroup_RMI.txt'
 d=: readtd2 f
-NB. comput column cardinalties
+NB. compute column cardinalities
 smoutput 'row count: ',":#d
 (>0{d) ;~ ,. #@~.&> <"1 |: }. d
 ```
@@ -268,7 +268,7 @@ will make you a more versatile programmer and a better person. Do it!**
 One of the many advantages of storing code in tools like JOD is that
 it\'s easy to run ad hoc code analysis.
 
-``` {.J}
+```J
 load 'general/jod'
 od ;:'jacksons utils' [ 3 od '' NB. open JOD dictionaries
 ```
@@ -280,7 +280,7 @@ od ;:'jacksons utils' [ 3 od '' NB. open JOD dictionaries
 Here\'s some basic information about the JOD group `swiftprep`. J scripts are easily generated from
 groups with JOD\'s `mls`, (make load script) verb.
 
-``` {.J}
+```J
 smoutput (":#}. grp 'swiftprep'),': words in script'
 smoutput (":#;{:2 mls 'swiftprep'),': size of commented script'
 smoutput (":#;{:compj }.2 grp 'swiftprep'),': size of minimized script'
@@ -310,7 +310,7 @@ single stand-alone script. For such stand-alone scripts, I include an
 *interface noun* that lists group words you
 should be aware of.
 
-``` {.J}
+```J
 get 'IFACEWORDSswiftprep'
 hlpnl IFACEWORDSswiftprep
 ```
@@ -369,7 +369,7 @@ The `swiftprep` ETL script does:
 This reads worse than it is. The main jumping off word in `swiftprep` is
 `dailyswift`. Here\'s `dailyswift`:
 
-``` {.J}
+```J
 dailyswift=:3 : 0
 
 NB.*dailyswift v-- daily SwiftIQ zip loading and maintenance tasks.

@@ -78,8 +78,7 @@ here](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/5381f7a9
      Kentucky     4,450,042   23         0.22471698       5.168490545     5.2
      Virginia     8,492,783   39         0.117747033      4.592134286     4.6
      Missouri     6,123,362   24         0.16330898       3.919415511     3.9
-    Indiana       6,663,280   26         0.150076239      3.901982207     3.9
-\
+     Indiana      6,663,280   26         0.150076239      3.901982207     3.9
 
 Now, for extra credit, what is wrong with this calculation? Remember, I
 am assuming SPLC’s dubious and entirely subjective hate group counts are

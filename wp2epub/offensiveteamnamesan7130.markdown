@@ -98,6 +98,9 @@ to say, [Hittite
 Unicode](https://www.hethport.uni-wuerzburg.de/cuneifont/),[^7130x3] throw in
 some gay colors, and *Voila* you get logo-friendly graphics like:
 
+[Image link: Hittite GUID](https://photos.smugmug.com/Themes/Manipulations/Logos-Screenshots-Covers/i-DsBWHRC/0/00834bf4/L/hittiteguid3-L.png)
+
+
 As for the cheer problem, I agree that
 `"9259781A92E4B542BEE9585BDEE07B19"` is a mouthful but it comes with a
 life-saving plus. It functions as a fan sobriety test. If you're too

@@ -11,8 +11,10 @@ in a wild break with tradition, I'm promoting my daughter's art.
 Some of us put *Winnie the Wuhan Kung Flu*[^7147x1] lockdowns to good use. I
 finished my [JOD book](https://www.amazon.com/dp/B08M2KBMND), and my
 daughter Helen transformed herself into a visual artist. This collage,
-see Figure [\[fig:7147x0\]](#fig:7147x0){reference-type="ref"
-reference="fig:7147x0"} on page , was built from two images she sent me
+
+[Image link: Helen Belleville Art Show](https://photos.smugmug.com/Themes/Diaries/Cell-Phoning-It-In/i-nTRFW2s/0/d128dd89/L/helen%20belleville%20art%20show-L.jpg)
+
+ was built from two images she sent me
 from her recent Belleville Ontario [art show](https://bazaarmarket.ca/).
 Helen's work is [available on
 ESTY](https://www.etsy.com/shop/HBBArtByHelen?ref=profile_header).
