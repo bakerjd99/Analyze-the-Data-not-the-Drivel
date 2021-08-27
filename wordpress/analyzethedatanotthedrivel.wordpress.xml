@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress.com" created="2021-08-17 17:05"-->
+<!-- generator="WordPress.com" created="2021-08-27 19:29"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Analyze the Data not the Drivel</title>
 	<link>http://analyzethedatanotthedrivel.org</link>
 	<description>Practice relentless verification</description>
-	<pubDate>Tue, 17 Aug 2021 17:05:41 +0000</pubDate>
+	<pubDate>Fri, 27 Aug 2021 19:29:33 +0000</pubDate>
 	<language>en</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -150,6 +150,8 @@
 </wp:tag>
 	<wp:tag><wp:term_id>254049665</wp:term_id><wp:tag_slug>affinity-photo</wp:tag_slug><wp:tag_name><![CDATA[Affinity Photo]]></wp:tag_name>
 </wp:tag>
+	<wp:tag><wp:term_id>723273328</wp:term_id><wp:tag_slug>afghans-falling-off-plane</wp:tag_slug><wp:tag_name><![CDATA[Afghans Falling off Plane]]></wp:tag_name>
+</wp:tag>
 	<wp:tag><wp:term_id>14067</wp:term_id><wp:tag_slug>ai</wp:tag_slug><wp:tag_name><![CDATA[AI]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>141</wp:term_id><wp:tag_slug>ajax</wp:tag_slug><wp:tag_name><![CDATA[ajax]]></wp:tag_name>
@@ -249,6 +251,8 @@
 	<wp:tag><wp:term_id>25821823</wp:term_id><wp:tag_slug>bhsd</wp:tag_slug><wp:tag_name><![CDATA[BHSD]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>10051</wp:term_id><wp:tag_slug>bible</wp:tag_slug><wp:tag_name><![CDATA[Bible]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>262248</wp:term_id><wp:tag_slug>biden</wp:tag_slug><wp:tag_name><![CDATA[Biden]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>36507086</wp:term_id><wp:tag_slug>bitcoin</wp:tag_slug><wp:tag_name><![CDATA[Bitcoin]]></wp:tag_name>
 </wp:tag>
@@ -831,6 +835,8 @@
 	<wp:tag><wp:term_id>1234086</wp:term_id><wp:tag_slug>instamatic</wp:tag_slug><wp:tag_name><![CDATA[Instamatic]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>18335</wp:term_id><wp:tag_slug>intellectual-property</wp:tag_slug><wp:tag_name><![CDATA[intellectual property]]></wp:tag_name>
+</wp:tag>
+	<wp:tag><wp:term_id>816402</wp:term_id><wp:tag_slug>intelligence-failure</wp:tag_slug><wp:tag_name><![CDATA[Intelligence Failure]]></wp:tag_name>
 </wp:tag>
 	<wp:tag><wp:term_id>125409154</wp:term_id><wp:tag_slug>internal-corporate-networks</wp:tag_slug><wp:tag_name><![CDATA[internal corporate networks]]></wp:tag_name>
 </wp:tag>
@@ -9202,10 +9208,6 @@ Bill]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
 				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1628715800.094798;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
-				<wp:meta_key>akismet_as_submitted</wp:meta_key>
-				<wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:81:"JETL &#8211; J Extract Transform and Load &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:83:"http://analyzethedatanotthedrivel.org/2021/08/11/jetl-j-extract-transform-and-load/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:32:"[&#8230;] The JOD Page [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:12:"192.0.116.76";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:12:"192.0.116.76";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:51:"http://analyzethedatanotthedrivel.org/the-jod-page/";}]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key>akismet_history</wp:meta_key>
@@ -47809,7 +47811,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>As bad as U.S. public education was in the late <em>paleoboomer</em> era (the 1970s), it’s clearly gotten worse. Schools at all levels, are carrying <a href="https://www.huffpost.com/entry/higher-ed-administrators-growth_n_4738584">appalling loads of parasitic administrators</a>. To be fair a lot of the administrative bullshit schools deal with has been imposed by government dickheads. Still, it remains absolutely true that schools are no more difficult to manage today than they were a century ago, but boy do we waste far more time and money administering them. We should be appalled with such waste but remember, it’s good for the union parasites and other bottom-feeding underachievers that infest public schools. I mean, what would these people do? They’d immediately have to camp with the rest of the <em>useless unhoused.</em><a class="footnote-ref" id="fnref4" role="doc-noteref" href="#fn4"><sup>4</sup></a></p>
+<p>As bad as U.S. public education was in the late <em>paleoboomer</em> era (the 1970s), it’s clearly gotten worse. Schools at all levels, are carrying <a href="https://www.huffpost.com/entry/higher-ed-administrators-growth_n_4738584">appalling loads of parasitic administrators</a>. To be fair a lot of the administrative bullshit schools deal with has been imposed by government dickheads. Still, it remains absolutely true that schools are no more difficult to manage today than they were a century ago, but boy do we waste far more time and money administering them. We should recoil at such waste but remember, it’s good for the union parasites and other bottom-feeding underachievers that infest public schools. I mean, what would these people do? They’d immediately have to camp with the rest of the <em>useless unhoused.</em><a class="footnote-ref" id="fnref4" role="doc-noteref" href="#fn4"><sup>4</sup></a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -47821,7 +47823,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Yes, the U.S. is largely a society that favors whites just like Japan is a society that largely favors Asians and Nigeria is a society that largely favors blacks. Dominate group supremacy is a pernicious and persistent feature of <em>all</em> human societies. This is not a uniquely white failing; it’s a human failing. Rarified CRT, the theory that’s <a href="https://dailycaller.com/2021/07/29/critical-race-theory-law-school-antiracism/">not taught in public schools</a>, implicitly concedes this point but the dumbed-down version<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a> that’s crept into schools and alarmed parents basically blames whitey for all the bad shit and demands reparations.</p>
+<p>Yes, the U.S. is largely a society that favors whites just like Japan is a society that largely favors Asians and Nigeria is a society that largely favors blacks. Dominant group supremacy is a pernicious and persistent feature of <em>all</em> human societies. This is not a uniquely white failing; it’s a human failing. Rarified CRT, the theory that’s <a href="https://dailycaller.com/2021/07/29/critical-race-theory-law-school-antiracism/">not taught in public schools</a>, implicitly concedes this point but the dumbed-down version<a class="footnote-ref" id="fnref6" role="doc-noteref" href="#fn6"><sup>6</sup></a> that’s crept into schools and alarmed parents basically blames whitey for all the bad shit and demands reparations.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -47837,7 +47839,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This all came to a head in what’s turning out to be another David versus Goliath court case over, would you believe it, curriculum materials. It all started with a Rhode Island mother making <a href="https://nypost.com/2021/08/05/teachers-union-sues-mom-over-requests-for-crt-curriculum-info/">a simple request for CRT curriculum materials</a>. She wanted to know if her child was being taught CRT. What an affront! I’m pretty sure if she had asked about geometry the school would have happily coughed up materials, but CRT is too important to allow mere parents to interfere. The school system declared the nuisance mom a bitchy “Karen” and advised fornicating elsewhere. Then the NEA piled on, and it’s off to the courts to litigate another total bullshit case.</p>
+<p>This all came to a head in what’s turning out to be another David versus Goliath court case over, would you believe it, curriculum materials. It all started with a Rhode Island mother making <a href="https://nypost.com/2021/08/05/teachers-union-sues-mom-over-requests-for-crt-curriculum-info/">a simple request for CRT curriculum materials</a>. She wanted to know if her child was being taught CRT. What an affront! I’m pretty sure if she had asked about geometry the school would have happily coughed up materials, but CRT is too important to allow mere parents to interfere. The school system declared the nuisance mom a bitchy <a href="https://www.dictionary.com/e/slang/karen/">“Karen”</a> and advised fornicating elsewhere. Then the <a href="https://www.nea.org/">NEA </a>piled on, and it’s off to the courts to litigate another total bullshit case.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7209,"width":140,"height":140,"sizeSlug":"thumbnail","linkDestination":"none"} -->
@@ -47940,6 +47942,109 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 		<wp:postmeta>
 			<wp:meta_key>_wp_attachment_image_alt</wp:meta_key>
 			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>afghan-falling-plane</title>
+		<link>http://analyzethedatanotthedrivel.org/afghan-falling-plane/</link>
+		<pubDate>Fri, 27 Aug 2021 18:09:49 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/08/afghan-falling-plane.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7220</wp:post_id>
+		<wp:post_date>2021-08-27 12:09:49</wp:post_date>
+		<wp:post_date_gmt>2021-08-27 18:09:49</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>afghan-falling-plane</wp:post_name>
+		<wp:status>inherit</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>attachment</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/08/afghan-falling-plane.jpg</wp:attachment_url>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attached_file</wp:meta_key>
+			<wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/afghan-falling-plane.jpg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+			<wp:meta_value><![CDATA[a:6:{s:5:"width";i:400;s:6:"height";i:300;s:4:"file";s:95:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2021/08/afghan-falling-plane.jpg";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:8:"filesize";i:14574;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Joe Biden = Intelligence Failure</title>
+		<link>http://analyzethedatanotthedrivel.org/2021/08/27/joe-biden-intelligence-failure/</link>
+		<pubDate>Fri, 27 Aug 2021 19:18:34 +0000</pubDate>
+		<dc:creator>bakerjd99</dc:creator>
+		<guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7221</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Joe Biden, the demented imbecile in the Whitehouse, recently had his, “it will go away like a miracle” (Trump) moment. His, “the rise of the oceans began to slow” (Obama) moment. His, “mission accomplished” (Bush) moment. His, “I did not have sex with that woman” (Clinton) moment. And his, “I’m not a crook” (Nixon) moment, and boy was it a doozy! <em>The image of desperate Afghans falling off a plane bugging out of Kabul will be the single defining image of the Biden years.</em> The global garbage media will attempt to divert the pig-dog-public’s attention, and they may even enjoy some short-term success, but fuckups of this magnitude cannot be memory-holed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":7220,"width":321,"height":241,"linkDestination":"custom"} -->
+<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="https://www.huffpost.com/entry/kabul-airport-video-afghans-clinging-plane_n_611a6142e4b07b9118ad564d"><img src="https://bakerjd99.files.wordpress.com/2021/08/afghan-falling-plane.jpg?w=400" alt="" class="wp-image-7220" width="321" height="241" /></a><figcaption>Click for the entire sad Kabul airport spectacle. I expect this link will rot quickly. Exposing authorities as complete incompetents does not help the global garbage media sell their preferred narratives.</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I feel sorry for the Afghans, but I’m enjoying watching all this blow up in Biden’s moronic face. Unlike many, I was never taken in by his folksy charm and carefully curated common-man touch. It was always a facade to cover the vacuum within. How many times have we listened to this dipshit curry favor with tales of his poor son's cancer death? Hey Joe, roughly one-third of the American public can bore strangers with similar stories. My own mother died a far more horrific cancer death than your son and I don’t use her sad fate to garner sympathy. You should be ashamed of using your dead son as a political prop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now, Joe, I know this is not all your fault. The incompetent intelligence agencies that allegedly serve you share the blame. It seems that American intelligence agencies<a class="footnote-ref" id="fnref1" role="doc-noteref" href="#fn1"><sup>1</sup></a> produce nothing but “Intelligence Failures.” How many times have they egregiously screwed up in recent decades? How many heads of the CIA, FBI, ATF, et cetera have been sacked for gross incompetence? <em>Why any of the nitwits supposedly in charge of the Afghanistan withdrawal still have jobs is entirely on you Joe!</em> Unless there are severe, immediate, and career-ending consequences for “Intelligence Failures” you can expect more of the same.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>&nbsp;American Intelligence Agency, talk about an oxymoron.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7221</wp:post_id>
+		<wp:post_date>2021-08-27 13:18:34</wp:post_date>
+		<wp:post_date_gmt>2021-08-27 19:18:34</wp:post_date_gmt>
+		<wp:comment_status>open</wp:comment_status>
+		<wp:ping_status>open</wp:ping_status>
+		<wp:post_name>joe-biden-intelligence-failure</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>post</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="afghans-falling-off-plane"><![CDATA[Afghans Falling off Plane]]></category>
+		<category domain="post_tag" nicename="biden"><![CDATA[Biden]]></category>
+		<category domain="post_tag" nicename="intelligence-failure"><![CDATA[Intelligence Failure]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+			<wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_publicize_job_id</wp:meta_key>
+			<wp:meta_value><![CDATA[62344834603]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>timeline_notification</wp:meta_key>
+			<wp:meta_value><![CDATA[1630091917]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 </channel>
