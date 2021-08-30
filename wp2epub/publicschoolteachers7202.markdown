@@ -84,7 +84,7 @@ about 5^th^-grade math workbooks? If you're lucky you might find a few
 references but for most school districts you'll pull up what database
 people call a big fat null. Also called nada, zip, or pound sand peon!
 As most school districts are dripping in under-employed administrators
-you might think they might post a few curriculums. Nah! Basically, our
+you might think they would post curricula. Nah! Basically, our
 so-called public schools don't give a crap about public accountability.
 
 This all came to a head in what's turning out to be another David versus
@@ -94,7 +94,7 @@ curriculum
 materials](https://nypost.com/2021/08/05/teachers-union-sues-mom-over-requests-for-crt-curriculum-info/).
 She wanted to know if her child was being taught CRT. What an affront!
 I'm pretty sure if she had asked about geometry the school would have
-happily coughed up materials, but CRT is too important to allow mere
+happily complied, but CRT is too important to allow mere
 parents to interfere. The school system declared the nuisance mom a
 bitchy ["Karen"](https://www.dictionary.com/e/slang/karen/) and advised
 fornicating elsewhere. Then the [NEA](https://www.nea.org/) piled on,
