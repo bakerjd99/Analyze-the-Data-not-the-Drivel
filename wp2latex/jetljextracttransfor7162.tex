@@ -19,7 +19,7 @@ convince the bedwetters that J is a fabulous tool: a spear in a world of
 bent spoons! But, if you've ever tried convincing an \emph{academic
 Marxist} that, yes
 \href{https://www.quora.com/Why-do-communists-insist-that-real-communism-has-never-been-tried?share=1}{``communism
-has been tried''}, or a \href{https://www.urbandictionary.com/define.php?term=Ufologist}{\emph{ufolgist}} that funny lights in the sky are
+has been tried''}, or a \href{https://www.urbandictionary.com/define.php?term=Ufologist}{\emph{ufologist}} that funny lights in the sky are
 almost certainly not aliens, or a 9-11 \href{https://www.urbandictionary.com/define.php?term=troofer}{\emph{troofer}} that the twin
 towers were \emph{absolutely not brought down by controlled demolition},
 then you have a pretty good idea what it's like getting IT departments
@@ -524,8 +524,19 @@ SSIS with Python}. You can use the same trick with J.
 \end{tcolorbox}
 
     Maybe I'm an old jaded programmer, but \texttt{dailyswift} doesn't look
-very scary. Obfuscated J can be phenomenally impenetrable. Look at the
-definition of \texttt{readtd2}. Sadly, it's easy to create unreadable
+very scary. Obfuscated J can appear impenetrable. Look at the
+definition of \texttt{readtd2}. 
+
+    \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{3}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+c1}{NB. read TAB delimited table files}
+\PY{n+nv}{readtd2}\PY{o}{=:}\PY{o}{[}\PY{o}{:} \PY{o}{\PYZlt{}}\PY{o}{;}\PY{o}{.}\PY{l+m+mi}{\PYZus{}2}\PY{o}{\PYZam{}}\PY{o}{\PYZgt{}} \PY{p}{(}\PY{l+m+mi}{9}\PY{o}{\PYZob{}}\PY{n+nv}{a}\PY{o}{.}\PY{p}{)} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}}\PY{o}{\PYZti{}} \PY{o}{[}\PY{o}{:} \PY{o}{\PYZlt{}}\PY{o}{;}\PY{o}{.}\PY{l+m+mi}{\PYZus{}2} \PY{o}{[}\PY{o}{:} \PY{p}{(}\PY{o}{]} \PY{o}{,} \PY{p}{(}\PY{p}{(}\PY{l+m+mi}{10}\PY{o}{\PYZob{}}\PY{n+nv}{a}\PY{o}{.}\PY{p}{)}\PY{o}{\PYZdq{}}\PY{l+m}{\PYZus{}} \PY{o}{=} \PY{o}{\PYZob{}}\PY{o}{:}\PY{p}{)} \PY{o}{\PYZcb{}}\PY{o}{.} \PY{p}{(}\PY{l+m+mi}{10}\PY{o}{\PYZob{}}\PY{n+nv}{a}\PY{o}{.}\PY{p}{)}\PY{o}{\PYZdq{}}\PY{l+m}{\PYZus{}}\PY{p}{)} \PY{p}{(}\PY{l+m+mi}{13}\PY{o}{\PYZob{}}\PY{n+nv}{a}\PY{o}{.}\PY{p}{)} \PY{o}{\PYZhy{}}\PY{o}{.}\PY{o}{\PYZti{}} \PY{l+m+mi}{1}\PY{o}{!}\PY{o}{:}\PY{l+m+mi}{1}\PY{o}{\PYZam{}}\PY{p}{(}\PY{o}{]}\PY{o}{`}\PY{o}{\PYZlt{}}\PY{o}{@}\PY{o}{.}\PY{p}{(}\PY{l+m+mi}{32}\PY{o}{\PYZam{}}\PY{o}{\PYZgt{}}\PY{o}{@}\PY{p}{(}\PY{l+m+mi}{3}\PY{o}{!}\PY{o}{:}\PY{l+m+mi}{0}\PY{p}{)}\PY{p}{)}\PY{p}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+
+Sadly, it's easy to create unreadable
 code in any programming language. If program code was edited like novel
 manuscripts, we'd seldom see incomprehensible
 crap\footnote{Programmers should be embarrassed that Young Adult romance novels have higher editing standards than \emph{mission-critical} code.}
