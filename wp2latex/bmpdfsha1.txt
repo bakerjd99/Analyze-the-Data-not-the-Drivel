@@ -1,4 +1,4 @@
- de1371ba0c90e9fe8aec4be44ad2f24075eb7fd5 bm.pdf
+ 0f45f62fe2148d6352abc53f598d6075f7700717 bm.pdf
  f6fcb24c5d07af39d67afa10e981734ab4c13253 ablackswansong985.tex
  1e94e38bf288437ef281d117dae73c121a937e08 abloggychristmaslett5275.tex
  eeda6b1448c1c52eb2fb98ae7335e69efc07197b abrighterbluerworld7086.tex
@@ -7,6 +7,7 @@
  d6fd38df02ea324c26b1a4504b20edccd1cc63f2 amemotothenextmurder3751.tex
  87b753aab6a01835e526b27cf1879559eb604982 americanstarchamberc5115.tex
  1267fda68bc6a5e2da2010f83fccc7541557b0d3 anathemplatosparalle1124.tex
+ b038e8738d03bed939b22806d8f75f1d0913d75e anepiphanyinducedbyr7238.tex
  d7bcfcc70f48ab7df2032ef67989c0345e4aede5 anhonestresumeperson5035.tex
  6f2b031df70a0a41babd628feffacf8ea1008196 apeculiarbookclub1405.tex
  8abafd718caf01a918046020b4c026c7f0e1552b aplsoftwarearchaeolo4415.tex
@@ -25,7 +26,7 @@
  29a1523722dae5741571deeb03bdde6aff964d77 blogrobotreview3653.tex
  418dcf471e72338449c57baac9f133b3ca7359d1 bloodmorons4643.tex
  56225deee599bcd339af6ba6c548f17c5160b83b blurbnicklombstransi2744.tex
- 5877d6d97e686b62ebaceabefd66954f266e83d2 bm.tex
+ 2c4d006f8eb05472fc9f668ca81427ebb216de81 bm.tex
  1b85bedffef6b35248f6b455c3cea152c0acb598 bmamble.tex
  04bf0fcc0b01c71c0094148e852b160df2ef75a3 bmamblenew.tex
  2321d924f50da8d20f6f9e8ed5fb92635c62abb7 bmtitlepage.tex
