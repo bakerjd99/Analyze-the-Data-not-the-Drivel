@@ -15,7 +15,7 @@ convince the bedwetters that J is a fabulous tool: a spear in a world of
 bent spoons! But, if you\'ve ever tried convincing an *academic Marxist*
 that, yes [\"communism has been
 tried\"](https://www.quora.com/Why-do-communists-insist-that-real-communism-has-never-been-tried?share=1),
-or a UFO-olgist that funny lights in the sky are almost certainly not
+or a *ufologist* that funny lights in the sky are almost certainly not
 aliens, or a 9-11 *troofer* that the twin towers were *absolutely not
 brought down by controlled demolition*, then you have a pretty good idea
 what it\'s like getting IT departments to buy into unsanctioned

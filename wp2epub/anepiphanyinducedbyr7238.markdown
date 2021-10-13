@@ -1,0 +1,45 @@
+
+[An Epiphany induced by reading *Journey to the Edge of Reason*](http://analyzethedatanotthedrivel.org/2021/10/08/an-epiphany-induced-by-reading-journey-to-the-edge-of-reason/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Posted: 08 Oct 2021 20:50:08*
+
+If you're faced with undeniable evidence that Shakespeare was a racist,
+would you change your opinion about the play *Othello*? I'm in the habit
+of asking myself such hypotheticals; it helps me clothe my opinions in
+reason. Here's another one. If you learn that one of the greatest
+mathematicians in history was prone to conspiracy theories as idiotic
+as the most moronic twaddle slushing around the Internet today, would
+you change your opinion about this mathematician's work?
+
+My answer to both of these questions is a resounding no!
+
+I agree with Flaubert, "The man is nothing, the work --- all."
+*Othello* remains a masterpiece even if we someday discover Shakespeare
+subsisted on a diet of roasted black babies. Similarly, Gödel's
+*Incompleteness Theorem* will stand forever as a landmark of mathematics
+even though its creator, as brilliantly told in the new biography
+[*Journey to the Edge of Reason The Life of Kurt
+Gödel*](https://www.goodreads.com/book/show/55298400-journey-to-the-edge-of-reason)*,*
+was prone to inane conspiracy theories. My favorite was Gödel's
+expressed belief that *unknown* works of Leibniz, that supposedly
+anticipated later discoveries, were being suppressed by nefarious
+agents of *big philosophy.*
+
+In this Gödel, somebody that had a much higher IQ than you, (no matter
+who the Hell you are), and produced some of the greatest theorems ever,
+was a total nut job. Nobody is suppressing Leibniz, nor is it likely
+that any of Gödel's doctors ever tried to poison him. Gödel was
+simultaneously a giant of logic and the mayor of Crazy Town. Even
+Shakespeare would have been impressed by the dichotomy. Clearly, this
+brain thing we all have in our heads is capable of some deeply weird
+shit.
+
+*Journey to the Edge of Reason* is a fabulous and fascinating book. I
+enjoyed every word, but a few days after putting it aside, a niggling
+little thought, an epiphany of sorts, percolated up from the bowels of
+my brain. ***If a genius like Gödel could not lay off conspiracy
+theories what are the chances that your average Internet imbecile
+will?***
+
+A snowball's chance in Hell comes to mind.

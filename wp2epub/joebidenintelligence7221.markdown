@@ -1,4 +1,4 @@
-[Joe Biden = Intelligence Failure](http://analyzethedatanotthedrivel.org/2021/08/27/joe-biden-intelligence-failure/) {#joe-biden-intelligence-failure .unnumbered}
+[Joe Biden = Intelligence Failure](http://analyzethedatanotthedrivel.org/2021/08/27/joe-biden-intelligence-failure/)
 --------------------------------------------------------------------------------------------------------------------
 
 *Posted: 27 Aug 2021 19:18:34*
@@ -6,13 +6,15 @@
 Joe Biden, the demented imbecile in the White House, recently had his,
 "it will go away like a miracle" (Trump) moment. His, "the rise of the
 oceans began to slow" (Obama) moment. His, "mission accomplished" (Bush)
-moment. His, "I did not have sex with that woman" (Clinton) moment. And
-his, "I'm not a crook" (Nixon) moment, and boy was it a doozy! *The
+moment. His, "I did not have sex with that woman" (Clinton) moment.
+His, "I'm not a crook" (Nixon) moment. And, boy was it a doozy! *The
 image of desperate Afghans falling off a plane bugging out of Kabul will
 be the single defining image of the Biden years.* The global garbage
 media will attempt to divert the pig-dog-public's attention, and they
-may even enjoy some short-term success, but fuckups of this magnitude
-cannot be memory-holed.
+may even enjoy some short-term success, but *fuckups of this magnitude
+cannot be memory-holed.*
+
+[Image link: Afghan falling off plane](https://bakerjd99.files.wordpress.com/2021/08/afghan-falling-plane.jpg)
 
 I feel sorry for the Afghans, but I'm enjoying watching all this blow up
 in Biden's moronic face. Unlike many, I was never taken in by his folksy
