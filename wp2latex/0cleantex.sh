@@ -1,3 +1,5 @@
+# run in latex directory with $bash 0cleantex.sh
+echo "removing latex temp files"
 rm *.aux
 rm *.bbl
 rm *.dvi
@@ -13,4 +15,4 @@ rm *.ind
 rm *.ilg
 rm *.blg
 rm *.gz
-rm *.gz(busy)
+#rm *.gz(busy)

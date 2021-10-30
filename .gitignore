@@ -2,6 +2,8 @@
 wp2epub/bm.markdown
 jl*.markdown
 Thumbs.db
+.DS_Store
+wp2latex/.DS_Store
 *.aux
 *.bbl
 *.blg
