@@ -4,12 +4,12 @@ pushd
 setlocal
 
 rem quick dependency checks
-if not exist c:\j64\j901\bin\jconsole.exe goto Error00
+if not exist c:\j64\j903\bin\jconsole.exe goto Error00
 if not exist C:\pd\blog\wordpress\TeXfrWpxml.ijs goto Error02
 if not exist c:\pd\blog\wordpress\analyzethedatanotthedrivel.wordpress.xml goto Error04
 
 rem set script executable from standard locations - assumes only one location
-if exist c:\j64\j901\bin\jconsole.exe set jexe=c:\j64\j901\bin\jconsole -js
+if exist c:\j64\j903\bin\jconsole.exe set jexe=c:\j64\j903\bin\jconsole -js
 if "%jexe%" == "" goto Error00
 
 rem set J script
