@@ -1390,7 +1390,7 @@ NB. character list to UTF-8
 utf8=:8&u:
 
 NB. to windows \ character in paths
-winpathsep=:'\'&(('/' I.@:= ])} )
+winpathsep=:'\'&(('/' I.@:= ])})
 
 NB. writes a list of bytes to file
 write=:1!:2 ]`<@.(32&>@(3!:0))
@@ -1398,7 +1398,7 @@ write=:1!:2 ]`<@.(32&>@(3!:0))
 NB.POST_TeXfrWpxml TeXfrWpxml post processor 
 
 smoutput IFACE=: (0 : 0)
-NB. (TeXfrWpxml) interface word(s):
+NB. (TeXfrWpxml) interface word(s): 20220113j110837
 NB. -------------------------------
 NB. BlogHashes        NB. update blog hashes
 NB. FixBaddown        NB. attempt to convert *.baddown files to *.markddown
