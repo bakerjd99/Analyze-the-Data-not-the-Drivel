@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2022-01-06 17:39"-->
+<!-- generator="WordPress.com" created="2022-02-04 19:30"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Practice relentless verification</description>
-<pubDate>Thu, 06 Jan 2022 17:39:19 +0000</pubDate>
+<pubDate>Fri, 04 Feb 2022 19:30:38 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -1771,6 +1771,11 @@
   <wp:tag_name><![CDATA[global transaction history]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>11870</wp:term_id>
+  <wp:tag_slug>goals</wp:tag_slug>
+  <wp:tag_name><![CDATA[goals]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>349714</wp:term_id>
   <wp:tag_slug>goodreads</wp:tag_slug>
   <wp:tag_name><![CDATA[Goodreads]]></wp:tag_name>
@@ -3176,6 +3181,11 @@
   <wp:tag_name><![CDATA[planet]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>27745</wp:term_id>
+  <wp:tag_slug>plans</wp:tag_slug>
+  <wp:tag_name><![CDATA[plans]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>9381</wp:term_id>
   <wp:tag_slug>pluto</wp:tag_slug>
   <wp:tag_name><![CDATA[Pluto]]></wp:tag_name>
@@ -3919,6 +3929,11 @@
   <wp:term_id>2051</wp:term_id>
   <wp:tag_slug>titan</wp:tag_slug>
   <wp:tag_name><![CDATA[Titan]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>7384</wp:term_id>
+  <wp:tag_slug>to-do</wp:tag_slug>
+  <wp:tag_name><![CDATA[to-do]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>14745</wp:term_id>
@@ -11646,10 +11661,6 @@ Bill]]></wp:comment_content>
     <wp:commentmeta>
       <wp:meta_key>akismet_history</wp:meta_key>
       <wp:meta_value><![CDATA[a:2:{s:4:"time";d:1641488096.777097;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_as_submitted</wp:meta_key>
-      <wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:60:"Yet Another New Year &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:70:"http://analyzethedatanotthedrivel.org/2022/01/06/yet-another-new-year/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:32:"[&#8230;] The JOD Page [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:13:"192.0.116.236";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:13:"192.0.116.236";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:51:"http://analyzethedatanotthedrivel.org/the-jod-page/";}]]></wp:meta_value>
     </wp:commentmeta>
     <wp:commentmeta>
       <wp:meta_key>jabber_published</wp:meta_key>
@@ -43228,9 +43239,9 @@ Maintaining off-line copies was made easier by <a href="https://wordpress.com/">
   <wp:post_id>5552</wp:post_id>
   <wp:post_date>2018-01-21 14:43:58</wp:post_date>
   <wp:post_date_gmt>2018-01-21 21:43:58</wp:post_date_gmt>
-  <wp:post_modified>2020-08-26 16:29:50</wp:post_modified>
-  <wp:post_modified_gmt>2020-08-26 22:29:50</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
+  <wp:post_modified>2022-01-07 11:06:59</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-07 18:06:59</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>government-shutdown-and-rapture-2018</wp:post_name>
   <wp:status>publish</wp:status>
@@ -43265,6 +43276,10 @@ Maintaining off-line copies was made easier by <a href="https://wordpress.com/">
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1516571042]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -48248,7 +48263,7 @@ Cheers]]></wp:comment_content>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true,"type":"1"} -->
-<ol type="1"><li>Update <a href="https://analyzethedatanotthedrivel.org/the-jod-page/">JOD</a> to handle J’s new <a href="https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition">direction definitions</a>. I’d also like to update JOD’s tests and make sure they pass in Windows, Mac, and Linux environments.</li><li>Print this blog as a proper ISBN’ed book. In 2020 I released a new printed version of the <a href="https://www.amazon.com/dp/B08M2KBMND">JOD manual</a>. It’s time to do the same for <em>Analyze the Data not the Drivel.</em></li><li>Write at least 50 blog posts: about one a week.</li><li>Upload at least 250 well-captioned images to my <a href="https://conceptcontrol.smugmug.com/">SmugMug picture site</a>. I didn't shoot very many pictures in 2020. My photographic passions wax and wane. Time to get waxing.</li><li>Learn far more about the <a href="https://www.rust-lang.org/">RUST programming language</a> and write some RUST binaries that can be called from J or Python.</li><li>Read at least twenty books. Binge streaming and, to a much lesser degree, work interfered with my 2020 reading.</li><li>Work through at least three <em>math-intense</em> books.</li><li>Make another pass at learning and using <a href="https://leanprover.github.io/">proof assistants like LEAN</a>.</li></ol>
+<ol type="1"><li>Update <a href="https://analyzethedatanotthedrivel.org/the-jod-page/">JOD</a> to handle J’s new <a href="https://code.jsoftware.com/wiki/Vocabulary/DirectDefinition">direct definitions</a>. I’d also like to update JOD’s tests and make sure they pass in Windows, Mac, and Linux environments.</li><li>Print this blog as a proper ISBN’ed book. In 2020 I released a new printed version of the <a href="https://www.amazon.com/dp/B08M2KBMND">JOD manual</a>. It’s time to do the same for <em>Analyze the Data not the Drivel.</em></li><li>Write at least 50 blog posts: about one a week.</li><li>Upload at least 250 well-captioned images to my <a href="https://conceptcontrol.smugmug.com/">SmugMug picture site</a>. I didn't shoot very many pictures in 2020. My photographic passions wax and wane. Time to get waxing.</li><li>Learn far more about the <a href="https://www.rust-lang.org/">RUST programming language</a> and write some RUST binaries that can be called from J or Python.</li><li>Read at least twenty books. Binge streaming and, to a much lesser degree, work interfered with my 2020 reading.</li><li>Work through at least three <em>math-intense</em> books.</li><li>Make another pass at learning and using <a href="https://leanprover.github.io/">proof assistants like LEAN</a>.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -48258,9 +48273,9 @@ Cheers]]></wp:comment_content>
   <wp:post_id>7031</wp:post_id>
   <wp:post_date>2020-12-26 17:00:50</wp:post_date>
   <wp:post_date_gmt>2020-12-27 00:00:50</wp:post_date_gmt>
-  <wp:post_modified>2020-12-27 13:15:50</wp:post_modified>
-  <wp:post_modified_gmt>2020-12-27 20:15:50</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
+  <wp:post_modified>2022-01-07 11:03:45</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-07 18:03:45</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>cataract-conjunction-caps-coronavirus-year</wp:post_name>
   <wp:status>publish</wp:status>
@@ -48533,9 +48548,9 @@ Cheers]]></wp:comment_content>
   <wp:post_id>7074</wp:post_id>
   <wp:post_date>2021-02-21 13:22:48</wp:post_date>
   <wp:post_date_gmt>2021-02-21 20:22:48</wp:post_date_gmt>
-  <wp:post_modified>2021-02-21 13:28:50</wp:post_modified>
-  <wp:post_modified_gmt>2021-02-21 20:28:50</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
+  <wp:post_modified>2022-01-06 10:43:32</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-06 17:43:32</wp:post_modified_gmt>
+  <wp:comment_status>closed</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>my-fathers-obituary</wp:post_name>
   <wp:status>publish</wp:status>
@@ -48595,10 +48610,6 @@ Cheers]]></wp:comment_content>
     <wp:commentmeta>
       <wp:meta_key>akismet_history</wp:meta_key>
       <wp:meta_value><![CDATA[a:2:{s:4:"time";d:1641488089.848323;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_as_submitted</wp:meta_key>
-      <wp:meta_value><![CDATA[a:13:{s:14:"comment_author";s:60:"Yet Another New Year &#8211; Analyze the Data not the Drivel";s:18:"comment_author_url";s:70:"http://analyzethedatanotthedrivel.org/2022/01/06/yet-another-new-year/";s:20:"comment_author_email";s:0:"";s:15:"comment_content";s:189:"[&#8230;] was marked by four deaths. The first off was my dad. He died in February of “general geriatric decline” (old age) and I have been dealing with his estate ever since. [&#8230;]";s:12:"comment_type";s:8:"pingback";s:17:"comment_author_IP";s:13:"192.0.116.236";s:13:"comment_agent";s:33:"WordPress.com Pingback of Awesome";s:7:"user_ip";s:13:"192.0.116.236";s:10:"user_agent";s:33:"WordPress.com Pingback of Awesome";s:4:"blog";s:38:"https://analyzethedatanotthedrivel.org";s:9:"blog_lang";s:2:"en";s:12:"blog_charset";s:5:"UTF-8";s:9:"permalink";s:69:"http://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/";}]]></wp:meta_value>
     </wp:commentmeta>
   </wp:comment>
 </item>
@@ -50191,7 +50202,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 </item>
 <item>
   <title>Custom Styles</title>
-  <link>http://analyzethedatanotthedrivel.org/?wp_global_styles=wp-global-styles-pub%2findependent-publisher-2</link>
+  <link>http://analyzethedatanotthedrivel.org/2021/12/12/wp-global-styles-pub%2findependent-publisher-2/</link>
   <pubDate>Sun, 12 Dec 2021 17:58:34 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
   <guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7258</guid>
@@ -50220,53 +50231,6 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 </item>
 <item>
   <title>Yet Another New Year</title>
-  <link>http://analyzethedatanotthedrivel.org/?p=7270</link>
-  <pubDate>Wed, 05 Jan 2022 23:44:00 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7270</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:jetpack/markdown -->
-<div class="wp-block-jetpack-markdown"></div>
-<!-- /wp:jetpack/markdown -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>7270</wp:post_id>
-  <wp:post_date>2022-01-05 16:44:00</wp:post_date>
-  <wp:post_date_gmt>2022-01-05 23:44:00</wp:post_date_gmt>
-  <wp:post_modified>2022-01-05 16:44:00</wp:post_modified>
-  <wp:post_modified_gmt>2022-01-05 23:44:00</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>__trashed</wp:post_name>
-  <wp:status>trash</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
-    <wp:meta_value><![CDATA[1]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
-    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-    <wp:meta_value><![CDATA[draft]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-    <wp:meta_value><![CDATA[1641426240]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>_wp_desired_post_slug</wp:meta_key>
-    <wp:meta_value><![CDATA[]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Yet Another New Year</title>
   <link>http://analyzethedatanotthedrivel.org/2022/01/06/yet-another-new-year/</link>
   <pubDate>Thu, 06 Jan 2022 16:54:39 +0000</pubDate>
   <dc:creator>bakerjd99</dc:creator>
@@ -50277,7 +50241,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>2021 was marked by four deaths. The first off was my dad. <a href="https://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/">He died in February</a> of “general geriatric decline” (old age) and I have been dealing with his estate ever since. It’s mostly settled with a few irritating exceptions. Just try closing a joint saving account in another country when both account holders are deceased. The frigging <em>Royal Bank of Canada</em>, yeah, I am naming names, has been trying to paper-work me to death but they’re tangling with the wrong cowboy. It’s now personal, I will keep at this, even though it’s a small amount of money, just to piss them off. </p>
+<p>2021 was marked by four deaths. The first off was my dad. <a href="https://analyzethedatanotthedrivel.org/2021/02/21/my-fathers-obituary/">He died in February</a> of “general geriatric decline” (old age) and I have been dealing with his estate ever since. It’s mostly settled with a few irritating exceptions. Just try closing a joint saving account in another country when both account holders are deceased. The frigging <em>Royal Bank of Canada</em>, yeah, I am naming names, has been trying to paper-work me to death but they’re tangling with the wrong cowboy. It’s now personal, I will keep at this, even though it’s a small amount of money, just to piss them off.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -50289,7 +50253,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="https://rogerhui.rip/">Roger Hui </a>was the next to go. Roger was a gifted programmer and a cocreator with <a href="https://en.wikipedia.org/wiki/Kenneth_E._Iverson">Ken Iverson</a> of the <a href="https://www.jsoftware.com/#/">J programming language</a>.  I knew and worked with Roger. He was my age, to the year, and, like me, a graduate of the University of Alberta. I first heard of Roger when interviewing for a job at I. P. Sharp Associates in Edmonton in the early 1980’s. My soon-to-be boss said Roger was the best coder he had ever met. He was certainly among the best I’ve ever met. I use J almost every day, so it’s fair to say that Roger has impacted my thinking more than most people on this planet. Roger died of cancer. I didn’t know he was ill, and his death bugged me more than I would have expected. Rest in peace Roger.</p>
+<p><a href="https://rogerhui.rip/">Roger Hui </a>was the next to go. Roger was a gifted programmer and a cocreator with <a href="https://en.wikipedia.org/wiki/Kenneth_E._Iverson">Ken Iverson</a> of the <a href="https://www.jsoftware.com/#/">J programming language</a>.&nbsp; I knew and worked with Roger. He was my age, to the year, and, like me, a graduate of the University of Alberta. I first heard of Roger when interviewing for a job at I. P. Sharp Associates in Edmonton in the early 1980’s. My soon-to-be boss said Roger was the best coder he had ever met. He was certainly among the best I’ve ever met. I use J almost every day, so it’s fair to say that Roger has impacted my thinking more than most people on this planet. Roger died of cancer. I didn’t know he was ill, and his death bugged me more than I would have expected. Rest in peace Roger.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7269,"width":178,"height":234,"sizeSlug":"large","linkDestination":"custom"} -->
@@ -50297,7 +50261,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>The last to go was my ex-brother-in-law, Ian Dubin.  Ian is the older brother of my first wife Ruth Dubin. I met Ian in 1978. He came to Barbados to attend our wedding. I liked him right from the start. Ian was generous, smart, fun, and an all-around great guy, but he had a nasty side. Like his father, he was an alcoholic. For many years the drinking was just fun. God knows I didn't do anything to slow him down, and looking back, my most memorable drunk ever was partly Ian’s doing.  When Ian's father died, he flew in from Hong Kong with a huge bottle of Cognac. We met him at the Toronto airport and went to our hotel where we drank until I was nearly comatose. The next day I puked up in the hearse on the way to his dad’s burial. Talk about making an impression on the relatives! After the funeral, I learned that Ian, who drank far more than me, didn't puke up anything and was largely functional. Drinking is like everything; you get better with practice. As the years rolled on the drinking slowly ruined and then claimed Ian's life. My last interaction with Ian was another dispute about UFOs. He was a firm believer in alien UFOs, predynastic Egyptian civilizations, and other crank notions. You couldn’t argue with him about his nutty beliefs without angering him. Near the end, I just ignored certain topics. It's always astonished me that intelligent well-educated people can believe utter nonsense. Ian’s UFO obsession was like <a href="https://brewminate.com/sir-arthur-conan-doyle-and-the-cottingly-fairies-hoax-of-1917-1921/">Conan Doyle’s belief in fairies</a>: completely ridiculous to hard-ass skeptics like me.  We'll miss you, Ian. Thanks for many great times.</p>
+<p>The last to go was my ex-brother-in-law, Ian Dubin. &nbsp;Ian is the older brother of my first wife Ruth Dubin. I met Ian in 1978. He came to Barbados to attend our wedding. I liked him right from the start. Ian was generous, smart, fun, and an all-around great guy, but he had a nasty side. Like his father, he was an alcoholic. For many years the drinking was just fun. God knows I didn't do anything to slow him down, and looking back, my most memorable drunk ever was partly Ian’s doing.&nbsp; When Ian's father died, he flew in from Hong Kong with a huge bottle of Cognac. We met him at the Toronto airport and went to our hotel where we drank until I was nearly comatose. The next day I puked up in the hearse on the way to his dad’s burial. Talk about making an impression on the relatives! After the funeral, I learned that Ian, who drank far more than me, didn't puke up anything and was largely functional. Drinking is like everything; you get better with practice. As the years rolled on the drinking slowly ruined and then claimed Ian's life. My last interaction with Ian was another dispute about UFOs. He was a firm believer in alien UFOs, predynastic Egyptian civilizations, and other crank notions. You couldn’t argue with him about his nutty beliefs without angering him. Near the end, I just ignored certain topics. It's always astonished me that intelligent well-educated people can believe utter nonsense. Ian’s UFO obsession was like <a href="https://brewminate.com/sir-arthur-conan-doyle-and-the-cottingly-fairies-hoax-of-1917-1921/">Conan Doyle’s belief in fairies</a>: completely ridiculous to hard-ass skeptics like me.&nbsp; We'll miss you, Ian. Thanks for many great times.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":7268,"sizeSlug":"medium","linkDestination":"custom"} -->
@@ -50305,7 +50269,7 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Aside from seeing off more people than usual in 2021, I also beavered away on my little projects. I was foolish enough to publicly declare my plans so let’s go through my 2021 to-do list and eat some crow.</p>
+<p>Aside from seeing off more people than usual in 2021, I also beavered away on my little projects. I was foolish enough to publicly declare my plans so let’s go through my 2021 TODO list and eat some crow.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true,"type":"1"} -->
@@ -50313,14 +50277,14 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>I managed five out of eight tasks: not particularly good or bad - C student stuff. I also achieved the last <em>implied </em>item on my list: <em>stay alive</em>. In my next post, I will lay out my plans for 2022. Restrain yourselves!</p>
+<p>I managed five out of eight tasks: not particularly good or bad - C student stuff.&nbsp;I also achieved the last <em>implied </em>item on my list: <em>stay alive</em>. In my next post, I will lay out my plans for 2022. Restrain yourselves!</p>
 <!-- /wp:paragraph -->]]></content:encoded>
   <excerpt:encoded><![CDATA[]]></excerpt:encoded>
   <wp:post_id>7274</wp:post_id>
   <wp:post_date>2022-01-06 09:54:39</wp:post_date>
   <wp:post_date_gmt>2022-01-06 16:54:39</wp:post_date_gmt>
-  <wp:post_modified>2022-01-06 09:54:39</wp:post_modified>
-  <wp:post_modified_gmt>2022-01-06 16:54:39</wp:post_modified_gmt>
+  <wp:post_modified>2022-01-07 11:04:18</wp:post_modified>
+  <wp:post_modified_gmt>2022-01-07 18:04:18</wp:post_modified_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>yet-another-new-year</wp:post_name>
@@ -50350,6 +50314,114 @@ I outline how easy it is to <a href="https://analyzethedatanotthedrivel.org/2021
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1641488082]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>To-do Twenty Twenty-Two</title>
+  <link>http://analyzethedatanotthedrivel.org/2022/02/04/to-do-twenty-twenty-two/</link>
+  <pubDate>Fri, 04 Feb 2022 18:38:56 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7298</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:jetpack/markdown {"source":"I'm so bad at making and keeping New Years Resolutions that I typically\nput them off until February. I've always been a procrastinator and I've\nalways told myself that I'm going to change, but not today. Tossing\nCalvinistic guilt aside procrastination isn't all bad, it gives you time\nto mull over your plans before making them public. Well, my mulling is\ndone and my plans for 2022 are itching to embarrass me. Hang on\ncowgirls, this is my agenda for 2022.\n\nFor 2022 I'm limiting my goals to one big *job* and a handful of smaller\ntasks. My big job: write the first draft of a short book that uses\n[LEAN](https://leanprover-community.github.io/) to *formally* prove some\nancient geometric theorems. This is a continuation of my LEAN studies\nfrom last year. I am fully aware that I may be setting myself up for\ncolossal failure as this may be utterly beyond me! It will take a\nsustained effort to master an unfamiliar tool and translate informal\nproofs into a strictly formal language. I'd say it's comparable to\nassembling a hobby computer from component parts and then writing a new\nsmall OS, from scratch, in an unfamiliar assembly language. I expect\nlots of hard slogging.\n\n*I don't slog well!*\n\nThis is where my smaller tasks come in. I'll use my little tasks to give\nmyself breaks from my big job's anticipated drudgery. Here they are:\n\n1.  Observe as many Messier and other objects as weather permits. I've\n    seen 66 Messier objects. It's time to complete the list, (yeah I'm\n    keeping track), and get my [RASC Messier\n    Certificate](https://www.rasc.ca/observing/messier-certificate).\n\n2.  Learn more proper northern hemisphere star names. I live in a\n    light-polluted suburban area. *Light pollution is an abomination in\n    dire need of elimination* but that's not going to happen. Light\n    pollution, like plastic crap in the ocean, and global warming will\n    be here long after I'm not. If you cannot eliminate an abomination\n    work with it. Light polluted skies are what I call *beginner skies*.\n    All but the brighter stars are washed out and, to no one's surprise,\n    it's the brighter, magnitude three and above stars, that have proper\n    names. Every night I go out on my little patio and attempt to call\n    out all the properly named stars in view. It's a silly thing but\n    it's amazing how much you see by simply looking.\n\n3.  Continue shooting and adding captioned images to [my pictures\n    site](https://conceptcontrol.smugmug.com/). I should pass 5,000\n    online pictures this year.\n\n4.  Read at least ten books. This is about half the number of books I\n    typically task myself with. My book reading rules are strict. I\n    force myself to *completely read* books before counting them. Sadly,\n    this rule ignores much of my reading. Like everyone else on Earth, I\n    spend hours reading my goddamn phone. This year I will be *partly\n    reading* many books in pursuit of my main goal; they will just have\n    to go uncounted.\n\n5.  Blog more! I keep nagging myself to write more, maybe this year I'll\n    listen to myself.\n\nIn 2023 we'll gather here, at the old *Drivel Dome,* to review my\naccomplishments or lack thereof."} -->
+<div class="wp-block-jetpack-markdown"><p>I'm so bad at making and keeping New Years Resolutions that I typically
+put them off until February. I've always been a procrastinator and I've
+always told myself that I'm going to change, but not today. Tossing
+Calvinistic guilt aside procrastination isn't all bad, it gives you time
+to mull over your plans before making them public. Well, my mulling is
+done and my plans for 2022 are itching to embarrass me. Hang on
+cowgirls, this is my agenda for 2022.</p>
+<p>For 2022 I'm limiting my goals to one big <em>job</em> and a handful of smaller
+tasks. My big job: write the first draft of a short book that uses
+<a href="https://leanprover-community.github.io/">LEAN</a> to <em>formally</em> prove some
+ancient geometric theorems. This is a continuation of my LEAN studies
+from last year. I am fully aware that I may be setting myself up for
+colossal failure as this may be utterly beyond me! It will take a
+sustained effort to master an unfamiliar tool and translate informal
+proofs into a strictly formal language. I'd say it's comparable to
+assembling a hobby computer from component parts and then writing a new
+small OS, from scratch, in an unfamiliar assembly language. I expect
+lots of hard slogging.</p>
+<p><em>I don't slog well!</em></p>
+<p>This is where my smaller tasks come in. I'll use my little tasks to give
+myself breaks from my big job's anticipated drudgery. Here they are:</p>
+<ol>
+<li>
+<p>Observe as many Messier and other objects as weather permits. I've
+seen 66 Messier objects. It's time to complete the list, (yeah I'm
+keeping track), and get my <a href="https://www.rasc.ca/observing/messier-certificate">RASC Messier
+Certificate</a>.</p>
+</li>
+<li>
+<p>Learn more proper northern hemisphere star names. I live in a
+light-polluted suburban area. <em>Light pollution is an abomination in
+dire need of elimination</em> but that's not going to happen. Light
+pollution, like plastic crap in the ocean, and global warming will
+be here long after I'm not. If you cannot eliminate an abomination
+work with it. Light polluted skies are what I call <em>beginner skies</em>.
+All but the brighter stars are washed out and, to no one's surprise,
+it's the brighter, magnitude three and above stars, that have proper
+names. Every night I go out on my little patio and attempt to call
+out all the properly named stars in view. It's a silly thing but
+it's amazing how much you see by simply looking.</p>
+</li>
+<li>
+<p>Continue shooting and adding captioned images to <a href="https://conceptcontrol.smugmug.com/">my pictures
+site</a>. I should pass 5,000
+online pictures this year.</p>
+</li>
+<li>
+<p>Read at least ten books. This is about half the number of books I
+typically task myself with. My book reading rules are strict. I
+force myself to <em>completely read</em> books before counting them. Sadly,
+this rule ignores much of my reading. Like everyone else on Earth, I
+spend hours reading my goddamn phone. This year I will be <em>partly
+reading</em> many books in pursuit of my main goal; they will just have
+to go uncounted.</p>
+</li>
+<li>
+<p>Blog more! I keep nagging myself to write more, maybe this year I'll
+listen to myself.</p>
+</li>
+</ol>
+<p>In 2023 we'll gather here, at the old <em>Drivel Dome,</em> to review my
+accomplishments or lack thereof.</p>
+</div>
+<!-- /wp:jetpack/markdown -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7298</wp:post_id>
+  <wp:post_date>2022-02-04 11:38:56</wp:post_date>
+  <wp:post_date_gmt>2022-02-04 18:38:56</wp:post_date_gmt>
+  <wp:post_modified>2022-02-04 11:38:56</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-04 18:38:56</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>to-do-twenty-twenty-two</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="goals"><![CDATA[goals]]></category>
+  <category domain="post_tag" nicename="plans"><![CDATA[plans]]></category>
+  <category domain="post_tag" nicename="to-do"><![CDATA[to-do]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[68568218152]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1643999939]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
