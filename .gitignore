@@ -35,3 +35,5 @@ _FOSSIL_
 *.html
 *.synctex.gz(busy)
 desktop.ini
+*.bak
+.fossil-settings/ignore-glob
