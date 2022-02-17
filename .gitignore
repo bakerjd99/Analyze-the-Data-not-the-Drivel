@@ -38,3 +38,4 @@ desktop.ini
 *.bak
 .fossil-settings/ignore-glob
 Icon
+Icon?
