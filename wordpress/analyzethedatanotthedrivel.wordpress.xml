@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2022-02-04 19:30"-->
+<!-- generator="WordPress.com" created="2022-02-18 16:09"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Practice relentless verification</description>
-<pubDate>Fri, 04 Feb 2022 19:30:38 +0000</pubDate>
+<pubDate>Fri, 18 Feb 2022 16:09:59 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -576,9 +576,19 @@
   <wp:tag_name><![CDATA[Balanced Budget Amendment]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>64495337</wp:term_id>
+  <wp:tag_slug>bank-account-seizures</wp:tag_slug>
+  <wp:tag_name><![CDATA[Bank Account Seizures]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>8608235</wp:term_id>
   <wp:tag_slug>bank-bailouts</wp:tag_slug>
   <wp:tag_name><![CDATA[bank bailouts]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>729948308</wp:term_id>
+  <wp:tag_slug>bankaccount-seizures</wp:tag_slug>
+  <wp:tag_name><![CDATA[BankAccount Seizures]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>26653</wp:term_id>
@@ -856,6 +866,11 @@
   <wp:tag_name><![CDATA[Camus]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>2443</wp:term_id>
+  <wp:tag_slug>canada</wp:tag_slug>
+  <wp:tag_name><![CDATA[Canada]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>229359</wp:term_id>
   <wp:tag_slug>canadian-idol</wp:tag_slug>
   <wp:tag_name><![CDATA[Canadian Idol]]></wp:tag_name>
@@ -864,6 +879,11 @@
   <wp:term_id>4252</wp:term_id>
   <wp:tag_slug>cancer</wp:tag_slug>
   <wp:tag_name><![CDATA[cancer]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>6534974</wp:term_id>
+  <wp:tag_slug>capital-controls</wp:tag_slug>
+  <wp:tag_name><![CDATA[Capital Controls]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>114819</wp:term_id>
@@ -3566,6 +3586,11 @@
   <wp:tag_name><![CDATA[Sharia]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
+  <wp:term_id>157982706</wp:term_id>
+  <wp:tag_slug>shiny-pony</wp:tag_slug>
+  <wp:tag_name><![CDATA[Shiny Pony]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
   <wp:term_id>32486008</wp:term_id>
   <wp:tag_slug>sidewalk-astronomers</wp:tag_slug>
   <wp:tag_name><![CDATA[Sidewalk Astronomers]]></wp:tag_name>
@@ -3984,6 +4009,16 @@
   <wp:term_id>161292</wp:term_id>
   <wp:tag_slug>trip-planning</wp:tag_slug>
   <wp:tag_name><![CDATA[trip planning]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>729948002</wp:term_id>
+  <wp:tag_slug>truck-proetests</wp:tag_slug>
+  <wp:tag_name><![CDATA[Truck Proetests]]></wp:tag_name>
+</wp:tag>
+<wp:tag>
+  <wp:term_id>6557259</wp:term_id>
+  <wp:tag_slug>truck-protests</wp:tag_slug>
+  <wp:tag_name><![CDATA[Truck Protests]]></wp:tag_name>
 </wp:tag>
 <wp:tag>
   <wp:term_id>462</wp:term_id>
@@ -10036,152 +10071,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:comment>
 </item>
 <item>
-  <title>F# Sirens are Seducing</title>
-  <link>http://analyzethedatanotthedrivel.org/2009/10/21/f-sirens-are-seducing/</link>
-  <pubDate>Wed, 21 Oct 2009 20:18:03 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=190</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>For the last few days I have been playing around with an <a href="http://research.microsoft.com/en-us/um/cambridge/projects/fsharp/">early release of F#</a><span style="font-family:Courier New;">.</span> F# looks like it might be a<span style="font-family:ver;"> </span><a href="http://www.microsoft.com/NET/"><span style="font-family:ver;">.Net</span></a><span style="font-family:ver;"> language</span> that I can stand!&nbsp; The alpha-geeks at Microsoft Research have convinced their corporate masters that the world needs a <em>functional programming language that can be compiled and executed as efficiently as traditional imperative and object oriented languages.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As a long time user of interpreted functional programming languages I can only say: <em>it's about freaking time!</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>F# appeals to me for a number of reasons:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list {"ordered":true} -->
-<ol><li>I am familiar with many of the concepts of functional programming.&nbsp; Coming from the <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> world I have been using many of these ideas for decades.</li><li>F# can&nbsp; use .Net facilities.&nbsp; It can call, and be called, by any of the&nbsp; .Net languages.&nbsp; Lack of <em>deep supported</em> integration with host facilities has always hurt languages like J.&nbsp; You pretty much have to roll your own for everything.</li><li>F# can be compiled to virtual machine code just like C#.&nbsp; APL,&nbsp; J,&nbsp; K and others do not compile well.&nbsp; <a href="http://www.snakeisland.com/">Heroic attempts have been made to compile APL</a> and similar languages but sometimes heroes fail.</li><li>F# supports asynchronous and parallel programming. The typical computer these days has two, four, eight or more processors.&nbsp; In the very near future your grandmother's PC will have eight or more 64 bit processors and perhaps hundreds of gigabytes of <em>real</em>, (not virtual), memory.&nbsp; Programming such machines with conventional languages and tools will be,&nbsp; as one blogger noted,&nbsp;&nbsp; insanely complicated.&nbsp; F# may provide a means to focus the power of such machines without sweating blood.</li></ol>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>I have  ordered <a href="http://oreilly.com/catalog/9780596153656">Programming F#</a> and now I actually have something to look forward to in Visual Studio 2010.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>190</wp:post_id>
-  <wp:post_date>2009-10-21 20:18:03</wp:post_date>
-  <wp:post_date_gmt>2009-10-21 20:18:03</wp:post_date_gmt>
-  <wp:post_modified>2020-08-25 08:33:54</wp:post_modified>
-  <wp:post_modified_gmt>2020-08-25 14:33:54</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>f-sirens-are-seducing</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="f"><![CDATA[F#]]></category>
-  <category domain="post_tag" nicename="functional"><![CDATA[Functional]]></category>
-  <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
-  <category domain="category" nicename="software"><![CDATA[Software]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
-  <title>Counting Gods</title>
-  <link>http://analyzethedatanotthedrivel.org/2009/10/26/counting-gods/</link>
-  <pubDate>Mon, 26 Oct 2009 16:28:33 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=211</guid>
-  <description/>
-  <content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>How many fingers do you need to count gods?&nbsp; If you are like most people you simply assume the set of gods is enumerable and then you start fighting over which value in the set of positive integers $latex \mathbb{Z}_{\geq0}&amp;bg=cfcdcd$&nbsp; or&nbsp; $latex {0, 1, 2, 3, \ldots, }&amp;bg=cfcdcd$ is correct.&nbsp; This process is <a href="http://conceptcontrol.smugmug.com/photos/1123810114_ARzWN-L.jpg">elegantly explained&nbsp;by this flowchart</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>I have a simple question. Is the set of gods enumerable?&nbsp; For all you <a href="http://www.aolsvc.merriam-webster.aol.com/dictionary/innumerate"><em>innumerates</em> </a>out there a set is enumerable <em>if-and-only-if</em> its members&nbsp;can be counted.&nbsp;&nbsp; It’s a rather astonishing fact that many humdrum sets cannot be counted.&nbsp; Do you remember line segments&nbsp; $latex \overline{AB}&amp;bg=cfcdcd$ from school geometry?</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The number of points in <em>any</em> nonzero length Euclidean line segment  $latex \overline{AB}&amp;bg=cfcdcd$ cannot be counted.  There are more points in $latex \overline{AB}&amp;bg=cfcdcd$ than there are counting numbers.  If you don’t believe me  check out <a href="http://en.wikipedia.org/wiki/Cantor's_diagonal_argument">Cantor’s diagonal argument</a> and savor a classical mathematical treat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Once you get your head around the idea that some things cannot be counted the notion of counting gods looks ludicrous.&nbsp; Why do you expect to tally your supreme beings with ordinary counting numbers when they cannot deal with line segments?&nbsp; Perhaps god counting requires more than positive integers!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Perhaps the bloody disputes between atheists $latex GodCount=0&amp;bg=cfcdcd$ and deists $latex GodCount &gt; 0&amp;bg=cfcdcd$ can be resolved with rational numbers $latex \mathbb{Q}&amp;bg=cfcdcd$.  How about fractional $latex 1/2&amp;bg=cfcdcd$ gods?  Let’s just split the difference and all get along.  Unfortunately rational numbers will not satisfy <em>ultrapolytheists</em>, believers in more gods than you can count, because you <em><a href="http://www.homeschoolmath.net/teaching/rational-numbers-countable.php">can count rational numbers</a></em>.  Ultrapolytheists need to get real $latex \mathbb{R}&amp;bg=cfcdcd$ – the numbers  - anyway.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Counting gods is a complex problem.&nbsp;&nbsp; Electrical engineers cannot deal with the wiring in your fridge without complex numbers&nbsp; $latex \mathbb{C}&amp;bg=cfcdcd$. Maybe a god count of $latex 3 + 7i&amp;bg=cfcdcd$ is the ticket</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>If this sounds silly, condescending and sarcastic congratulations your bullshit detector is working.&nbsp; However,&nbsp; ridiculous as this little diatribe is,&nbsp; <em><a href="http://www.ffrf.org/">it is as sound as any mainstream religious doctrine</a>.</em> So if you find this absurd and, you have a fixed god count in your little head,&nbsp; who is really being silly?</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>211</wp:post_id>
-  <wp:post_date>2009-10-26 16:28:33</wp:post_date>
-  <wp:post_date_gmt>2009-10-26 16:28:33</wp:post_date_gmt>
-  <wp:post_modified>2020-08-25 13:46:26</wp:post_modified>
-  <wp:post_modified_gmt>2020-08-25 19:46:26</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>open</wp:ping_status>
-  <wp:post_name>counting-gods</wp:post_name>
-  <wp:status>publish</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>post</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <category domain="post_tag" nicename="atheism"><![CDATA[Atheism]]></category>
-  <category domain="post_tag" nicename="bullshit"><![CDATA[Bullshit]]></category>
-  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
-  <category domain="post_tag" nicename="religion"><![CDATA[Religion]]></category>
-  <wp:postmeta>
-    <wp:meta_key>_edit_last</wp:meta_key>
-    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:postmeta>
-    <wp:meta_key>reddit</wp:meta_key>
-    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413418351;}]]></wp:meta_value>
-  </wp:postmeta>
-  <wp:comment>
-    <wp:comment_id>177</wp:comment_id>
-    <wp:comment_author><![CDATA[Iranian Regime Justice is pathetic Sharia Savagery. &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
-    <wp:comment_author_email/>
-    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/</wp:comment_author_url>
-    <wp:comment_author_IP>74.200.245.253</wp:comment_author_IP>
-    <wp:comment_date>2011-09-30 11:17:13</wp:comment_date>
-    <wp:comment_date_gmt>2011-09-30 16:17:13</wp:comment_date_gmt>
-    <wp:comment_content><![CDATA[[...] rarely comment on the &#8220;news&#8221; but the planned execution of Yousef Nadarkhani for the make-believe crime of Islamic apostasy has really pissed me off.  Once again the Iranian branch of the [...]]]></wp:comment_content>
-    <wp:comment_approved>1</wp:comment_approved>
-    <wp:comment_type>pingback</wp:comment_type>
-    <wp:comment_parent>0</wp:comment_parent>
-    <wp:comment_user_id>0</wp:comment_user_id>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_result</wp:meta_key>
-      <wp:meta_value><![CDATA[false]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1317399433.7303";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>jabber_published</wp:meta_key>
-      <wp:meta_value><![CDATA[1317407363]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>akismet_history</wp:meta_key>
-      <wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1317407363.0229";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
-    </wp:commentmeta>
-    <wp:commentmeta>
-      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
-      <wp:meta_value><![CDATA[2011-09-30 16:17:13]]></wp:meta_value>
-    </wp:commentmeta>
-  </wp:comment>
-</item>
-<item>
   <title>The JOD Page</title>
   <link>http://analyzethedatanotthedrivel.org/the-jod-page/</link>
   <pubDate>Sun, 20 Feb 2011 02:21:43 +0000</pubDate>
@@ -13631,7 +13520,7 @@ Thanks for pointing out the dead link. This isn’t the first time a key link di
   <guid isPermaLink="false">http://bakerjd99.wordpress.com/?page_id=2507</guid>
   <description/>
   <content:encoded><![CDATA[<!-- wp:heading {"level":3} -->
-<h3>This page maintains references to "downloadable" versions of this blog.</h3>
+<h3 id="this-page-maintains-references-to-downloadable-versions-of-this-blog">This page maintains references to "downloadable" versions of this blog.</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -13647,7 +13536,7 @@ Thanks for pointing out the dead link. This isn’t the first time a key link di
 <!-- /wp:quote -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><a href="https://bakerjd99.files.wordpress.com/2021/10/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
+<ol><li><a href="https://bakerjd99.files.wordpress.com/2022/02/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -13657,8 +13546,8 @@ Thanks for pointing out the dead link. This isn’t the first time a key link di
   <wp:post_id>2507</wp:post_id>
   <wp:post_date>2012-02-22 23:12:59</wp:post_date>
   <wp:post_date_gmt>2012-02-23 05:12:59</wp:post_date_gmt>
-  <wp:post_modified>2021-10-13 15:15:35</wp:post_modified>
-  <wp:post_modified_gmt>2021-10-13 21:15:35</wp:post_modified_gmt>
+  <wp:post_modified>2022-02-06 10:26:59</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-06 17:26:59</wp:post_modified_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>download-this-blog</wp:post_name>
@@ -16559,31 +16448,6 @@ Thanks for pointing out the dead link. This isn’t the first time a key link di
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/10/jter_godel.jpg</wp:attachment_url>
 </item>
 <item>
-  <title>bm</title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Wed, 13 Oct 2021 21:14:40 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2021/10/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>7256</wp:post_id>
-  <wp:post_date>2021-10-13 15:14:40</wp:post_date>
-  <wp:post_date_gmt>2021-10-13 21:14:40</wp:post_date_gmt>
-  <wp:post_modified>2021-10-13 15:14:40</wp:post_modified>
-  <wp:post_modified_gmt>2021-10-13 21:14:40</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2021/10/bm.pdf</wp:attachment_url>
-</item>
-<item>
   <title>jod</title>
   <link>http://analyzethedatanotthedrivel.org/jod/</link>
   <pubDate>Sun, 12 Dec 2021 18:06:29 +0000</pubDate>
@@ -16707,6 +16571,227 @@ Thanks for pointing out the dead link. This isn’t the first time a key link di
   <wp:post_password/>
   <wp:is_sticky>0</wp:is_sticky>
   <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/01/roger_hui_1996.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>bm</title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Sun, 06 Feb 2022 17:26:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2022/02/bm.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7305</wp:post_id>
+  <wp:post_date>2022-02-06 10:26:03</wp:post_date>
+  <wp:post_date_gmt>2022-02-06 17:26:03</wp:post_date_gmt>
+  <wp:post_modified>2022-02-06 10:26:03</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-06 17:26:03</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/02/bm.pdf</wp:attachment_url>
+</item>
+<item>
+  <title>freeland_canada_capital_contols</title>
+  <link>http://analyzethedatanotthedrivel.org/freeland_canada_capital_contols-2/</link>
+  <pubDate>Fri, 18 Feb 2022 00:46:55 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2022/02/freeland_canada_capital_contols-edited.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7314</wp:post_id>
+  <wp:post_date>2022-02-17 17:46:55</wp:post_date>
+  <wp:post_date_gmt>2022-02-18 00:46:55</wp:post_date_gmt>
+  <wp:post_modified>2022-02-17 17:46:55</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-18 00:46:55</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>freeland_canada_capital_contols-2</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/02/freeland_canada_capital_contols-edited.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>freeland_canada_capital_contols</title>
+  <link>http://analyzethedatanotthedrivel.org/freeland_canada_capital_contols/</link>
+  <pubDate>Fri, 18 Feb 2022 00:51:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2022/02/freeland_canada_capital_contols-1.jpg</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[Freeland carrying water for Justin Trudeau. You get the feeling watching this that even she's tired of Shiny Pony's crap.]]></excerpt:encoded>
+  <wp:post_id>7316</wp:post_id>
+  <wp:post_date>2022-02-17 17:51:03</wp:post_date>
+  <wp:post_date_gmt>2022-02-18 00:51:03</wp:post_date_gmt>
+  <wp:post_modified>2022-02-17 17:56:38</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-18 00:56:38</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>freeland_canada_capital_contols</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/02/freeland_canada_capital_contols-1.jpg</wp:attachment_url>
+</item>
+<item>
+  <title>F# Sirens are Seducing</title>
+  <link>http://analyzethedatanotthedrivel.org/2009/10/21/f-sirens-are-seducing/</link>
+  <pubDate>Wed, 21 Oct 2009 20:18:03 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=190</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>For the last few days I have been playing around with an <a href="http://research.microsoft.com/en-us/um/cambridge/projects/fsharp/">early release of F#</a><span style="font-family:Courier New;">.</span> F# looks like it might be a<span style="font-family:ver;"> </span><a href="http://www.microsoft.com/NET/"><span style="font-family:ver;">.Net</span></a><span style="font-family:ver;"> language</span> that I can stand!&nbsp; The alpha-geeks at Microsoft Research have convinced their corporate masters that the world needs a <em>functional programming language that can be compiled and executed as efficiently as traditional imperative and object oriented languages.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As a long time user of interpreted functional programming languages I can only say: <em>it's about freaking time!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>F# appeals to me for a number of reasons:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>I am familiar with many of the concepts of functional programming.&nbsp; Coming from the <a href="http://en.wikipedia.org/wiki/APL_(programming_language)">APL</a> world I have been using many of these ideas for decades.</li><li>F# can&nbsp; use .Net facilities.&nbsp; It can call, and be called, by any of the&nbsp; .Net languages.&nbsp; Lack of <em>deep supported</em> integration with host facilities has always hurt languages like J.&nbsp; You pretty much have to roll your own for everything.</li><li>F# can be compiled to virtual machine code just like C#.&nbsp; APL,&nbsp; J,&nbsp; K and others do not compile well.&nbsp; <a href="http://www.snakeisland.com/">Heroic attempts have been made to compile APL</a> and similar languages but sometimes heroes fail.</li><li>F# supports asynchronous and parallel programming. The typical computer these days has two, four, eight or more processors.&nbsp; In the very near future your grandmother's PC will have eight or more 64 bit processors and perhaps hundreds of gigabytes of <em>real</em>, (not virtual), memory.&nbsp; Programming such machines with conventional languages and tools will be,&nbsp; as one blogger noted,&nbsp;&nbsp; insanely complicated.&nbsp; F# may provide a means to focus the power of such machines without sweating blood.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>I have  ordered <a href="http://oreilly.com/catalog/9780596153656">Programming F#</a> and now I actually have something to look forward to in Visual Studio 2010.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>190</wp:post_id>
+  <wp:post_date>2009-10-21 20:18:03</wp:post_date>
+  <wp:post_date_gmt>2009-10-21 20:18:03</wp:post_date_gmt>
+  <wp:post_modified>2020-08-25 08:33:54</wp:post_modified>
+  <wp:post_modified_gmt>2020-08-25 14:33:54</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>f-sirens-are-seducing</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="f"><![CDATA[F#]]></category>
+  <category domain="post_tag" nicename="functional"><![CDATA[Functional]]></category>
+  <category domain="post_tag" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="category" nicename="software"><![CDATA[Software]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Counting Gods</title>
+  <link>http://analyzethedatanotthedrivel.org/2009/10/26/counting-gods/</link>
+  <pubDate>Mon, 26 Oct 2009 16:28:33 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.wordpress.com/?p=211</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>How many fingers do you need to count gods?&nbsp; If you are like most people you simply assume the set of gods is enumerable and then you start fighting over which value in the set of positive integers $latex \mathbb{Z}_{\geq0}&amp;bg=cfcdcd$&nbsp; or&nbsp; $latex {0, 1, 2, 3, \ldots, }&amp;bg=cfcdcd$ is correct.&nbsp; This process is <a href="http://conceptcontrol.smugmug.com/photos/1123810114_ARzWN-L.jpg">elegantly explained&nbsp;by this flowchart</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I have a simple question. Is the set of gods enumerable?&nbsp; For all you <a href="http://www.aolsvc.merriam-webster.aol.com/dictionary/innumerate"><em>innumerates</em> </a>out there a set is enumerable <em>if-and-only-if</em> its members&nbsp;can be counted.&nbsp;&nbsp; It’s a rather astonishing fact that many humdrum sets cannot be counted.&nbsp; Do you remember line segments&nbsp; $latex \overline{AB}&amp;bg=cfcdcd$ from school geometry?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The number of points in <em>any</em> nonzero length Euclidean line segment  $latex \overline{AB}&amp;bg=cfcdcd$ cannot be counted.  There are more points in $latex \overline{AB}&amp;bg=cfcdcd$ than there are counting numbers.  If you don’t believe me  check out <a href="http://en.wikipedia.org/wiki/Cantor's_diagonal_argument">Cantor’s diagonal argument</a> and savor a classical mathematical treat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once you get your head around the idea that some things cannot be counted the notion of counting gods looks ludicrous.&nbsp; Why do you expect to tally your supreme beings with ordinary counting numbers when they cannot deal with line segments?&nbsp; Perhaps god counting requires more than positive integers!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Perhaps the bloody disputes between atheists $latex GodCount=0&amp;bg=cfcdcd$ and deists $latex GodCount &gt; 0&amp;bg=cfcdcd$ can be resolved with rational numbers $latex \mathbb{Q}&amp;bg=cfcdcd$.  How about fractional $latex 1/2&amp;bg=cfcdcd$ gods?  Let’s just split the difference and all get along.  Unfortunately rational numbers will not satisfy <em>ultrapolytheists</em>, believers in more gods than you can count, because you <em><a href="http://www.homeschoolmath.net/teaching/rational-numbers-countable.php">can count rational numbers</a></em>.  Ultrapolytheists need to get real $latex \mathbb{R}&amp;bg=cfcdcd$ – the numbers  - anyway.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Counting gods is a complex problem.&nbsp;&nbsp; Electrical engineers cannot deal with the wiring in your fridge without complex numbers&nbsp; $latex \mathbb{C}&amp;bg=cfcdcd$. Maybe a god count of $latex 3 + 7i&amp;bg=cfcdcd$ is the ticket</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If this sounds silly, condescending and sarcastic congratulations your bullshit detector is working.&nbsp; However,&nbsp; ridiculous as this little diatribe is,&nbsp; <em><a href="http://www.ffrf.org/">it is as sound as any mainstream religious doctrine</a>.</em> So if you find this absurd and, you have a fixed god count in your little head,&nbsp; who is really being silly?</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>211</wp:post_id>
+  <wp:post_date>2009-10-26 16:28:33</wp:post_date>
+  <wp:post_date_gmt>2009-10-26 16:28:33</wp:post_date_gmt>
+  <wp:post_modified>2020-08-25 13:46:26</wp:post_modified>
+  <wp:post_modified_gmt>2020-08-25 19:46:26</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>counting-gods</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="atheism"><![CDATA[Atheism]]></category>
+  <category domain="post_tag" nicename="bullshit"><![CDATA[Bullshit]]></category>
+  <category domain="category" nicename="rants"><![CDATA[Rants]]></category>
+  <category domain="post_tag" nicename="religion"><![CDATA[Religion]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[9672033]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>reddit</wp:meta_key>
+    <wp:meta_value><![CDATA[a:2:{s:5:"count";i:0;s:4:"time";i:1413418351;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:comment>
+    <wp:comment_id>177</wp:comment_id>
+    <wp:comment_author><![CDATA[Iranian Regime Justice is pathetic Sharia Savagery. &laquo; Analyze the Data not the Drivel.]]></wp:comment_author>
+    <wp:comment_author_email/>
+    <wp:comment_author_url>http://bakerjd99.wordpress.com/2011/09/30/iranian-regime-justice-is-pathetic-sharia-savagery/</wp:comment_author_url>
+    <wp:comment_author_IP>74.200.245.253</wp:comment_author_IP>
+    <wp:comment_date>2011-09-30 11:17:13</wp:comment_date>
+    <wp:comment_date_gmt>2011-09-30 16:17:13</wp:comment_date_gmt>
+    <wp:comment_content><![CDATA[[...] rarely comment on the &#8220;news&#8221; but the planned execution of Yousef Nadarkhani for the make-believe crime of Islamic apostasy has really pissed me off.  Once again the Iranian branch of the [...]]]></wp:comment_content>
+    <wp:comment_approved>1</wp:comment_approved>
+    <wp:comment_type>pingback</wp:comment_type>
+    <wp:comment_parent>0</wp:comment_parent>
+    <wp:comment_user_id>0</wp:comment_user_id>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_result</wp:meta_key>
+      <wp:meta_value><![CDATA[false]]></wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1317399433.7303";s:7:"message";s:28:"Akismet cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}]]></wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>jabber_published</wp:meta_key>
+      <wp:meta_value><![CDATA[1317407363]]></wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>akismet_history</wp:meta_key>
+      <wp:meta_value><![CDATA[a:4:{s:4:"time";s:15:"1317407363.0229";s:7:"message";s:48:"bakerjd99 changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:9:"bakerjd99";}]]></wp:meta_value>
+    </wp:commentmeta>
+    <wp:commentmeta>
+      <wp:meta_key>_elasticsearch_indexed_on</wp:meta_key>
+      <wp:meta_value><![CDATA[2011-09-30 16:17:13]]></wp:meta_value>
+    </wp:commentmeta>
+  </wp:comment>
 </item>
 <item>
   <title>Hard Ass Skeptic Rules</title>
@@ -50422,6 +50507,98 @@ accomplishments or lack thereof.</p>
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1643999939]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>The Great White North: Now with Shiny Pony Capital Controls</title>
+  <link>http://analyzethedatanotthedrivel.org/2022/02/17/the-great-white-north-now-with-shiny-pony-capital-controls/</link>
+  <pubDate>Fri, 18 Feb 2022 01:28:31 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7307</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>I take pride in ignoring what some perceptive individuals have labeled the “misleadia.” Our garbage press spends more time pushing their contradictory agendas than providing useful information. I monitor their <em>tone</em> but immediately consign the majority of their claims to the <em>almost certainly crap unless overwhelming and independently verified</em> bin. But, occasionally, events force the <em>garbage misleadia</em> to actually report something important. Today, February 17, 2022, something of great importance occurred in Canada<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>. Of course, only people with room temperature and above IQs will consider this of great importance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today Canada’s <a href="https://www.cbc.ca/news/politics/ottawa-protests-frozen-bank-accounts-1.6355396">Finance Minister Chrystia Freeland</a> announced new measures that will allow Canadian Banks to “temporarily” seize bank accounts of individuals associated with the infamous <a href="https://www.cbc.ca/news/canada/london/trucker-protest-convoy-southwestern-ontario-1.6329118">truck convoy protests</a> that have been annoying <em>Princess Truedope</em>, formerly known as Prime Minister Trudeau: aka <a href="https://www.michiganradio.org/2016-03-08/justin-trudeau-the-shiny-pony-who-became-canadas-prime-minister"><em>Shiny Pony</em></a>, for the last few weeks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":7316,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><img src="https://bakerjd99.files.wordpress.com/2022/02/freeland_canada_capital_contols-1.jpg?w=800" alt="" class="wp-image-7316" /></figure>
+<!-- /wp:image --><figcaption class="blocks-gallery-caption">Freeland carrying water for Justin Trudeau. You get the impression that even she's tired of Shiny Pony's crap.</figcaption></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Vast amounts of <em>misleadia</em> time have been devoted to the truck protests but basically, people in Canada are fed up with feckless and largely ineffective COVID restrictions and want to get back to their lives. If lock-downs, mask mandates, school closures, social distancing, sending people home, and so-fucking-on, had actually “crushed the curve” the public might be in a better mood but the simple fact is they did not. We have run a worldwide experiment and jurisdictions that did little or nothing about COVID did not fare much worse than those that imposed the most severe restrictions. Most COVID deaths, based on simple body counts, have been old obese male porkers. In the US, the <em>statistically typical</em> COVID casualty is an old fat unvaccinated white guy with multiple comorbidities that probably voted for Trump. Yes, the <em>misleadia</em> pretends to care about COVID culling <em>trumpy porkers</em> but in their dark stupid souls, they celebrate every death. And, why not, every porker struck from the Medicare and Social Security roles saves money that can be better wasted on progressive <em>woke-works</em><a class="footnote-ref" id="fnref2" role="doc-noteref" href="#fn2"><sup>2</sup></a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And that brings us to what happened in Canada. The government has basically implemented a politically motivated <a href="https://corporatefinanceinstitute.com/resources/knowledge/economics/capital-controls/">Capital Control</a> scheme. If the Canadian government doesn’t approve of your political donations they can now legally seize your bank accounts. It’s like a Canadian version of the despicable US Patriot Act, ehh! I found it interesting that Freeland regrets this action; she damn well should, because the message Canada is sending the world is crystal fucking clear: <strong>YOUR MONEY IS NO LONGER SAFE IN CANADA!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you’re looking for a country to park money in, scratch Canada off the list. If you have significant assets and holdings in Canada I’d start the process of discreetly moving them elsewhere. Capital Controls are pure bureaucratic tyranny.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The truck protests and COVID will soon be over but this idiotic Canadian law will persist for decades. Given the Trudeau family tradition of declaring national emergencies over political inconveniences, the first Trudeau invoked the War Measures Act because of one dead body, prior Prime Ministers needed World Wars, and now princess has surpassed dead old dad by essentially invoking martial law over illegal 18 wheeler parking. Do you really want your money subject to nonentities like Trudeau? Unfortunately, Canada has a nasty authoritarian streak. It’s not something we like to show in public but push a little and it emerges with alacrity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You’ve been warned!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"color":"dark-gray"} -->
+<hr class="wp-block-separator has-text-color has-background has-dark-gray-background-color has-dark-gray-color" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>One of Canada’s chief attractions is its relative lack of importance.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2" role="doc-endnote"><p><em>Woke-works</em> are are projects that always require other people’s money. “Wokies” (woke-people) never spend their own money. Only chumps put their money where their mouth is!<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol></section>
+<!-- /wp:html -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7307</wp:post_id>
+  <wp:post_date>2022-02-17 18:28:31</wp:post_date>
+  <wp:post_date_gmt>2022-02-18 01:28:31</wp:post_date_gmt>
+  <wp:post_modified>2022-02-17 22:46:42</wp:post_modified>
+  <wp:post_modified_gmt>2022-02-18 05:46:42</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>the-great-white-north-now-with-shiny-pony-capital-controls</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="bank-account-seizures"><![CDATA[Bank Account Seizures]]></category>
+  <category domain="post_tag" nicename="canada"><![CDATA[Canada]]></category>
+  <category domain="post_tag" nicename="capital-controls"><![CDATA[Capital Controls]]></category>
+  <category domain="category" nicename="diary"><![CDATA[Diary]]></category>
+  <category domain="post_tag" nicename="justin-trudeau"><![CDATA[Justin Trudeau]]></category>
+  <category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+  <category domain="post_tag" nicename="shiny-pony"><![CDATA[Shiny Pony]]></category>
+  <category domain="post_tag" nicename="truck-protests"><![CDATA[Truck Protests]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[69141586651]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1645147715]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>
