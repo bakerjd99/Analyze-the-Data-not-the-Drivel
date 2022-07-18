@@ -4,6 +4,7 @@ jl*.markdown
 Thumbs.db
 .DS_Store
 wp2latex/.DS_Store
+*.xmp
 *.aux
 *.bbl
 *.blg

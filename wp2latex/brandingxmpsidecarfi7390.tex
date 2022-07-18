@@ -1,0 +1,175 @@
+%\input{bmamblenew.tex}
+
+\subsection*{\href{https://analyzethedatanotthedrivel.org/2022/07/17/branding-xmp-sidecar-files-with-j/}{Branding XMP Sidecar Files with J}}
+\addcontentsline{toc}{subsection}{Branding XMP Sidecar Files with J}
+
+
+\noindent\emph{Posted: 17 Jul 2022 22:41:32}
+\vspace{6pt}
+
+During my long and not-so-storied IT career I covertly dispatched
+``irritants'' with the
+\href{https://code.jsoftware.com/wiki/Main_Page}{J programming
+language}. An irritant is an annoying software problem that does not
+merit a full-blown project-style approach. The last thing you want when
+dealing with irritants is to drag in IT bureaucrats. You know of whom I
+speak: the niggling little project-managing creatures that always turn
+little problems into bigger problems. Do you remember ``Agile'' when it
+was actually Agile? Now that I am \emph{tentatively
+retired}\footnote{I am hoping that rampaging inflation (2022) is checked so I don't have
+  to come out of retirement again!} I no longer deal with IT bureaucrats but irritants still abound and I
+still use J to dispatch them. In my next three posts, I will show J
+solutions to some irritants that may be annoying you.
+
+Today's irritant comes from my photography hobby. I have been taking
+pictures since I was eight years old. To give you a sense of how
+\emph{anal-retentive} I am, I still have film negatives from childhood and I'm nearly seventy!
+Since the year 2000, I have been editing and uploading digital images.
+You can see many of them on
+\href{https://conceptcontrol.smugmug.com/}{my SmugMug site}. My editing
+process uses a veritable software zoo. As I work on an image, I flip
+from one program to another. Some programs respect and maintain image
+metadata and others do not. At the end of my pipeline, I rename the
+image file to something
+meaningful\footnote{Directories filled with hundreds of names like \texttt{\_DSC8007.NEF} and
+  \texttt{IMG\_6666.jpg} are useless without thumbnail software.} even
+though renaming makes it difficult to go back to the original file
+later.
+
+If you edit images, you know the job is never done. You can always
+``improve'' a picture or cast it in a new light. I resist the urge to
+revamp old renderings but sometimes, maybe years later, I will go back
+to the original to ``fix'' things. Unfortunately, by renaming files it's
+not always easy to find the original image.
+
+\emph{This is a common DAM (Digital Asset Management) problem!}
+
+There are scores of image database programs, and you would think that
+image databases would generate stable image keys. Most of them do, but
+their keys are typically useful only in the context of the database. You
+need a key tied to the unique bit pattern of the original image file.
+You need a proper hash.
+
+Once you recognize the need for proper hashes the question becomes,
+``Where do you store them?'' You might think a file's
+\href{https://en.wikipedia.org/wiki/Exif}{EXIF} or
+\href{https://www.iptc.org/standards/photo-metadata/}{ITPC} metadata
+would be the ideal location. I tried this approach. Using the superb
+\href{https://exiftool.org/}{exiftool}, I inserted hashes in images only
+to watch various editors strip or mangle them later on. The
+\href{https://www.adobe.com/products/xmp.html}{XMP} (e\textbf{X}tensible
+\textbf{M}etadata \textbf{P}latform)
+sidecar\footnote{Sidecar files are generated and maintained by many imaging processing
+  programs. The XMP format is an XML text file. It can be easily parsed
+  and changed.} file was created to address this and other irritants. The XMP
+sidecar file provides a safe home for image metadata with the added
+bonus that you never need to touch or alter the original image file. If
+you don't treat your original RAWs like sacred bytes there's something
+wrong with you.
+
+\href{https://www.darktable.org/}{Darktable}, my current favorite RAW
+developer, creates and maintains XMPs when you add images to its library
+or apply \emph{non-destructive} edits. Darktable's edits are stored in
+sidecar XMPs leaving the originals unmolested. When you export a 
+developed image Darktable
+creates a copy of the original, applies all the edits stored in the sidecar file, and then 
+inserts \href{https://www.dublincore.org/}{Dublin Core} metadata elements in the 
+copy's IPTC metadata. Most image processors
+leave Dublin Core elements alone so they make a nice home for hash
+hacks.
+
+This following J verb modifies the \texttt{title} element of a sidecar XMP file.
+It inserts the original file name and the \href{https://www.texttool.com/sha256-online}{SHA256} hash of the associated
+image file. The \texttt{title} element is typically left intact by image editors.
+So, at the end of your edits, you retain the name of the original file
+and its stable unique hash.
+
+% LaTeX output of J code from jupyter notebook
+
+ \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{1}{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{titbrandxmp}\PY{o}{=:}\PY{n+nf}{3 : 0}
+
+\PY{c+c1}{NB.*titbrandxmp v\PYZhy{}\PYZhy{}  brand xmp  sidecar file  with file name  and}
+\PY{c+c1}{NB. hash of associated image.}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB. monad:  clXmp =. titbrandxmp blImageXmpFiles}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   xmp=. \PYZsq{}c:/pictures/2022/Idaho/07\PYZus{}jul/d7500/\PYZus{}DSC8496.NEF.xmp\PYZsq{}}
+\PY{c+c1}{NB.   ps=. xmp ;\PYZti{} (\PYZhy{}\PYZsh{}\PYZsq{}.xmp\PYZsq{}) \PYZcb{}. xmp}
+\PY{c+c1}{NB.   titbrandxmp ps}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   ds=. sidecars \PYZsq{}c:/pictures/2022/North Rim Monument Valley/06\PYZus{}jun/d7500\PYZsq{}}
+\PY{c+c1}{NB.   xmps=. titbrandxmp\PYZam{}.\PYZgt{} \PYZlt{}\PYZdq{}1 ds}
+
+\PY{n+nv}{xmp}\PY{o}{=.} \PY{n+nv}{read} \PY{n+nv}{xmp} \PY{o}{[} \PY{l+s}{\PYZsq{}}\PY{l+s}{r}\PY{l+s}{a}\PY{l+s}{w}\PY{l+s}{ }\PY{l+s}{x}\PY{l+s}{m}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{o}{=.} \PY{n+nd}{y}
+
+\PY{c+c1}{NB. single Dubin Core publisher and creator }
+\PY{c+c1}{NB. elements must exist to safely brand}
+\PY{n+nv}{dcp}\PY{o}{=.} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZlt{}}\PY{l+s}{/}\PY{l+s}{d}\PY{l+s}{c}\PY{l+s}{:}\PY{l+s}{p}\PY{l+s}{u}\PY{l+s}{b}\PY{l+s}{l}\PY{l+s}{i}\PY{l+s}{s}\PY{l+s}{h}\PY{l+s}{e}\PY{l+s}{r}\PY{l+s}{\PYZgt{}}\PY{l+s}{\PYZsq{}}\PY{o}{;}\PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZlt{}}\PY{l+s}{/}\PY{l+s}{d}\PY{l+s}{c}\PY{l+s}{:}\PY{l+s}{c}\PY{l+s}{r}\PY{l+s}{e}\PY{l+s}{a}\PY{l+s}{t}\PY{l+s}{o}\PY{l+s}{r}\PY{l+s}{\PYZgt{}}\PY{l+s}{\PYZsq{}}
+\PY{n+nl}{if.} \PY{o}{\PYZhy{}}\PY{o}{.}\PY{l+m+mi}{1} \PY{l+m+mi}{1} \PY{o}{\PYZhy{}}\PY{o}{:} \PY{o}{+}\PY{o}{/}\PY{o}{\PYZdq{}}\PY{l+m+mi}{1} \PY{n+nv}{dcp} \PY{n+nv}{E}\PY{o}{.}\PY{o}{\PYZam{}}\PY{o}{\PYZgt{}} \PY{o}{\PYZlt{}}\PY{n+nv}{xmp} \PY{n+nl}{do.} \PY{n+nv}{xmp} \PY{n+nl}{return.} \PY{n+nl}{end.}
+
+\PY{c+c1}{NB. file name and sha256 brand}
+\PY{n+nv}{tit}\PY{o}{=.} \PY{n+nv}{dlf} \PY{p}{(}\PY{l+s}{\PYZsq{}}\PY{l+s}{/}\PY{l+s}{[}\PY{l+s}{\PYZti{}}\PY{l+s}{(}\PY{l+s}{f}\PY{l+s}{h}\PY{l+s}{a}\PY{l+s}{s}\PY{l+s}{h}\PY{l+s}{)}\PY{l+s}{\PYZti{}}\PY{l+s}{]}\PY{l+s}{/}\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{n+nv}{shabrand} \PY{n+nv}{raw}\PY{p}{)} \PY{n+nv}{changestr} \PY{n+nv}{XMPTITLEFRAG}\PY{o}{\PYZhy{}}\PY{o}{.}\PY{n+nv}{CR}
+
+\PY{c+c1}{NB. replace or insert title element}
+\PY{l+s}{\PYZsq{}}\PY{l+s}{i}\PY{l+s}{d}\PY{l+s}{x}\PY{l+s}{ }\PY{l+s}{c}\PY{l+s}{x}\PY{l+s}{m}\PY{l+s}{p}\PY{l+s}{\PYZsq{}}\PY{o}{=.} \PY{p}{(}\PY{n+nv}{tags} \PY{l+s}{\PYZsq{}}\PY{l+s}{d}\PY{l+s}{c}\PY{l+s}{:}\PY{l+s}{t}\PY{l+s}{i}\PY{l+s}{t}\PY{l+s}{l}\PY{l+s}{e}\PY{l+s}{\PYZsq{}}\PY{p}{)} \PY{n+nv}{cutnestidx} \PY{n+nv}{xmp}
+\PY{n+nl}{if.} \PY{o}{\PYZsh{}}\PY{n+nv}{idx} \PY{n+nl}{do.} \PY{o}{;}\PY{p}{(}\PY{o}{\PYZlt{}}\PY{n+nv}{tit}\PY{p}{)} \PY{n+nv}{idx}\PY{o}{\PYZcb{}} \PY{n+nv}{cxmp}
+\PY{n+nl}{else.}
+  \PY{p}{(}\PY{n+nv}{pt} \PY{o}{,}\PY{o}{\PYZti{}} \PY{n+nv}{pt} \PY{n+nv}{beforestr} \PY{n+nv}{xmp}\PY{p}{)}\PY{o}{,}\PY{n+nv}{LF}\PY{o}{,}\PY{n+nv}{tit}\PY{o}{,}\PY{n+nv}{pt} \PY{n+nv}{afterstr} \PY{n+nv}{xmp} \PY{o}{[} \PY{n+nv}{pt}\PY{o}{=.} \PY{o}{;}\PY{l+m+mi}{0}\PY{o}{\PYZob{}}\PY{n+nv}{dcp}
+\PY{n+nl}{end.}
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+
+% LateX output from pandoc 2.17.0.1 - I prefer jupyter's rendering in this context
+
+%\begin{Shaded}
+%\begin{Highlighting}[]
+%\NormalTok{    titbrandxmp}\KeywordTok{=:}\DecValTok{3} \RegionMarkerTok{: 0}
+%
+%    \CommentTok{NB.*titbrandxmp v{-}{-}  brand xmp  sidecar file  with file name  and}
+%    \CommentTok{NB. hash of associated image.}
+%    \CommentTok{NB.}
+%    \CommentTok{NB. monad:  clXmp =. titbrandxmp blImageXmpFiles}
+%    \CommentTok{NB.}
+%    \CommentTok{NB.   xmp=. \textquotesingle{}c:/pictures/2022/Idaho/07\_jul/d7500/\_DSC8496.NEF.xmp\textquotesingle{}}
+%    \CommentTok{NB.   ps=. xmp ;\textasciitilde{} ({-}\#\textquotesingle{}.xmp\textquotesingle{}) \}. xmp}
+%    \CommentTok{NB.   titbrandxmp ps}
+%    \CommentTok{NB.}
+%    \CommentTok{NB.   ds=. sidecars \textquotesingle{}c:/pictures/2022/North Rim/06\_jun/d7500\textquotesingle{}}
+%    \CommentTok{NB.   xmps=. titbrandxmp\&.\textgreater{} \textless{}"1 ds}
+%
+%\NormalTok{    xmp}\KeywordTok{=.}\NormalTok{ read xmp }\KeywordTok{[} \StringTok{\textquotesingle{}raw xmp\textquotesingle{}}\KeywordTok{=.} \KeywordTok{y}
+%
+%    \CommentTok{NB. single Dubin Core publisher and creator }
+%    \CommentTok{NB. elements must exist to safely brand}
+%\NormalTok{    dcp}\KeywordTok{=.} \StringTok{\textquotesingle{}\textless{}/dc:publisher\textgreater{}\textquotesingle{}}\KeywordTok{;}\StringTok{\textquotesingle{}\textless{}/dc:creator\textgreater{}\textquotesingle{}}
+%    \KeywordTok{if.} \KeywordTok{{-}.}\DecValTok{1} \DecValTok{1} \KeywordTok{{-}:} \KeywordTok{+/"}\DecValTok{1}\NormalTok{ dcp }\KeywordTok{E.\&\textgreater{}} \KeywordTok{\textless{}}\NormalTok{xmp }\KeywordTok{do.}\NormalTok{ xmp }\KeywordTok{return.} \KeywordTok{end.}
+%
+%    \CommentTok{NB. file name and sha256 brand}
+%\NormalTok{    tit}\KeywordTok{=.}\NormalTok{ dlf }\RegionMarkerTok{(}\StringTok{\textquotesingle{}/[\textasciitilde{}(fhash)\textasciitilde{}]/\textquotesingle{}}\KeywordTok{,}\NormalTok{shabrand raw}\RegionMarkerTok{)}\NormalTok{ changestr XMPTITLEFRAG}\KeywordTok{{-}.}\NormalTok{CR}
+%
+%    \CommentTok{NB. replace or insert title element}
+%    \StringTok{\textquotesingle{}idx cxmp\textquotesingle{}}\KeywordTok{=.} \RegionMarkerTok{(}\NormalTok{tags }\StringTok{\textquotesingle{}dc:title\textquotesingle{}}\RegionMarkerTok{)}\NormalTok{ cutnestidx xmp}
+%    \KeywordTok{if.} \KeywordTok{\#}\NormalTok{idx }\KeywordTok{do.} \KeywordTok{;}\RegionMarkerTok{(}\KeywordTok{\textless{}}\NormalTok{tit}\RegionMarkerTok{)}\NormalTok{ idx}\KeywordTok{\}}\NormalTok{ cxmp}
+%    \KeywordTok{else.}
+%      \RegionMarkerTok{(}\NormalTok{pt }\KeywordTok{,\textasciitilde{}}\NormalTok{ pt beforestr xmp}\RegionMarkerTok{)}\KeywordTok{,}\NormalTok{LF}\KeywordTok{,}\NormalTok{tit}\KeywordTok{,}\NormalTok{pt afterstr xmp }\KeywordTok{[}\NormalTok{ pt}\KeywordTok{=.} \KeywordTok{;}\DecValTok{0}\KeywordTok{\{}\NormalTok{dcp}
+%    \KeywordTok{end.}
+%    \RegionMarkerTok{)}
+%\end{Highlighting}
+%\end{Shaded}
+
+For details on how to use \texttt{titbrandxmp} refer to the J script
+\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/brandxmp.ijs}{\texttt{brandxmp.ijs}}
+and the associated document
+\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/brandxmp.pdf}{\texttt{brandxmp.pdf}}.
+Both of these files are
+\href{https://github.com/bakerjd99/jacks/tree/master/brandxmp}{available
+on GitHub}. Enjoy!
+
+
+%\end{document}
+
