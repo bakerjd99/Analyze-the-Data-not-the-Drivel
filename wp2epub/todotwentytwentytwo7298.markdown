@@ -42,7 +42,7 @@ myself breaks from my big job's anticipated drudgery. Here they are:
     be here long after I'm not. If you cannot eliminate an abomination
     work with it. Light polluted skies are what I call *beginner skies*.
     All but the brighter stars are washed out and, to no one's surprise,
-    it's the brighter, magnitude three and above stars, that have proper
+    it's the brighter, magnitude three and below stars,[^7298x1] that have proper
     names. Every night I go out on my little patio and attempt to call
     out all the properly named stars in view. It's a silly thing but
     it's amazing how much you see by simply looking.
@@ -64,3 +64,5 @@ myself breaks from my big job's anticipated drudgery. Here they are:
 
 In 2023 we'll gather here, at the old *Drivel Dome,* to review my
 accomplishments or lack thereof.
+
+[^7298x1]: The brightest objects have low or negative magnitude numbers.
