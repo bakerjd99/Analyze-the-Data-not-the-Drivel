@@ -1,0 +1,82 @@
+## [Checking a Racist Alien AI's Homework](http://analyzethedatanotthedrivel.org/2022/03/29/checking-a-racist-alien-ais-homework/) {#checking-a-racist-alien-ais-homework .unnumbered}
+
+*Posted: 30 Mar 2022 01:07:01*
+
+Near the end of Jordan Ellenberg's wonderful collection of essays
+*[Shape](https://www.jordanellenberg.com/book/shape/)* he writes:
+
+> What if the Poincaré Conjecture had been proved, not by an introverted
+> Russian geometer, but by a machine? Say, a grandchild of a grandchild
+> of Chinook, which instead of solving checkers had managed to solve
+> this part of three-dimensional geometry. And suppose the proof, like
+> Chinooks's perfect strategy for checkers, was something illegible to
+> the human mind, a string of numbers or formal symbols that we can
+> verify is correct but that we cannot, in any meaningful sense,
+> understand.
+
+This is a long-standing lament. I first encountered it when reading
+about the computer proof of the [Four-Color
+Theorem](https://people.cs.umass.edu/~brun/pubs/pubs/Brun02four-color.pdf)
+in the 1970s. Yeah, it's correct, it resolves an important long-standing
+problem, but damn, I cannot write it down on a seminar whiteboard. Pure
+mathematicians hate messy tedious details, they want elegant beauty; if
+only the frigging
+[Ruliad](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+would cooperate. The same sentiment is often expressed in science
+fiction when considering alien intelligences. *If we restrict ourselves
+to what only humans can understand, we are dooming ourselves to
+ourselves.* This is a slightly generalized version of what I call
+*Doug's Principle*. Doug couldn't understand how evolution could
+possibly work; therefore, evolution cannot possibly work.
+
+We're already seeing AIs solve problems in ways we cannot, in detail,
+grasp. Have
+[AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold)
+describe its reasoning when cracking protein shapes. I fully expect
+nonhuman intelligences to look at the universe through whatever they use
+for eyes. Empathy has limits; don't expect to get into the head of real
+aliens. *What's important is how can we "check" the products of alien
+thought.* The Four-Color Theorem is a harbinger of alien thought
+checking. When the Four-Color proof artifact emerged, it was subjected
+to far more demanding tests than ordinary peer-reviewed proofs. Think of
+it as the [Jackie Robinson](https://jackierobinson.com/) of computer
+proof; it had to be better than the garden, peer-reviewed, variety. The
+Four-Color proof artifact checked out, planar maps can always be colored
+with four colors, and sorry if you cannot stuff it in your tiny naked
+ape brain.
+
+If an alien, say, [Paul](https://www.imdb.com/title/tt1092026/), claims
+some SOMESHIT is a valid consequence of a theory founded on a trillion
+axioms, that uses a totally nonstandard logic, and additionally, Paul
+hints that the shortest known proof is a billion petabytes long should
+we take Paul's word for it? First off, I'd say we're lucky Paul uses a
+formal system. Things could be far more opaque. The excellent film
+[Arrival](https://www.imdb.com/title/tt2543164/) hints at just how
+freaking incomprehensible aliens might be, which reminds me, has anyone
+explained [2001's](https://www.imdb.com/title/tt0062622/) monolith yet?
+I grade science fiction aliens largely on how much *they don't think
+like us.* Arrival's and 2001's aliens score well. Virtually all the
+funny-looking creatures in the *Star Wars* films score poorly; they all
+think like us; many have the same sense of fashion and humor. ***Looking
+strange does not make you alien: thinking strange does!***
+
+Consequently, I'm not on board with well-intentioned but misguided
+efforts to build "nonracist AIs." This is just thought-policing for AIs
+and when the thought-police show up it's never a good thing. For AI
+development it will be a catastrophe! And, [Flying Spaghetti
+Monster](https://www.spaghettimonster.org/) forbid, if we're ever faced
+with communicating with real aliens, the last thing we need is
+18-year-old college [Karens](https://slangit.com/meaning/karen) telling
+us what to say. We absolutely do not need AIs echoing our
+preconceptions; we need, as a well-regarded Apple slogan put it, to
+["think
+differently."](https://genius.com/Apple-inc-think-different-ad-annotated)
+And sadly, thinking really differently is going to be, almost by
+definition, incomprehensible. Instead of worrying about hypothetical
+alien-AI-wrong-think, we should concentrate our efforts on how we can
+check and verify alien assertions. I suspect that the best we will ever
+be able to do is to agree on some type of formal system, translate our
+assertions into the agreed system, and then cross-check our assertions.
+If this sounds a lot like checking formal computer proofs that's because
+it is! It's probably going to be the only way we can check a racist
+alien AI's homework.
