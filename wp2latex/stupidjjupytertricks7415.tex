@@ -30,11 +30,11 @@ to say that jupyter has been a success. It's now a dominant tool in many
 disciplines. If you're not using it you are missing out on one of the
 most useful open-source programming tools available.
 
-I came to jupyter from the \emph{pythonverse}. The \texttt{ipynb} notebook format
+I came to jupyter from the \emph{pythonverse}. The JSON based \texttt{ipynb} notebook format
 originated there and initially stood for \textbf{I}nteractive
 \textbf{PY}thon \textbf{N}ote\textbf{B}ook, but in one of the best
 software design decisions ever made, the creators of jupyter decided to
-make notebooks \emph{programming language agnostic.} This means any
+make it \emph{programming language agnostic.} This means any
 programming language can plug into jupyter if it implements a
 well-defined kernel interface. This is what Martin implemented. Now,
 many programming languages support jupyter. It's become an expected
@@ -45,8 +45,8 @@ Martin's J kernel works very well and I use it all the time, but there
 are a few ways the J kernel, and jupyter kernels in general, could be
 improved.
 
-\hypertarget{debugging-notebook-code}{%
-\subsubsection*{Debugging notebook code}\label{debugging-notebook-code}}
+%\hypertarget{debugging-notebook-code}{%
+\subsubsection*{Debugging notebook code}%\label{debugging-notebook-code}}
 
 Debugging notebook code is not as polished as it could be. Kernels are
 typically ``invisible'' executables that respond to requests sent from
@@ -63,9 +63,9 @@ can achieve something similar by extracting J notebook code as a J
 script and executing it in another JQt or JHS session. jupyter makes
 this easy!
 
-\hypertarget{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}{%
+%\hypertarget{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}{%
 \subsubsection*{Stupid J Jupyter Trick \#1 - export notebook code as a J
-script}\label{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}}
+script}%\label{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}}
 
 jupyter can download notebooks in a variety of formats. One of the
 formats provided by the J kernel is \texttt{ijs} or J script. Go to the
@@ -79,9 +79,9 @@ When you run a downloaded J notebook script in another J session it
 \emph{essentially}\footnote{Some care must be taken when developing J jupyter notebooks to
 guarantee exported scripts accurately recreate kernel states.} recreates the notebook kernel state.
 
-\hypertarget{inserting-j-code-into-notebooks}{%
+%\hypertarget{inserting-j-code-into-notebooks}{%
 \subsubsection*{Inserting J code into
-notebooks}\label{inserting-j-code-into-notebooks}}
+notebooks}%\label{inserting-j-code-into-notebooks}}
 
 Extracting J code from notebooks for debugging is useful but oddly the
 inverse, inserting J code into notebooks, is even more useful. As
@@ -90,9 +90,9 @@ particular, it can generate HTML, \LaTeX, Markdown, and PDF versions of
 notebooks. I've found the generated \LaTeX, HTML, and Markdown formats
 extremely handy.
 
-\hypertarget{stupid-j-jupyter-trick-2---j-code-notebook-insertion}{%
+%\hypertarget{stupid-j-jupyter-trick-2---j-code-notebook-insertion}{%
 \subsubsection*{Stupid J Jupyter Trick \#2 - J code notebook
-insertion}\label{stupid-j-jupyter-trick-2---j-code-notebook-insertion}}
+insertion}%\label{stupid-j-jupyter-trick-2---j-code-notebook-insertion}}
 
 If you're looking for \emph{a quick and dirty way to syntax color J
 code} do the following:
@@ -111,15 +111,12 @@ code} do the following:
 \end{enumerate}
 
 jupyter will nicely syntax color your code. It even does a decent job of
-breaking lines. The GitHub files
-\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.pdf}{\texttt{brandxmp.ijs.pdf}}
-and
-\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.html}{\texttt{brandxmp.ijs.html}}
-are examples of what you get right out of the box.
+breaking lines. \href{https://github.com/bakerjd99/jacks/tree/master/brandxmp/jupyter}{The GitHub files}
+\texttt{brandxmp.ijs.pdf} and \texttt{brandxmp.ijs.html} are examples of what you get right out of the box.
 
-\hypertarget{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}{%
+%\hypertarget{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}{%
 \subsubsection*{Stupid J Jupyter Trick \#3 - smarter J code notebook
-insertion}\label{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}}
+insertion}%\label{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}}
 
 The quick and dirty method is simple and handy but it's of limited use
 when preparing complex \LaTeX\ documents. With \LaTeX, you want more than
@@ -139,6 +136,10 @@ code is split over many cells. The following verb does just that.
 \PY{c+c1}{NB. jupyter notebook.}
 \PY{c+c1}{NB.}
 \PY{c+c1}{NB. monad:  clIpynb =. ipynbfrjod blclNames}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   NB. examples use docs and utils}
+\PY{c+c1}{NB.   require \PYZsq{}general/jod\PYZsq{}}
+\PY{c+c1}{NB.   od ;:\PYZsq{}docs utils\PYZsq{}}
 \PY{c+c1}{NB.}
 \PY{c+c1}{NB.   nbj=: ipynbfrjod ;:\PYZsq{}sha1 sha1dir\PYZsq{}}
 \PY{c+c1}{NB.   nbj write \PYZsq{}C:\PYZbs{}Users\PYZbs{}baker\PYZbs{}jupyter\PYZus{}notebooks\PYZbs{}test0.ipynb\PYZsq{}}
@@ -165,17 +166,11 @@ code is split over many cells. The following verb does just that.
 
 After loading J words into cells all the jupyter export facilities are
 immediately available. Examples of jupyter outputs exploiting this hack
-are available here
-\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.ipynb}{\texttt{ipynb\_onself.ipynb}}
-and here
-\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.pdf}{\texttt{ipynb\_onself.pdf}}.
+are \href{https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod}{available on GitHub:} see \texttt{ipynb\_onself.ipynb} and \texttt{ipynb\_onself.pdf}.
 
-To use \texttt{ipynbfrjod} download
-\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.ijs}{\texttt{ipynb.ijs}}
-and the corresponding document
-\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.pdf}{\texttt{ipynb.pdf}}.
-All these files
-\href{https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod}{are on
+To use \texttt{ipynbfrjod} download \texttt{ipynb.ijs}
+and the corresponding document \texttt{ipynb.pdf}.
+All these files \href{https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod}{are on
 GitHub}. Help yourself!
 
 %\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
