@@ -17,13 +17,13 @@
  7. WordPress will then import each of the posts, pages, comments, categories, etc.
     contained in this file into your site.
 -->
-<!-- generator="WordPress.com" created="2022-07-18 15:10"-->
+<!-- generator="WordPress.com" created="2022-07-25 04:39"-->
 <rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
   <channel>
 <title>Analyze the Data not the Drivel</title>
 <link>http://analyzethedatanotthedrivel.org</link>
 <description>Practice relentless verification</description>
-<pubDate>Mon, 18 Jul 2022 15:10:25 +0000</pubDate>
+<pubDate>Mon, 25 Jul 2022 04:39:24 +0000</pubDate>
 <language>en</language>
 <wp:wxr_version>1.2</wp:wxr_version>
 <wp:base_site_url>http://wordpress.com/</wp:base_site_url>
@@ -14526,35 +14526,6 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   </wp:postmeta>
 </item>
 <item>
-  <title><![CDATA[bm]]></title>
-  <link>http://analyzethedatanotthedrivel.org/bm/</link>
-  <pubDate>Wed, 30 Mar 2022 17:10:08 +0000</pubDate>
-  <dc:creator>bakerjd99</dc:creator>
-  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2022/03/bm.pdf</guid>
-  <description/>
-  <content:encoded><![CDATA[]]></content:encoded>
-  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
-  <wp:post_id>7351</wp:post_id>
-  <wp:post_date>2022-03-30 11:10:08</wp:post_date>
-  <wp:post_date_gmt>2022-03-30 17:10:08</wp:post_date_gmt>
-  <wp:post_modified>2022-03-30 11:10:08</wp:post_modified>
-  <wp:post_modified_gmt>2022-03-30 17:10:08</wp:post_modified_gmt>
-  <wp:comment_status>open</wp:comment_status>
-  <wp:ping_status>closed</wp:ping_status>
-  <wp:post_name>bm</wp:post_name>
-  <wp:status>inherit</wp:status>
-  <wp:post_parent>0</wp:post_parent>
-  <wp:menu_order>0</wp:menu_order>
-  <wp:post_type>attachment</wp:post_type>
-  <wp:post_password/>
-  <wp:is_sticky>0</wp:is_sticky>
-  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/03/bm.pdf</wp:attachment_url>
-  <wp:postmeta>
-    <wp:meta_key>_wp_attached_file</wp:meta_key>
-    <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2022/03/bm.pdf]]></wp:meta_value>
-  </wp:postmeta>
-</item>
-<item>
   <title><![CDATA[diary_fornication]]></title>
   <link>http://analyzethedatanotthedrivel.org/diary_fornication/</link>
   <pubDate>Mon, 20 Jun 2022 18:56:35 +0000</pubDate>
@@ -15575,6 +15546,39 @@ The colors in this old Kodachrome slide were in excellent condition but the emul
   <wp:postmeta>
     <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
     <wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1071;s:4:"file";s:90:"/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2022/06/diary_notebooks.jpg";s:8:"filesize";i:307992;s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[bm]]></title>
+  <link>http://analyzethedatanotthedrivel.org/bm/</link>
+  <pubDate>Thu, 21 Jul 2022 17:47:42 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">http://bakerjd99.files.wordpress.com/2022/07/bm.pdf</guid>
+  <description/>
+  <content:encoded><![CDATA[]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7413</wp:post_id>
+  <wp:post_date>2022-07-21 11:47:42</wp:post_date>
+  <wp:post_date_gmt>2022-07-21 17:47:42</wp:post_date_gmt>
+  <wp:post_modified>2022-07-21 11:47:42</wp:post_modified>
+  <wp:post_modified_gmt>2022-07-21 17:47:42</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>bm</wp:post_name>
+  <wp:status>inherit</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>attachment</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:attachment_url>https://bakerjd99.files.wordpress.com/2022/07/bm.pdf</wp:attachment_url>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:8:"filesize";i:52485643;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_attached_file</wp:meta_key>
+    <wp:meta_value><![CDATA[/home/wpcom/public_html/wp-content/blogs.dir/83d/9342940/files/2022/07/bm.pdf]]></wp:meta_value>
   </wp:postmeta>
 </item>
 <item>
@@ -27007,7 +27011,7 @@ shell 'wget http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/L/i-mNK4RHL-L.p
 <!-- /wp:quote -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li><a href="https://bakerjd99.files.wordpress.com/2022/03/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
+<ol><li><a href="https://bakerjd99.files.wordpress.com/2022/07/bm.pdf">bm.pdf  (PDF version)</a> This version was compiled from the $latex \LaTeX&amp;bg=cfcdcd$ source generated by the process described in these posts. <a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf">bm.pdf is also available here</a>. <ul><li><a href="http://bakerjd99.wordpress.com/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/">WordPress to LaTeX with Pandoc and J: Prerequisites (Part 1)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/18/wordpress-to-latex-with-pandoc-and-j-latex-directories-part-2-2/">WordPress to LaTeX with Pandoc and J: LaTeX Directories (Part 2)</a></li><li><a href="http://bakerjd99.wordpress.com/2012/02/25/wordpress-to-latex-with-pandoc-and-j-using-texfrwpxml-ijs-part-3/">WordPress to LaTeX with Pandoc and J: Using TeXfrWpxml.ijs (Part 3)</a> </li><li>Updated PDF versions of these posts can be found <a href="https://github.com/bakerjd99/jacks/tree/master/texfrwpxml">here on GitHub.</a></li></ul></li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.epub">bm.epub</a>  (iPhone, iPad and other EPUB readers). See the post. <ul><li><a href="http://bakerjd99.wordpress.com/2012/03/04/turn-your-blog-into-an-ebook/">Turn your Blog into an eBook</a> </li></ul></li><li><a href="//github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2epub/bm.mobi">bm.mobi</a>  (Kindle version).</li><li><a href="https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel">GitHub</a> repository containing $latex \LaTeX&amp;bg=cfcdcd$ and Markdown source.</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
@@ -27017,8 +27021,8 @@ shell 'wget http://conceptcontrol.smugmug.com/photos/i-mNK4RHL/0/L/i-mNK4RHL-L.p
   <wp:post_id>2507</wp:post_id>
   <wp:post_date>2012-02-22 23:12:59</wp:post_date>
   <wp:post_date_gmt>2012-02-23 05:12:59</wp:post_date_gmt>
-  <wp:post_modified>2022-03-30 11:11:55</wp:post_modified>
-  <wp:post_modified_gmt>2022-03-30 17:11:55</wp:post_modified_gmt>
+  <wp:post_modified>2022-07-21 11:48:33</wp:post_modified>
+  <wp:post_modified_gmt>2022-07-21 17:48:33</wp:post_modified_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>download-this-blog</wp:post_name>
@@ -53776,36 +53780,15 @@ You need a proper hash.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Once you recognize the need for proper hashes the question becomes,
-“Where do you store them?” You might think a file’s <a href="https://en.wikipedia.org/wiki/Exif">EXIF</a> or <a href="https://www.iptc.org/standards/photo-metadata/">ITPC</a> metadata
-would be the ideal location. I tried this approach. Using the superb <a href="https://exiftool.org/">exiftool</a>, I inserted
-hashes in images only to watch various editors strip or mangle them
-later on. The <a href="https://www.adobe.com/products/xmp.html">XMP</a>
-(e<strong>X</strong>tensible <strong>M</strong>etadata
-<strong>P</strong>latform) sidecar<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a> the file was created to
-address this and other irritants. The XMP sidecar file provides a safe
-home for image metadata with the added bonus that you never need to
-touch or alter the original image file. If you don't treat your original
-RAWs like sacred bytes there's something wrong with you.</p>
+<p>Once you recognize the need for proper hashes the question becomes, “Where do you store them?” You might think a file’s <a href="https://en.wikipedia.org/wiki/Exif">EXIF</a> or <a href="https://www.iptc.org/standards/photo-metadata/">ITPC</a> metadata would be the ideal location. I tried this approach. Using the superb <a href="https://exiftool.org/">exiftool</a>, I inserted hashes in images only to watch various editors strip or mangle them later on. The <a href="https://www.adobe.com/products/xmp.html">XMP</a> (e<strong>X</strong>tensible <strong>M</strong>etadata <strong>P</strong>latform) sidecar<a class="footnote-ref" id="fnref3" role="doc-noteref" href="#fn3"><sup>3</sup></a> file was created to address this and other irritants. The XMP sidecar file provides a safe home for image metadata with the added bonus that you never need to touch or alter the original image file. If you don't treat your original RAWs like sacred bytes there's something wrong with you.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.darktable.org/">Darktable</a>, my
-current favorite RAW developer, creates and maintains XMPs when you add
-images to its library or apply <em>non-destructive</em> edits.
-Darktable’s edits are stored in sidecar XMPs leaving the original
-unmolested. When you export your developed images Darktable inserts <a href="https://www.dublincore.org/">Dublin Core</a> metadata elements in
-the processed copy’s IPTC metadata. I’ve found that most image
-processors leave Dublin Core elements alone so they make a nice home for
-hash hacks.</p>
+<p><a href="https://www.darktable.org/">Darktable</a>, my current favorite RAW developer, creates and maintains XMPs when you add images to its library or apply <em>non-destructive</em> edits. Darktable’s edits are stored in sidecar XMPs leaving the originals unmolested. When you export a developed image Darktable creates a copy of the original, applies all the edits stored in the sidecar file, and then inserts <a href="https://www.dublincore.org/">Dublin Core</a> metadata elements in the copy's IPTC metadata. Most image processors leave Dublin Core elements alone so they make a nice home for hash hacks.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>This following J verb modifies the title element of a
-sidecar XMP file. It inserts the original file name and the SHA256 hash
-of the associated image file. The title element is
-typically left intact by image editors. So, at the end of your edits,
-you retain the name of the original file and its stable unique hash.</p>
+<p>The following J verb modifies the title element of a sidecar XMP file. It inserts the original file name and the <a href="https://www.texttool.com/sha256-online">SHA256 </a>hash of the associated image file. The title element is typically left intact by image editors. So, at the end of your edits, you retain the name of the original file and its stable unique hash.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
@@ -53872,8 +53855,8 @@ text file. It can be easily parsed and changed.<a href="#fnref3" class="footnote
   <wp:post_id>7390</wp:post_id>
   <wp:post_date>2022-07-17 16:41:32</wp:post_date>
   <wp:post_date_gmt>2022-07-17 22:41:32</wp:post_date_gmt>
-  <wp:post_modified>2022-07-17 16:41:32</wp:post_modified>
-  <wp:post_modified_gmt>2022-07-17 22:41:32</wp:post_modified_gmt>
+  <wp:post_modified>2022-07-24 17:41:02</wp:post_modified>
+  <wp:post_modified_gmt>2022-07-24 23:41:02</wp:post_modified_gmt>
   <wp:comment_status>open</wp:comment_status>
   <wp:ping_status>open</wp:ping_status>
   <wp:post_name>branding-xmp-sidecar-files-with-j</wp:post_name>
@@ -53889,8 +53872,10 @@ text file. It can be easily parsed and changed.<a href="#fnref3" class="footnote
   <category domain="post_tag" nicename="image-hash"><![CDATA[Image Hash]]></category>
   <category domain="category" nicename="image-processing"><![CDATA[Image Processing]]></category>
   <category domain="post_tag" nicename="iptc"><![CDATA[IPTC]]></category>
-  <category domain="category" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
   <category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
   <category domain="post_tag" nicename="sidecar"><![CDATA[sidecar]]></category>
   <category domain="post_tag" nicename="xmp"><![CDATA[XMP]]></category>
   <wp:postmeta>
@@ -53908,6 +53893,249 @@ text file. It can be easily parsed and changed.<a href="#fnref3" class="footnote
   <wp:postmeta>
     <wp:meta_key>timeline_notification</wp:meta_key>
     <wp:meta_value><![CDATA[1658097696]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title><![CDATA[Stupid J Jupyter Tricks]]></title>
+  <link>http://analyzethedatanotthedrivel.org/2022/07/24/stupid-j-jupyter-tricks/</link>
+  <pubDate>Sun, 24 Jul 2022 23:29:27 +0000</pubDate>
+  <dc:creator>bakerjd99</dc:creator>
+  <guid isPermaLink="false">https://analyzethedatanotthedrivel.org/?p=7415</guid>
+  <description/>
+  <content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Continuing with my software irritant dispatching theme: today’s irritant - including <em>syntax colored code</em> in blogs, LaTeX, Word, and other documents. This one is a persistent pain in the ass; especially for users of idiosyncratic programming languages. We all have our favorite hacks and workarounds; today I am sharing one of mine: using <a href="https://jupyter.org/">jupyter</a> to syntax color J code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A few years ago <a href="https://github.com/martin-saurer">Martin
+Saurer</a> made an outstanding contribution to the <a href="https://code2.jsoftware.com/wiki/Main_Page">J programming
+language</a> community. He created a <a href="https://github.com/martin-saurer/jkernel">jupyter kernel for
+J.</a> If you don’t know what jupyter is please crawl out from under
+your rock and join the rest of us in the 21st century.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As I have said before jupyter notebooks are simply the
+<em>correct</em> way to present complex “executable” technical documents
+that contain heavy doses of mathematics, program code, and graphics. I'm
+not the only one that holds this opinion: many concur. It would be an
+understatement to say that jupyter has been a success. It's now a
+dominant tool in many disciplines. If you're not using it you are
+missing out on one of the most useful open-source programming tools
+available.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I came to jupyter from the <em>pythonverse</em>. The
+ipynb notebook format originated there and initially stood
+for <strong>I</strong>nteractive <strong>PY</strong>thon
+<strong>N</strong>ote<strong>B</strong>ook, but in one of the best
+software design decisions ever made, the creators of jupyter decided to
+make notebooks <em>programming language agnostic.</em> This means any
+programming language can plug into jupyter if it implements a
+well-defined kernel interface. This is what Martin implemented. Now,
+many programming languages support jupyter. It's become an expected
+facility, and if it's missing, well that's a good reason to use another
+programming language.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Martin's J kernel works very well and I use it all the time, but
+there are a few ways the J kernel, and jupyter kernels in general, could
+be improved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="debugging-notebook-code">Debugging notebook code</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Debugging notebook code is not as polished as it could be. Kernels
+are typically “invisible” executables that respond to requests sent from
+the notebook server. Most kernels stay in the background and do not
+provide standard language-specific programming environments. Usually,
+this isn't much of a problem, but when debugging complex programs it
+would be handy to push a button and pop up a standard debugger. In J's
+case, a JQt or JHS session would appear containing all the code loaded
+or created by the notebook. You could then debug and modify your code,
+then pop over to the notebook session to try it out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Right now the J kernel does not “pop up” visible J sessions but you
+can achieve something similar by extracting J notebook code as a J
+script and executing it in another JQt or JHS session. jupyter makes
+this easy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script">Stupid
+J Jupyter Trick #1 - export notebook code as a J script</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>jupyter can download notebooks in a variety of formats. One of the formats provided by the J kernel is ijs or J script. Go to the <strong>File</strong> menu, select <strong>Download as</strong>, then pick <strong>J (.ijs)</strong>. jupyter will extract all the <em>J code cells</em> in the notebook <em>in cell order</em> and write a script file to wherever you want it. I usually save such scripts in the J temp directory jpath ~temp where they can be conveniently loaded and run.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you run a downloaded J notebook script in another J session it
+<em>essentially</em><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> recreates the notebook kernel
+state.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="inserting-j-code-into-notebooks">Inserting J code into
+notebooks</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Extracting J code from notebooks for debugging is useful but oddly
+the inverse, inserting J code into notebooks, is even more useful. As
+previously noted, jupyter can export notebooks in many formats. In
+particular, it can generate HTML, LaTeX, Markdown, and PDF versions of
+notebooks. I've found the generated LaTeX, HTML, and Markdown formats
+extremely handy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="stupid-j-jupyter-trick-2---j-code-notebook-insertion">Stupid J
+Jupyter Trick #2 - J code notebook insertion</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you’re looking for <em>a quick and dirty way to syntax color J
+code</em> do the following:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true,"type":"1"} -->
+<ol type="1"><li>Create a blank jupyter notebook.</li><li>Open a J script in your favorite editor.</li><li>Cut and Paste the script into a jupyter code cell.</li><li>Download the notebook as HTML or PDF.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>jupyter will nicely syntax color your code. It even does a decent job
+of breaking lines. The GitHub files <a href="https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.pdf">brandxmp.ijs.pdf</a>
+and <a href="https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.html">brandxmp.ijs.html</a>
+are examples of what you get right out of the box.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion">Stupid
+J Jupyter Trick #3 - smarter J code notebook insertion</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The quick and dirty method is simple and handy but it's of limited
+use when preparing complex LaTeX documents. With LaTeX, you want more
+than just code. You want cross-references, web links, footnotes,
+mathematical expressions, graphics, indexes, appendices, and other <a href="https://www-cs-faculty.stanford.edu/~knuth/lp.html"><em>literate
+programming</em></a> goodies. It’s much easier to achieve such ends if
+your J code is split over many cells.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<div class="sourceCode" id="cb1"><pre class="sourceCode j"><code class="sourceCode j"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a>    ipynbfrjod<span class="kw">=:</span><span class="dv">3</span> <span class="re">: 0</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true"></a>    <span class="co">NB.*ipynbfrjod v-- extract J  words from JOD  and insert in blank</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true"></a>    <span class="co">NB. jupyter notebook.</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true"></a>    <span class="co">NB.</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true"></a>    <span class="co">NB. monad:  clIpynb =. ipynbfrjod blclNames</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true"></a>    <span class="co">NB.</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true"></a>    <span class="co">NB.   NB. examples use docs and utils</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true"></a>    <span class="co">NB.   require 'general/jod'</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true"></a>    <span class="co">NB.   od ;:'docs utils'</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true"></a>    <span class="co">NB.</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true"></a>    <span class="co">NB.   nbj=: ipynbfrjod ;:'sha1 sha1dir'</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true"></a>    <span class="co">NB.   nbj write 'C:\Users\baker\jupyter_notebooks\test0.ipynb'</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true"></a>    <span class="co">NB.</span></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true"></a>    <span class="co">NB.   nbj=: ipynbfrjod }. grp 'ipynb'</span></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true"></a>    <span class="co">NB.   nbj write 'C:\Users\baker\jupyter_notebooks\ipynb_onself.ipynb'</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true"></a></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true"></a>    <span class="co">NB. require 'general/jod' !(*)=. disp</span></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true"></a>    jc<span class="kw">=.</span> disp<span class="kw">&amp;.&gt;</span> <span class="kw">y</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true"></a></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true"></a>    <span class="co">NB. markdown sections with word name</span></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true"></a>    sec<span class="kw">=.</span> dblquote <span class="re">(</span><span class="kw">&lt;</span>MDSECTION<span class="kw">,</span>JWORDMARK<span class="re">)</span> <span class="kw">,&amp;.&gt;</span> <span class="kw">y</span></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true"></a>    sec<span class="kw">=.</span> <span class="re">(</span><span class="kw">&lt;</span>NBJCELLBEGst<span class="re">)</span> <span class="kw">,&amp;.&gt;</span> sec <span class="kw">,&amp;.&gt;</span> <span class="kw">&lt;</span>NBJCELLBEGen</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true"></a>    <span class="co">NB. j code to quoted list of python strings notebook format</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true"></a>    nbj<span class="kw">=.</span> <span class="kw">&lt;;.</span><span class="dv">_2</span><span class="kw">@</span><span class="re">(</span>REVPYESCAPECHRS<span class="kw">&amp;</span>changestr<span class="re">)</span><span class="kw">@</span>tlf<span class="kw">&amp;.&gt;</span> jc</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true"></a>    nbj<span class="kw">=.</span> <span class="kw">;&amp;.&gt;</span> <span class="st">'"'</span> <span class="kw">,</span> <span class="kw">L:</span> <span class="dv">0</span> <span class="re">(</span><span class="kw">&lt;</span><span class="st">'\n",'</span><span class="kw">,</span>LF<span class="re">)</span> <span class="kw">,~</span> <span class="kw">L:</span> <span class="dv">0</span> nbj</span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true"></a>    nbj<span class="kw">=.</span> <span class="kw">,&amp;</span><span class="st">'"'</span><span class="kw">&amp;.&gt;</span> <span class="st">'\n",'</span><span class="kw">&amp;</span>beforelaststr<span class="kw">&amp;.&gt;</span> nbj</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true"></a>    nbj<span class="kw">=.</span> sec <span class="kw">,&amp;.&gt;</span> nbj <span class="kw">,&amp;.&gt;</span> <span class="kw">&lt;</span>NBJCELLEND</span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true"></a>    toJ NBHEADER <span class="kw">,</span> <span class="re">(</span>LF <span class="kw">,~</span> <span class="st">','</span><span class="kw">&amp;</span>beforelaststr <span class="kw">;</span>nbj<span class="re">)</span> <span class="kw">,</span> NBTRAILER</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true"></a>    <span class="re">)</span></span></code></pre></div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>After loading J words into cells all the jupyter export facilities
+are immediately available. Examples of jupyter outputs exploiting this
+hack are available here <a href="https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.ipynb">ipynb_onself.ipynb</a>
+and here <a href="https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.pdf">ipynb_onself.pdf</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To use ipynbfrjod download <a href="https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.ijs">ipynb.ijs</a> and the corresponding document <a href="https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.pdf">ipynb.pdf</a>. All these files <a href="https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod">are on GitHub</a>. Help yourself!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"dark-gray"} -->
+<hr class="wp-block-separator has-text-color has-dark-gray-color has-alpha-channel-opacity has-dark-gray-background-color has-background" />
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<section class="footnotes footnotes-end-of-document" role="doc-endnotes">
+<ol>
+<li id="fn1" role="doc-endnote"><p>Some care must be taken when
+developing J jupyter notebooks to guarantee exported scripts accurately
+recreate kernel states.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7415</wp:post_id>
+  <wp:post_date>2022-07-24 17:29:27</wp:post_date>
+  <wp:post_date_gmt>2022-07-24 23:29:27</wp:post_date_gmt>
+  <wp:post_modified>2022-07-24 17:43:07</wp:post_modified>
+  <wp:post_modified_gmt>2022-07-24 23:43:07</wp:post_modified_gmt>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>stupid-j-jupyter-tricks</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <category domain="post_tag" nicename="j"><![CDATA[J]]></category>
+  <category domain="post_tag" nicename="jsoftware"><![CDATA[jsoftware]]></category>
+  <category domain="post_tag" nicename="jupyter"><![CDATA[Jupyter]]></category>
+  <category domain="post_tag" nicename="jupyter-notebook"><![CDATA[Jupyter notebook]]></category>
+  <category domain="post_tag" nicename="latex"><![CDATA[LaTeX]]></category>
+  <category domain="category" nicename="programming"><![CDATA[Programming]]></category>
+  <category domain="post_tag" nicename="syntax-coloring"><![CDATA[syntax coloring]]></category>
+  <wp:postmeta>
+    <wp:meta_key>_wpcom_is_markdown</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_last_editor_used_jetpack</wp:meta_key>
+    <wp:meta_value><![CDATA[block-editor]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_publicize_job_id</wp:meta_key>
+    <wp:meta_value><![CDATA[75074462143]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>timeline_notification</wp:meta_key>
+    <wp:meta_value><![CDATA[1658705371]]></wp:meta_value>
   </wp:postmeta>
 </item>
   </channel>

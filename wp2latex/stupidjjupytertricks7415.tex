@@ -1,0 +1,193 @@
+%\input{bmamblenew.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2022/07/24/stupid-j-jupyter-tricks/}{Stupid J Jupyter Tricks}}
+\addcontentsline{toc}{subsection}{Stupid J Jupyter Tricks}
+
+
+\noindent\emph{Posted: 24 Jul 2022 23:29:27}
+\vspace{6pt}
+
+Continuing with my software irritant dispatching theme: today's irritant
+- including \emph{syntax colored code} in blogs, \LaTeX, Word, and other
+documents. This one is a persistent pain in the ass; especially for
+users of idiosyncratic programming languages. We all have our favorite
+hacks and workarounds; today I am sharing one of mine: using
+\href{https://jupyter.org/}{jupyter} to syntax color J code.
+
+A few years ago \href{https://github.com/martin-saurer}{Martin Saurer}
+made an outstanding contribution to the
+\href{https://code2.jsoftware.com/wiki/Main_Page}{J programming
+language} community. He created a
+\href{https://github.com/martin-saurer/jkernel}{jupyter kernel for J.}
+If you don't know what jupyter is please crawl out from under your rock
+and join the rest of us in the 21\textsuperscript{st} century.
+
+As I have said before jupyter notebooks are simply the \emph{correct}
+way to present complex ``executable'' technical documents that contain
+heavy doses of mathematics, program code, and graphics. I'm not the only
+one that holds this opinion: many concur. It would be an understatement
+to say that jupyter has been a success. It's now a dominant tool in many
+disciplines. If you're not using it you are missing out on one of the
+most useful open-source programming tools available.
+
+I came to jupyter from the \emph{pythonverse}. The \texttt{ipynb} notebook format
+originated there and initially stood for \textbf{I}nteractive
+\textbf{PY}thon \textbf{N}ote\textbf{B}ook, but in one of the best
+software design decisions ever made, the creators of jupyter decided to
+make notebooks \emph{programming language agnostic.} This means any
+programming language can plug into jupyter if it implements a
+well-defined kernel interface. This is what Martin implemented. Now,
+many programming languages support jupyter. It's become an expected
+facility, and if it's missing, well that's a good reason to use another
+programming language.
+
+Martin's J kernel works very well and I use it all the time, but there
+are a few ways the J kernel, and jupyter kernels in general, could be
+improved.
+
+\hypertarget{debugging-notebook-code}{%
+\subsubsection*{Debugging notebook code}\label{debugging-notebook-code}}
+
+Debugging notebook code is not as polished as it could be. Kernels are
+typically ``invisible'' executables that respond to requests sent from
+the notebook server. Most kernels stay in the background and do not
+provide standard language-specific programming environments. Usually,
+this isn't much of a problem, but when debugging complex programs it
+would be handy to push a button and pop up a standard debugger. In J's
+case, a JQt or JHS session would appear containing all the code loaded
+or created by the notebook. You could then debug and modify your code,
+then pop over to the notebook session to try it out.
+
+Right now the J kernel does not ``pop up'' visible J sessions but you
+can achieve something similar by extracting J notebook code as a J
+script and executing it in another JQt or JHS session. jupyter makes
+this easy!
+
+\hypertarget{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}{%
+\subsubsection*{Stupid J Jupyter Trick \#1 - export notebook code as a J
+script}\label{stupid-j-jupyter-trick-1---export-notebook-code-as-a-j-script}}
+
+jupyter can download notebooks in a variety of formats. One of the
+formats provided by the J kernel is \texttt{ijs} or J script. Go to the
+\textbf{File} menu, select \textbf{Download as}, then pick \textbf{J
+(.ijs)}. jupyter will extract all the \emph{J code cells} in the
+notebook \emph{in cell order} and write a script file to wherever you
+want it. I usually save such scripts in the J temp directory \texttt{jpath
+\textasciitilde temp} where they can be conveniently loaded and run.
+
+When you run a downloaded J notebook script in another J session it
+\emph{essentially}\footnote{Some care must be taken when developing J jupyter notebooks to
+guarantee exported scripts accurately recreate kernel states.} recreates the notebook kernel state.
+
+\hypertarget{inserting-j-code-into-notebooks}{%
+\subsubsection*{Inserting J code into
+notebooks}\label{inserting-j-code-into-notebooks}}
+
+Extracting J code from notebooks for debugging is useful but oddly the
+inverse, inserting J code into notebooks, is even more useful. As
+previously noted, jupyter can export notebooks in many formats. In
+particular, it can generate HTML, \LaTeX, Markdown, and PDF versions of
+notebooks. I've found the generated \LaTeX, HTML, and Markdown formats
+extremely handy.
+
+\hypertarget{stupid-j-jupyter-trick-2---j-code-notebook-insertion}{%
+\subsubsection*{Stupid J Jupyter Trick \#2 - J code notebook
+insertion}\label{stupid-j-jupyter-trick-2---j-code-notebook-insertion}}
+
+If you're looking for \emph{a quick and dirty way to syntax color J
+code} do the following:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Create a blank jupyter notebook.
+\item
+  Open a J script in your favorite editor.
+\item
+  Cut and Paste the script into a jupyter code cell.
+\item
+  Download the notebook as HTML or PDF.
+\end{enumerate}
+
+jupyter will nicely syntax color your code. It even does a decent job of
+breaking lines. The GitHub files
+\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.pdf}{\texttt{brandxmp.ijs.pdf}}
+and
+\href{https://github.com/bakerjd99/jacks/blob/master/brandxmp/jupyter/brandxmp.ijs.html}{\texttt{brandxmp.ijs.html}}
+are examples of what you get right out of the box.
+
+\hypertarget{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}{%
+\subsubsection*{Stupid J Jupyter Trick \#3 - smarter J code notebook
+insertion}\label{stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion}}
+
+The quick and dirty method is simple and handy but it's of limited use
+when preparing complex \LaTeX\ documents. With \LaTeX, you want more than
+just code. You want cross-references, web links, footnotes, mathematical
+expressions, graphics, indexes, appendices, and other
+\href{https://www-cs-faculty.stanford.edu/~knuth/lp.html}{\emph{literate
+programming}} goodies. It's much easier to achieve such ends if your J
+code is split over many cells. The following verb does just that.
+
+
+ \begin{tcolorbox}[breakable, size=fbox, boxrule=1pt, pad at break*=1mm,colback=cellbackground, colframe=cellborder]
+%\prompt{In}{incolor}{ }{\boxspacing}
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{n+nv}{ipynbfrjod}\PY{o}{=:}\PY{n+nf}{3 : 0}
+
+\PY{c+c1}{NB.*ipynbfrjod v\PYZhy{}\PYZhy{} extract J  words from JOD  and insert in blank}
+\PY{c+c1}{NB. jupyter notebook.}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB. monad:  clIpynb =. ipynbfrjod blclNames}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   nbj=: ipynbfrjod ;:\PYZsq{}sha1 sha1dir\PYZsq{}}
+\PY{c+c1}{NB.   nbj write \PYZsq{}C:\PYZbs{}Users\PYZbs{}baker\PYZbs{}jupyter\PYZus{}notebooks\PYZbs{}test0.ipynb\PYZsq{}}
+\PY{c+c1}{NB.}
+\PY{c+c1}{NB.   nbj=: ipynbfrjod \PYZcb{}. grp \PYZsq{}ipynb\PYZsq{}}
+\PY{c+c1}{NB.   nbj write \PYZsq{}C:\PYZbs{}Users\PYZbs{}baker\PYZbs{}jupyter\PYZus{}notebooks\PYZbs{}ipynb\PYZus{}onself.ipynb\PYZsq{}}
+
+\PY{c+c1}{NB. require \PYZsq{}general/jod\PYZsq{} !(*)=. disp}
+\PY{n+nv}{jc}\PY{o}{=.} \PY{n+nv}{disp}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nd}{y}
+
+\PY{c+c1}{NB. markdown sections with word name}
+\PY{n+nv}{sec}\PY{o}{=.} \PY{n+nv}{dblquote} \PY{p}{(}\PY{o}{\PYZlt{}}\PY{n+nv}{MDSECTION}\PY{o}{,}\PY{n+nv}{JWORDMARK}\PY{p}{)} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nd}{y}
+\PY{n+nv}{sec}\PY{o}{=.} \PY{p}{(}\PY{o}{\PYZlt{}}\PY{n+nv}{NBJCELLBEGst}\PY{p}{)} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nv}{sec} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{o}{\PYZlt{}}\PY{n+nv}{NBJCELLBEGen}
+
+\PY{c+c1}{NB. j code to quoted list of python strings notebook format}
+\PY{n+nv}{nbj}\PY{o}{=.} \PY{o}{\PYZlt{}}\PY{o}{;}\PY{o}{.}\PY{l+m+mi}{\PYZus{}2}\PY{o}{@}\PY{p}{(}\PY{n+nv}{REVPYESCAPECHRS}\PY{o}{\PYZam{}}\PY{n+nv}{changestr}\PY{p}{)}\PY{o}{@}\PY{n+nv}{tlf}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nv}{jc}
+\PY{n+nv}{nbj}\PY{o}{=.} \PY{o}{;}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZdq{}}\PY{l+s}{\PYZsq{}} \PY{o}{,} \PY{n+nv}{L}\PY{o}{:} \PY{l+m+mi}{0} \PY{p}{(}\PY{o}{\PYZlt{}}\PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{n}\PY{l+s}{\PYZdq{}}\PY{l+s}{,}\PY{l+s}{\PYZsq{}}\PY{o}{,}\PY{n+nv}{LF}\PY{p}{)} \PY{o}{,}\PY{o}{\PYZti{}} \PY{n+nv}{L}\PY{o}{:} \PY{l+m+mi}{0} \PY{n+nv}{nbj}
+\PY{n+nv}{nbj}\PY{o}{=.} \PY{o}{,}\PY{o}{\PYZam{}}\PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZdq{}}\PY{l+s}{\PYZsq{}}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{l+s}{\PYZsq{}}\PY{l+s}{\PYZbs{}}\PY{l+s}{n}\PY{l+s}{\PYZdq{}}\PY{l+s}{,}\PY{l+s}{\PYZsq{}}\PY{o}{\PYZam{}}\PY{n+nv}{beforelaststr}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nv}{nbj}
+\PY{n+nv}{nbj}\PY{o}{=.} \PY{n+nv}{sec} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{n+nv}{nbj} \PY{o}{,}\PY{o}{\PYZam{}}\PY{o}{.}\PY{o}{\PYZgt{}} \PY{o}{\PYZlt{}}\PY{n+nv}{NBJCELLEND}
+\PY{n+nv}{toJ} \PY{n+nv}{NBHEADER} \PY{o}{,} \PY{p}{(}\PY{n+nv}{LF} \PY{o}{,}\PY{o}{\PYZti{}} \PY{l+s}{\PYZsq{}}\PY{l+s}{,}\PY{l+s}{\PYZsq{}}\PY{o}{\PYZam{}}\PY{n+nv}{beforelaststr} \PY{o}{;}\PY{n+nv}{nbj}\PY{p}{)} \PY{o}{,} \PY{n+nv}{NBTRAILER}
+\PY{n+nl}{)}
+\end{Verbatim}
+\end{tcolorbox}
+
+After loading J words into cells all the jupyter export facilities are
+immediately available. Examples of jupyter outputs exploiting this hack
+are available here
+\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.ipynb}{\texttt{ipynb\_onself.ipynb}}
+and here
+\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb_onself.pdf}{\texttt{ipynb\_onself.pdf}}.
+
+To use \texttt{ipynbfrjod} download
+\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.ijs}{\texttt{ipynb.ijs}}
+and the corresponding document
+\href{https://github.com/bakerjd99/jacks/blob/master/ipynbfrjod/ipynb.pdf}{\texttt{ipynb.pdf}}.
+All these files
+\href{https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod}{are on
+GitHub}. Help yourself!
+
+%\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+%
+%\begin{enumerate}
+%\item
+%  \leavevmode\vadjust pre{\hypertarget{fn1}{}}%
+%  Some care must be taken when developing J jupyter notebooks to
+%  guarantee exported scripts accurately recreate kernel
+%  states.\protect\hyperlink{fnref1}{↩︎}
+%\end{enumerate}
+
+
+%\end{document}
+
