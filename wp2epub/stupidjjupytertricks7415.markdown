@@ -154,5 +154,20 @@ To use `ipynbfrjod` download `ipynb.ijs` and the corresponding document
 GitHub](https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod). Help
 yourself!
 
+**Postscript:** If you already have a recent version of J installed you 
+can directly install this script as a J `addon` by typing the following 
+commands in a JQt or JHS session.
+
+```J
+NB. install addon files in ~addons/jacks
+install 'github:bakerjd99/jackshacks'
+
+NB. installed files
+dir '~addons/jacks'
+
+NB. load script
+load '~addons/jacks/ipynb.ijs'
+```
+
 [^7415x1]: Some care must be taken when developing J jupyter notebooks to
     guarantee exported scripts accurately recreate kernel states.
