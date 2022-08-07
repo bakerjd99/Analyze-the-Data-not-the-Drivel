@@ -106,7 +106,7 @@ just code. You want cross-references, web links, footnotes, mathematical
 expressions, graphics, indexes, appendices, and other [*literate
 programming*](https://www-cs-faculty.stanford.edu/~knuth/lp.html)
 goodies. It's much easier to achieve such ends if your J code is split
-over many cells. The following verb does just that.
+over many cells. The following verb does this.
 
 ```J
 ipynbfrjod=:3 : 0

@@ -1,0 +1,51 @@
+
+[The Hate U Give: Review](http://analyzethedatanotthedrivel.org/2022/08/06/the-hate-u-give-review/)
+--------------------------------------------------------------------------------------------------
+
+*Posted: 06 Aug 2022 18:00:50*
+
+I picked up *The Hate U Give, (THUG)* because it was mentioned in a
+[TopTenz banned books](https://www.youtube.com/watch?v=5Gcfi-0vPAM)
+YouTube video. If you watch the video, you'll see that many great books
+and authors have been *recently* banned. George Orwell, Joseph Heller,
+Ray Bradbury, J. D. Salinger, Kurt Vonnegut, and James Joyce, for Christ
+sake, were all featured in the video. Ahh, to be banned in such august
+company, "I gotta read this book." So I marched over to the library and
+checked it out.[^7452x1]
+
+Now I'm a nearly seventy-year-old white guy with a penchant for serious
+nonfiction, so YA books are not my bag. If *THUG* hadn't been banned, I
+wouldn't have read it, but it was, and I did, and I am happy to report
+that I enjoyed *The Hate U Give.* I think we can all agree this is no
+*1984* or *Catch-22* or *Ulysses*, and I suspect even the author would
+agree, but things don't have to be great to be good, and *THUG* is a
+good, but not great, book.
+
+Yes, there is absolutely nothing ban worthy here. In fact, there is
+nothing we haven't all seen, over and over again, on the news. If you're
+looking for salacious censor-worthy content *THUG* will be a crushing
+disappointment. Do the imbeciles that ban books ever read them?
+
+Based on the many long and overwrought five-star reviews young readers
+have posted on
+[Goodreads](https://www.goodreads.com/book/show/58651625-the-hate-u-give),
+*THUG* clearly got under people's skins. The people that love it, love
+it too much. The people that hate it, hate it too much. Going
+emotionally overboard is part of being young. Enjoy it! It won't last. I
+neither loved nor hated *THUG.* It was *THUG*'s *voice* that I found
+most appealing. The story is told entirely from the young protagonist's
+point of view, and the author never deviates from the first person. The
+dialogue is clippy, and the hood grammar, or lack thereof, takes a few
+pages to absorb, but it works! The characters come alive with distinct
+and memorable voices. You get to know them, and that's a sign of good
+writing.
+
+Now it's true, as others have noted, that the story is predictable and
+that no great lessons are imparted. We discover that racism is bad, that
+discrimination is bad, that police brutality is bad, that poverty is
+bad; *who knew*? I don't think reiterating banalities was the author's
+intent. She wanted us to get to know some interesting people, and in
+that she admirably succeeded.
+
+[^7452x1]: Oddly, *THUG* has not been banned in redneck Idaho. Did the
+    memory-holers screw up?

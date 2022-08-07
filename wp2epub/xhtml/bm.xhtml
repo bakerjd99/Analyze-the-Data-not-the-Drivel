@@ -5862,7 +5862,7 @@ if %ERRORLEVEL% NEQ 0 goto Error18</code></pre>
 </section>
 <section id="stupid-j-jupyter-trick-3---smarter-j-code-notebook-insertion" class="level4" data-number="0.232.0.5">
 <h4 data-number="0.232.0.5">Stupid J Jupyter Trick #3 - smarter J code notebook insertion</h4>
-<p>The quick and dirty method is simple and handy but it’s of limited use when preparing complex LaTeX documents. With LaTeX, you want more than just code. You want cross-references, web links, footnotes, mathematical expressions, graphics, indexes, appendices, and other <a href="https://www-cs-faculty.stanford.edu/~knuth/lp.html"><em>literate programming</em></a> goodies. It’s much easier to achieve such ends if your J code is split over many cells. The following verb does just that.</p>
+<p>The quick and dirty method is simple and handy but it’s of limited use when preparing complex LaTeX documents. With LaTeX, you want more than just code. You want cross-references, web links, footnotes, mathematical expressions, graphics, indexes, appendices, and other <a href="https://www-cs-faculty.stanford.edu/~knuth/lp.html"><em>literate programming</em></a> goodies. It’s much easier to achieve such ends if your J code is split over many cells. The following verb does this.</p>
 <div class="sourceCode" id="cb245"><pre class="sourceCode j"><code class="sourceCode j"><span id="cb245-1"><a href="#cb245-1" aria-hidden="true" tabindex="-1"></a>ipynbfrjod<span class="kw">=:</span><span class="dv">3</span> <span class="re">: 0</span></span>
 <span id="cb245-2"><a href="#cb245-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb245-3"><a href="#cb245-3" aria-hidden="true" tabindex="-1"></a><span class="co">NB.*ipynbfrjod v-- extract J  words from JOD  and insert in blank</span></span>
@@ -5896,7 +5896,51 @@ if %ERRORLEVEL% NEQ 0 goto Error18</code></pre>
 <span id="cb245-31"><a href="#cb245-31" aria-hidden="true" tabindex="-1"></a><span class="re">)</span></span></code></pre></div>
 <p>After loading J words into cells all the jupyter export facilities are immediately available. Examples of jupyter outputs exploiting this hack are <a href="https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod">available on GitHub:</a> see <code>ipynb_onself.ipynb</code> and <code>ipynb_onself.pdf</code>.</p>
 <p>To use <code>ipynbfrjod</code> download <code>ipynb.ijs</code> and the corresponding document <code>ipynb.pdf</code>. All these files <a href="https://github.com/bakerjd99/jacks/tree/master/ipynbfrjod">are on GitHub</a>. Help yourself!</p>
+<p><strong>Postscript:</strong> If you already have a recent version of J installed you can directly install this script as a J <code>addon</code> by typing the following commands in a JQt or JHS session.</p>
+<div class="sourceCode" id="cb246"><pre class="sourceCode j"><code class="sourceCode j"><span id="cb246-1"><a href="#cb246-1" aria-hidden="true" tabindex="-1"></a><span class="co">NB. install addon files in ~addons/jacks</span></span>
+<span id="cb246-2"><a href="#cb246-2" aria-hidden="true" tabindex="-1"></a>install <span class="st">&#39;github:bakerjd99/jackshacks&#39;</span></span>
+<span id="cb246-3"><a href="#cb246-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb246-4"><a href="#cb246-4" aria-hidden="true" tabindex="-1"></a><span class="co">NB. installed files</span></span>
+<span id="cb246-5"><a href="#cb246-5" aria-hidden="true" tabindex="-1"></a>dir <span class="st">&#39;~addons/jacks&#39;</span></span>
+<span id="cb246-6"><a href="#cb246-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb246-7"><a href="#cb246-7" aria-hidden="true" tabindex="-1"></a><span class="co">NB. load script</span></span>
+<span id="cb246-8"><a href="#cb246-8" aria-hidden="true" tabindex="-1"></a>load <span class="st">&#39;~addons/jacks/ipynb.ijs&#39;</span></span></code></pre></div>
 </section>
+</section>
+<section id="managing-a-sqlite-database-with-j-part-1" class="level2" data-number="0.233">
+<h2 data-number="0.233"><a href="http://analyzethedatanotthedrivel.org/2022/08/03/managing-a-sqlite-database-with-j-part-1/">“Managing” a SQLite Database with J (Part 1)</a></h2>
+<p><em>Posted: 03 Aug 2022 18:40:26</em></p>
+<p><em><a href="https://analyzethedatanotthedrivel.org/2022/07/17/branding-xmp-sidecar-files-with-j/">Previously</a>, I promised to write three posts about dispatching irritants with J. This, my third post, is proving more irritating than the others, so I will split it over two posts.</em></p>
+<p><a href="https://sqlite.org/index.html">SQLite</a>, by many estimates, is the most widely deployed SQL database system on Earth. It’s everywhere. It’s in your phone, your laptop, your cameras, your car, your cloud, and your breakfast cereal. SQLite’s global triumph is a gratifying testament to the virtues of technical excellence and the philosophy of “less is more.”</p>
+<p>Readers of this blog will know that I admire the <em>set-theoretic</em> basis of SQL while despising the <em>IT administrative state</em> that has grown up, like septic tank scum, around it. You’ll know what I’m talking about if you have ever:</p>
+<ol type="1">
+<li><p>Requested access to a particular <em>corporate</em> database.</p></li>
+<li><p>Waited for DBAs to sign off on a query.</p></li>
+<li><p>Asked for a new index.</p></li>
+<li><p>Had the gall to install “unauthorized” software tools in “production.”</p></li>
+</ol>
+<p>There is so much administrative shit covering big Oracle, SQLServer, or DB2 systems that it’s almost impossible to get anything done without constantly fellating <em>administrative</em> dick!</p>
+<p><strong>SQLite saves SQL</strong></p>
+<p>The creators of SQLite had another idea. Let’s drop the administrative crap and provide a simple stand-alone implementation of SQL. Let’s also structure our system as a single highly portable C source file that can be compiled anywhere. Furthermore, let’s test the shit out of our code with comprehensive test suites that hit every line. Finally, let’s fix our damn bugs. The SQLite developers did all this so well that SQLite slowly, then all at once, conquered the whole damn world. The SQLiters earned their dominance.</p>
+<p>So, what does this have to do with J?</p>
+<p>J provides a useful <a href="https://code.jsoftware.com/wiki/Addons/data/sqlite/Overview">SQLite addon</a> that lets J programmers navigate the vast cosmos of SQLite database files. I mainly use J’s SQLite addon to access <a href="http://www.thumbsplus.com/">ThumbsPlus</a> and <a href="https://www.darktable.org/">Darktable</a> image databases, but it’s surprisingly handy in many contexts simply because SQLite database files are everywhere. SQLite database files are so pervasive that they’ve become a <em>de facto</em> binary data exchange format. If you have data in dire need of distribution, stuff them in a SQLite database file.</p>
+<p><strong>It’s still SQL</strong></p>
+<p>SQLite is a superb tool, but it’s still SQL, and SQL has an ancient deficiency. Loading data into SQL systems has always been a pain. So much so that a plethora of grisly, kludge-infested hacks, charitably labeled <em>ETL tools</em> (<strong>E</strong>xtract <strong>T</strong>ransform and <strong>L</strong>oad), have taken root in the <em>SQLverse</em>. ETL tools, no matter how polished or optimized, all seem like afterthoughts.</p>
+<blockquote>
+<p>“Hey, this set-theoretic SQL shit would be so much better if there was some data in our database!”</p>
+</blockquote>
+<p>If you “manage” SQL systems, you must slay ETL dragons. SQLite hasn’t fixed this, but its almost universal adoption means you can slay ETL dragons with your favorite programming spears. One of my favorite spears is the <a href="https://code2.jsoftware.com/wiki/Main_Page">J programming language</a>.</p>
+<p><strong>Toy or tool</strong></p>
+<p>When I started writing this post, I considered composing a short tutorial on how to create, load, and query a simple SQLite database with the J addon. Then I realized the Internet drips with simple SQLite <em>toy tutorials.</em> Do we really need another one? Simple SQL tutorials help when getting started, but they invariably gloss over the ETL problem. The ETL problem never goes away and it’s always more complex than expected. A realistic introduction to using SQLite, or any SQL system, would keep this nasty fact front and center. So, in a following post, I will outline a small but nontrivial SQLite-based <em>tool</em> I use to manage messy data I care about.</p>
+</section>
+<section id="the-hate-u-give-review" class="level2" data-number="0.234">
+<h2 data-number="0.234"><a href="http://analyzethedatanotthedrivel.org/2022/08/06/the-hate-u-give-review/">The Hate U Give: Review</a></h2>
+<p><em>Posted: 06 Aug 2022 18:00:50</em></p>
+<p>I picked up <em>The Hate U Give, (THUG)</em> because it was mentioned in a <a href="https://www.youtube.com/watch?v=5Gcfi-0vPAM">TopTenz banned books</a> YouTube video. If you watch the video, you’ll see that many great books and authors have been <em>recently</em> banned. George Orwell, Joseph Heller, Ray Bradbury, J. D. Salinger, Kurt Vonnegut, and James Joyce, for Christ sake, were all featured in the video. Ahh, to be banned in such august company, “I gotta read this book.” So I marched over to the library and checked it out.<a href="#fn119" class="footnote-ref" id="fnref119" epub:type="noteref">119</a></p>
+<p>Now I’m a nearly seventy-year-old white guy with a penchant for serious nonfiction, so YA books are not my bag. If <em>THUG</em> hadn’t been banned, I wouldn’t have read it, but it was, and I did, and I am happy to report that I enjoyed <em>The Hate U Give.</em> I think we can all agree this is no <em>1984</em> or <em>Catch-22</em> or <em>Ulysses</em>, and I suspect even the author would agree, but things don’t have to be great to be good, and <em>THUG</em> is a good, but not great, book.</p>
+<p>Yes, there is absolutely nothing ban worthy here. In fact, there is nothing we haven’t all seen, over and over again, on the news. If you’re looking for salacious censor-worthy content <em>THUG</em> will be a crushing disappointment. Do the imbeciles that ban books ever read them?</p>
+<p>Based on the many long and overwrought five-star reviews young readers have posted on <a href="https://www.goodreads.com/book/show/58651625-the-hate-u-give">Goodreads</a>, <em>THUG</em> clearly got under people’s skins. The people that love it, love it too much. The people that hate it, hate it too much. Going emotionally overboard is part of being young. Enjoy it! It won’t last. I neither loved nor hated <em>THUG.</em> It was <em>THUG</em>’s <em>voice</em> that I found most appealing. The story is told entirely from the young protagonist’s point of view, and the author never deviates from the first person. The dialogue is clippy, and the hood grammar, or lack thereof, takes a few pages to absorb, but it works! The characters come alive with distinct and memorable voices. You get to know them, and that’s a sign of good writing.</p>
+<p>Now it’s true, as others have noted, that the story is predictable and that no great lessons are imparted. We discover that racism is bad, that discrimination is bad, that police brutality is bad, that poverty is bad; <em>who knew</em>? I don’t think reiterating banalities was the author’s intent. She wanted us to get to know some interesting people, and in that she admirably succeeded.</p>
 </section>
 </section>
 <section class="footnotes footnotes-end-of-document" epub:type="footnotes">
@@ -6020,6 +6064,7 @@ if %ERRORLEVEL% NEQ 0 goto Error18</code></pre>
 <li id="fn116" epub:type="footnote"><p>Directories filled with hundreds of names like <code>_DSC8007.NEF</code> and <code>IMG_6666.jpg</code> are useless without thumbnail software.<a href="#fnref116" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn117" epub:type="footnote"><p>Sidecar files are generated and maintained by many imaging processing programs. The XMP format is an XML text file. It can be easily parsed and changed.<a href="#fnref117" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn118" epub:type="footnote"><p>Some care must be taken when developing J jupyter notebooks to guarantee exported scripts accurately recreate kernel states.<a href="#fnref118" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn119" epub:type="footnote"><p>Oddly, <em>THUG</em> has not been banned in redneck Idaho. Did the memory-holers screw up?<a href="#fnref119" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>
 </body>
