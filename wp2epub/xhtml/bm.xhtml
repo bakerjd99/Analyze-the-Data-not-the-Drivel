@@ -5942,6 +5942,24 @@ if %ERRORLEVEL% NEQ 0 goto Error18</code></pre>
 <p>Based on the many long and overwrought five-star reviews young readers have posted on <a href="https://www.goodreads.com/book/show/58651625-the-hate-u-give">Goodreads</a>, <em>THUG</em> clearly got under people’s skins. The people that love it, love it too much. The people that hate it, hate it too much. Going emotionally overboard is part of being young. Enjoy it! It won’t last. I neither loved nor hated <em>THUG.</em> It was <em>THUG</em>’s <em>voice</em> that I found most appealing. The story is told entirely from the young protagonist’s point of view, and the author never deviates from the first person. The dialogue is clippy, and the hood grammar, or lack thereof, takes a few pages to absorb, but it works! The characters come alive with distinct and memorable voices. You get to know them, and that’s a sign of good writing.</p>
 <p>Now it’s true, as others have noted, that the story is predictable and that no great lessons are imparted. We discover that racism is bad, that discrimination is bad, that police brutality is bad, that poverty is bad; <em>who knew</em>? I don’t think reiterating banalities was the author’s intent. She wanted us to get to know some interesting people, and in that she admirably succeeded.</p>
 </section>
+<section id="managing-a-sqlite-database-with-j-part-2" class="level2" data-number="0.235">
+<h2 data-number="0.235"><a href="http://analyzethedatanotthedrivel.org/2022/08/08/managing-a-sqlite-database-with-j-part-2/">“Managing” a SQLite Database with J (Part 2)</a></h2>
+<p><em>Posted: 09 Aug 2022 04:58:06</em></p>
+<p>When faced with unfamiliar program code <a href="https://rogerhui.rip/">Roger Hui</a>, the cocreator of the <a href="https://code2.jsoftware.com/wiki/Main_Page">J Programming Language</a> would sometimes wipe out all the code comments. He told me this forced him to concentrate on the actual code and not the <em>opinions</em> of previous developers. Roger was an exceptional programmer; he knew that program comments are often dated, misleading and wrong. And, the only way to “correct the comments” is to read the code; so why not just read the code and skip the philosophy? Roger’s comment purges underscore an important point. However you document your code, <em>it must be better than the null or empty document.</em></p>
+<p>With this in mind, I wrote a few versions of this post, but I hated them all. Then I realized that <a href="https://github.com/bakerjd99/jacks/blob/master/jodliterate/UsingJodliterate.pdf"><code>jodliterate</code></a> PDF documents <em>mostly</em> do what I want. So, instead of rewriting <a href="https://github.com/bakerjd99/jacks/blob/master/mirrorxref/MirrorXref.pdf"><code>MirrorXref.pdf</code></a>, I will make a few comments about jodliterate group documents in general. If you’re interested in using <a href="https://sqlite.org/index.html">SQLite</a> with J, download the self-contained <a href="https://github.com/bakerjd99/jacks/tree/master/mirrorxref">GitHub files <code>MirrorXref.ijs</code> and <code>MirrorXref.pdf</code></a> and have a look.</p>
+<p><strong>jodliterate Group Documents</strong></p>
+<p><code>jodliterate</code> group documents are directly generated from <a href="https://analyzethedatanotthedrivel.org/the-jod-page/">JOD dictionaries</a> using J, <a href="https://pandoc.org/">pandoc</a>, and LaTeX. Group documents have three major parts.</p>
+<ol type="1">
+<li><p>An overview.</p></li>
+<li><p>Complete typeset source code.</p></li>
+<li><p>A global word index.</p></li>
+</ol>
+<p>The source code and index sections are self-explanatory, but a few remarks about overviews are warranted.</p>
+<p>The <em>overview</em> might have several subsections. There’s usually a hyperlinked <strong>Interface</strong> subsection. J doesn’t have formal interfaces like many programming languages. The words listed in the <strong>Interface</strong> section are words you will use when running the script. The <strong>Interface</strong> section highlights where to get started.</p>
+<p>For complex scripts, there is usually a <strong>Using</strong> subsection. <a href="https://github.com/bakerjd99/jacks/blob/master/mirrorxref/MirrorXref.pdf"><code>MirrorXref.pdf</code></a>’s <strong>Using</strong> subsection is typical.</p>
+<p>Finally, there might be a <strong>Code Hints</strong> subsection. Code Hints are lists of hyperlinked words that you should heed.</p>
+<p>For more, take Roger’s advice and read the code.</p>
+</section>
 </section>
 <section class="footnotes footnotes-end-of-document" epub:type="footnotes">
 <hr />
