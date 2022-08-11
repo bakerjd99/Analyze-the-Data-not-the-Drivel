@@ -10,30 +10,33 @@ Note: I use a number of Version Control Systems (VCS). The base 36 GUID
 is my key for relating issues, tickets and so forth across systems.
 
 `[begin-todo]`
-   
-1. `<_vacf0rik3kyvhphf9gw3sa51_>` Continue shortening and revising captions displayed in the list of figures.
 
-2. `<_7t5z8mzamsru31xcpm2h1me69_>` Consider adding PDF internal cross references to previous blog posts.
+1. `<_1q3qnb6hnoenaq9vjw9lnq7dk_>` Collect all J and other program code in a JOD group and devise means
+   of generating LaTeX in `lstlisting`, `pandoc/pygments`, and `jupyter notebook` formats.
+
+2. `<_vacf0rik3kyvhphf9gw3sa51_>` Continue shortening and revising captions displayed in the list of figures.
+
+3. `<_7t5z8mzamsru31xcpm2h1me69_>` Consider adding PDF internal cross references to previous blog posts.
    Currently all such references point online.
 
-3. `<_2u83zfr6pcghzx21yjjqm7rvk_>` Standardize syntax colors for  `lstlisting` and `pandoc/pygments`. Source code
+4. `<_2u83zfr6pcghzx21yjjqm7rvk_>` Standardize syntax colors for  `lstlisting` and `pandoc/pygments`. Source code
    is displayed with two packages and there are good reasons to use both.
 
-4. `<_22sy2a81cibs5h3p58ddwd2mk_>` Extract all source code into jupyter notebooks. jupyter's LaTeX output does a very
+5. `<_22sy2a81cibs5h3p58ddwd2mk_>` Extract all source code into jupyter notebooks. jupyter's LaTeX output does a very
    good jod of formatting J and other types of code. This would be a third way of formatting code.
 
-5. `<_cbwcaloj3hsqz1t1hr4346zio_>` Standardize source code fonts for `lstlisting` and `pandoc/pygments`.
+6. `<_cbwcaloj3hsqz1t1hr4346zio_>` Standardize source code fonts for `lstlisting` and `pandoc/pygments`.
 
-6. `<_1lcv2mj4m3jhmqnmx0dm0407d_>` Make sure there are no font substitutions for PDF versions.
+7. `<_1lcv2mj4m3jhmqnmx0dm0407d_>` Make sure there are no font substitutions for PDF versions.
    This may require the installation of fonts.
 
-7. `<_0rcowpb3vtoukbriwjqhuf906_>` Add an appendix to the PDF version that exposes all internal URLs.
+8. `<_0rcowpb3vtoukbriwjqhuf906_>` Add an appendix to the PDF version that exposes all internal URLs.
 
-8.  `<_b40i9ac9s7a27oaq638qcx9fl_>` Start work on building PDF overall index, list of figures, tables so forth.
+9.  `<_b40i9ac9s7a27oaq638qcx9fl_>` Start work on building PDF overall index, list of figures, tables so forth.
 
-9.   `<_dyemvqi0zwbcr1rgzdvup2mg4_>` Start work on changing the PDF document geometry to match a standard book size.
+10.   `<_dyemvqi0zwbcr1rgzdvup2mg4_>` Start work on changing the PDF document geometry to match a standard book size.
 
-10. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/)
+11. `<_dbuneq7zihz4o5g2v2iu80dky_>` Continue redirecting all code links from [box.com](https://www.box.com/)
    and [box.net](https://www.net.com/) to [github.com/bakerjd99](https://github.com/bakerjd99). Also hunt
    down references to old Google Documents and redirect.
 
