@@ -2,14 +2,14 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="epub-title-1">Analyze the Data not the Drivel</dc:title>
     <dc:creator id="id">John D. Baker</dc:creator>
-    <dc:identifier>calibre:40</dc:identifier>
-    <dc:identifier>uuid:a3be1ad2-e680-4a0d-a7c7-5f8350c4ad9e</dc:identifier>
-    <dc:identifier id="epub-id-1">urn:uuid:c9f1fd1d-0b14-48c4-88c3-e847a22593e9</dc:identifier>
+    <dc:identifier>calibre:9</dc:identifier>
+    <dc:identifier>uuid:7b7379a0-b147-490d-a06a-f3ff8bdd8c89</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:4df8f56e-8e9f-4497-bc0d-cbbc82662177</dc:identifier>
     <dc:language>en-US</dc:language>
     <opf:meta refines="#epub-title-1" property="title-type">main</opf:meta>
     <opf:meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</opf:meta>
     <meta name="cover" content="blogbanner06_jpg"/>
-    <meta property="dcterms:modified">2021-10-13T20:44:06Z</meta>
+    <meta property="dcterms:modified">2022-08-23T15:19:24Z</meta>
     <opf:meta refines="#id" property="role" scheme="marc:relators">aut</opf:meta>
     <opf:meta refines="#id" property="file-as">Baker, John D.</opf:meta>
     <opf:meta property="calibre:author_link_map">{"John D. Baker": ""}</opf:meta>
@@ -22,7 +22,7 @@
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css"/>
     <item properties="cover-image" id="blogbanner06_jpg" href="media/blogbanner06.jpg" media-type="image/jpeg"/>
-    <item id="apl385_ttf" href="fonts/apl385.ttf" media-type="application/vnd.ms-opentype"/>
+    <item id="apl385_ttf" href="fonts/apl385.ttf" media-type="application/font-sfnt"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover_xhtml"/>

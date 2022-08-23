@@ -1,4 +1,4 @@
- a09343719e9de8c5fca6a5a43623b004b1883f69 bm.pdf
+ 2ffe442cbddbefb6e30ebcea61993ca5660e0788 bm.pdf
  f6fcb24c5d07af39d67afa10e981734ab4c13253 ablackswansong985.tex
  1e94e38bf288437ef281d117dae73c121a937e08 abloggychristmaslett5275.tex
  eeda6b1448c1c52eb2fb98ae7335e69efc07197b abrighterbluerworld7086.tex
@@ -26,7 +26,7 @@
  29a1523722dae5741571deeb03bdde6aff964d77 blogrobotreview3653.tex
  418dcf471e72338449c57baac9f133b3ca7359d1 bloodmorons4643.tex
  56225deee599bcd339af6ba6c548f17c5160b83b blurbnicklombstransi2744.tex
- 15097c5929fc1de0011810a692eb15c5fd0f981f bm.tex
+ 4589c344a6815549b4aca8f01e6496cd7e7ec3d1 bm.tex
  1b85bedffef6b35248f6b455c3cea152c0acb598 bmamble.tex
  04bf0fcc0b01c71c0094148e852b160df2ef75a3 bmamblenew.tex
  797467d296caeabef1288323237f697b02593fc5 bmtitlepage.tex
@@ -78,6 +78,7 @@
  c9a178d015e5636ae65658cf27b84a24dc9e24fd governmentshutdownan5552.tex
  97b820615ee7935b78e16644963b87337abb9f9e gpxfromgooglemapskml2767.tex
  f7a6568c7dcf3d9062b39fed8c2b2c8f6af26551 hardassskepticrules287.tex
+ b0c86b0088a6696f92b3240b184e88d87a3c974a helenburdicksdiary7491.tex
  db963b7e31a15a47f64ab69a34a694fa43544db1 honingmypowersofindi454.tex
  ab07fe0fce71c0e65b633c16baebde0b2c892acf hospitalstafftrainin1241.tex
  0e10e2e40badd4646577d4c5c4a9ab2a51f93e90 howdantecansaveyourl5093.tex
