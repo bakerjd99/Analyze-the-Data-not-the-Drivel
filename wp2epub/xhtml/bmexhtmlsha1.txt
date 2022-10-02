@@ -1,7 +1,7 @@
- c65ef1d284752bdeea0b413807bc41ecac635e69 bm.xhtml
+ 3f5a4f7f6613e7bab2865dbaf55a29b2999acc69 bm.xhtml
  f6370b6248d8f6716aa557b36a956ec0e82004ab cover.xhtml
- 9033d685efe17c264bebf6cbcd8c0d4b9ec0e90c nav.xhtml
+ 1bc8e9440594c58e288add03f7c1b6035be7473d nav.xhtml
  0a54a9c3d204541a17f080a848973fa10562873c title_page.xhtml
  9ab2aeb7ad096be47fae11bfe2d54fa50525bef0 stylesheet1.css
- 772fe649be6a4dc4d98399b6a8a8960f8daa0229 toc.ncx
+ f9fbfa8eeeb4c17ff30d13b41f55cfe1eb8f196f toc.ncx
  85ad2c5704429690d806efdf9d6f3c0f819ccea9 blogbanner06.jpg

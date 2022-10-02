@@ -1,18 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="epub-title-1">Analyze the Data not the Drivel</dc:title>
     <dc:creator id="id">John D. Baker</dc:creator>
-    <dc:identifier>calibre:9</dc:identifier>
-    <dc:identifier>uuid:7b7379a0-b147-490d-a06a-f3ff8bdd8c89</dc:identifier>
-    <dc:identifier id="epub-id-1">urn:uuid:4df8f56e-8e9f-4497-bc0d-cbbc82662177</dc:identifier>
+    <dc:identifier>calibre:12</dc:identifier>
+    <dc:identifier>uuid:047bca35-157a-41dc-8197-bf2b0812f6cb</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:66bc4521-8c86-443d-8e0a-4236d55285ee</dc:identifier>
     <dc:language>en-US</dc:language>
-    <opf:meta refines="#epub-title-1" property="title-type">main</opf:meta>
-    <opf:meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</opf:meta>
+    <meta refines="#epub-title-1" property="title-type">main</meta>
+    <meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</meta>
     <meta name="cover" content="blogbanner06_jpg"/>
-    <meta property="dcterms:modified">2022-08-23T15:19:24Z</meta>
-    <opf:meta refines="#id" property="role" scheme="marc:relators">aut</opf:meta>
-    <opf:meta refines="#id" property="file-as">Baker, John D.</opf:meta>
-    <opf:meta property="calibre:author_link_map">{"John D. Baker": ""}</opf:meta>
+    <meta property="dcterms:modified">2022-10-02T15:50:35Z</meta>
+    <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id" property="file-as">Baker, John D.</meta>
+    <meta property="calibre:author_link_map">{"John D. Baker": ""}</meta>
   </metadata>
   <manifest>
     <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>

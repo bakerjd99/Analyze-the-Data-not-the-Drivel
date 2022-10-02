@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:4df8f56e-8e9f-4497-bc0d-cbbc82662177"/>
+    <meta name="dtb:uid" content="urn:uuid:66bc4521-8c86-443d-8e0a-4236d55285ee"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1455,6 +1455,18 @@
           <text>Helen Burdick’s Diary</text>
         </navLabel>
         <content src="text/bm.xhtml#helen-burdicks-diary"/>
+      </navPoint>
+      <navPoint id="navPoint-241">
+        <navLabel>
+          <text>On Eponymous Erasure</text>
+        </navLabel>
+        <content src="text/bm.xhtml#on-eponymous-erasure"/>
+      </navPoint>
+      <navPoint id="navPoint-242">
+        <navLabel>
+          <text>Ukraine Unknowns</text>
+        </navLabel>
+        <content src="text/bm.xhtml#ukraine-unknowns"/>
       </navPoint>
     </navPoint>
   </navMap>
