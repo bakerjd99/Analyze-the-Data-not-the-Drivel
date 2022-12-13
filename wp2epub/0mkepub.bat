@@ -41,5 +41,5 @@ goto TheEnd
 endlocal
 popd
 
-rem pause
+pause
 exit /B %ERRORLEVEL%

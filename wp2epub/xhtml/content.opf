@@ -1,19 +1,21 @@
-<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/ calibre: https://calibre-ebook.com">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="epub-title-1">Analyze the Data not the Drivel</dc:title>
     <dc:creator id="id">John D. Baker</dc:creator>
-    <dc:identifier>calibre:12</dc:identifier>
-    <dc:identifier>uuid:047bca35-157a-41dc-8197-bf2b0812f6cb</dc:identifier>
-    <dc:identifier id="epub-id-1">urn:uuid:66bc4521-8c86-443d-8e0a-4236d55285ee</dc:identifier>
+    <dc:identifier>calibre:13</dc:identifier>
+    <dc:identifier>uuid:7050f7ec-7cc6-41c8-bc3b-9ecbfa1ec530</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:8cd7e2e9-03ee-4434-8b7e-9bcb74d13ff5</dc:identifier>
     <dc:language>en-US</dc:language>
-    <meta refines="#epub-title-1" property="title-type">main</meta>
-    <meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</meta>
+    <dc:date>2022-12-13T07:00:00+00:00</dc:date>
+    <dc:publisher>analyzethedatanotthedrivel.org</dc:publisher>
+    <dc:subject>blog</dc:subject>
+    <opf:meta refines="#epub-title-1" property="title-type">main</opf:meta>
+    <opf:meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</opf:meta>
     <meta name="cover" content="blogbanner06_jpg"/>
-    <meta property="dcterms:modified">2022-10-02T15:50:35Z</meta>
-    <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
-    <meta refines="#id" property="file-as">Baker, John D.</meta>
-    <meta property="calibre:author_link_map">{"John D. Baker": ""}</meta>
+    <meta property="dcterms:modified">2022-12-13T16:40:27Z</meta>
+    <opf:meta refines="#id" property="role" scheme="marc:relators">aut</opf:meta>
+    <opf:meta refines="#id" property="file-as">Baker, John D.</opf:meta>
+    <opf:meta property="calibre:author_link_map">{"John D. Baker": ""}</opf:meta>
   </metadata>
   <manifest>
     <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>

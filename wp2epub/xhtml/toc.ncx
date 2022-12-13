@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:66bc4521-8c86-443d-8e0a-4236d55285ee"/>
+    <meta name="dtb:uid" content="urn:uuid:8cd7e2e9-03ee-4434-8b7e-9bcb74d13ff5"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1467,6 +1467,30 @@
           <text>Ukraine Unknowns</text>
         </navLabel>
         <content src="text/bm.xhtml#ukraine-unknowns"/>
+      </navPoint>
+      <navPoint id="navPoint-243">
+        <navLabel>
+          <text>Travel Diary: Brisbane to Canberra (Part 1)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#travel-diary-brisbane-to-canberra-part-1"/>
+      </navPoint>
+      <navPoint id="navPoint-244">
+        <navLabel>
+          <text>Travel Diary: Melbourne and Uluru (Part 2)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#travel-diary-melbourne-and-uluru-part-2"/>
+      </navPoint>
+      <navPoint id="navPoint-245">
+        <navLabel>
+          <text>Travel Diary: New Zealand Cruise (Part 3)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#travel-diary-new-zealand-cruise-part-3"/>
+      </navPoint>
+      <navPoint id="navPoint-246">
+        <navLabel>
+          <text>Travel Diary: Sydney and Home (Part 4)</text>
+        </navLabel>
+        <content src="text/bm.xhtml#travel-diary-sydney-and-home-part-4"/>
       </navPoint>
     </navPoint>
   </navMap>
