@@ -2,17 +2,15 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="epub-title-1">Analyze the Data not the Drivel</dc:title>
     <dc:creator id="id">John D. Baker</dc:creator>
-    <dc:identifier>calibre:13</dc:identifier>
-    <dc:identifier>uuid:7050f7ec-7cc6-41c8-bc3b-9ecbfa1ec530</dc:identifier>
-    <dc:identifier id="epub-id-1">urn:uuid:8cd7e2e9-03ee-4434-8b7e-9bcb74d13ff5</dc:identifier>
+    <dc:identifier>calibre:14</dc:identifier>
+    <dc:identifier>uuid:c5c98906-d92c-4bfc-83b7-25ba0921c250</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:59c26052-7e70-427e-9b91-7137db5fe76d</dc:identifier>
     <dc:language>en-US</dc:language>
-    <dc:date>2022-12-13T07:00:00+00:00</dc:date>
     <dc:publisher>analyzethedatanotthedrivel.org</dc:publisher>
-    <dc:subject>blog</dc:subject>
     <opf:meta refines="#epub-title-1" property="title-type">main</opf:meta>
     <opf:meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</opf:meta>
     <meta name="cover" content="blogbanner06_jpg"/>
-    <meta property="dcterms:modified">2022-12-13T16:40:27Z</meta>
+    <meta property="dcterms:modified">2022-12-21T18:14:23Z</meta>
     <opf:meta refines="#id" property="role" scheme="marc:relators">aut</opf:meta>
     <opf:meta refines="#id" property="file-as">Baker, John D.</opf:meta>
     <opf:meta property="calibre:author_link_map">{"John D. Baker": ""}</opf:meta>
