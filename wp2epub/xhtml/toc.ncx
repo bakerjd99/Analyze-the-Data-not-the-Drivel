@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:59c26052-7e70-427e-9b91-7137db5fe76d"/>
+    <meta name="dtb:uid" content="urn:uuid:a40a5470-b4d3-4f5b-8179-e73f62219c3d"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1497,6 +1497,12 @@
           <text>Mission Statements for this Blog</text>
         </navLabel>
         <content src="text/bm.xhtml#mission-statements-for-this-blog"/>
+      </navPoint>
+      <navPoint id="navPoint-248">
+        <navLabel>
+          <text>ChatGPT Comments on this Blog</text>
+        </navLabel>
+        <content src="text/bm.xhtml#chatgpt-comments-on-this-blog"/>
       </navPoint>
     </navPoint>
   </navMap>
