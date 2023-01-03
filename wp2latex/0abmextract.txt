@@ -1,0 +1,18 @@
+echo off
+
+rem insure proper directory
+cd C:\pd\blog\wp2latex
+
+title Running Blog Single Post Extraxt LaTeX  ...
+
+rem first pass for aux file needed by bibtex
+lualatex --[post-name]--
+
+rem generate/reset bbl file
+rem bibtex --[post-name]--
+
+makeindex --[post-name]--
+
+rem resolve all internal references
+lualatex --[post-name]--
+lualatex --[post-name]--

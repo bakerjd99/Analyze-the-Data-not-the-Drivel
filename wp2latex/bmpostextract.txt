@@ -1,0 +1,26 @@
+\input{bmamblenew.tex}
+
+\HRule
+
+\captionsetup[figure]{labelformat=empty}
+\begin{SCfigure}[100][!hb]
+\centering
+\href{https://analyzethedatanotthedrivel.org/}{\includegraphics[width=0.11\textwidth]{adndsymsmall.png}}
+\caption{
+Extracted from: \href{https://analyzethedatanotthedrivel.org}{\textbf{Analyze the Data not the Drivel}}.\\
+See: \url{https://analyzethedatanotthedrivel.org}
+}
+\end{SCfigure}
+
+\begin{center}
+{\tiny 
+src-tex: \url{--[post-github]--}\\
+src-tex-sha256: --[post-sha256]--\\
+\copyright Copyright John D. Baker 2009 --- 2023 \emph{All rights reserved} 
+}
+\end{center}
+
+\HRule
+
+ 
+

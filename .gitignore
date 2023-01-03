@@ -1,5 +1,7 @@
 ## latex/markdown files to ignore
 wp2epub/bm.markdown
+wp2latex/0abmextract.bat
+wp2latex/bmpostextract.tex
 jl*.markdown
 Thumbs.db
 .DS_Store
