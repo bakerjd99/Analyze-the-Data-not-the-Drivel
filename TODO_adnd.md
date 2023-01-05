@@ -38,12 +38,10 @@ is my key for relating issues, tickets and so forth across systems.
    and [box.net](https://www.net.com/) to [github.com/bakerjd99](https://github.com/bakerjd99). Also hunt
    down references to old Google Documents and redirect.
 
-11.  `<_6vzptk3mizfci8xhku2zqph0n_>` For selected posts create updated PDF versions.
+11. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
 
-12. `<_5u5iygqpeea7oict0qabc0g4k_>` Standardize image link text in markdown version.
+12.  `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
 
-13.  `<_08864qa8dtrsnn3v7cjrqsfjn_>` Revise cover graphics for eBook and PDF versions.
-
-14. `<_e0tjtp71ts22x50b3l5rfux0t_>`  Add a List of URLs, similar to images and tables that exposes all *unique* internal URLs. Many old links will be dead, note this, also organize by year alphabetically
+13. `<_e0tjtp71ts22x50b3l5rfux0t_>`  Add a List of URLs, similar to images and tables that exposes all *unique* internal URLs. Many old links will be dead, note this, also organize by year alphabetically
 
 `[end-todo]`

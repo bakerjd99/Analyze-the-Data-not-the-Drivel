@@ -44,7 +44,7 @@ NB. root words (ROOTWORDSExtfrPtex) group
 ROOTWORDSExtfrPtex=:<;._1 ' CleanExtract CompExtractLatex IFACEWORDSExtfrPtex PrepExtractLatex ROOTWORDSExtfrPtex VMDExtfrPtex showpass'
 
 NB. version, make count and date
-VMDExtfrPtex=:'0.0.0';6;'05 Jan 2023 11:04:12'
+VMDExtfrPtex=:'0.0.0';8;'05 Jan 2023 15:16:48'
 
 
 CleanExtract=:3 : 0
@@ -88,8 +88,16 @@ cmsg=. _250 {. shell bat
 NB. check pdf
 if. -.fexist ppdf do. wfmsg,ppdf return. end.
 
+NB. reset tex file
+ptex=. texpath,y,'.tex'
+tex=. (;MPostPairOff&.> PostHeadMark;PostTailMark) changestr read ptex
+tex write ptex
+
 'extract generated -> ',ppdf,LF,cmsg
 )
+
+NB. converts decommented extract post to commented
+MPostPairOff=:'@' , }. , '@' , ]
 
 NB. converts commented extract post to uncommented
 MPostPairOn=:'@' , ] , '@' , }.
@@ -207,7 +215,7 @@ write=:1!:2 ]`<@.(32&>@(3!:0))
 NB.POST_ExtfrPtex post processor. 
 
 smoutput IFACE=: (0 : 0)
-NB. (ExtfrPtex) interface word(s): 20230105j110412
+NB. (ExtfrPtex) interface word(s): 20230105j151648
 NB. ------------------------------
 NB. CleanExtract      NB. cleanup temp latex files
 NB. CompExtractLatex  NB. process extract files
