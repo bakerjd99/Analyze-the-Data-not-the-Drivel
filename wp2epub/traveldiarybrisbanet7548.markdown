@@ -109,7 +109,7 @@ combination of bread and ham. It's like bacon lovers set up a national
 research project to improve on perfection and, against all odds,
 succeeded! Mali turned her nose down. She's not a bacon fan. It's a
 lamentable holdover from her Iranian childhood. The one unambiguously
-good thing you say about sky-fairy prohibitions against eating pork is
+good thing you can say about sky-fairy prohibitions against eating pork is
 that it leaves more bacon and hammy bread for the rest of us. After
 eating hammy bread, we set off along the Brisbane Riverwalk towards the
 City Botanic Garden.
