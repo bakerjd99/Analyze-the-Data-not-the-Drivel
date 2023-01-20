@@ -1,4 +1,6 @@
-## [Ethanol is Excrement in the Gas Tank](https://analyzethedatanotthedrivel.org/2023/01/17/ethanol-is-excrement-in-the-gas-tank/) {#ethanol-is-excrement-in-the-gas-tank .unnumbered}
+
+[Ethanol is Excrement in the Gas Tank](https://analyzethedatanotthedrivel.org/2023/01/17/ethanol-is-excrement-in-the-gas-tank/) 
+----------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 17 Jan 2023 22:40:24*
 
@@ -44,8 +46,8 @@ stations in Idaho sell ethanol-free gas, but hardly any sell premium
 (octane 91 and above) ethanol-free gas.
 
 You may ask, "How about letting gas stations sell whatever gasoline
-blends their customers prefer? If the public prefers ethanol free to
-ethanol loaded, then so be it."
+blends their customers prefer? If the public prefers pure to
+ethanol-contaminated gas, then so be it."
 
 Oh, you poor naïve dolt. If you think we're living in a "free market"
 just pour gas, pure or ethanol, over yourself and strike a match!
@@ -77,8 +79,8 @@ solution to pollution.* I alternate between pure and ethanol gas when I
 fill up. This is cheaper than pure gas and it keeps the ethanol
 concentration down.
 
-The Python function `ethanol_concentration` (see page ) estimates
-average ethanol concentration assuming:
+The Python function `ethanol_concentration` (see below) estimates
+my average ethanol gas tank concentration assuming:
 
 1.  I always fill up when the tank is half-empty (I'm a pessimist).
 
@@ -100,11 +102,6 @@ When you run this function for the dilution schemes:
 
 4.  $t = 4$ one pure for every three ethanol
 
-::: Shaded
-::: Highlighting
-:::
-:::
-
 You get:
 
     (1, 10, 0.2, 10, 1.5777218104420236e-29)
@@ -117,12 +114,32 @@ half and that the concentration creeps up as you put less and less pure
 gas in your tank. There's still excrement in your tank --- just less of
 it.
 
-::: Shaded
-[]{#src:eegt7721 label="src:eegt7721"}
+```python
+def ethanol_concentration(F, E, T):
+    r"""
+    Compute average ethanol concentration over:
+      F = number of fill ups
+      E = ethanol concentration
+      T = tank filling 
+      
+    example:
+      ethanol_concentration(100, 10, 2)
+    """
 
-::: Highlighting
-:::
-:::
+    # initial tank concentrations - start with ethanol gas
+    c = [0] * F
+    c[0] = E
+
+    # gas ups - 1 ethanol, 0 ethanol free
+    g = [min(1, (1 + i) % T) for i in range(F)] 
+    g[0] = 0
+
+    # calculate concentrations
+    for i in range(len(c)-1):
+        c[i+1] = 1/2*(c[i] + E*g[i+1])
+        
+    return (T, E, sum(c)/len(c), max(c), min(c))
+```
 
 [^7742x1]: And I mean *constipated*. Government only serves the interests of
     the donor class. If you aren't punting *serious moola* to your

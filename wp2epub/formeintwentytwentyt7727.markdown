@@ -1,4 +1,6 @@
-## [For Me in Twenty Twenty-Three](http://analyzethedatanotthedrivel.org/2023/01/08/for-me-in-twenty-twenty-three/) {#for-me-in-twenty-twenty-three .unnumbered}
+
+[For Me in Twenty Twenty-Three](http://analyzethedatanotthedrivel.org/2023/01/08/for-me-in-twenty-twenty-three/)
+---------------------------------------------------------------------------------------------------------------
 
 *Posted: 09 Jan 2023 06:17:47*
 
