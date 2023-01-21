@@ -9,7 +9,7 @@ done little to address its avowed goals, i.e., strengthen energy
 security, [reduce carbon
 emissions](https://www.factcheck.org/2015/11/ethanol-higher-emissions-or-lower/),
 and lower prices for consumers. By [some
-accounts](http://large.stanford.edu/courses/2011/ph240/sojka2/), it
+accounts](http://large.stanford.edu/courses/2011/ph240/sojka2/) it,
 consumes more energy than it produces, increases consumer prices,
 [distorts food
 production](https://www.ucsusa.org/resources/land-use-changes-and-biofuels),
@@ -42,7 +42,7 @@ because of the "mandate" bit. If you doubt this go out and try and buy
 some ethanol-free gasoline. You will quickly discover that ethanol-free
 gas is not always available, and even when it is; it's more expensive
 and comes in fewer octane ratings than ethanol-polluted gas. Some gas
-stations in Idaho sell ethanol-free gas, but hardly any sell premium
+stations sell ethanol-free gas, but hardly any sell premium
 (octane 91 and above) ethanol-free gas.
 
 You may ask, "How about letting gas stations sell whatever gasoline
@@ -73,8 +73,8 @@ tanks forever.
 
 So, what can you do to limit the ethanol excrement in your gas tank?
 
-If money isn't an issue buy an electric car or always fill up with
-ethanol-free gas. If money is an issue remember; *dilution is the
+*If money isn't an issue buy an electric car or always fill up with
+ethanol-free gas.* If money is an issue remember; *dilution is the
 solution to pollution.* I alternate between pure and ethanol gas when I
 fill up. This is cheaper than pure gas and it keeps the ethanol
 concentration down.
