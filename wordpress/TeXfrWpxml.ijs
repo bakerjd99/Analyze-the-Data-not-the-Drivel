@@ -1447,7 +1447,7 @@ write=:1!:2 ]`<@.(32&>@(3!:0))
 NB.POST_TeXfrWpxml TeXfrWpxml post processor 
 
 smoutput IFACE=: (0 : 0)
-NB. (TeXfrWpxml) interface word(s): 20230223j113949
+NB. (TeXfrWpxml) interface word(s): 20230408j101602
 NB. -------------------------------
 NB. BlogHashes        NB. update blog hashes
 NB. FixBaddown        NB. attempt to convert *.baddown files to *.markddown
