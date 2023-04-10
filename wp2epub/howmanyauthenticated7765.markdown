@@ -46,14 +46,15 @@ small it would fit in the bed of your pickup with enough space left over
 for your dog!
 
 Ancient authenticated mathematical artifacts are exceedingly rare. They
-are among the rarest of all ancient artifacts.
-Figure [\[fig:7765x1\]](#fig:7765x1){reference-type="ref"
-reference="fig:7765x1"} on page  was taken from [*The Mathematics of
+are among the rarest of all ancient artifacts. The following table
+from [*The Mathematics of
 Egypt, Mesopotamia, China, India, and Islam: A
 Sourcebook*](https://press.princeton.edu/books/hardcover/9780691114859/the-mathematics-of-egypt-mesopotamia-china-india-and-islam);
 it lists all the known major Egyptian mathematical artifacts. *There are
 fifteen objects in this table spanning some two thousand four-hundred
 years!*
+
+[Image link: Egyptian mathematical artifacts](https://bakerjd99.files.wordpress.com/2023/02/eqypt_math_texts.jpg)
 
 I think we can safely infer that our knowledge of ancient Egyptian
 mathematics is woefully incomplete. The ancient Greeks, still widely

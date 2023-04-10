@@ -2,6 +2,7 @@
 wp2epub/bm.markdown
 wp2latex/0abmextract.bat
 wp2latex/bmpostextract.tex
+wp2latex/bm.pdf
 jl*.markdown
 Thumbs.db
 .DS_Store

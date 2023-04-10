@@ -60,7 +60,7 @@ and took lots of pictures. I also spent many hours scanning, restoring,
 and annotating old family slides. I found some real gems like this shot
 of my mother as a young teenager with baby “Tommy.”
 
-[Image link: Evelyn and Baby Tommy](https://photos.smugmug.com/People/From-Hazels-Albums-1/i-tLbfswS/0/X3/evelyn%20baby%20tommy%201949-X3.jpg)
+[link: Evelyn and Baby Tommy](https://photos.smugmug.com/People/From-Hazels-Albums-1/i-tLbfswS/0/X3/evelyn%20baby%20tommy%201949-X3.jpg)
 
 It took me a few months to find another job because I refused to
 consider contracting or benefit free employers. Programming jobs are

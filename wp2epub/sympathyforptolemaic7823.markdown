@@ -38,12 +38,12 @@ This all happened centuries after Copernicus, and because his
 heliocentric model was essentially correct, people have forgotten that
 Copernicus Version 1.0 made crappy predictions. The first iterations of
 the heliocentric model did not match the accuracy of the hidebound
-doctrinaire old fart Ptolemaic system; this is what drove the resistance
+doctrinaire old fart Ptolemaic system; this is what fueled resistance
 to the new model. Far from being morons, the Ptolemians were just being
 good skeptical philosophers. Sun-centered models were not new even in
 the 15^th^ century. Aristarchus speculated about them around 200 BCE,
 and I'd bet big bucks the idea was old even then. Sun-centered models
-did not immediately catch on because theories must pay their way. A nice
+did not immediately catch on because *theories must pay their way.* A nice
 idea that doesn't feed you, (I'm looking at you Multiverse, and you too
 String Theory), will always be tossed aside for ones that do! Ptolemaic
 astronomy endured because it paid the bills and fed the hungry.
