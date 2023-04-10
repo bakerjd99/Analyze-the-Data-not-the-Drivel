@@ -31,13 +31,9 @@ want to be guilty of plagiarizing my blog?
 If you don't want to wade through hundreds of `LaTeX` files
 you can download a complete consolidated `pdf` version of my
 blog by following links on this page [Download this Blog](https://analyzethedatanotthedrivel.org/download-this-blog/)
-or by [clicking here.](https://bakerjd99.files.wordpress.com/2022/12/bm.pdf)
+or by [clicking here.](https://bakerjd99.files.wordpress.com/2023/04/bm.pdf)
 
-The same large PDF file is
-available in [this repository here.](https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/bm.pdf)
-**Warning**: GitHub does not render large PDF files well (October 2021). If you use this
-link, download the file and ignore the ever-spinning busy circle. Also, this copy is not
-as frequently updated as the aforementioned link.
+The same large PDF file [is available here.](https://onedrive.live.com/?authkey=%21AJARymPJTqdl7pM&id=F964330E36001519%212207&cid=F964330E36001519).
 
 John Baker
-January 5, 2023
+April 10, 2023
