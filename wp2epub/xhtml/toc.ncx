@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:2c36cb6b-1458-43b2-a651-1afecf1c5c1a"/>
+    <meta name="dtb:uid" content="urn:uuid:df015ba9-e137-4c75-9437-e8a9ca9fd9b8"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1533,6 +1533,18 @@
           <text>Sympathy for Ptolemaic Epicyclers</text>
         </navLabel>
         <content src="text/bm.xhtml#sympathy-for-ptolemaic-epicyclers"/>
+      </navPoint>
+      <navPoint id="navPoint-254">
+        <navLabel>
+          <text>Donald Patterson</text>
+        </navLabel>
+        <content src="text/bm.xhtml#donald-patterson"/>
+      </navPoint>
+      <navPoint id="navPoint-255">
+        <navLabel>
+          <text>A Call for Mandatory Universal Mind Broadcasting</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-call-for-mandatory-universal-mind-broadcasting"/>
       </navPoint>
     </navPoint>
   </navMap>
