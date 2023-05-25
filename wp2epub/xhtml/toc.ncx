@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:df015ba9-e137-4c75-9437-e8a9ca9fd9b8"/>
+    <meta name="dtb:uid" content="urn:uuid:1db1e8cc-fc75-483e-889f-bea292cb6ef3"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1545,6 +1545,12 @@
           <text>A Call for Mandatory Universal Mind Broadcasting</text>
         </navLabel>
         <content src="text/bm.xhtml#a-call-for-mandatory-universal-mind-broadcasting"/>
+      </navPoint>
+      <navPoint id="navPoint-256">
+        <navLabel>
+          <text>A Note on the Writer’s Strike</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-note-on-the-writers-strike"/>
       </navPoint>
     </navPoint>
   </navMap>
