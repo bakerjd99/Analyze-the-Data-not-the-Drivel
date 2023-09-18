@@ -1,0 +1,148 @@
+%\input{bmamblenew.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2023/09/18/let-chatgpt-index-your-latex-documents/}{Let ChatGPT Index Your \LaTeX\ Documents}}
+\addcontentsline{toc}{subsection}{Let ChatGPT Index Your \LaTeX\ Documents}
+
+
+\noindent\emph{Posted: 18 Sep 2023 18:00:10}
+\vspace{6pt}
+
+Indexing documents is an ongoing chore. You would think picking out
+``good'' book or article index words would be a trivial
+pseudo-sampling-sorting task, but that is not the case. Building a
+useful index requires something like ``comprehending'' the text. You
+must read the document, understand what's in it, and then judiciously
+select words that elucidate, navigate, and summarize the contents. Until
+recently, coding ``reading comprehension'' has been beyond my meager
+means. Then the other day, I had a brain fart; maybe ChatGPT can index
+\LaTeX\ documents.
+
+As a test, I decided to index my blog post
+\emph{\href{https://analyzethedatanotthedrivel.org/2023/04/07/sympathy-for-ptolemaic-epicyclers/}{Sympathy
+for Ptolemaic~Epicyclers}.} For years I have been converting my
+WordPress blog posts to \LaTeX\ with my J-based hack
+\emph{\href{https://analyzethedatanotthedrivel.org/2012/02/11/wordpress-to-latex-with-pandoc-and-j-prerequisites-part-1/}{WordPress
+to \LaTeX\ with Pandoc and J}} and storing the generated \LaTeX\ code on
+GitHub. Here is the
+\href{https://github.com/bakerjd99/Analyze-the-Data-not-the-Drivel/blob/master/wp2latex/sympathyforptolemaic7823.tex}{\LaTeX\
+for Ptolemaic Epicyclers}. With code in hand, I logged into ChatGPT 3.5
+and had this chat.
+
+I first asked ChatGPT to summarize \emph{Sympathy for Ptolemaic
+Epicyclers}.
+
+\begin{quote}
+\texttt{Me: Please\footnote{  I take pains to be polite with ChatGPT. Maybe one day it will become
+  conscious and decide to rid the world of \emph{impolite} naked
+  apes.} summarize %\protect\hypertarget{fnref1}{\protect\hyperlink{fn1}{\textsuperscript{1}}}
+ the following text.}
+\end{quote}
+
+\emph{\ldots{} upload of \LaTeX\ code for Ptolemaic Epicyclers \ldots{}}
+
+\begin{quote}
+\texttt{ChatGPT: The provided text discusses the historical perspective
+of astronomy and the Ptolemaic system. It highlights that often, older
+theories are unfairly portrayed as ignorant and backward, whereas in
+reality, they were based on empirical observations and provided
+reasonable approximations. The text points out that the transition to
+new theories typically happens when the new model demonstrates its
+superiority in making predictions.}
+
+\texttt{The author also mentions their recent work on a J script called
+"riseset," used for calculating when International Astronomical Union
+(IAU) stars culminate in their backyard. They explain that astronomical
+calculations, both in the past and today, are complex and require
+constant adjustments.}
+
+\texttt{In conclusion, the text offers sympathy and respect for ancient
+astronomers who worked with limited tools and still made valuable
+contributions to understanding the cosmos. It emphasizes that these
+astronomers were not morons but rather practical philosophers trying to
+make sense of the observable universe.}
+\end{quote}
+
+If you read my blog post, you'll see that ChatGPT's summary is dead on.
+Also, ChatGPT's concluding remarks are better than mine. No wonder
+ChatGPT is scaring credentialed pseudo-intellectuals everywhere. I then
+asked.
+
+\begin{quote}
+\texttt{Me: Please pick out good words to index from the text that you
+just summarized.}
+\end{quote}
+
+\begin{quote}
+\texttt{ChatGPT: Here are some good words or phrases to index from the
+summarized text:}
+
+\texttt{Ptolemaic system\newline
+Old theory holdouts\newline
+Copernicus\newline
+Heliocentric model\newline
+Aristarchus\newline
+Sun-centered models\newline
+International Astronomical Union (IAU)\newline
+GitHub\newline
+Astronomical calculations\newline
+Empirical observations\newline
+Modern calculations\newline
+N-body celestial mechanics\newline
+Gravitational theories\newline
+Backyard amateur astronomer\newline
+Ancient epicyclers\newline}
+
+\texttt{You can use these words or phrases as entries in the index of your LaTeX
+document to help readers easily find relevant information.}
+\end{quote}
+
+You'll notice that ChatGPT didn't just pick out words, it synthesized
+useful phrases that eerily sum up the contents of my post. I have no
+objections to the generated phrases even though I doubt I would have
+come up with them myself. I was impressed. This thing is a great
+sounding board for writers.
+
+Feeling lucky I decided to go for broke and ask ChatGPT to insert \LaTeX\
+indexing codes into my document.
+
+\begin{quote}
+\texttt{Me: Please insert the latex index codes for the words you
+selected in the text I provided.}
+\end{quote}
+
+\begin{quote}
+\texttt{ChatGPT: Certainly! Here are the LaTeX index codes inserted
+into the provided text for the selected words:}
+\end{quote}
+
+\emph{\ldots{} download of modified \LaTeX\ code with
+\textbackslash index\{\} commands inserted \ldots{}}
+
+ChatGPT effortlessly inserted the index codes into my document, and we
+concluded our chat with:
+
+\begin{quote}
+\texttt{Me: Thank you}
+\end{quote}
+
+\begin{quote}
+\texttt{ChatGPT: You're welcome! If you have any more questions or need
+further assistance, feel free to ask. Good luck with your LaTeX
+document!}
+\end{quote}
+
+%\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+%
+%\begin{enumerate}
+%\item
+%  \leavevmode\vadjust pre{\hypertarget{fn1}{}}%
+%  I take pains to be polite with ChatGPT. Maybe one day it will become
+%  conscious and decide to rid the world of \emph{impolite} naked
+%  apes.\protect\hyperlink{fnref1}{↩︎}
+%\end{enumerate}
+
+
+
+%\end{document}
+ 
+
