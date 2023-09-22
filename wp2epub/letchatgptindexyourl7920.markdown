@@ -1,4 +1,6 @@
-## [Let ChatGPT Index Your LaTeX Documents](http://analyzethedatanotthedrivel.org/2023/09/18/let-chatgpt-index-your-latex-documents/) {#let-chatgpt-index-your-latex-documents .unnumbered}
+
+[Let ChatGPT Index Your LaTeX Documents](http://analyzethedatanotthedrivel.org/2023/09/18/let-chatgpt-index-your-latex-documents/)
+----------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 18 Sep 2023 18:00:10*
 
