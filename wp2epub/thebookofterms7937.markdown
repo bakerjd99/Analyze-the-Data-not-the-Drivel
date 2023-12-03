@@ -1,11 +1,12 @@
 
-## [The Book of Terms](http://analyzethedatanotthedrivel.org/2023/11/28/the-book-of-terms/) 
+[The Book of Terms](http://analyzethedatanotthedrivel.org/2023/11/28/the-book-of-terms/) 
+----------------------------------------------------------------------------------------
 
 *Posted: 28 Nov 2023 18:43:06*
 
 A tale by *Kline Leopold Hedrös* ©2023
 
-## ­Arthur -- 2024 
+**­Arthur -- 2024**
 
 The first time Arthur saw the old wooden box, he wondered if it was
 worth anything. It was a recurring thought. A week before, he had
@@ -69,7 +70,7 @@ most of the world's surviving cuneiform tablets have never been
 translated. Maybe a trained AI could help. Alice's strange charcoal
 sheets might be useful test materials.
 
-## Martha -- 1880 
+**Martha -- 1880** 
 
 Martha was a precocious child, a superb student, and a worry to her
 mother. At nine years old, it was clear to anyone who dealt with her
@@ -98,7 +99,7 @@ children, and lead a normal life. Still, Miss Wright looked over
 Martha's circle drawings as the child waved them in front of her, and
 then she remembered the old Frenchman.
 
-## Antoine -- 1824 
+**Antoine -- 1824** 
 
 Most days, Antoine found it hard to believe he was a Mississippi river
 man. How could an *École Polytechnique* student and an enthusiastic
@@ -133,7 +134,7 @@ elsewhere. In a dozen towns, Antoine encountered a handful of diligent
 students and no parents who believed in "book learning." It was
 depressing but better than the guillotine.
 
-## Arthur -- 2024 
+**Arthur -- 2024** 
 
 On returning to Tacoma, Arthur showed Beth Alice's odd etching-filled
 wooden box. He was expecting she would share his curiosity, but not so.
@@ -182,7 +183,7 @@ goddam pain in the fricking-ass printer-scanner that always needed
 unjamming and new printer cartridges. One of these days, Arthur was
 going to go full *Office Space* on that damn device.
 
-## Martha - 1880
+**Martha - 1880**
 
 Martha wasn't scared by the old Frenchman, but she wasn't entirely at
 ease with the ancient rocking-chaired figure before her either. The old
@@ -231,7 +232,7 @@ to have met the old Frenchman; he was the best teacher she had ever had,
 and it's unlikely she would have ended up a Harvard calculator without
 him.
 
-## Antoine -- 1825
+**Antoine -- 1825**
 
 Teaching school in frontier America wasn't lucrative. It didn't take an
 *École Polytechnique* certificate to figure that out. Antoine taught
@@ -257,7 +258,7 @@ with his "Fur and Mercantile" business, he had no heirs or trustworthy
 friends. Antoine was a blessing to Knoles, and Antoine felt the same
 about Old Knoles.
 
-## Arthur -- 2024
+**Arthur -- 2024**
 
 Scanning Alice's sheets took far less time than Arthur expected. The
 fricking printer-scanner just did its job. It was a technological
@@ -275,7 +276,7 @@ them back in Alice's box, and headed to the stationary dealer. Before
 starting his car, he texted Dan a link to the etching scan data. Dan
 would have to load Jones himself.
 
-## Martha -- 1885 
+**Martha -- 1885** 
 
 Monsieur Legault's health started failing as he turned eighty-one. For
 five years, Martha had visited the Old Frenchman almost daily. Most of
@@ -317,7 +318,7 @@ great story. As a Lutheran, she didn't believe a word of it, but it was
 still a great story. How many people have glowing white angels show up
 and tell them where to dig for buried treasure?
 
-## Antoine -- 1827 
+**Antoine -- 1827** 
 
 Antoine worked with Old Knoles for two years out of his tiny Saint Louis
 Fifth Street \"Fur and Mercantile.\" It was a good time for Antoine.
@@ -360,7 +361,7 @@ was expensive. Antoine started taking sheets out, but Old Knoles stopped
 him. Both knew the sheets could be traded for anything on the rivers.
 Blank paper sheets were oddly more valuable than many banknotes.
 
-## Arthur -- 2024 
+**Arthur -- 2024** 
 
 Antique stationery goes in and out of style. Unbeknownst to Arthur, the
 social media addicts in Seattle were enjoying another rich white people
@@ -397,7 +398,7 @@ acceleration methods, even traces of Carbon can be dated to decades.
 There are labs in Stanford, and I believe Irvine, of all places, that do
 this."
 
-## Antoine -- 1828 
+**Antoine -- 1828** 
 
 Antoine's years in Saint Louis spoiled him: sleeping in a warm bed and
 not worrying about his next meal made his return to river work harder
@@ -453,7 +454,7 @@ prosperous townsman. Antoine and his fellow gold diggers discreetly
 staked out Smith's properties and waited for an opportunity to grab his
 rumored treasure.
 
-## Arthur -- 2024 
+**Arthur -- 2024** 
 
 His consultation with David about Alice's old etchings piqued Arthur's
 curiosity. Before driving back to Tacoma, he tracked down the Stanford
@@ -472,7 +473,7 @@ take him more seriously if they saw he was a senior manager in a hot AI
 company instead of a random crank. He paid the inflated overnight UPS
 rate and then rushed to his illegally parked car.
 
-## Martha -- 1903 
+**Martha -- 1903** 
 
 Martha, like every citizen of the United States, had run into Mormon
 missionaries. An eager pair of young men had once wasted a few hours
@@ -523,7 +524,7 @@ anything?"
 
 Martha slyly deflected with, "You mean other than school lessons?\"
 
-## Antoine -- 1828 
+**Antoine -- 1828** 
 
 Watching Smith's Harmony properties turned into a boring chore. Many of
 Antoine's fellow gold diggers gave up watching Smith and spent most of
@@ -598,7 +599,7 @@ plates without attracting attention, he carefully wrapped and reburied
 them in the beans. The next time he handled the plates, he would come
 prepared.
 
-## Arthur -- 2024 
+**Arthur -- 2024** 
 
 The next morning, before Arthur drove to his office, Dan *Starlinked* in
 again from the wilds of Canyonlands.
@@ -660,7 +661,7 @@ everything in his deceased grandmother's Pulaski house?
 Before signing off from Canyonlands, Dan said the Zulip group was all
 worked up and had some ideas.
 
-## Martha -- 1937 
+**Martha -- 1937** 
 
 When Elsie stopped by to introduce Martha to her new baby granddaughter,
 Alice, Martha thought that her mother would have been pleased. She had
@@ -689,7 +690,7 @@ it. A few days after meeting baby Alice, Martha handed Elsie the box,
 told her what it meant, and then asked Elsie to pass it on to Alice one
 day.
 
-## Antoine -- 1828 
+**Antoine -- 1828** 
 
 It had been a month since Antoine had seen Smith's hidden plates. He
 hadn't wasted the time. While keeping a close eye on Smith's house, he
@@ -765,7 +766,7 @@ had traced his plates. Harmony was a small town; if Antoine disappeared,
 it would be a small leap to implicate him. It wasn't ideal, but neither
 was fleeing from Paris years ago.
 
-## Arthur -- 2024 
+**Arthur -- 2024** 
 
 Since going down the charcoal etching rabbit hole, Arthur couldn't
 concentrate on his day job. Unfortunately, his job wouldn't back off.
@@ -927,7 +928,7 @@ fucked off and died."
 
 "We can hope." Dan chimed as Arthur left the call.
 
-## Dan and Jones -- 2024 
+**Dan and Jones -- 2024** 
 
 Dan enlarged Arthur's last-page image attachment. The small postscript
 was written in cursive with an elegant hand. It wasn't BOT; it used a
