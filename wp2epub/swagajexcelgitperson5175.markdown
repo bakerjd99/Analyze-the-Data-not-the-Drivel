@@ -1,6 +1,6 @@
  
-[SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob](https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/)
-------------------------------------------------------------------------------------------------------------------------------------
+[SWAG a J EXCEL GIT Personal Cash Flow Forecasting Mob](https://bakerjd99.wordpress.com/2016/01/10/swag-a-jexcelgit-personal-cash-flow-forecasting-mob/)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Posted: 10 Jan 2016 23:14:39*
 
