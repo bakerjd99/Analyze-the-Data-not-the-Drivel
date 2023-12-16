@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:adf87911-e789-4271-bf67-c5645f25849c"/>
+    <meta name="dtb:uid" content="urn:uuid:d127dc75-c811-447e-9a5f-438d57cf5705"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1056,9 +1056,9 @@
       </navPoint>
       <navPoint id="navPoint-174">
         <navLabel>
-          <text>SWAG a J/EXCEL/GIT Personal Cash Flow Forecasting Mob</text>
+          <text>SWAG a J EXCEL GIT Personal Cash Flow Forecasting Mob</text>
         </navLabel>
-        <content src="text/bm.xhtml#swag-a-jexcelgit-personal-cash-flow-forecasting-mob"/>
+        <content src="text/bm.xhtml#swag-a-j-excel-git-personal-cash-flow-forecasting-mob"/>
       </navPoint>
       <navPoint id="navPoint-175">
         <navLabel>
@@ -1575,6 +1575,18 @@
           <text>The Book of Terms</text>
         </navLabel>
         <content src="text/bm.xhtml#the-book-of-terms"/>
+      </navPoint>
+      <navPoint id="navPoint-261">
+        <navLabel>
+          <text>Society Prefers Dead Liabilities</text>
+        </navLabel>
+        <content src="text/bm.xhtml#society-prefers-dead-liabilities"/>
+      </navPoint>
+      <navPoint id="navPoint-262">
+        <navLabel>
+          <text>Pam and the Alien Memory Biz</text>
+        </navLabel>
+        <content src="text/bm.xhtml#pam-and-the-alien-memory-biz"/>
       </navPoint>
     </navPoint>
   </navMap>
