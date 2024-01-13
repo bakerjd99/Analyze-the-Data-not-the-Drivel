@@ -1,0 +1,132 @@
+%\input{bmamblenew.tex}
+
+\subsection*{\href{http://analyzethedatanotthedrivel.org/2024/01/12/decoding-and-encoding-rsv-files-with-j/}{Decoding and Encoding RSV Files with J}}
+\addcontentsline{toc}{subsection}{Decoding and Encoding RSV Files with J}
+
+
+\noindent\emph{Posted: 12 Jan 2024 22:36:44}
+\vspace{6pt}
+
+Another year has come and gone, and my failures continue to accumulate.
+I'll stop failing when I'm dead. For the nonce, I will stew in my abyss
+of hubris, biting off more than I can ever hope to chew. But there will
+be plenty of time for self-abasement later (at least if my health
+holds). Today, I am commenting on an interesting little YouTube video
+that
+\href{https://www.technologyreview.com/2022/09/20/1059709/youtube-algorithm-recommendations/}{\emph{the
+algorithm}} shoved in my face.
+
+You can peruse the video by clicking on
+\href{https://www.youtube.com/watch?v=tb_70o6ohMA}{RSV Rows of String
+Values}. The author (\href{https://github.com/Stenway}{Stenway})
+introduces another standard data format. He knows that advocates of new
+standards often run afoul of the \href{https://xkcd.com/927/}{XKCD
+curse}.
+
+ \captionsetup[figure]{labelformat=empty}
+\begin{figure}[htbp]
+\centering
+ \href{https://xkcd.com/927/}{\includegraphics[width=0.50\textwidth]{xkcd_standards.png}}
+ \caption{As usual XKCD nails it!}
+ \label{fig:7962x0}
+\end{figure}
+
+Usually, I would ignore such things, at least until I can no longer
+ignore them. But what caught my attention was his solution to the
+\emph{\href{https://en.wikipedia.org/wiki/Delimiter}{dreaded delimiter
+collision}} problem. Data formats like
+\href{https://en.wikipedia.org/wiki/Comma-separated_values}{CSV} have
+long suffered from delimiter collisions. I use the TSV (TAB-separated
+values) format to \emph{reduce} delimiter collisions. For humdrum data,
+TAB collisions are less frequent than COMMA collisions. Sadly, less
+frequent means collisions still occur, and when they do, your little
+parser must run down the n\textsuperscript{th} layered Hell of escape
+characters rabbit hole. Wouldn't it be nice if delimiter collisions
+could be completely side-stepped?
+
+The RSV format exploits a feature of UTF8 encodings to eliminate
+delimiter collisions for UTF8 encoded string values. Until I watched
+\href{https://www.youtube.com/watch?v=tb_70o6ohMA}{RSV Rows of String
+Values}, I was unaware that UTF8 encoders should not emit specific
+bytes. \href{https://github.com/Stenway}{Stenway} notes that proper UTF8 encoders should never emit these bytes.
+
+\begin{longtable}[]{@{}lll@{}}
+\caption{Invalid UTF8 Bytes}\\ 
+\toprule
+Binary & Hex & Decimal \\
+\midrule
+\endhead
+11111111 & FF & 255 \\
+11111110 & FE & 254 \\
+11111101 & FD & 253 \\
+11111100 & FC & 252 \\
+11111011 & FB & 251 \\
+11111010 & FA & 250 \\
+11111001 & F9 & 249 \\
+11111000 & F8 & 248 \\
+\bottomrule
+\end{longtable}
+
+If you are content to pass UTF8 strings around, you can delimit them
+with any of these bytes without collisions. This is precisely what the
+RSV format does. RSV uses the three bytes.
+
+\begin{longtable}[]{@{}lll@{}}
+\caption{RSV Delimiters}\\ 
+\toprule
+Name & Hex & Decimal \\
+\midrule
+\endhead
+REOV & FF & 255 \\
+RNULL & FE & 254 \\
+REOR & FD & 253 \\
+\bottomrule
+\end{longtable}
+
+Even better, the bytes are value \emph{terminators}, which makes RSV
+easy to parse in J with the
+\href{https://code.jsoftware.com/wiki/Vocabulary/semidot}{cut
+conjunction} \texttt{\textless{};.\_2}. The following J verbs encode and
+decode RSV: two lines of J code suffice.
+
+\small
+%\hypertarget{cb1}{}
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{NB. decode RSV bytes - NULLMARK marks nulls - example: 'null'}
+\NormalTok{rsvdec}\KeywordTok{=:}  \KeywordTok{\{\{]\textasciigrave{}}\RegionMarkerTok{(}\NormalTok{NULLMARK}\KeywordTok{"}\DecValTok{\_}\RegionMarkerTok{)}\KeywordTok{@.}\RegionMarkerTok{((}\KeywordTok{,}\NormalTok{RNULL}\RegionMarkerTok{)}\KeywordTok{\&{-}:}\RegionMarkerTok{)}\KeywordTok{L:}\DecValTok{0} \KeywordTok{\textless{};.}\DecValTok{\_2}\KeywordTok{\&.\textgreater{}} \KeywordTok{\textless{};.}\DecValTok{\_2} \KeywordTok{y\}\}}
+
+\CommentTok{NB. encode RSV bytes}
+\NormalTok{rsvenc}\KeywordTok{=:} \KeywordTok{\{\{}\RegionMarkerTok{(}\DecValTok{0}\KeywordTok{=\#y}\RegionMarkerTok{)}\KeywordTok{\}.} \KeywordTok{;,\&}\NormalTok{REOR}\KeywordTok{\&.\textgreater{}} \KeywordTok{;\&.\textgreater{}}\NormalTok{ REOV }\KeywordTok{{-}.\&.\textgreater{}\textasciitilde{}} \KeywordTok{,\&}\NormalTok{REOV }\KeywordTok{L:} \DecValTok{0} \RegionMarkerTok{(}\KeywordTok{]\textasciigrave{}}\RegionMarkerTok{(}\NormalTok{RNULL}\KeywordTok{"}\DecValTok{\_}\RegionMarkerTok{))}\KeywordTok{@.}\RegionMarkerTok{(}\NormalTok{NULLMARK}\KeywordTok{\&{-}:}\RegionMarkerTok{)} \KeywordTok{L:} \DecValTok{0} \KeywordTok{y\}\}}
+\end{Highlighting}
+\end{Shaded}
+\normalsize
+
+I have added
+\href{https://github.com/bakerjd99/jackshacks/blob/main/rsv.ijs}{rsv.ijs}
+to my collection of
+\href{https://github.com/bakerjd99/jackshacks}{JACKSHACKS} J addons. You
+can install the addons on your own J system with:
+
+\small
+%\hypertarget{cb2}{}
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{NB. J package manager}
+\NormalTok{load }\StringTok{\textquotesingle{}pacman\textquotesingle{}}
+
+\CommentTok{NB. files from https://github.com/bakerjd99/jackshacks}
+\NormalTok{install }\StringTok{\textquotesingle{}github:bakerjd/jackshacks\textquotesingle{}}
+\NormalTok{dir }\StringTok{\textquotesingle{}\textasciitilde{}addons/jacks\textquotesingle{}}
+
+\CommentTok{NB. load script}
+\NormalTok{load }\StringTok{\textquotesingle{}\textasciitilde{}addons/jacks/rsv.ijs\textquotesingle{}}
+\end{Highlighting}
+\end{Shaded}
+\normalsize
+
+Enjoy the hack!
+
+
+%\end{document}
+ 
