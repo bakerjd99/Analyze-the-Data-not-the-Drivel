@@ -6992,6 +6992,54 @@ Some Pythagorean Triples</code></pre>
 <p>Pam considered Sam’s words. So, the libertarian aliens would flood her mind with memories that would wipe hers and kill her in a few days. But she would live the long life of a star greater than Taylor Swift, and (what mattered to Pam) her every thought would be tsunami-splashed over global social media. Imagine the likes, the reposts, the basic-bitch envy, the cringe-incel whining, the masturbating emojis! As an <em>uber-swiftie,</em> Pam couldn’t imagine a more heroic sacrifice.</p>
 <p>“Like I said, let’s get started.”</p>
 </section>
+<section id="decoding-and-encoding-rsv-files-with-j" class="level2" data-number="0.259">
+<h2 data-number="0.259"><a href="http://analyzethedatanotthedrivel.org/2024/01/12/decoding-and-encoding-rsv-files-with-j/">Decoding and Encoding RSV Files with J</a></h2>
+<p><em>Posted: 12 Jan 2024 22:36:44</em></p>
+<p>Another year has come and gone, and my failures continue to accumulate. I’ll stop failing when I’m dead. For the nonce, I will stew in my abyss of hubris, biting off more than I can ever hope to chew. But there will be plenty of time for self-abasement later (at least if my health holds). Today, I am commenting on an interesting little YouTube video that <a href="https://www.technologyreview.com/2022/09/20/1059709/youtube-algorithm-recommendations/"><em>the algorithm</em></a> shoved in my face.</p>
+<p>You can peruse the video by clicking on <a href="https://www.youtube.com/watch?v=tb_70o6ohMA">RSV Rows of String Values</a>. The author (<a href="https://github.com/Stenway">Stenway</a>) introduces another standard data format. He knows that advocates of new standards often run afoul of the <a href="https://xkcd.com/927/">XKCD curse</a>.</p>
+<p>Usually, I would ignore such things, at least until I can no longer ignore them. But what caught my attention was his solution to the <em><a href="https://en.wikipedia.org/wiki/Delimiter">dreaded delimiter collision</a></em> problem. Data formats like <a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a> have long suffered from delimiter collisions. I use the TSV (TAB-separated values) format to <em>reduce</em> delimiter collisions. For humdrum data, TAB collisions are less frequent than COMMA collisions. Sadly, less frequent means collisions still occur, and when they do, your little parser must run down the n<sup>th</sup> layered Hell of escape characters rabbit hole. Wouldn’t it be nice if delimiter collisions could be completely side-stepped?</p>
+<p>The RSV format exploits a feature of UTF8 encodings to eliminate delimiter collisions for UTF8 encoded string values. Until I watched <a href="https://www.youtube.com/watch?v=tb_70o6ohMA">RSV Rows of String Values</a>, I was unaware that UTF8 encoders should not emit specific bytes. <a href="https://github.com/Stenway">Stenway</a> notes that proper UTF8 encoders should never emit these bytes.</p>
+<pre><code>  Binary     Hex   Decimal
+  ---------- ----- ---------
+  11111111   FF    255
+  11111110   FE    254
+  11111101   FD    253
+  11111100   FC    252
+  11111011   FB    251
+  11111010   FA    250
+  11111001   F9    249
+  11111000   F8    248</code></pre>
+<p>If you are content to pass UTF8 strings around, you can delimit them with any of these bytes without collisions. This is precisely what the RSV format does. RSV uses the three bytes.</p>
+<pre><code>  Name    Hex   Decimal
+  ------- ----- ---------
+  REOV    FF    255
+  RNULL   FE    254
+  REOR    FD    253</code></pre>
+<p>Even better, the bytes are value <em>terminators</em>, which makes RSV easy to parse in J with the <a href="https://code.jsoftware.com/wiki/Vocabulary/semidot">cut conjunction</a> <code>&lt;;._2</code>. The following J verbs encode and decode RSV: two lines of J code suffice.</p>
+<div class="sourceCode" id="cb257"><pre class="sourceCode j"><code class="sourceCode j"><span id="cb257-1"><a href="#cb257-1" aria-hidden="true" tabindex="-1"></a><span class="co">NB. decode RSV bytes.</span></span>
+<span id="cb257-2"><a href="#cb257-2" aria-hidden="true" tabindex="-1"></a>rsvdec<span class="kw">=:</span>  <span class="kw">{{]`</span><span class="re">(</span>NULLMARK<span class="kw">&quot;</span><span class="dv">_</span><span class="re">)</span><span class="kw">@.</span><span class="re">((</span><span class="kw">,</span>RNULL<span class="re">)</span><span class="kw">&amp;-:</span><span class="re">)</span><span class="kw">L:</span><span class="dv">0</span> <span class="kw">&lt;;.</span><span class="dv">_2</span><span class="kw">&amp;.&gt;</span> <span class="kw">&lt;;.</span><span class="dv">_2</span> <span class="kw">y}}</span></span>
+<span id="cb257-3"><a href="#cb257-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb257-4"><a href="#cb257-4" aria-hidden="true" tabindex="-1"></a><span class="co">NB. encode RSV bytes</span></span>
+<span id="cb257-5"><a href="#cb257-5" aria-hidden="true" tabindex="-1"></a>rsvenc<span class="kw">=:</span> <span class="kw">{{</span><span class="re">(</span><span class="dv">0</span><span class="kw">=#y</span><span class="re">)</span><span class="kw">}.</span> <span class="kw">;,&amp;</span>REOR<span class="kw">&amp;.&gt;</span> <span class="kw">;&amp;.&gt;</span> REOV <span class="kw">-.&amp;.&gt;~</span> <span class="kw">,&amp;</span>REOV <span class="kw">L:</span> <span class="dv">0</span> <span class="re">(</span><span class="kw">]`</span><span class="re">(</span>RNULL<span class="kw">&quot;</span><span class="dv">_</span><span class="re">))</span><span class="kw">@.</span><span class="re">(</span>NULLMARK<span class="kw">&amp;-:</span><span class="re">)</span> <span class="kw">L:</span> <span class="dv">0</span> <span class="kw">y}}</span></span></code></pre></div>
+<p>I have added <a href="https://github.com/bakerjd99/jackshacks/blob/main/rsv.ijs">rsv.ijs</a> to my collection of <a href="https://github.com/bakerjd99/jackshacks">JACKSHACKS</a> J addons. You can install the addons on your own J system with:</p>
+<div class="sourceCode" id="cb258"><pre class="sourceCode j"><code class="sourceCode j"><span id="cb258-1"><a href="#cb258-1" aria-hidden="true" tabindex="-1"></a><span class="co">NB. J package manager</span></span>
+<span id="cb258-2"><a href="#cb258-2" aria-hidden="true" tabindex="-1"></a>load <span class="st">&#39;pacman&#39;</span></span>
+<span id="cb258-3"><a href="#cb258-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb258-4"><a href="#cb258-4" aria-hidden="true" tabindex="-1"></a><span class="co">NB. files from https://github.com/bakerjd99/jackshacks</span></span>
+<span id="cb258-5"><a href="#cb258-5" aria-hidden="true" tabindex="-1"></a>install <span class="st">&#39;github:bakerjd/jackshacks&#39;</span></span>
+<span id="cb258-6"><a href="#cb258-6" aria-hidden="true" tabindex="-1"></a>dir <span class="st">&#39;~addons/jacks&#39;</span></span>
+<span id="cb258-7"><a href="#cb258-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb258-8"><a href="#cb258-8" aria-hidden="true" tabindex="-1"></a><span class="co">NB. load script</span></span>
+<span id="cb258-9"><a href="#cb258-9" aria-hidden="true" tabindex="-1"></a>load <span class="st">&#39;~addons/jacks/rsv.ijs&#39;</span></span></code></pre></div>
+<p>Enjoy the hack!</p>
+</section>
+<section id="ok-boomer-k-tv" class="level2" data-number="0.260">
+<h2 data-number="0.260"><a href="http://analyzethedatanotthedrivel.org/2024/02/13/ok-boomer-k-tv/">Ok Boomer K-TV</a></h2>
+<p><em>Posted: 13 Feb 2024 19:45:33</em></p>
+<p>I was into South Korean TV long before <a href="https://kprofiles.com/bts-bangtan-boys-members-profile/">BTS</a> and the gen-whatever teeny boppers. One of the first TV shows I reviewed on this blog, <a href="https://analyzethedatanotthedrivel.org/2012/09/02/faith-a-guilty-pleasure/">Faith</a>, was a deliciously nonsensical time-traveling South Korean rom-com martial arts fantasy. Yeah, it was that crazy. With advancing age and creeping <em>Bidenesque</em> dementia, my affection for South Korean TV has only increased. My latest K-TV crush is <a href="https://www.imdb.com/title/tt20869502/">Extraordinary Attorney Woo</a>.</p>
+<p>Extraordinary Attorney Woo, or <em>Woo</em> from now on, is about a brilliant and super cute young autistic Korean attorney. There are many things to like about Woo. The characters are all hygienically clean-cut and attractive. No fatties, fags, bull dykes, transvestites, and related diverse degenerates are in sight. Woo’s court cases are delightfully innocent. Instead of the predictable parade of murder, rape, and <em>misgendering</em> cases that Western legal dramas offer up, Woo attacks zoning disputes, business contract dilemmas, and points of personal honor. By <em>Hollyweirdo</em> standards, the stakes could not be lower.</p>
+<p>Even more charming, Woo exhibits absolutely zero “diversity.” All the characters are 100% Korean. No token white, black, or extraneous indigenous placeholders are present to remind us of how woke the screenwriters and producers are. Even more astonishing, all the characters are well-behaved heterosexuals! When was the last time you watched a gay-free western production? In the West, we’ve endured decades of <a href="https://www.youtube.com/watch?v=9vJDcCcANnU">putting a chick in it and making her gay</a>, and this cranky old boomer has had it. Woo mirrors 1950s Western TV. In that remote bygone age, TV provided models of how we should be – <em>not how we should not be!</em> My advice, get yourself some Woo and take a break from the bullshit.</p>
+</section>
 </section>
 <section class="footnotes footnotes-end-of-document" epub:type="footnotes">
 <hr />

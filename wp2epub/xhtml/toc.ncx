@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:d127dc75-c811-447e-9a5f-438d57cf5705"/>
+    <meta name="dtb:uid" content="urn:uuid:8e27d552-f0e0-4656-985e-8e04d24846bf"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1587,6 +1587,18 @@
           <text>Pam and the Alien Memory Biz</text>
         </navLabel>
         <content src="text/bm.xhtml#pam-and-the-alien-memory-biz"/>
+      </navPoint>
+      <navPoint id="navPoint-263">
+        <navLabel>
+          <text>Decoding and Encoding RSV Files with J</text>
+        </navLabel>
+        <content src="text/bm.xhtml#decoding-and-encoding-rsv-files-with-j"/>
+      </navPoint>
+      <navPoint id="navPoint-264">
+        <navLabel>
+          <text>Ok Boomer K-TV</text>
+        </navLabel>
+        <content src="text/bm.xhtml#ok-boomer-k-tv"/>
       </navPoint>
     </navPoint>
   </navMap>
