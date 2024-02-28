@@ -1,6 +1,6 @@
 
 [Generation Ship: Review](http://analyzethedatanotthedrivel.org/2024/02/27/generation-ship-review/)
---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 *Posted: 27 Feb 2024 21:28:57*
 
@@ -25,13 +25,12 @@ like Young Adult, Manga, Fantasy, Non-fiction, etc. Young Adult readers
 are looking for a particular story; they don't want to waste their time
 and money on book-nag-recommended material. Book nags have been around
 for eons. If you were chastised as a child for reading comic books, you
-know what a book nag is. No matter your reading tastes, a book nag
-somewhere will consider what you read low-brow, time-wasting,
-brain-rotting drivel. I don't know what book nags read. It's certainly
-not graphic novels, westerns, romances, mysteries, how-to-manuals, or
-anything that might entertain or inform. My advice is to ignore book
-nags and read what you like, and I like a good dose of hard sci-fi now
-and then.
+know what a book nag is. No matter your reading tastes, book nags will
+deem whatever you read low-brow, time-wasting, brain-rotting drivel. I
+don't know what book nags read. It's certainly not graphic novels,
+westerns, romances, mysteries, how-to-manuals, or anything that might
+entertain or inform. My advice is to ignore book nags and read what you
+like, and I like a good dose of hard sci-fi now and then.
 
 My problem, and probably yours, is finding hard, plausible sci-fi in
 today's market. Science fiction has changed in recent decades, and not
@@ -60,8 +59,8 @@ morons and demented presidential imbeciles in real life. I don't want
 them in my fiction unless they are dying horrific, torturous deaths. I
 read a few pages of GS in the store, and then I bravely (do we ever do
 anything that isn't brave?) decided to risk it. I'm glad I did.
-*Generation Ship* is indeed a riveting political page-turner, And here's
-the kicker: the book would be worse without the politics.
+*Generation Ship* is a riveting political page-turner, And here's the
+kicker: the book would be worse without the politics.
 
 *Generation Ship* is about a giant spaceship on a 2½ century-long
 interstellar voyage to a potentially habitable planet spotted by
@@ -69,25 +68,25 @@ enormous Sol/Earth system telescopes. Everyone onboard GS was born on
 the ship, and the original crew has long since died. At least three
 generations have lived and died on the ship, hence the name generation
 ship. At this point in the story, the sci-fi is grade-A hard. There are
-no magic wormholes, faster-than-light travel, cryogenic hibernation
+no magic wormholes, faster-than-light engines, cryogenic hibernation
 pods, antimatter drives, and so on, except for the working fusion
 propulsion powering the ship; we know how to build a GS right now. Good
 sci-fi extrapolates actual science. Forecasting fusion propulsion is a
-leap but a rational one. Positing wormholes is magical thinking.
+leap but a rational one. Wielding wormholes is magical thinking.
 
 The story begins with the ship approaching its long-targeted
 destination. The author uses the day-by-day arrival countdown to drive
 the story. The shock of arrival triggers widespread reappraisals of the
 ship's many rules and norms. For over two centuries, the inhabitants of
-GS have lived and died according to a rigid set of rules that were
-focused on keeping the crew and ship smoothly functioning in a severely
-resource-constrained and deadly situation. Among the many laws we might
-object to is the requirement that crew members voluntarily euthanize
-themselves at seventy-five years of age. It sounds harsh, but let's face
-it. Seventy-five-year-olds are usually resource deadbeats; they consume
-more than they produce. This is true even back on real Earth: consider
-Biden and Trump -- yeah, that seventy-five-year age limit isn't looking
-so bad, eh?
+GS have lived and died by a rigid set of rules designed to keep the crew
+and ship smoothly functioning in a severely resource-constrained and
+deadly situation. Among the many laws we might object to is the
+requirement that crew members voluntarily euthanize themselves at
+seventy-five years of age. It sounds harsh, but let's face it.
+Seventy-five-year-olds are usually resource deadbeats; they consume more
+than they produce. This is true even back on real Earth: consider Biden
+and Trump -- yeah, that seventy-five-year age limit isn't looking so
+bad, eh?
 
 The GS story kicks into high gear when one seventy-five-year-old woman
 decides it's unfair and unjust to self-euthanize with arrival just

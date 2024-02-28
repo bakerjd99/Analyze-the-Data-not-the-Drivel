@@ -33,7 +33,7 @@ Wouldn't it be nice if delimiter collisions could be completely
 side-stepped?
 
 The RSV format exploits a feature of UTF8 encodings to eliminate
-delimiter collisions for UTF8 encoded string values. Until I watched
+delimiter collisions. Until I watched
 [RSV Rows of String
 Values](https://www.youtube.com/watch?v=tb_70o6ohMA), I was unaware that
 UTF8 encoders should not emit specific bytes.

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:8e27d552-f0e0-4656-985e-8e04d24846bf"/>
+    <meta name="dtb:uid" content="urn:uuid:1c884033-09af-4d9b-891c-dc06013af141"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1344,261 +1344,279 @@
       </navPoint>
       <navPoint id="navPoint-222">
         <navLabel>
+          <text>A Brighter Bluer World</text>
+        </navLabel>
+        <content src="text/bm.xhtml#a-brighter-bluer-world"/>
+      </navPoint>
+      <navPoint id="navPoint-223">
+        <navLabel>
           <text>Running SSIS Packages with Python</text>
         </navLabel>
         <content src="text/bm.xhtml#running-ssis-packages-with-python"/>
       </navPoint>
-      <navPoint id="navPoint-223">
+      <navPoint id="navPoint-224">
         <navLabel>
           <text>Offensive Team Names and GUIDs</text>
         </navLabel>
         <content src="text/bm.xhtml#offensive-team-names-and-guids"/>
       </navPoint>
-      <navPoint id="navPoint-224">
+      <navPoint id="navPoint-225">
         <navLabel>
           <text>The Zero Bullshit Sport Olympics</text>
         </navLabel>
         <content src="text/bm.xhtml#the-zero-bullshit-sport-olympics"/>
       </navPoint>
-      <navPoint id="navPoint-225">
+      <navPoint id="navPoint-226">
         <navLabel>
           <text>Buy My Daughter Helen’s Art!</text>
         </navLabel>
         <content src="text/bm.xhtml#buy-my-daughter-helens-art"/>
       </navPoint>
-      <navPoint id="navPoint-226">
+      <navPoint id="navPoint-227">
         <navLabel>
           <text>JETL - J Extract Transform and Load</text>
         </navLabel>
         <content src="text/bm.xhtml#jetl---j-extract-transform-and-load"/>
       </navPoint>
-      <navPoint id="navPoint-227">
+      <navPoint id="navPoint-228">
         <navLabel>
           <text>Public School Teachers Should Wear Body Cameras</text>
         </navLabel>
         <content src="text/bm.xhtml#public-school-teachers-should-wear-body-cameras"/>
       </navPoint>
-      <navPoint id="navPoint-228">
+      <navPoint id="navPoint-229">
         <navLabel>
           <text>Joe Biden = Intelligence Failure</text>
         </navLabel>
         <content src="text/bm.xhtml#joe-biden-intelligence-failure"/>
       </navPoint>
-      <navPoint id="navPoint-229">
+      <navPoint id="navPoint-230">
         <navLabel>
           <text>An Epiphany induced by reading Journey to the Edge of Reason</text>
         </navLabel>
         <content src="text/bm.xhtml#an-epiphany-induced-by-reading-journey-to-the-edge-of-reason"/>
       </navPoint>
-      <navPoint id="navPoint-230">
+      <navPoint id="navPoint-231">
         <navLabel>
           <text>Yet Another New Year</text>
         </navLabel>
         <content src="text/bm.xhtml#yet-another-new-year"/>
       </navPoint>
-      <navPoint id="navPoint-231">
+      <navPoint id="navPoint-232">
         <navLabel>
           <text>To-do Twenty Twenty-Two</text>
         </navLabel>
         <content src="text/bm.xhtml#to-do-twenty-twenty-two"/>
       </navPoint>
-      <navPoint id="navPoint-232">
+      <navPoint id="navPoint-233">
         <navLabel>
           <text>The Great White North: Now with Shiny Pony Capital Controls</text>
         </navLabel>
         <content src="text/bm.xhtml#the-great-white-north-now-with-shiny-pony-capital-controls"/>
       </navPoint>
-      <navPoint id="navPoint-233">
+      <navPoint id="navPoint-234">
         <navLabel>
           <text>Checking a Racist Alien AI’s Homework</text>
         </navLabel>
         <content src="text/bm.xhtml#checking-a-racist-alien-ais-homework"/>
       </navPoint>
-      <navPoint id="navPoint-234">
+      <navPoint id="navPoint-235">
         <navLabel>
           <text>The Techadent Internet Light Bulb Age</text>
         </navLabel>
         <content src="text/bm.xhtml#the-techadent-internet-light-bulb-age"/>
       </navPoint>
-      <navPoint id="navPoint-235">
+      <navPoint id="navPoint-236">
         <navLabel>
           <text>Branding XMP Sidecar Files with J</text>
         </navLabel>
         <content src="text/bm.xhtml#branding-xmp-sidecar-files-with-j"/>
       </navPoint>
-      <navPoint id="navPoint-236">
+      <navPoint id="navPoint-237">
         <navLabel>
           <text>Stupid J Jupyter Tricks</text>
         </navLabel>
         <content src="text/bm.xhtml#stupid-j-jupyter-tricks"/>
       </navPoint>
-      <navPoint id="navPoint-237">
+      <navPoint id="navPoint-238">
         <navLabel>
           <text>“Managing” a SQLite Database with J (Part 1)</text>
         </navLabel>
         <content src="text/bm.xhtml#managing-a-sqlite-database-with-j-part-1"/>
       </navPoint>
-      <navPoint id="navPoint-238">
+      <navPoint id="navPoint-239">
         <navLabel>
           <text>The Hate U Give: Review</text>
         </navLabel>
         <content src="text/bm.xhtml#the-hate-u-give-review"/>
       </navPoint>
-      <navPoint id="navPoint-239">
+      <navPoint id="navPoint-240">
         <navLabel>
           <text>“Managing” a SQLite Database with J (Part 2)</text>
         </navLabel>
         <content src="text/bm.xhtml#managing-a-sqlite-database-with-j-part-2"/>
       </navPoint>
-      <navPoint id="navPoint-240">
+      <navPoint id="navPoint-241">
         <navLabel>
           <text>Helen Burdick’s Diary</text>
         </navLabel>
         <content src="text/bm.xhtml#helen-burdicks-diary"/>
       </navPoint>
-      <navPoint id="navPoint-241">
+      <navPoint id="navPoint-242">
         <navLabel>
           <text>On Eponymous Erasure</text>
         </navLabel>
         <content src="text/bm.xhtml#on-eponymous-erasure"/>
       </navPoint>
-      <navPoint id="navPoint-242">
+      <navPoint id="navPoint-243">
         <navLabel>
           <text>Ukraine Unknowns</text>
         </navLabel>
         <content src="text/bm.xhtml#ukraine-unknowns"/>
       </navPoint>
-      <navPoint id="navPoint-243">
+      <navPoint id="navPoint-244">
         <navLabel>
           <text>Travel Diary: Brisbane to Canberra (Part 1)</text>
         </navLabel>
         <content src="text/bm.xhtml#travel-diary-brisbane-to-canberra-part-1"/>
       </navPoint>
-      <navPoint id="navPoint-244">
+      <navPoint id="navPoint-245">
         <navLabel>
           <text>Travel Diary: Melbourne and Uluru (Part 2)</text>
         </navLabel>
         <content src="text/bm.xhtml#travel-diary-melbourne-and-uluru-part-2"/>
       </navPoint>
-      <navPoint id="navPoint-245">
+      <navPoint id="navPoint-246">
         <navLabel>
           <text>Travel Diary: New Zealand Cruise (Part 3)</text>
         </navLabel>
         <content src="text/bm.xhtml#travel-diary-new-zealand-cruise-part-3"/>
       </navPoint>
-      <navPoint id="navPoint-246">
+      <navPoint id="navPoint-247">
         <navLabel>
           <text>Travel Diary: Sydney and Home (Part 4)</text>
         </navLabel>
         <content src="text/bm.xhtml#travel-diary-sydney-and-home-part-4"/>
       </navPoint>
-      <navPoint id="navPoint-247">
+      <navPoint id="navPoint-248">
         <navLabel>
           <text>Mission Statements for this Blog</text>
         </navLabel>
         <content src="text/bm.xhtml#mission-statements-for-this-blog"/>
       </navPoint>
-      <navPoint id="navPoint-248">
+      <navPoint id="navPoint-249">
         <navLabel>
           <text>ChatGPT Comments on this Blog</text>
         </navLabel>
         <content src="text/bm.xhtml#chatgpt-comments-on-this-blog"/>
       </navPoint>
-      <navPoint id="navPoint-249">
+      <navPoint id="navPoint-250">
         <navLabel>
           <text>For Me in Twenty Twenty-Three</text>
         </navLabel>
         <content src="text/bm.xhtml#for-me-in-twenty-twenty-three"/>
       </navPoint>
-      <navPoint id="navPoint-250">
+      <navPoint id="navPoint-251">
         <navLabel>
           <text>Ethanol is Excrement in the Gas Tank</text>
         </navLabel>
         <content src="text/bm.xhtml#ethanol-is-excrement-in-the-gas-tank"/>
       </navPoint>
-      <navPoint id="navPoint-251">
+      <navPoint id="navPoint-252">
         <navLabel>
           <text>How Many Authenticated Ancient Mathematical Artifacts are Known?</text>
         </navLabel>
         <content src="text/bm.xhtml#how-many-authenticated-ancient-mathematical-artifacts-are-known"/>
       </navPoint>
-      <navPoint id="navPoint-252">
+      <navPoint id="navPoint-253">
         <navLabel>
           <text>Some Modest Proposals for SVBish Bank Bailouts</text>
         </navLabel>
         <content src="text/bm.xhtml#some-modest-proposals-for-svbish-bank-bailouts"/>
       </navPoint>
-      <navPoint id="navPoint-253">
+      <navPoint id="navPoint-254">
         <navLabel>
           <text>Sympathy for Ptolemaic Epicyclers</text>
         </navLabel>
         <content src="text/bm.xhtml#sympathy-for-ptolemaic-epicyclers"/>
       </navPoint>
-      <navPoint id="navPoint-254">
+      <navPoint id="navPoint-255">
         <navLabel>
           <text>Donald Patterson</text>
         </navLabel>
         <content src="text/bm.xhtml#donald-patterson"/>
       </navPoint>
-      <navPoint id="navPoint-255">
+      <navPoint id="navPoint-256">
         <navLabel>
           <text>A Call for Mandatory Universal Mind Broadcasting</text>
         </navLabel>
         <content src="text/bm.xhtml#a-call-for-mandatory-universal-mind-broadcasting"/>
       </navPoint>
-      <navPoint id="navPoint-256">
+      <navPoint id="navPoint-257">
         <navLabel>
           <text>A Note on the Writer’s Strike</text>
         </navLabel>
         <content src="text/bm.xhtml#a-note-on-the-writers-strike"/>
       </navPoint>
-      <navPoint id="navPoint-257">
+      <navPoint id="navPoint-258">
         <navLabel>
           <text>J graphviz’s Euclid’s Elements</text>
         </navLabel>
         <content src="text/bm.xhtml#j-graphvizs-euclids-elements"/>
       </navPoint>
-      <navPoint id="navPoint-258">
+      <navPoint id="navPoint-259">
         <navLabel>
           <text>Morals are Demons that People Actually Believe In</text>
         </navLabel>
         <content src="text/bm.xhtml#morals-are-demons-that-people-actually-believe-in"/>
       </navPoint>
-      <navPoint id="navPoint-259">
+      <navPoint id="navPoint-260">
         <navLabel>
           <text>Let ChatGPT Index Your LaTeX Documents</text>
         </navLabel>
         <content src="text/bm.xhtml#let-chatgpt-index-your-latex-documents"/>
       </navPoint>
-      <navPoint id="navPoint-260">
+      <navPoint id="navPoint-261">
         <navLabel>
           <text>The Book of Terms</text>
         </navLabel>
         <content src="text/bm.xhtml#the-book-of-terms"/>
       </navPoint>
-      <navPoint id="navPoint-261">
+      <navPoint id="navPoint-262">
         <navLabel>
           <text>Society Prefers Dead Liabilities</text>
         </navLabel>
         <content src="text/bm.xhtml#society-prefers-dead-liabilities"/>
       </navPoint>
-      <navPoint id="navPoint-262">
+      <navPoint id="navPoint-263">
         <navLabel>
           <text>Pam and the Alien Memory Biz</text>
         </navLabel>
         <content src="text/bm.xhtml#pam-and-the-alien-memory-biz"/>
       </navPoint>
-      <navPoint id="navPoint-263">
+      <navPoint id="navPoint-264">
         <navLabel>
           <text>Decoding and Encoding RSV Files with J</text>
         </navLabel>
         <content src="text/bm.xhtml#decoding-and-encoding-rsv-files-with-j"/>
       </navPoint>
-      <navPoint id="navPoint-264">
+      <navPoint id="navPoint-265">
         <navLabel>
           <text>Ok Boomer K-TV</text>
         </navLabel>
         <content src="text/bm.xhtml#ok-boomer-k-tv"/>
+      </navPoint>
+      <navPoint id="navPoint-266">
+        <navLabel>
+          <text>The Pointless Existence of Ambrose Oliver Cuddlepomp</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-pointless-existence-of-ambrose-oliver-cuddlepomp"/>
+      </navPoint>
+      <navPoint id="navPoint-267">
+        <navLabel>
+          <text>Generation Ship: Review</text>
+        </navLabel>
+        <content src="text/bm.xhtml#generation-ship-review"/>
       </navPoint>
     </navPoint>
   </navMap>
