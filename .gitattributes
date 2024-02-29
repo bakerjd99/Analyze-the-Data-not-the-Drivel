@@ -10,6 +10,10 @@
 *.ijs text
 *.bat text
 *.sh text
+*.xmp text
+
+# Declare files that will always have CRLF line endings on checkout.
+# *.sln text eol=crlf
 
 # Denote all files that are truly binary and should not be modified.
 *.png binary
@@ -19,3 +23,4 @@
 *.epub binary
 *.xml binary
 *.pdf binary
+*.gif binary
