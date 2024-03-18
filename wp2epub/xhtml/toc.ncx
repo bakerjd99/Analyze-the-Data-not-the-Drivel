@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:1c884033-09af-4d9b-891c-dc06013af141"/>
+    <meta name="dtb:uid" content="urn:uuid:f6afb7d1-7bba-412b-a86e-3169f306b772"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1617,6 +1617,12 @@
           <text>Generation Ship: Review</text>
         </navLabel>
         <content src="text/bm.xhtml#generation-ship-review"/>
+      </navPoint>
+      <navPoint id="navPoint-268">
+        <navLabel>
+          <text>Math Eras</text>
+        </navLabel>
+        <content src="text/bm.xhtml#math-eras"/>
       </navPoint>
     </navPoint>
   </navMap>
