@@ -1,3 +1,3 @@
- Last SHA256 hash: 18 Mar 2024 11:45:44
- 0d9a6c6a5255fdcdc6fd11683faeca9921fdcbcbb270e6642d8f937ddc429ce5 bm.pdf
+ Last SHA256 hash: 28 Mar 2024 13:57:55
+ ecbf67bc966a86d9ddfec2a64973107680b422c026f3f8d9184dcbe6f4cc3c88 bm.pdf
  3436aa05f4b0f27babad5eb6425a3146a0e88f697cfec6faf96560f1b8f54726 bm.epub
