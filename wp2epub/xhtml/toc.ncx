@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
   <head>
-    <meta name="dtb:uid" content="urn:uuid:f6afb7d1-7bba-412b-a86e-3169f306b772"/>
+    <meta name="dtb:uid" content="urn:uuid:690c5068-e362-404f-99ae-0aa90be9212e"/>
     <meta name="dtb:depth" content="1"/>
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
@@ -1623,6 +1623,18 @@
           <text>Math Eras</text>
         </navLabel>
         <content src="text/bm.xhtml#math-eras"/>
+      </navPoint>
+      <navPoint id="navPoint-269">
+        <navLabel>
+          <text>Frankenstein Weather</text>
+        </navLabel>
+        <content src="text/bm.xhtml#frankenstein-weather"/>
+      </navPoint>
+      <navPoint id="navPoint-270">
+        <navLabel>
+          <text>The First Total Solar Eclipse of the 21st Century</text>
+        </navLabel>
+        <content src="text/bm.xhtml#the-first-total-solar-eclipse-of-the-21st-century"/>
       </navPoint>
     </navPoint>
   </navMap>

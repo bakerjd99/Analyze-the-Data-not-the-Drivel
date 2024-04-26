@@ -1,18 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="epub-id-1" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:title id="epub-title-1">Analyze the Data not the Drivel</dc:title>
     <dc:creator id="id">John D. Baker</dc:creator>
-    <dc:identifier>calibre:22</dc:identifier>
-    <dc:identifier>uuid:5f340b33-de7e-4d2f-830c-ee81a5dbf3d7</dc:identifier>
-    <dc:identifier id="epub-id-1">urn:uuid:16639bb6-05e6-4619-aa2b-c00f6984dc22</dc:identifier>
+    <dc:identifier>calibre:37</dc:identifier>
+    <dc:identifier>uuid:1f454b22-d93d-4d58-96f6-342e0984d05a</dc:identifier>
+    <dc:identifier id="epub-id-1">urn:uuid:690c5068-e362-404f-99ae-0aa90be9212e</dc:identifier>
     <dc:language>en-US</dc:language>
-    <opf:meta refines="#epub-title-1" property="title-type">main</opf:meta>
-    <opf:meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</opf:meta>
+    <meta refines="#epub-title-1" property="title-type">main</meta>
+    <meta refines="#epub-title-1" property="file-as">Analyze the Data not the Drivel</meta>
     <meta name="cover" content="blogbanner06_jpg"/>
-    <meta property="dcterms:modified">2023-09-03T11:59:00Z</meta>
-    <meta name="Sigil version" content="1.9.30"/>
-    <opf:meta refines="#id" property="role" scheme="marc:relators">aut</opf:meta>
-    <opf:meta refines="#id" property="file-as">Baker, John D.</opf:meta>
+    <meta property="dcterms:modified">2024-04-26T19:04:07Z</meta>
+    <meta refines="#id" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#id" property="file-as">Baker, John D.</meta>
   </metadata>
   <manifest>
     <item id="cover_xhtml" href="text/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -21,8 +21,8 @@
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="stylesheet1" href="styles/stylesheet1.css" media-type="text/css"/>
-    <item id="blogbanner06_jpg" href="media/blogbanner06.jpg" media-type="image/jpeg" properties="cover-image"/>
-    <item id="apl385_ttf" href="fonts/apl385.ttf" media-type="application/vnd.ms-opentype"/>
+    <item properties="cover-image" id="blogbanner06_jpg" href="media/blogbanner06.jpg" media-type="image/jpeg"/>
+    <item id="apl385_ttf" href="fonts/apl385.ttf" media-type="application/font-sfnt"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover_xhtml"/>
