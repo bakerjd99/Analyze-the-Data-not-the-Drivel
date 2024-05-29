@@ -71,8 +71,8 @@ won't notice. Trashing the universe will always be beyond the powers of
 naked apes.
 
 Why doesn't the genius *Atlas* evil AI find a galaxy far, far away and
-wait until we destroy ourselves? He's immortal, so there's no hurry, so
-it takes a few millennia for humans to self-destruct, big freaking deal.
+wait until we destroy ourselves? He's immortal; there's no hurry. So
+it takes a few millennia for humans to self-destruct: big freaking deal.
 Why take the risk of seeking redundant revenge? This doesn't seem like
 genius-level AI thinking to me. I don't know why the retarded *Atlas*
 screenwriters dragged the *Andromeda Galaxy* into their hot mess. They
@@ -98,7 +98,7 @@ PPR is a refinement of the [old Orion nuclear
 propulsion](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion))
 idea. Instead of detonating *biggly* atomic bombs to propel your
 spacecraft, detonate *smallish* bomblets instead. PPR *pollutes* the
-interplanetary median with energetic ions, and the dolt I was quarreling
+interplanetary medium with energetic ions, and the dolt I was quarreling
 with thought this was a serious problem in immediate need of UN
 regulation. I calmly pointed out that even if billions of PPR spacecraft
 were blasting ions into the interplanetary medium, it would be
