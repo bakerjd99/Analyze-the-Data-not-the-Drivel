@@ -1,21 +1,21 @@
 
-[Last Schoolboy Standing](http://analyzethedatanotthedrivel.org/2024/09/13/last-schoolboy-standing/) 
+[Last Schoolboy Standing](http://analyzethedatanotthedrivel.org/2024/09/13/last-schoolboy-standing/)
 ----------------------------------------------------------------------------------------------------
 
 *Posted: 13 Sep 2024 20:11:42*
 
-Recently, Caryn, the wife of my old ACS (American Community School of
-Beirut) friend David Holladay, called me out of the blue. The instant I
+Recently, Caryn, the wife of my old American Community School of Beirut
+(ACS) friend David Holladay, called me out of the blue. The instant I
 took the call, I knew it was bad news. She told me that David had died
 last February (2024). If you're wondering about the six-month delay,
-David and Caryn were not close. I've never met Caryn; we've chatted on
-the phone a few times, and I haven't seen David since I left Beirut in
-the spring of 1969. After leaving Beirut, I maintained sporadic contact
-with David and my other Beirut school friends for over fifty years; we
-traded letters for a few years (this was before email and texting), but
-then, one by one, my old friends dropped away. And when I say dropped
-away, I mean died. Caryn's call anointed me, the sole survivor of my
-little clique of ACS Beirut friends. They're all gone!
+David and Caryn were not close. I've never met Caryn and haven't seen
+David since I left Beirut in the spring of 1969. After leaving Beirut, I
+maintained sporadic contact with David and my other Beirut school
+friends for over fifty years; we traded letters for a few years (this
+was before email and texting), but then, one by one, my old friends
+dropped away. And when I say dropped away, I mean died. Caryn's call
+anointed me, the sole survivor of my little clique of ACS Beirut
+friends. They're all gone!
 
 I have mixed feelings about this. I won't deny that I'm a bit proud that
 I outlived them all. None of them would have relished *me* standing over
@@ -45,17 +45,17 @@ father was a petroleum engineer. He had managed to get a job with the
 family from the Utah outback to the southern Iranian outback. Oil
 reservoirs are rarely conveniently located. When my mother first heard
 of Dad's Iranian scheme, we got out our world globe and spun it around
-looking for Iran. Americans have always sucked at geography. When we
-located Iran, I could see something going out of my mother. She was an
-ambivalent adventuress soul, but she was already tired of following my
-father around. She had been following him ever since he had impregnated
-her with me at seventeen. My mother was just over eighteen when I was
-born. In the early 1950s, white Montana girls weren't supposed to get
-knocked up before marriage, and lucky for me, abortion was beyond the
-pale. So, my parents got married and started their family early. My
-parents and grandparents never made a big deal about my parent's wedding
-anniversary. They didn't want to draw attention to the short interval
-between my parent's wedding and my birth.
+looking for Iran. Americans suck at geography. When we located Iran, I
+could see something going out of my mother. She was an adventurous soul,
+but she was already tired of following my father around. She had been
+following him ever since he had impregnated her with me at seventeen. My
+mother was just over eighteen when I was born. In the early 1950s, white
+Montana girls weren't supposed to get knocked up before marriage, and
+lucky for me, abortion was beyond the pale. So, my parents got married
+and started their family early. My parents and grandparents never made a
+big deal about my parent's wedding anniversary. They didn't want to draw
+attention to the short interval between my parent's wedding and my
+birth.
 
 I may have precipitated my parents' marriage, but they had their reasons
 for getting out from under my grandparent's thumbs. As a child, I picked
@@ -71,14 +71,13 @@ we had already moved more than a dozen times. We'd move somewhere, drill
 a few oil wells, maybe only one, and then move again. It was draining,
 and my mother was tired of it. She wasn't thrilled about moving to Iran
 but consented; her adventurous side won. Iran would be new and
-different. As for my father, he was moving on, his established pattern,
-and getting a chance to follow in the footsteps of his favorite uncle,
-John, my namesake, who had briefly run a construction company in Iran in
-the early 1950s. John was booted out of Iran in 1953 when Mosaddegh was
-elected and nationalized British and American firms. Of course, the CIA
-overthrew the Mosaddegh government -- because nothing preserves
-democracy better than foreign-led coups -- long before our family flew
-into *Agha Jari* before Christmas in 1965.
+different. As for my father, he was getting a chance to follow in the
+footsteps of his favorite uncle, John, my namesake, who had briefly run
+a construction company in Iran in the early 1950s. John was booted out
+of Iran in 1953 when Mosaddegh was elected and nationalized British and
+American firms. Of course, the CIA overthrew the Mosaddegh government
+long before our family flew into *Agha Jari* just before Christmas in
+1965.
 
 Ex-patriot schools in *Agha Jar*i only went to the 7^th^ grade, and I
 was already in the 7^th^ grade when we moved to Iran. I had been
@@ -99,20 +98,20 @@ kindergarten to the 7^th^ grade. I *really, really* hated school in
 *Agha Jari*. My parents took note and started the process of enrolling
 me in ACS.
 
-The American Community School of Beirut was in 1965 what's called a
-college prep school. Academic standards were very high. My class's SAT
-scores were well into the high 90^th^ percentile. Most of the kids were
-smarter than me and would go on to outstanding careers in many fields.
-Astonishingly, [ACS still exists (2024)](https://www.acs.edu.lb/) and is
-still called the American Community School despite the never-ending
-trauma Lebanon has endured and is still enduring. The Lebanese, like
-many Middle Easterners, have plenty of reasons to hate Americans. In
-September of 1966, my mother abandoned me in the lobby of the ACS boy's
-dormitory, my new home, and then hopped in an airport taxi and drove
-away. She had to fly back to Iran to care for my father and siblings. I
-remember walking around the lobby after she left feeling sorry for
-myself, but I've never been able to sustain self-pity; it takes too much
-energy. I decided to check things out and went upstairs to find my room.
+The American Community School of Beirut was a college prep school.
+Academic standards were very high. My class's SAT scores were well into
+the high 90^th^ percentile. Most of the kids were smarter than me and
+would go on to outstanding careers in many fields. Astonishingly, [ACS
+still exists (2024)](https://www.acs.edu.lb/) and is still called the
+American Community School despite the never-ending trauma Lebanon has
+endured and is still enduring. The Lebanese, like many Middle
+Easterners, have plenty of reasons to hate Americans. In September of
+1966, my mother abandoned me in the lobby of the ACS boy's dormitory, my
+new home, and then hopped in an airport taxi and drove away. She had to
+fly back to Iran to care for my father and siblings. I remember walking
+around the lobby feeling sorry for myself, but I've never been able to
+sustain self-pity; it takes too much energy. I decided to check things
+out and went upstairs to find my room.
 
 As a lowly 8^th^ grader, I had to climb to the top of the dormitory
 building. Older students were closer to the ground level. Within minutes
@@ -150,20 +149,20 @@ Bjorn was the first to go.
 
 In 1969, my family left Iran and moved to Edmonton, Alberta, Canada. I
 was sixteen years old and coming up on Vietnam draft age. While I never
-discussed the draft with my parents, I suspect keeping me out of the US,
-while not their primary consideration, was probably in the back of their
-minds when we moved to Canada. A lot of Americans sat out the draft in
-Canada. I registered when I turned eighteen, but I wasn't being heroic
-or stupid. When I registered, the draft was running like an insane
-weighted lottery. When you registered, you were given a number that
-correlated with your chances of being drafted. Legal American residents
-of Canada were assigned numbers that rarely came up. None of my American
-friends in Canada were drafted, and I dodged that bullet as well. I'm
-still unsure what I would have done if I had been drafted. I might have
-been stupid enough to go, remember B-group, inferior being.
+discussed the draft with my parents, I suspect keeping me away from the
+draft, while not their primary consideration, was probably in the back
+of their minds. A lot of Americans sat out the draft in Canada. I
+registered when I turned eighteen, but I wasn't being heroic or stupid.
+When I registered, the draft was running like an insane weighted
+lottery. When you registered, you were given a number that correlated
+with your chances of being drafted. Legal American residents of Canada
+were assigned numbers that rarely came up. None of my American friends
+in Canada were drafted, and I dodged that bullet as well. I'm still
+unsure what I would have done if I had been drafted. I might have been
+stupid enough to go, remember B-group, inferior being.
 
 I first read of Bjorn's death in one of Ned's letters. We all wrote
-long, rambling, handwritten, insecure virgin teenager -- man of letters
+long, rambling, handwritten, insecure virgin teenager -- men of letters
 -- diatribes. Ned's letters were the most erudite, Richard's were the
 most coherent, and David's were the best organized. I wish I had held
 onto their letters. Why didn't I? In one of Ned's letters, between his
@@ -178,18 +177,17 @@ stealing from other dormitory students. This didn't surprise me. Bjorn
 was a weasel. Being a hard-driving prep school, we were forced to study
 two hours every night except Sunday. On Sunday, we had vespers -- sigh.
 Richard liked to buy an ice-cold Pepsi in a little store down the street
-from the boy's dormitory and put it in his room to enjoy after study
-hall. Richard was into delayed gratification. He also enjoyed taunting
-Pepsi'less roommates like me. If I prostrated and begged, he would
-sometimes let me sip his precious Pepsi. Bjorn didn't beg. He just
-stole. Sometimes, he would sneak into Richard's room and guzzle half of
-his Pepsi. It pissed Richard off. Bjorn didn't just sip Pepsi. He stole
-some of my books and even lifted socks. Bjorn took things from everyone
-except Todd. Todd once beat the crap out of him; I don't know why, but
-it was one time I didn't mind his bullying. So, when Richard related
-that Bjorn kept stealing after we left Beirut and even upped his game to
-taking *valuables* rather than socks and Pepsi sips, it didn't surprise
-me.
+and put it in his room to enjoy after study hall. Richard was into
+delayed gratification. He also enjoyed taunting Pepsi'less roommates
+like me. If I prostrated and begged, he would sometimes let me sip his
+precious Pepsi. Bjorn didn't beg. He just stole. Sometimes, he would
+sneak into Richard's room and guzzle half of his Pepsi. It pissed
+Richard off. Bjorn didn't just sip Pepsi. He stole some of my books and
+even lifted socks. Bjorn took things from everyone except Todd. Todd
+once beat the crap out of him; I don't know why, but it was one time I
+didn't mind his bullying. So, when Richard related that Bjorn kept
+stealing after we left Beirut and even upped his game to taking
+*valuables* rather than socks and Pepsi sips, it didn't surprise me.
 
 Bjorn may have been a low-grade kleptomaniac, but he was brilliant. He
 fluently spoke three languages: Norwegian, English and French. His
@@ -198,15 +196,15 @@ than the rest of us. On a pure IQ basis, Bjorn was probably the smartest
 of us. He was also a coward and weakling. On one occasion, when forced
 to defend himself, Bjorn ran. It's better to be beaten up than to run.
 You will cower through life if you don't learn this early on. I both
-admired and detested Bjorn. When he wanted something from you, he could
-make you forget all his duplicitous shit and be an exemplary friend. My
-feelings about Bjorn oscillated between warmth and wanting to kill and
-butcher the little fucker. You know, normal teenage boy stuff. After
-being caught stealing something that mattered (I don't know what it
-was), the school notified Bjorn's parents. I never met his parents, but
+admired and detested Bjorn. When he wanted something, he could make you
+forget his duplicitous shit and be an exemplary friend. My feelings
+about Bjorn oscillated between warmth and wanting to kill and butcher
+the little fucker. You know, normal teenage boy stuff. After being
+caught stealing *something* that mattered (I don't know what it was),
+the school notified Bjorn's parents. I never met his parents, but
 judging from what happened next, they must have been strict
 disciplinarians. Richard said Bjorn's father severely punished him. He
-was kept out of school for a while, but after returning to the dorm, he
+was kept out of school for weeks, but after returning to the dorm, he
 left school, checked into a nearby hotel; it was easy for minors to do
 this in Beirut, and then took a lethal dose of sleeping pills. [Bjorn
 was fifteen years
@@ -246,11 +244,14 @@ Richard and I were delighted to see each other. I knew from his letters
 and calls that he was struggling. It wasn't his coursework. He was doing
 fine in college, better than me, but his social life troubled him. He
 was lonely, depressed, and terribly sad that he didn't have a girlfriend
-or any close friends -- aside from me -- but then I didn't count. We
-stayed up all night talking and watching the stars from the pitch-black
-grounds of a small motel near Rushmore. It was a clear summer night, and
-the summer triangle stars were almost lost in the Milky Way's backbone.
-Early next morning, I left to drive back to Slave Lake.
+or any close friends. While I sympathized with Richard, his complaints
+secretly annoyed me. So life isn't going your way; welcome to the
+goddamn club. I didn't voice my annoyance, and Richard was so wrapped up
+in his feelings he didn't pick up mine. We stayed up all night talking
+and watching the stars from the pitch-black grounds of a small motel
+near Rushmore. It was a clear summer night, and the summer triangle
+stars were almost lost in the Milky Way's backbone. Early next morning,
+I left to drive back to Slave Lake.
 
 I didn't hear from Richard again until he called me in our fourth year a
 few weeks before Christmas. He called from a payphone in a US/Canada
@@ -297,20 +298,19 @@ encounter, Richard was tested for VD. He delighted in explaining how the
 nurse dipped what sounded like a giant Q-tip in his penis. He didn't
 catch anything, which, as it turned out, may not have been a good thing.
 
-One of my best memories of Richard was spending Christmas with my family
-in Calgary, followed by a winter snowshoe camping trip in Banff. On my
-Christmas break, we drove Richard's clunky old car down to Calgary and
-stayed with my parents. I remember Richard was touched by a Christmas
-gift my mother got him. He almost cried when she handed him a big,
-wrapped present. After Christmas, we drove out to Banff. It was one
-Canadian place Richard desperately wanted to visit. He wanted to hike,
-but it was winter. The snow that year was deep and magnificent. I talked
-him into giving snowshoeing a try. He loved it. Banff was cold, at least
--20C, and the trail we wanted to snowshoe up was "technically" closed,
-but we ignored the trail closure and dragged two sleeping bags a piece
-up Cascade Mountain and slept in the open in -30C weather in a stunning
-snow-covered mountain meadow. Snow makes superb cushioning for sleeping
-bags. I've never been comfier while camping.
+One of my best memories of Richard was spending Christmas with him and
+my family in Calgary. On my Christmas break, we drove Richard's clunky
+old car down to Calgary and stayed with my parents. I remember Richard
+was touched by a Christmas gift my mother got him. He almost cried when
+she handed him a big, wrapped present. After Christmas, we drove out to
+Banff. It was one Canadian place Richard desperately wanted to visit. He
+wanted to hike, but it was winter. The snow was deep and magnificent. I
+talked him into giving snowshoeing a try. He loved it. Banff was cold,
+at least -20C, and the trail we wanted to snowshoe up was "technically"
+closed, but we ignored the trail closure and snowshoed up Cascade
+Mountain and slept in -30C weather in a stunning snow-covered mountain
+meadow. Snow makes superb cushioning for sleeping bags. I've never been
+comfier while camping.
 
 After Christmas, we returned to Edmonton. I resumed my coursework, and a
 few weeks into February, Richard decided to return home. I helped him
@@ -319,17 +319,17 @@ I was both sad and relieved to see him go. I didn't know it then, but
 that would be the last time I'd ever see him.
 
 Without Richard to distract me, I knuckled down just enough to get
-through my last term. My grades were mediocre, probably not good enough
-to get into graduate school. I didn't know what to do next but knew I
-didn't want to get a serious job and start adding to the gross domestic
-product. By sheer luck, I was recruited by CUSO (basically the Canadian
-Peace Corps) to teach mathematics in Ghana. A few months later, I was
-teaching high school in Tamale, Ghana. Of all the jobs I've done over a
-long and embarrassing career, I liked teaching the best. But sadly, I
-could make three to four times more money as a programmer than I ever
-could as a teacher. So instead of putting up with undermotivated horny
-teenagers, I put up with corporate fools and tools instead. "Work," for
-me, remains a four-letter word.
+through my last term. My grades were mediocre, not good enough to get
+into graduate school: once an inferior being always an inferior being. I
+didn't know what to do next, but I knew I didn't want to get a serious
+job and start adding to the gross domestic product. By sheer luck, I was
+recruited by CUSO (basically the Canadian Peace Corps) to teach
+mathematics in Ghana. A few months later, I was teaching high school in
+Tamale, Ghana. Of all the jobs I've done over a long and embarrassing
+career, I liked teaching the best. But sadly, I could make far more
+money as a programmer than I ever could as a teacher. So instead of
+putting up with undermotivated horny teenagers, I put up with corporate
+fools and tools instead. "Work," for me, remains a four-letter word.
 
 Near the end of my second term in Tamale, I got a letter from Richard's
 mother. I once met Richard's mom in Beirut. She was a bit older than my
@@ -365,8 +365,8 @@ Ned was the next to go.
 Ned was the most curious and mathematically gifted of us. Even at ACS,
 he was years ahead of everyone in math, but despite his brilliance, Ned
 was a troubled child. When I met Ned, he lived with his bitterly
-divorced father in Beirut. Ned's dad had some affiliation with AUB
-(American University of Beirut). When his marriage collapsed, he got
+divorced father in Beirut. Ned's dad had some affiliation with the
+American University of Beirut (AUB). When his marriage collapsed, he got
 Ned. I always wondered if Ned's mother didn't want him because his
 father didn't behave like a man who had fought for custody. Ned's dad
 neglected him. You could tell by Ned's body odor. Ned was often dirty;
@@ -388,7 +388,7 @@ shoplifting books. Hey, a boy must read. I was punished by being put on
 academic groups. If you were a super good little boy, for six
 interminably long weeks, i.e., no demerits, no sneaking around after
 lights out, no getting caught off bounds, and so on, you got promoted to
-*A*-class. *A*-class of kids enjoyed a few privileges like staying up a
+*A*-class. *A*-class kids enjoyed a few privileges like staying up a
 little later or studying in their rooms instead of in study hall. If you
 broke the odd rule, and who hasn't, you stayed in the default *B*-class.
 If you were a little bad, you would be slotted into *C*-class. If you
@@ -408,12 +408,12 @@ shenanigans, and our misadventures had a definite *Huckleberry Finn*
 vibe.
 
 We used to climb into the attics of AUB buildings and time the fall of
-stones to the courtyards below. Ned was checking Newton's $16t^2$
+stones to the courtyards below. Ned was checking Newton's $16t^{2}$
 acceleration due to gravity equation. The math checked out. On another
 occasion, we got ahold of old mechanical calculators. Ned found a shop,
 off bounds, of course, that sold office calculators. In 1968, office
 calculators were gigantic gear-laden metal dragons. They looked like
-typewriters on steroids. The shop owner didn't mind weird little broke
+typewriters on steroids. The shop owner didn't mind weird little
 American kids computing cube roots on the clanky old machines. Ned posed
 problems that sent the beasts into infinite gear-grinding loops. Loops
 were a lot more fun in the days of motors and gears.
@@ -439,11 +439,10 @@ developing 35mm black and white negatives after I left Beirut. In a bit
 of synchronicity, I also got into developing 35mm black and white
 negatives in Edmonton. We compared techniques, and for the first time, I
 found something I was better at than Ned. Ned's letters were better than
-social media and it pains me that I didn't keep them. We corresponded
-for a few years after I left Beirut, but then Ned dropped off. We
-stopped trading letters. Maybe it was my fault. Maybe it was his. We
-were both moving on. Ned, as I mentioned earlier, went to MIT with
-David.
+social media and it pains me that I didn't keep them. We corresponded a
+few years after I left Beirut, but then Ned dropped off. We stopped
+trading letters. Maybe it was my fault. Maybe it was his. We were both
+moving on. Ned, as I mentioned earlier, went to MIT with David.
 
 I didn't hear about Ned again until David called after the 9/11 attacks
 in New York. David and I had reestablished contact via email after
@@ -471,7 +470,7 @@ homeless person *in a house*. Ned's sister contacted David when Ned
 suddenly died of a heart attack. [Ned was
 fifty-one](https://www.findagrave.com/memorial/11932084/edwin_terry-prothro)
 when he died. Ned should have done better in life. He had gifts. He
-wasn't depression prone like Richard, and he had chances; he just didn't
+wasn't depression-prone like Richard, and he had chances; he just didn't
 seize them. I was surprised and saddened to learn of Ned's death. His
 life ended just as mine was kicking into a better and happier phase.
 
@@ -495,7 +494,7 @@ life. Caryn's blindness also positively impacted David's career.
 Together, they founded a software company that specialized in Braille
 printing. With David's specialized software, blind people can print and
 read computer text. His software is still used worldwide, and I have no
-doubt it has helped many people. Good for you David! David's
+doubt it has helped many people. Good for you, David! David's
 achievements were noteworthy enough to [merit a Wikipedia
 Page](https://en.wikipedia.org/wiki/David_Holladay). Take a look; he was
 a genuine *mensch*.
@@ -504,7 +503,7 @@ Now for that trauma that David and I shared.
 
 In 1968, the last half of my second Beirut year, David, a day student
 like Ned, came to school with a small bomb he had made by slicing open
-firecrackers with razor blades and pouring the powder into a small
+firecrackers with razor blades and pouring the gun powder into a small
 chemistry set glass bottle. David was proud of his bomb. He had even
 printed a label "Bomb Zero" (David was into zero-origin indexing) that
 he had glued to the glass bottle. We all admired his work and
@@ -524,7 +523,7 @@ concrete wall. We took turns poking our heads through the hole and
 enjoying the view of the other side.
 
 The bomb was, forgive me, a blast. And, just to be clear, our gang was
-setting off bombs in Beirut long before Hezbollah.
+setting off bombs in Beirut long before Hezbollah and the Israelis.
 
 When teenage boys do something spectacularly stupid, and it works out,
 do they conclude, "Well, that was idiotic -- never again?" No, teenage
@@ -585,13 +584,13 @@ both day students, were banned from campus except for class hours. The
 bomb did not end our friendships; it strengthened them. During our
 *D-Pro* incarceration, Richard and I chiseled a small hole in the wall
 that separated our rooms so we could talk to each other. In our second
-year the school had separated us as we were too much trouble together.
-They put us back together in our third year, probably because they
-didn't want to repair any more wall holes. Ned used his campus
-banishment to wander further afield in Beirut, and David enjoyed an
-unexpected notoriety showing off his skin-grafted fingers. Before the
-bomb blew off David's fingers, girls ignored him. Afterwards, he was a
-chick magnet. I was jealous.
+year, the school separated us; we were too much trouble together. They
+put us back together in our third year, probably because they didn't
+want to repair any more wall holes. Ned used his campus banishment to
+wander further afield in Beirut, and David enjoyed an unexpected
+notoriety showing off his skin-grafted fingers. Before the bomb blew off
+David's fingers, girls ignored him. Afterwards, he was a chick magnet. I
+was jealous.
 
 Honestly, I was jealous of all my ACS friends. I felt they were all
 smarter and destined for great things, but life didn't go as expected,
