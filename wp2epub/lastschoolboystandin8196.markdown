@@ -466,7 +466,7 @@ that he had ended up in Stillwater, Oklahoma, living with his sister.
 Ned had some role at the University of Oklahoma, either as a tutor or a
 nonacademic staff member, and was still futzing around with prime
 numbers. He never married, had no close friends, and lived like a
-homeless person *in a house*. Ned's sister contacted David when Ned
+homeless person *in a house*. A few year after 9/11 Ned's sister contacted David when Ned
 suddenly died of a heart attack. [Ned was
 fifty-one](https://www.findagrave.com/memorial/11932084/edwin_terry-prothro)
 when he died. Ned should have done better in life. He had gifts. He
