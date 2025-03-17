@@ -1,0 +1,453 @@
+## [Gonggone Gone --- Parts 9 & 10](http://analyzethedatanotthedrivel.org/2025/03/16/gonggone-gone-parts-9-10/) {#gonggone-gone-parts-9-10 .unnumbered}
+
+*Posted: 16 Mar 2025 19:45:03*
+
+::: center
+**-- *breaking chats* --**
+:::
+
+On the first anniversary of runaway, as Earth crossed the gulf between
+the orbits of Jupiter and Saturn, Alex and Doug took a day off and gave
+themselves sponge baths in the airlock. It was one of their paramount
+luxuries. Every few weeks, they'd fire up the airlock stove to the max
+and heat bath water on it. When the water reached the verge of boiling,
+they'd strip down, stand in a plastic tub, and rub themselves with hot,
+wet, soapy rags. Life in the mine was a dirty business. Their tub wash
+water was always dark from coal and cinder dust when they finished. To
+conserve coal and water, they sponged together. It helped to have
+another scrub your back in the tiny airlock.
+
+As Alex rubbed the black grime off Doug's back, Doug always said, "Just
+for the record, we're not gay."
+
+Alex always responded with a quip like, "Warm showers signaled peak gay
+civilization."
+
+It had only been fifty-two weeks since they moved into the mine, but it
+seemed like they had always been there. Reminiscing about their old,
+warm, comfortable pre-runaway life felt like discussing Bronze Age
+history. It happened, but so long ago, it no longer mattered. The daily
+grind wore them down. Their food consumption had increased as they
+worked longer and longer at the coal seam, extracting the fuel that kept
+them alive. Like all heat engines, bodies require more fuel to do more
+work. Alex's spreadsheet doom date kept moving up.
+
+Despite their precarious circumstances, they were lucky. For most of
+human history, people have lived two harvests from starvation. The
+modern world thought it had broken this ancient cycle. Nations
+stockpiled grains, rice, and other staples. Billions of chickens, cows,
+and goats roamed well-tended pasture lands. If famine broke out in one
+country, others would usually provide aid. Because 20^th^ and
+21st-century famines were largely self-inflicted *regional*
+catastrophes, people lost sight of how *spare* their food margins were.
+Runaway Earth reminded everyone. Never had harvests failed everywhere.
+Nor had it ever gotten so cold livestock couldn't be grazed anywhere.
+Even ocean fishing failed. As the ice packs expanded, fish stocks
+collapsed. Most species couldn't adapt to changing ocean currents and
+lower water temperatures. With little coming in and a lot going out,
+global food stores soon ran out.
+
+People might have lasted longer with less food, but the cold crushed
+their ability to move and adjust. Temperatures routinely dropped below
+-100 degrees Celsius outside the mine: too cold for even the hardiest of
+Arctic and Antarctic animals and far beyond what poorly equipped people
+could handle. It was still warmer in the tropics, if you consider -60C
+warm, but not enough to help. Without the cold, the landscape would be
+swarming with refugees, but refugees wouldn't make it far without the
+best cold-weather survival gear. For the last year, Alex lived in
+perpetual fear of others finding them and forcing them into the cold.
+Doug shared his concerns but constantly reminded Alex they hadn't seen a
+single goddamn person despite watching hundreds of hours of 24x7 trail
+camera video.
+
+Fewer radio stations than expected observed the one-year runaway
+anniversary. Propaganda FM said nothing. Some surviving national
+short-wave services briefly mentioned it, but nobody devoted significant
+broadcast time to the anniversary except for a few hams. Alex and Doug
+didn't "celebrate" either. After drying themselves and eating a hot
+dinner in the airlock, they squirmed into two *cleanish* (their limited
+hand tub laundry never got anything clean) layers of base layer
+underwear and hurried back to the inner box where they crawled into
+their warm sleeping bags. Getting extra sleep was celebration enough.
+
+The following morning, after his outdoor astrograph observing session
+(Alex focused on Saturn), Doug didn't join him in the airlock for lunch.
+Doug started skipping meals. Their food supplies were dropping. Things
+weren't critical yet; Alex's spreadsheets gave them about twenty more
+months. But eventually, they'd starve like everyone else. Alex suspected
+Doug didn't eat to prolong things. It worried him.
+
+Calling on the walkie-talkie, Alex told Doug, "I'm finishing up here.
+The hot wash water thermos is ready; I'll grab some clean rags after
+stoking the stove. I'll be at the box in a few minutes."
+
+They had given up tamping down their stoves to suppress exhaust plumes.
+Severe cold forced them to pump as much warm air into the mine shaft as
+possible. Doug suggested leaving the back airlock door open with the
+stove burning while they mined coal, but Alex talked him out of it.
+
+"Remember, we're in a coal mine. Open flames aren't a good idea."
+
+They compromised by making a second lightweight *uninsulated* airlock
+back door by cutting the last of their fence planks and wrapping them in
+aluminum foil. Sealing the second foil-covered door with Velcro and
+stapled duct tape; it neatly isolated the stove from the mine shaft.
+When the stove burned full blast, they could feel the heat radiating
+from the door. By tilting some of their small vent fans to blow over the
+aluminum foil, they directed as much warm air as they could deeper into
+the mine.
+
+Doug crawled out of the inner box when Alex reached it. He carried a
+recharged vacuum cleaner battery and looked like a giant Santa Claus in
+his long red underwear. Before getting up, he put on one of the bicycle
+helmets, which hung outside the inner box. Doug had repeatedly hit his
+head in the mine shaft. Maintaining a bent, stooped posture is
+exhausting. Doug could only completely stand up outside the mine. He
+said nothing as he put on the helmet and squeezed around the box to the
+back.
+
+Alex quickly removed his outerwear and hung his parka and ski pants on a
+clothesline they had rigged just below the inner box stove exhaust pipe.
+On the clothesline, their outerwear draped over the Styrofoam-lined
+generator box. Hanging outerwear helped keep the generator batteries
+warm. Recently, they'd been having problems starting the generators, and
+they had to run a jumper cable into the inner box powerpacks to jolt the
+reticent machines. Like everything else, the generators assumed *normal*
+operating temperatures. And nothing is normal.
+
+Out of his outerwear and exposed to the freezing shaft air, Alex
+squeezed around the box carrying the wash water thermos. While Alex
+moved around the box, Doug pulled on his mining parka. All the clothes
+they used to work the seam hung *behind* the box. They *always* changed
+out of their mining garb before squeezing around the box. It helped keep
+coal and rock dust down in the inner and airlock boxes. Alex hurried
+into his mining parka, ski pants, and insulated work boots. Before
+dragging their tools to the seam on a little sled, they put on their cut
+overalls. The overalls covered their cold-weather gear. They had to cut
+the legs and waists to fit over their parkas. Their overalls were their
+dirtiest garments. After working the coal seam, they swept, vacuumed,
+and hung their overalls. And then washed their hands and faces with
+warm, soapy water from the thermos. Keeping clean seemed like a lost
+cause, but they did their best.
+
+At the coal seam, Alex and Doug put on COVID and scuba masks. When
+apocalypse shopping, Doug looked for transparent ski masks but couldn't
+find any. Scuba masks were not tinted and kept coal dust out of their
+eyes in the LED lantern-lit shaft. They protected their heads with
+reworked bike helmets. To fit the helmets over their parka hoods, they
+had to gouge out most of the foam lining.
+
+Making constant adjustments made up a big part of their lives, or as
+Alex often repeated, "As long as you're alive, you have options."
+
+While working the seam, one of them sledgehammered pikes and chisels
+into the face to break out coal or surrounding rock while the other,
+sitting a few meters back, would clear away tailings and "break" coal.
+Coal seldom comes out of the ground, ready to burn. It's often mixed
+with inflammable detritus. How much depends on the quality of the seam.
+In this mine, about a third of the material extracted from the seam
+could not be burned. It had to be painstakingly broken out. In the
+19^th^ century, coal mines often employed young boys, called "breakers,"
+to do this tedious, exhausting job. Alex and Doug did their own
+breaking. They'd dump newly mined chunks of coal on the metal pan they
+found when they first opened the mine and hammer them into smaller
+chunks. In the dim LED lantern light, it wasn't always easy to
+distinguish coal from rock. Picking out the stones was indeed tedious.
+Breaking was the dirtiest of their jobs. Emptying shit pails paled in
+comparison.
+
+This morning, Doug hesitated as he picked up the freezing steel pike
+below the seam. In the shadow-making LED lantern light, the pit they had
+laboriously dug back into the black coal seam looked like the mouth of a
+giant grouper fish opening wide. The jagged, light-colored stone
+surrounding the coal layer even made convincing teeth. To the shaft
+grouper, Doug and Alex played the role of cleaner crustaceans who picked
+parasites from the gaping mouths of fish. Both organisms benefit. The
+crustaceans eat, and the fish shed parasites. The metaphor didn't quite
+work for the mine. The coal kept them going, but what did the mine get?
+Resentment?
+
+As he reached for a mallet to drive the pike into the seam, Doug said,
+"We're not going to last much longer."
+
+Alex almost asked *where this came from.* But he didn't because he knew
+where it came from---the truth. They had always known this only delayed
+the inevitable: pushing it back another day, another week, another
+month.
+
+Before Doug could hammer the pike, Alex said, "From now on, let's cut
+all the awkward pretense. There's nobody left to impress or embarrass.
+You know there is nothing you can say that will stop me from loving you.
+So, say what you want because you're right; we won't last much longer."
+
+"Ok, I miss mom. I ask myself all the time if she's still alive. Do
+you?"
+
+"I doubt she's still alive, and no, I stopped loving your mother years
+ago, long before she left. I don't know who gave up first. Alice went
+cold right after your birth. She was always self-centered and
+uncharitable, nicer to total strangers than her own damn family. She
+harbored grudges and blamed me for everything. Honestly, I don't miss
+her. I never think of her. But I know that if she were here, we'd both
+be more miserable, admit it."
+
+Perhaps not expecting such a candid response, Doug paused before saying,
+"You're right about the miserable bit. I loved mom. I still love Mom,
+but sometimes she was ..."
+
+"A bitch."
+
+"Not exactly. I'd say distant. I can't remember her ever taking an
+interest in anything I did. Normal mothers take their kids to scouts;
+they show up at teacher-parent conferences. Mom did some of this, but
+she couldn't keep it up. She'd always bail when things got boring--- for
+her. It felt like she didn't want me."
+
+"Oh, she wanted you; you're an invitro baby. She endured two or three
+rounds to get pregnant, but you're right. She didn't support others.
+*She couldn't even be indifferent!* If you liked something she didn't,
+she'd resent every goddamn second you spent on it. You were always
+wasting your time. *You should be making money for her!* It pissed me
+off. She never, in twenty goddamn years, came outside and looked through
+telescopes with me, but I was supposed to cater to her hobbies. Remember
+line dancing?"
+
+They both laughed.
+
+"Yeah, she dragged both of us into that."
+
+"I was an awful dance partner; she kept pushing me for missing beats.
+She was furious that I couldn't get it."
+
+"Ellen wasn't like that."
+
+"No, not at all. Ellen was genuinely *kind*; you really lucked out ...
+with her. Sorry."
+
+"Don't be, the entire fucking time I was with her, I was ... just
+*grateful*. I couldn't believe she was with me."
+
+"Well, I liked her, I really liked her, and honestly, it surprised me
+too when she picked you."
+
+"Since we're dropping the BS, she was my first and only girlfriend. I
+was a twenty-seven-year-old virgin until Ellen---a total loser."
+
+"I know young men get more shit than we did; I should have told you to
+ignore the bitches. It's a key male coping strategy."
+
+"Dad, guys have always taken shit from women. It's part of their mating
+rituals. We're just the first generation to grow up with dating apps in
+the greedy paws of self-absorbed feminists. Girls do all the picking,
+and unless you're a six-foot, six-figure, six-pack bro, you'll be
+playing a lot of X-Box: a lot do ---or did."
+
+"Well, you met the six-foot criterion."
+
+They laughed again.
+
+Waving his mallet like a gym weight, Doug added, "After a year of this,
+I've got the six-pack too."
+
+"We need to get busy. Let's keep doing this. Mining is boring."
+
+::: center
+**-- *the queen* --**
+:::
+
+Jupiter's approach had been impressive, but Saturn's exceeded Alex's
+wildest expectations. From the 17th-century days of Christiaan Huygens,
+Saturn has securely reigned as the solar system's beauty queen. Alex
+dismissed people making claims for Earth, *the piddly pale blue dot*, as
+deranged child molesting woke commies with the aesthetic sense of garden
+slugs. Anyone looking at magnificent Voyager and Cassini images of
+Saturn with its rapturous rings could see *it was the maximum babe in a
+solar system of fat tattooed trannies.*
+
+Alex would have spent more time outside the mine watching Saturn rise
+and swell in the east, but with the Sun now reduced to less than a fifth
+of its old size and delivering less than four percent of its old energy,
+the already freezing surface cooled even faster. Earth's heat flow
+resembled filling a big bathtub with a constantly expanding open drain.
+It got so cold simple tasks --- like dumping shit outside --- became
+deadly.
+
+The garage was now so cold, about -80C, they worried about getting ass
+frostbite when taking craps. They rigged a new "bathroom" near the inner
+box. They cut tarps and hung them from shaft shoring to trap heat from
+the inner box's stove exhaust vent. Inside the hanging tarps, they set
+up Doug's toilet box and kept his neatly cut toilet seat inside the
+inner box to keep it warm. It was warmer in the new "bathroom" than in
+the garage. But, sitting on the toilet box remained unpleasant, and it
+became more so with use because they didn't dump the box pail daily. You
+learn all sorts of things when the world ends, like even frozen shit
+stinks.
+
+Their water supply concerned them. Dragging the sled down to the
+catchment pond --- glacier --- became a risky undertaking. They could
+stay outside about half an hour before the -120C weather forced a
+retreat. This wasn't enough time to mine ice, which had solidified to
+rock strength in the intense cold. It was hard to sledgehammer off
+chunks and being so cold, it required more time in their melting pans,
+which needed more coal. They started scooping snow instead of ice. It
+was easier to melt, but being less dense, it produced less water and
+needed more trips outside. To compensate, they reduced their water
+consumption to an absolute minimum. One luxury they dearly missed was
+their infrequent sponge baths. From now on, they only wiped their faces
+and hands, and maybe, if they couldn't stand it anymore, their itchy
+butts. They couldn't win; the cold was stalking them.
+
+To conserve heat, they stopped opening the mine every day. This brought
+new worries, such as the buildup of carbon monoxide. Alex obsessively
+checked the detectors and alarms in the shaft and boxes. On top of all
+these worries, their only relief, listening to the radio, was going
+away. Seventy weeks after runaway, station after station went off the
+air. Satellite propaganda FM stopped without warning. Imagine missing
+mainstream media morons. A few short-wave stations and a handful of hams
+kept broadcasting, but they were hard to find even with the radios'
+automatic band scanning feature.
+
+Frustrated with the radio, they tried reading some of their books. Doug
+looked through his Manga stack several times but wasn't interested. They
+started tearing out Manga pages to help start stove fires. Alex found it
+impossible to concentrate or take the trivial problems of Stephen
+Dedalus or Ishmael seriously. So, your wife is masturbating to other
+men, and you, whiney little pussy that you are, go on a walking tour of
+your hometown only to cast literary allusions like dogs peeing in the
+park. You're no Ulysses you putz. He would have drowned himself before
+enduring such debasements. And call you Ishmael; you've got a mean white
+whale problem. Must be nice. Try living on a fucking planet that's done
+with its Sun. Even Borges' clever circumlocutions didn't land anymore.
+Years ago, Alex enjoyed the *Library of Babel* but could no longer
+muster sympathy for the poor inhabitants of the library. Try turning
+down the thermostat to dry ice cold in the frigging library, then get
+back to me about how tough life is.
+
+Reading was out, but writing, image processing, and computing still
+commanded Alex's attention. Every day, he meticulously updated his diary
+and logbooks and transcribed daily data to a series of spreadsheet
+models. His models tracked the relentless decline of outer and inner
+temperatures, food and water consumption, coolers of coal burned, time
+spent outside, time spent mining, propane levels, and powerpack levels.
+All his calculations converged on a simple conclusion: they could not
+hold out beyond three years. Imminent death makes us choose wisely or
+foolishly or not at all. What would be a wise choice here? Alex told
+himself over and over this was his last observing session, so he
+observed.
+
+In one of their now candid mining chats, Alex asked Doug why he kept
+going. "To spend time with you, Dad. It's why I don't walk out into the
+snow. Mind you, your bean farts are a strong counterargument."
+
+Observing sessions split into night and day. In daylight hours, Alex
+quickly screwed on the astrograph's solar filter and snapped a few
+images of the Sun's disk. The shrinking Sun was an intense dot in the
+sky. Far less light reached the Earth, but the landscape didn't look
+much different to their eyes. Daylight had a subdued solar eclipse
+quality: dimmer but not to the degree expected. Human vision responds to
+changing light levels logarithmically: a tenfold decrease in
+illumination seems about half as bright.
+
+Runaway put an end to seasons. Spinning like a giant top, the Earth
+maintained its orientation in space. It had always done so, but when
+circling the Sun, this changed the view of the stellar background. The
+stellar background no longer changed. The Sun slowly moved to a fixed
+point in the sky. Each day, it would rise to the same altitude, in
+almost precisely the same spot as the previous day. Maybe this would
+change in thousands of years with polar precession, but for now days
+were unchanging. So were nights. The seasonal march of constellations
+ceased. The same stars rose at the same time and reached the same
+altitude night after night. The biggest change, total daylight hours
+remained the same, but the *clock* time of sunrise and sunset kept
+moving forward. At great distances, the Sun would rise and set about six
+hours earlier than it had before. In the first months of runaway,
+daylight hours shifted rapidly; now, they crept forward so slowly they
+stopped adjusting their wake-up time.
+
+Alex's solar disk images still showed sunspots. Quick calculations
+indicated they would die before they could no longer resolve big
+sunspots.
+
+Nights went to the queen. In two months, Earth would make its closest
+approach to Saturn. It would zoom over the northern pole within the
+orbits of some Saturnian moons. Saturn has over a hundred moons. Alex
+didn't have reliable orbits for all of them, so he couldn't say if we'd
+slam into one. It didn't matter. Smashing into a large moon would be an
+act of mercy, but it was unlikely. Douglas Adams said it best, "Space is
+big. You just won't believe how vastly, hugely, mind-bogglingly big it
+is." You could fit millions of Earths within the orbits of Saturn's
+moons. We'll still die, but probably not by moon impact. Saturn was
+already closer than Mars used to be. Mars is a pathetic little thing,
+barely qualifying as an official planet, but Saturn, now we're talking.
+Alex's astrograph images were magnificent and improving.
+
+Every third or fourth day, they opened the mine, braved the intense
+cold, and snapped a few more astrograph images of Saturn. Because of the
+dangerous cold, Doug stayed in the heated airlock, where he could
+quickly help his dad if something came up. Whenever they went outside,
+they kept up a running chat on their walkie-talkies. Any long pause in
+the chatter probably meant trouble.
+
+Alex had to work fast. The little telescope cooled rapidly when he
+pulled it out of the scope box and unwrapped the heated electric blanket
+around it. To keep a little warmer, Alex wrapped the electric blanket
+over his outerwear. He had precisely choreographed his observing
+routine. First, he quickly cleared snow off the patch of ground outside
+the mine. Clearing snow got easier; precipitation had almost stopped at
+mid-latitudes as the air dried. Any snow on Alex's observing ground
+drifted in, but drifting also decreased as the solar energy driving
+winds decreased. Some evenings, only a few inches of light ice crystal
+snow needed pushing aside.
+
+Next, he located and swept out tripod holes chiseled in the frozen
+ground. It sped things up to know precisely where to place the
+telescope. Extending the tripod legs, he set them in the guide holes. He
+didn't bother with polar alignment, taking long-tracked guided
+exposures, or CCD frame stacking. Advanced imaging techniques were
+unnecessary for Saturn, a bright object he could see on the webcams. He
+only needed to center it and start shooting sub-second frames. Basic
+no-brainer imaging sufficed; he would have frozen solid shooting
+night-long guided exposures.
+
+Most nights, Alex finished imaging in twenty minutes. Fleeing into the
+mine, he lowered and sealed the outer door, rewrapped the astrograph in
+its electric blanket, and waited about twenty minutes for the scope to
+warm up enough to remove the CCD memory card. After getting the card, he
+put the scope back in its Styrofoam-lined storage box and scurried into
+the airlock. Later, at the end of the day, when they were back in the
+inner box and snuggled up in their sleeping bags, Alex copied the images
+from the card to his laptop.
+
+More and more details became visible. In a few more days, Saturn would
+look to the naked eye like it used to in his Dobsonian telescope, a
+pale-yellow dot encircled by rings and buzzed by tiny moons. Astrograph
+images resolved many of the ring gaps and numerous moons. Earth would
+come within three million kilometers of Saturn at its closest approach,
+closer than Iapetus**.** Three million kilometers is almost eight times
+the old Earth-Moon distance*,* but Saturn is over thirty times the
+diameter of the Moon. Even at three million kilometers, the planet's
+disk would be four times the size of the old Moon and the rings eight
+times.
+
+In the final week of approach, Alex and Doug went outside every night.
+They set up the astrograph and shot images of the expanding ringed
+giant. After imaging, they peeled back their ski masks and scanned the
+skies around Saturn with binoculars. From Earth's angle of approach,
+Saturn's north pole hexagonal storm was visible in binoculars. They
+could only take quick peeks through their binoculars. The cold burned
+the skin of their exposed faces, and they had to avoid pressing the
+binocular eyepieces to their eyes. Flesh would freeze on the eyepieces.
+
+On fly-by day, they eagerly opened the mine. Saturn hung above the
+eastern horizon, and its rings spanned their mittened hands. Earth's
+viewpoint above Saturn yielded a partial crescent and long disk shadows
+on the rings. Saturn's rings didn't fit in their binoculars; the
+five-degree field of view wasn't wide enough. Before taking astrograph
+images, they looked for the polar hexagon storm; it stood out as a
+darker shade of pale yellow at the planet's pole. In binoculars, they
+saw rich swirling cloud details, and Alex's best astrograph images
+rivaled those of Voyager and Cassini.
+
+Passing the queen felt sweet and sad. There would be no more planet
+fly-bys, no more spectacles. Earth would plunge deeper and deeper into
+cold, dark space.
