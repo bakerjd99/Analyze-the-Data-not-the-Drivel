@@ -1,4 +1,6 @@
-## [Gonggone Gone --- Parts 9 & 10](http://analyzethedatanotthedrivel.org/2025/03/16/gonggone-gone-parts-9-10/) {#gonggone-gone-parts-9-10 .unnumbered}
+
+[Gonggone Gone --- Parts 9 & 10](http://analyzethedatanotthedrivel.org/2025/03/16/gonggone-gone-parts-9-10/)
+------------------------------------------------------------------------------------------------------------
 
 *Posted: 16 Mar 2025 19:45:03*
 

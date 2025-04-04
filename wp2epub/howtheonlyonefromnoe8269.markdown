@@ -1,0 +1,70 @@
+
+[How The Only One from No Egg Made the World](http://analyzethedatanotthedrivel.org/2025/04/03/how-the-only-one-from-no-egg-made-the-world/)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+*Posted: 04 Apr 2025 00:50:59*
+
+*A pâ creation myth.*
+
+A long, long time ago, The Only One from No Egg, who has always been and
+will always be, was lonely. The One had always been alone. He had no one
+to talk to, no one to play with, no one to share with.
+
+He said, "I will make a companion." And so he did.
+
+The One willed a giant gleaming egg into existence. Its brilliance
+filled The One with joy.
+
+"I will hatch this egg." And so he did.
+
+From the giant egg, a gleaming companion emerged. The One said, "I will
+call my companion Gleaming She."
+
+At first, Gleaming She brightened The One. He was no longer lonely. The
+One and Gleaming She talked, played, and shared. The One was never
+happier. Gleaming She was good company, but after many, many long ages,
+The One found Gleaming She never stopped talking. When The One wanted
+quiet, Gleaming She was there---yammering.
+
+The One asked himself, "Did I make a mistake? Is Gleaming She a bad
+egg?"
+
+The One endured Gleaming She for many more ages, but The One's vast
+patience is not without bound.
+
+Worn down by her nagging, The One said, "I will break Gleaming She and
+scatter her about." And so he did.
+
+The One shattered Gleaming She into millions of tiny twinkling shards
+and cast them over the sky. And thus, the stars were made. The sparkling
+shards still yammered, but their little far-away voices were pleasant: a
+soothing hum. The One could hear himself think again.
+
+For a long time, The Only One from No Egg was content, but once again,
+he got lonely.
+
+"I will make some more companions."
+
+Recalling his Gleaming She mistake, this time, he willed three smaller
+eggs into existence.
+
+He thought, "If there are three, they can talk with each other and give
+me peace."
+
+One of the three eggs was much larger and brighter than the others. The
+One put the Bright Egg in the center of the nest. Then he put the
+largest of the other two, Big Egg, beside Bright Egg. Finally, he put
+the smallest egg, Little Egg, next to Big Egg. His nest delighted The
+One. He was about to hatch his three eggs when he had a better idea.
+
+"I will not hatch these eggs and leave them be." Thus, the sun, moon,
+and land were made.
+
+"On the smallest of the eggs, I will put two tiny eggs and hatch them."
+And so he did.
+
+"Now I have tiny people to keep me company when it pleases me, but they
+are so small that their little faint voices will not disturb my peace."
+
+And thus, the first pâ eggs, the ancestors of us all, were laid in our
+world.
