@@ -1,0 +1,267 @@
+
+
+[Franks](http://analyzethedatanotthedrivel.org/2025/11/28/franks/)
+------------------------------------------------------------------
+
+*Posted: 28 Nov 2025 20:06:11*
+
+Our calculations indicate that the phenomenon began on September 13^th^
+at precisely 2:43:05.81458 mountain time. Frank, that is what he called
+himself, jumped awake to find another fully grown man in his bed.
+Perhaps some background might help. Frank was recently divorced. His
+wife had stormed out of their common domicile some months ago and was in
+the process of absconding with half of Frank's possessions. Let's not
+get distracted with the peculiar and frankly insane dissolution customs
+of Frank's people. It made no sense to them, and we will never
+understand. Finding another man in your bed, especially after falling
+asleep alone, would alarm anyone, but Frank faced something far more
+disturbing.
+
+The other man looked exactly like Frank. The resemblance was not
+superficial; it was atomic. The other man, the other Frank, was
+precisely like the first. Both Franks had the same skin, hair, and eye
+color. Both had what Frank considered a unique little "V" scar on their
+left index fingers. They weighed the same, smelled the same, sounded the
+same, and moved the same. Both Franks were even wearing their favorite
+"It's Good to Crush Your Enemies" T-shirt. Frank never wore underwear to
+bed. When the Franks jumped out of bed, their modest dangling penises
+were also the same. Both Franks yelled, "Who are you?" and both
+immediately recoiled when their own voices, sounding like an audio
+recording, shouted back.
+
+If the other man had been anyone but another Frank, the situation might
+have escalated, but the Franks were identical. Their endocrine systems
+reacted alike. At first, their hearts pounded with alarm, but the
+absolute impossibility of what they saw calmed both men. Frank, we're
+now speaking of the entire class, was a curious borderline autistic
+analytic individual. Before the phenomenon, Frank made his way in the
+world as a programmer. An occupation that rewards obsessive attention to
+detail and precise causal thinking. Frank was an excellent programmer,
+but he was, to use the vernacular, an asshole. When he wasn't thinking
+about programming, he was thinking about himself. In retrospect, Frank's
+divorce was inevitable. The initial configuration was incorrect, and
+serious refactoring was infeasible. There is logic in all things. Both
+Franks, identical to the synapse, immediately had the same thought as
+they gazed at each other. Both immediately asked, "How?"
+
+The Franks spent the remainder of that first long night running
+impromptu experiments. They carefully examined each other and checked
+everything they could think of. They weighed each other; they matched to
+the scale's precision. They broke out their 10x jewelers' loupe and
+confirmed that they both had the same corneal scar. They asked each
+other invasive personal questions about things they had kept hidden from
+everyone. Before the phenomenon, Frank concealed a vast private inner
+life, but both Franks were privy to it all. There could be no secrets
+between them. No suppressed shame or disgusting deceit escaped
+revelation. They knew each other better than any two humans ever had. It
+was alarming and fascinating. Would you like a copy of yourself? Both
+Franks confessed they did. The Franks did not sleep for the rest of the
+night. As dawn approached, they wanted to go outside and watch Venus in
+the morning sky, but both Franks, thinking alike, immediately worried
+about what the neighbors would think if they saw two Franks in the yard.
+They agreed to take turns in the greater world. As the sun rose, their
+analytic minds considered how to take advantage of their doubling.
+
+Our records of that first day are incomplete. We know the Franks left
+the house at different times. One went to work while the other went to
+the bank to withdraw as much cash as possible. They needed money to test
+a conjecture about their "It's Good to Crush Your Enemies" T-shirts.
+When *work* Frank returned home, *home* Frank was busy making a plain
+dinner. They ate together and then spent that first evening streaming
+their favorite shows. They didn't talk to each other about how bizarre
+it was to ignore their doubling and watch TV nonsense. They both knew
+exactly what the other thought; words were redundant. Before going to
+bed, they showered together. The Franks, marginally versed in the
+classics, knew this was beyond Narcissus looking at a reflection in a
+still pond. This was soaping and caressing a solid, perfect, compatible
+copy of yourself. Identical erections presented, and the Franks, so
+versed in each other that they were beyond shame, explored
+possibilities. As they both crawled into the King-size bed formerly
+shared with Frank's wife, they took care to tape stacks of dollar bills
+to their chests and abdomens. During their day together, they wondered
+if more doublings might occur and how their "It's Good to Crush Your
+Enemies" T-shirts were copied. Could other things be copied?
+
+There are no records of the Franks, or of anyone else or anything else
+ever witnessing the phenomenon, but again, at 2:43:05.81458 mountain
+time, the Franks were jolted awake. This time, to no Frank's surprise,
+four Franks were in the bedroom. Each Frank wore a perfect copy of the
+"It's Good to Crush Your Enemies" T-shirt. Each Frank immediately pulled
+off his T-shirt. The four nude Franks stared at each other; they all saw
+taped dollar bills on their chests and abdomens. Pulling the taped bills
+off their bodies, they checked the serial numbers. The bills were exact
+copies. The Franks had doubled themselves and their dollars. Their
+conjecture had been sustained. Again, words were redundant. All Franks
+were alike. They all remembered staying home and going to work the day
+before. Their memories were exact. Nothing was missing.
+
+The Franks had no explanation for the phenomenon. But before the
+phenomenon, there was much in Frank's ken for which he had no answer.
+What exactly is driving distant galaxies away? Why is time irreversible?
+Will the Collatz conjecture ever be proven? Can cosmic entropy be
+reversed? Do we have a greater purpose? Unanswerable questions oppressed
+Frank. Yet, unlike religious cowards and blinkered ideologues, he
+managed to maintain enough intellectual honesty to admit he didn't know
+squat and was probably never going to know squat. Frank didn't satiate
+his ignorance with pleasant fantasies; he preferred the stark void.
+Living with acknowledged ignorance requires courage and humility. Oddly,
+this philosophic plasticity made the Franks surprisingly accepting of
+their unique situation. You might not be able to explain what's going
+on, but you can always exploit it. All four Franks thought the same
+thing as they passed the copied bills around. At least money wouldn't be
+a problem.
+
+Seconds later, the Franks considered what might happen if the doublings
+continued. They looked around their bedroom; they had to act. On the
+second day, the four Franks split up. One Frank went to the bank again,
+this time to withdraw six one-ounce gold coins from their safety deposit
+box. Another Frank went to a car dealer and rented a car. They only had
+one driver's license. None had thought about taping their license or
+passport to their bodies the night before. A third Frank booked a flight
+to a distant city that the Franks had long wanted to visit. As the
+second day came to an end, all the Franks gathered at home. Once more,
+they showered together, and now, freed from any inhibitions (how could
+they justify inhibitions anymore?), they enjoyed. Before falling asleep,
+they taped dollar bills, gold coins, and their only passport and
+driver's license to their chests and abdomens.
+
+Again, there were no witnesses, but reliably at 2:43:05.81458 mountain
+time, eight Franks jerked awake in their bedroom. The eight
+T-shirt-adorned men filled the tiny room. Immediately, the Franks
+stripped off their T-shirts and inspected the bills, coins, and
+documents taped to their bodies. Everything was perfectly duplicated.
+Even microscopic dents and scratches on the gold coins were identical.
+The Franks looked at each other and smiled. They had anticipated this
+doubling. It precipitated their contingency plan. Sharing every memory
+and feeling, the Franks were perfectly briefed on what had to be done;
+they immediately dispersed. Four Franks piled into the rented car. One
+Frank drove while the others ducked under the seats to hide. They
+dropped one Frank at the airport and another at the bus terminal. Then
+the two Franks in the car headed across country. After a few hours on
+the road, the two car Franks split up. One was left in a motel while the
+other continued driving. As for the four home Franks, two booked flights
+out of the country. The home Franks had only two passports, so only two
+of the four could leave. Using their personal car, one Frank drove the
+other two to the airport. They took two trips to avoid duplicate Franks
+being at the airport at the same time. They all worried their duplicate
+passports would get flagged at security, but they weren't. The two
+passport-carrying Franks safely managed to leave the country.
+
+The two homebound Franks agreed (Franks never argued) that one Frank
+should stay at home to field calls and maintain the façade of normality
+for as long as possible. They tossed a coin to decide which Frank would
+stay. Once again, they showered together. By now, they were completely
+habituated to their unprecedented situation and did not hold back.
+Social rules apply to singletons, not multitudes. Before sleeping, they
+taped their gold coins, dollar bills, and a copy of their driver's
+license to their chest.
+
+Again, the phenomenon passed unobserved, but at precisely 2:43:05.81458
+mountain time, sixteen Franks appeared in the world. Immediately, one of
+their questions was answered. Did the phenomenon require a unique
+location? It did not. A duplicate Frank appeared beside every dispersed
+Frank. The Franks in hotels and motels awoke to find *their* duplicate
+Frank wearing their favorite "It's Good to Crush Your Enemies" T-shirt
+beside them. Each Frank remembered, in the strange way we all walk
+through our memories, everything the other Franks had experienced the
+day before. All Franks recalled passing through airports, clearing
+customs, hauling an overnight bag into motels, changing currency,
+gassing up the rented car, enjoying sunsets, cinching seatbelts,
+enjoying a beer with pretzels, and indulging in homoerotic peccadillos.
+Nothing was hidden; it was available to all. The Franks wondered how
+they might use this perfect information-sharing. Surely such a powerful
+gift could be leveraged. As they mused, they worried about what would
+happen when they could no longer conceal themselves.
+
+Our records of the following week of doublings are limited, but the
+Franks managed to hide themselves until 4096 Franks walked the Earth.
+They dreaded detection day, and they weren't surprised that it came by
+accident. Though they took care to limit their use of duplicate
+passports, bills, and coins as they rapidly dispersed to every country
+on Earth, eventually, a customs check in Accra, Ghana, exposed them.
+Within hours of triggering alarms, seven Franks were in custody in
+various countries. The authorities were completely confounded. At first,
+nobody believed the Franks were in some sense the same person, but as
+the interrogations became more detailed and harsher, culminating in
+torture. The inexplicable truth forced itself upon the ruling echelons.
+Global elites, facing a genuine, uncontrolled element, did what they
+always did. They suppressed all knowledge of the Franks and initiated a
+worldwide effort to capture and contain them.
+
+The Franks, intimate with powers of two, had anticipated this reaction
+on the second day. All programmers know and revere powers of two.
+Exponentiation delights analytic minds. The Franks, to once again use
+the vernacular, *ran the numbers*. What would uncontrolled duplication
+entail? The ruling echelons are venal, amoral, and cruel, but they're
+not stupid. They, too, immediately understood the peril, and, like any
+cornered beast, the ruling echelons experimented. Two incarcerated
+Franks were executed. One was mercifully shot, while the other was
+beaten to death. The bodies of the dead Franks were burned, but again,
+at 2:43:05.81458 mountain time, two living Franks, both wearing an "It's
+Good to Crush Your Enemies" T-shirt, appeared where each solitary Frank
+had died. Every captured Frank was under constant video and personal
+surveillance, but again, nobody and nothing witnessed the phenomenon.
+The videos all glitched; the witnesses all looked away or fell asleep.
+It seemed the universe was conspiring to conceal the phenomenon. Now,
+8192 Franks briefly walked the Earth. The ruling elites were terrified
+and amplified their cruelty.
+
+For the next week of doublings, the authorities managed to hide the
+Franks from the public, but the Franks were too widely scattered and
+growing too rapidly to be contained. Within hours of public exposure,
+Frank's (all Franks') faces became the most famous visage on Earth.
+People reacted in every imaginable way. Some, the more numerically
+inclined, immediately understood the danger. Others, venting mystical
+and religious fervor, proclaimed the Franks to be angels (or demons)
+come to Earth. Franks were harbingers; the end times were nigh. Maybe
+not the way everyone had expected, but prophetic revelations can be
+twisted to any reality. While many Franks were feted, others were
+tormented. Cruel experiments were conducted everywhere. Four Franks were
+welded into a small steel tank. They died of painful suffocation, then
+at 2:43:05.81458 mountain time, the *entanked* Franks doubled, blasting
+the tank apart and scattering metal fragments and compressed and
+brutalized Frank body parts. But the following day, sixteen living
+Franks appeared beside the shattered tank, all wearing that hideous
+"It's Good to Crush Your Enemies" T-shirt.
+
+The monstrous treatment of the doubling Franks during the next month
+exceeded all prior genocides and brutalities. History's abominations
+seem quaint, amusing, even innocent by comparison. Franks were shot,
+hanged, gassed, electrocuted, beheaded, vivisected, irradiated,
+incinerated, impaled, crucified, and dissolved in acid. Every possible
+attempt was made to curtail their growth, but nothing worked. At
+precisely 2:43:05.81458 mountain time, twice as many living Franks, all
+naked except for the "It's Good to Crush Your Enemies" T-shirt,
+reappeared. And no matter how many cameras, witnesses, or experimental
+devices were mustered to observe the doublings, the phenomenon was never
+recorded or witnessed. How? How? How?
+
+When the number of Franks briefly reached 2,147,483,648, humankind
+surrendered. There were only 10 billion people on Earth: one-fifth were
+Franks. The next day, 4,294,967,296 Franks walked the Earth, and on the
+following day, 8,589,934,592 Franks made up most of the human
+population. With each passing day, the Franks overwhelmed the residual,
+by now insignificant, human population. During this period of Frank
+dominance, the atrocities suffered by the Franks were avenged. The
+Franks, more voracious and numerous than locusts, butchered and consumed
+everything: people, animals, plants, yet the doublings continued. In two
+months, Franks covered the entire Earth. They had run out of land to
+stand on. With subsequent doublings, quadrillions of Franks were shoved
+into the seas. They drowned in untold quadrillions only to be
+reconstituted at 2:43:05.81458 mountain time to drown all over again.
+Every Frank felt the pain and fear of his duplicates. An entire Earth of
+Franks knew what was coming. They hoped their agonies would soon end.
+
+We are not entirely sure if the agony of the Franks ended, but the
+doublings kept going. The increasing mass of the Franks quickly
+overwhelmed the Earth, and within a few years, the Earth collapsed into
+a stellar-sized black hole. We thought, like many others, the doublings
+would cease at the black hole stage, but we were wrong. Our observations
+show that the mass of the *Frank Hole* doubles roughly every 24 Earth
+hours at that abominable and arbitrary Earth time of 2:43:05.81458
+mountain time. If the doublings continue, the event horizon of the
+*Frank Hole*, which, need I remind you, is a form of space and therefore
+not limited by the speed of light, will soon expand so rapidly that it
+will devour the observable universe. Gentle sentients, it seems that
+Frank's T-shirt motto, "It's Good to Crush Your Enemies," applies to us
+all.
