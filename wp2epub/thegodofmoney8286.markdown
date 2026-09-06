@@ -1,4 +1,6 @@
-## [The God of Money](http://analyzethedatanotthedrivel.org/2026/07/31/the-god-of-money/) {#the-god-of-money .unnumbered}
+
+[The God of Money](http://analyzethedatanotthedrivel.org/2026/07/31/the-god-of-money/)
+-------------------------------------------------------------------------------------
 
 *Posted: 31 Jul 2026 19:05:01*
 
